@@ -1,0 +1,80 @@
+[
+  {
+    "balance_amount": 0.441327,
+    "created_at": "2025-01-05T00:00:00Z",
+    "currency_code": "DOGE",
+    "currency_name": "Dogecoin",
+    "id": "6a618156-a0f7-9bbe-490c-ef78666685ed",
+    "name": "DOGE Wallet",
+    "native_balance_amount": 0.07,
+    "native_currency": "USD",
+    "primary": "true",
+    "type": "wallet",
+    "updated_at": "2025-12-26T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.200183,
+    "created_at": "2025-03-06T00:00:00Z",
+    "currency_code": "TRX",
+    "currency_name": "TRON",
+    "id": "6d8ec764-c9a0-e18d-4dfa-48e36b74ad4d",
+    "name": "TRX Wallet",
+    "native_balance_amount": 0.03,
+    "native_currency": "USD",
+    "primary": "false",
+    "type": "wallet",
+    "updated_at": "2025-12-25T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.249644,
+    "created_at": "2025-05-05T00:00:00Z",
+    "currency_code": "DOT",
+    "currency_name": "Polkadot",
+    "id": "36841a5e-4bfc-b390-4d76-35386e0bffc7",
+    "name": "DOT Wallet",
+    "native_balance_amount": 1.55,
+    "native_currency": "USD",
+    "primary": "false",
+    "type": "wallet",
+    "updated_at": "2025-12-24T00:00:00Z"
+  },
+  {
+    "balance_amount": 1.349887,
+    "created_at": "2025-07-04T00:00:00Z",
+    "currency_code": "MATIC",
+    "currency_name": "Polygon",
+    "id": "d16b949e-b86f-4ca7-4d4d-80069b95132e",
+    "name": "MATIC Wallet",
+    "native_balance_amount": 0.96,
+    "native_currency": "USD",
+    "primary": "false",
+    "type": "wallet",
+    "updated_at": "2025-12-23T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.790275,
+    "created_at": "2025-09-02T00:00:00Z",
+    "currency_code": "LINK",
+    "currency_name": "Chainlink",
+    "id": "ad34e7b1-68ae-588d-4c43-bf078b7b5742",
+    "name": "LINK Wallet",
+    "native_balance_amount": 12.17,
+    "native_currency": "USD",
+    "primary": "false",
+    "type": "wallet",
+    "updated_at": "2025-12-22T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.5054,
+    "created_at": "2025-11-01T00:00:00Z",
+    "currency_code": "TON",
+    "currency_name": "Toncoin",
+    "id": "f420d2e0-16ea-d0a1-4236-a3bf3f72bd5b",
+    "name": "TON Wallet",
+    "native_balance_amount": 3.23,
+    "native_currency": "USD",
+    "primary": "false",
+    "type": "wallet",
+    "updated_at": "2025-12-21T00:00:00Z"
+  }
+]

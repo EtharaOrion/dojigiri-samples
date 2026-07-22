@@ -1,0 +1,11 @@
+Id,DisplayName,PrimaryEmailAddr,Notes,Active,Balance,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Vendor1099
+v-adobe,Adobe Creative Cloud,"{""Address"": ""billing@adobe.com""}",$54.99/mo — All Apps subscription,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",345 Park Ave,San Jose,CA,95110,False
+v-figma,Figma,"{""Address"": ""billing@figma.com""}",Professional plan,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",116 New Montgomery St,San Francisco,CA,94105,False
+v-squarespace,Squarespace,"{""Address"": ""billing@squarespace.com""}",taylorvisualstudio.com hosting + domain,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",225 Varick St,New York,NY,10014,False
+v-google-ws,Google Workspace,"{""Address"": ""workspace-support@google.com""}",Business Starter plan,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",1600 Amphitheatre Pkwy,Mountain View,CA,94043,False
+v-quickbooks,Intuit QuickBooks,"{""Address"": ""billing@intuit.com""}",Simple Start plan,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",560 S Grand Ave,Los Angeles,CA,90014,False
+v-ally,Ally Bank,"{""Address"": ""customercare@ally.com""}",Business checking + high-yield savings,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",575 S Grand Ave,Los Angeles,CA,90015,False
+v-fidelity,Fidelity Investments,"{""Address"": ""service@fidelity.com""}",Roth IRA,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",590 S Grand Ave,Los Angeles,CA,90016,False
+v-lemonade,Lemonade Insurance,"{""Address"": ""help@lemonade.com""}",Renter's insurance,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",605 S Grand Ave,Los Angeles,CA,90017,False
+v-coveredca,Covered California,"{""Address"": ""support@coveredca.com""}",ACA silver plan,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",620 S Grand Ave,Los Angeles,CA,90018,False
+v-bh,B&H Photo Video,"{""Address"": ""help@bhphotovideo.com""}",Design supplies + hardware,True,0.0,"{""FreeFormNumber"": ""+18002670118""}",635 S Grand Ave,Los Angeles,CA,90019,False

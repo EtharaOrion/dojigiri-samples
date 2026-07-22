@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<householdInventory owner="Carlos Moore" residence="4821 Harpeth Hills Drive, Nashville, TN 37221" lastReviewed="2026-02-15">
+  <summary>
+    <note>Personal record of devices, vehicles, and home services kept for insurance and warranty reference. Reviewed every February with the annual policy renewal.</note>
+    <preparedBy>Carlos Moore</preparedBy>
+  </summary>
+  <devices>
+    <device category="computer" id="DV-01">
+      <name>Personal laptop, 14 inch</name>
+      <use>Personal email, church documents, family coordination, evening work from the home office</use>
+      <year>2023</year>
+      <serial>C02XK7MOORE23</serial>
+      <location>Home office, fourth bedroom</location>
+    </device>
+    <device category="phone" id="DV-02">
+      <name>Personal smartphone</name>
+      <use>Calls, texts, reading, reminders, family group chat</use>
+      <year>2024</year>
+      <serial>F2LX9023CMH</serial>
+      <plan>Family phone plan, shared with Maria</plan>
+    </device>
+    <device category="tablet" id="DV-03">
+      <name>Tablet, 11 inch</name>
+      <use>Reading, yoga follow-along videos, recipes on the kitchen counter</use>
+      <year>2023</year>
+      <serial>DMPX44CMH07</serial>
+    </device>
+    <device category="health" id="DV-04">
+      <name>Connected blood pressure monitor</name>
+      <use>Home blood pressure readings logged weekly, goal under 130 over 80</use>
+      <serial>BPM-77410-CM</serial>
+      <linkedTo>Primary care, Dr. Sharon Pryce, Riverbend Internal Medicine</linkedTo>
+    </device>
+    <device category="security" id="DV-05">
+      <name>Video doorbell, primary residence</name>
+      <use>Front door alerts at the Bellevue house</use>
+      <serial>RNG-4821-BLV</serial>
+    </device>
+    <device category="security" id="DV-06">
+      <name>Video doorbell, secondary location</name>
+      <use>Front door alerts at Dorothy Calhoun's bungalow, 812 Meridian Street</use>
+      <serial>RNG-0812-MER</serial>
+      <note>Alerts shared so the family knows she is safe</note>
+    </device>
+  </devices>
+  <vehicles>
+    <vehicle id="VH-01">
+      <description>2024 Toyota Highlander XLE, Silver Metallic</description>
+      <vin>5TDHZRBH2PS123456</vin>
+      <plate>847-CMH</plate>
+      <primaryDriver>Carlos Moore</primaryDriver>
+      <financeAccount>SAF-7734</financeAccount>
+    </vehicle>
+    <vehicle id="VH-02">
+      <description>Honda Accord, paid off</description>
+      <plate>312-MXM</plate>
+      <primaryDriver>Maria Moore</primaryDriver>
+      <financeAccount>None, owned outright</financeAccount>
+    </vehicle>
+  </vehicles>
+  <homeServices>
+    <service id="SV-01" type="streaming">
+      <name>Television and movie streaming</name>
+      <billing>monthly</billing>
+      <note>Drama series and weekend viewing, primary household entertainment service</note>
+    </service>
+    <service id="SV-02" type="fitness">
+      <name>Connected fitness app subscription</name>
+      <billing>monthly</billing>
+      <note>Used primarily by Maria</note>
+    </service>
+    <service id="SV-03" type="utilities">
+      <name>Electric, gas, and water</name>
+      <billing>monthly</billing>
+      <average>245.00</average>
+      <currency>USD</currency>
+    </service>
+    <service id="SV-04" type="pestControl">
+      <name>Quarterly pest control contract</name>
+      <billing>quarterly</billing>
+      <average>89.00</average>
+      <currency>USD</currency>
+      <note>Same provider used at the Bellevue house and Dorothy's bungalow</note>
+    </service>
+  </homeServices>
+  <emergency>
+    <iceContact>
+      <name>Maria Moore</name>
+      <relationship>Wife</relationship>
+      <phone>(615) 555-0142</phone>
+      <authority>Medical proxy and financial power of attorney</authority>
+    </iceContact>
+    <preferredHospital>Vanderbilt University Medical Center</preferredHospital>
+  </emergency>
+</householdInventory>

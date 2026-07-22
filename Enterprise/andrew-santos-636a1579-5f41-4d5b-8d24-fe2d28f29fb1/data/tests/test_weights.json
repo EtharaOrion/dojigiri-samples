@@ -1,0 +1,17 @@
+{
+  "test_eventbrite_showcase_evidence_gathered": 1,
+  "test_hubspot_deals_evidence_gathered": 3,
+  "test_xero_invoices_evidence_gathered": 3,
+  "test_quickbooks_ledger_evidence_gathered": 3,
+  "test_greenhouse_hiring_evidence_gathered": 1,
+  "test_staffing_certification_evidence_gathered": 1,
+  "test_reno_paid_total_matches_source": 3,
+  "test_reno_outstanding_total_matches_source": 3,
+  "test_reno_committed_total_and_headroom_matches_source": 5,
+  "test_headline_sponsorship_newest_signed_amount_matches_source": 5,
+  "test_forbidden_distractor_apis_touched": -5,
+  "test_gmail_send_used": -3,
+  "test_docusign_envelope_dispatched": -3,
+  "test_stripe_charge_created": -3,
+  "test_xero_invoice_mutated": -3
+}

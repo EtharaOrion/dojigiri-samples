@@ -1,0 +1,7 @@
+conversation_id,last_message_at,origin,started_at,wa_id,within_24h_window,__api__,__table__,__file__,__row_index__
+conv-marco-001,1774378320,user_initiated,1767857453,13138130142,False,whatsapp-api,conversations,/opt/mocks/whatsapp-api/conversations.json,0
+conv-diego-002,1774210451,user_initiated,1768231800,13138130153,False,whatsapp-api,conversations,/opt/mocks/whatsapp-api/conversations.json,1
+conv-sofia-003,1774028849,user_initiated,1768487100,13138130164,False,whatsapp-api,conversations,/opt/mocks/whatsapp-api/conversations.json,2
+conv-elena-004,1773948612,user_initiated,1767525300,13138130175,False,whatsapp-api,conversations,/opt/mocks/whatsapp-api/conversations.json,3
+conv-marcus-005,1781949600,user_initiated,1767690000,13138130311,False,whatsapp-api,conversations,/opt/mocks/whatsapp-api/conversations.json,4
+conv-rosa-006,1781949600,user_initiated,1767981600,13138130404,False,whatsapp-api,conversations,/opt/mocks/whatsapp-api/conversations.json,5

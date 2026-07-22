@@ -1,0 +1,193 @@
+assigned_to,category,description,impact,number,opened_at,opened_by,priority,short_description,state,sys_id,updated_at,urgency,__api__,__table__,__file__,__row_index__
+Jake Callahan,software,"Hi team,
+
+Deborah here. Wanted to flag monday inventory check — flag restocking needs to jake so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Deborah",1,INC0001001,2025-12-25T15:03:17+00:00,Deborah Greenfield-Myer,1,Monday inventory check — flag restocking needs to Jake — follow-up,1,i05d1218c48a8565b034a9a167a4fe6,2025-12-13T04:55:55+00:00,1,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,0
+Lauren Pratt,hardware,"Hi team,
+
+Richard here. Wanted to flag cellar work: transfers, dry-hopping, tank cleaning so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Richard",2,INC0001002,2025-11-14T09:14:43+00:00,Richard Myer,2,"Cellar work: transfers, dry-hopping, tank cleaning — follow-up",2,i89caf5d4bc15faaa885ae7eaa80e29,2025-12-11T07:11:29+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,1
+Ruth Greenfield,network,"Hi team,
+
+Jake here. Wanted to flag coalition admin, email, and water testing data entry so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Jake",3,INC0001003,2025-11-16T06:45:11+00:00,Jake Callahan,3,"Coalition admin, email, and water testing data entry — follow-up",2,i5f22cf8fe4ca69ae773e4c5034ed49,2025-12-04T07:49:53+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,2
+Howard Greenfield,inquiry,"Hi team,
+
+Lauren here. Wanted to flag brewery p&l and personal budget review (1st and 15th of each month) so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Lauren",2,INC0001004,2025-12-15T18:23:36+00:00,Lauren Pratt,4,Brewery P&L and personal budget review (1st and 15th of each month) — follow-up,3,ib7b6df0d75df0e22dfc55b9cc4b760,2025-12-19T09:46:02+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,3
+Carol Myer,software,"Hi team,
+
+Ruth here. Wanted to flag gmail-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Ruth",3,INC0001005,2025-12-22T22:06:25+00:00,Ruth Greenfield,3,gmail-api — follow-up,6,i90a18a79cfe98d21f367e0f159008e,2025-12-08T00:54:30+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,4
+David Cortez,hardware,"Hi team,
+
+Howard here. Wanted to flag google-calendar-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Howard",2,INC0001006,2025-11-27T22:29:14+00:00,Howard Greenfield,2,google-calendar-api — follow-up,2,i707edb5ffb06b4f2dc6367895e68e2,2025-12-22T23:59:18+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,5
+Megan Hale,network,"Hi team,
+
+Carol here. Wanted to flag slack-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Carol",3,INC0001007,2025-12-02T03:54:52+00:00,Carol Myer,3,slack-api — follow-up,7,ifacd4207c1265b198802c01e462947,2025-12-22T05:41:30+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,6
+Tom Beckley,inquiry,"Hi team,
+
+David here. Wanted to flag whatsapp-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+David",3,INC0001008,2025-11-30T18:19:57+00:00,David Cortez,4,whatsapp-api — follow-up,6,i227785452d8b1debcf1f8c90b4e7f8,2025-12-12T06:00:54+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,7
+Nick Farrell,software,"Hi team,
+
+Megan here. Wanted to flag monday inventory check — flag restocking needs to jake so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Megan",2,INC0001009,2025-12-10T18:25:02+00:00,Megan Hale,2,Monday inventory check — flag restocking needs to Jake — follow-up,2,ib772aaaff4730a9b4e9e70fc318316,2025-12-18T03:09:45+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,8
+Rachel Foster,hardware,"Hi team,
+
+Tom here. Wanted to flag cellar work: transfers, dry-hopping, tank cleaning so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Tom",3,INC0001010,2025-12-23T21:25:45+00:00,Tom Beckley,3,"Cellar work: transfers, dry-hopping, tank cleaning — follow-up",3,i0ca644db7f89b4acd448e8d6ece328,2025-12-17T02:21:06+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,9
+Karen Albright,network,"Hi team,
+
+Nick here. Wanted to flag coalition admin, email, and water testing data entry so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Nick",1,INC0001011,2025-12-09T05:08:21+00:00,Nick Farrell,1,"Coalition admin, email, and water testing data entry — follow-up",1,i0abaead80682f891e9987dbcb1f49d,2025-12-21T02:08:21+00:00,1,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,10
+Priya Nair,inquiry,"Hi team,
+
+Rachel here. Wanted to flag brewery p&l and personal budget review (1st and 15th of each month) so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Rachel",2,INC0001012,2025-12-07T03:19:54+00:00,Rachel Foster,4,Brewery P&L and personal budget review (1st and 15th of each month) — follow-up,2,i142409d6eccea06864988ed0f43ce8,2025-12-20T06:55:01+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,11
+Marcus Webb,software,"Hi team,
+
+Karen here. Wanted to flag gmail-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Karen",3,INC0001013,2025-12-12T19:13:51+00:00,Karen Albright,3,gmail-api — follow-up,6,i899b4dccb552d663c2fde37348858d,2025-12-26T00:36:10+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,12
+Zoe Torres,hardware,"Hi team,
+
+Priya here. Wanted to flag google-calendar-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Priya",2,INC0001014,2025-12-21T18:42:41+00:00,Priya Nair,2,google-calendar-api — follow-up,7,ieb2030cc2a9384add59fcdb8d2d53d,2025-12-23T15:00:20+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,13
+Elena Vasquez,network,"Hi team,
+
+Marcus here. Wanted to flag slack-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Marcus",3,INC0001015,2025-12-10T02:37:55+00:00,Marcus Webb,3,slack-api — follow-up,3,i0365c0c5fd2f3eabae47d122b3288b,2025-12-25T21:41:10+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,14
+Jake Callahan,software,"Hi team,
+
+Deborah here. Wanted to flag monday inventory check — flag restocking needs to jake so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Deborah",1,INC0001001,2025-12-25T15:03:17+00:00,Deborah Greenfield-Myer,1,Monday inventory check — flag restocking needs to Jake — follow-up,1,i05d1218c48a8565b034a9a167a4fe6-v1,2025-12-13T04:55:55+00:00,1,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,15
+Lauren Pratt,hardware,"Hi team,
+
+Richard here. Wanted to flag cellar work: transfers, dry-hopping, tank cleaning so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Richard",2,INC0001002,2025-11-14T09:14:43+00:00,Richard Myer,2,"Cellar work: transfers, dry-hopping, tank cleaning — follow-up",2,i89caf5d4bc15faaa885ae7eaa80e29-v2,2025-12-11T07:11:29+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,16
+Ruth Greenfield,network,"Hi team,
+
+Jake here. Wanted to flag coalition admin, email, and water testing data entry so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Jake",3,INC0001003,2025-11-16T06:45:11+00:00,Jake Callahan,3,"Coalition admin, email, and water testing data entry — follow-up",2,i5f22cf8fe4ca69ae773e4c5034ed49-v3,2025-12-04T07:49:53+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,17
+Howard Greenfield,inquiry,"Hi team,
+
+Lauren here. Wanted to flag brewery p&l and personal budget review (1st and 15th of each month) so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Lauren",2,INC0001004,2025-12-15T18:23:36+00:00,Lauren Pratt,4,Brewery P&L and personal budget review (1st and 15th of each month) — follow-up,3,ib7b6df0d75df0e22dfc55b9cc4b760-v4,2025-12-19T09:46:02+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,18
+Carol Myer,software,"Hi team,
+
+Ruth here. Wanted to flag gmail-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Ruth",3,INC0001005,2025-12-22T22:06:25+00:00,Ruth Greenfield,3,gmail-api — follow-up,6,i90a18a79cfe98d21f367e0f159008e-v5,2025-12-08T00:54:30+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,19
+David Cortez,hardware,"Hi team,
+
+Howard here. Wanted to flag google-calendar-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Howard",2,INC0001006,2025-11-27T22:29:14+00:00,Howard Greenfield,2,google-calendar-api — follow-up,2,i707edb5ffb06b4f2dc6367895e68e2-v6,2025-12-22T23:59:18+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,20
+Megan Hale,network,"Hi team,
+
+Carol here. Wanted to flag slack-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Carol",3,INC0001007,2025-12-02T03:54:52+00:00,Carol Myer,3,slack-api — follow-up,7,ifacd4207c1265b198802c01e462947-v7,2025-12-22T05:41:30+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,21
+Tom Beckley,inquiry,"Hi team,
+
+David here. Wanted to flag whatsapp-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+David",3,INC0001008,2025-11-30T18:19:57+00:00,David Cortez,4,whatsapp-api — follow-up,6,i227785452d8b1debcf1f8c90b4e7f8-v8,2025-12-12T06:00:54+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,22
+Nick Farrell,software,"Hi team,
+
+Megan here. Wanted to flag monday inventory check — flag restocking needs to jake so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Megan",2,INC0001009,2025-12-10T18:25:02+00:00,Megan Hale,2,Monday inventory check — flag restocking needs to Jake — follow-up,2,ib772aaaff4730a9b4e9e70fc318316-v9,2025-12-18T03:09:45+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,23
+Rachel Foster,hardware,"Hi team,
+
+Tom here. Wanted to flag cellar work: transfers, dry-hopping, tank cleaning so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Tom",3,INC0001010,2025-12-23T21:25:45+00:00,Tom Beckley,3,"Cellar work: transfers, dry-hopping, tank cleaning — follow-up",3,i0ca644db7f89b4acd448e8d6ece328-v10,2025-12-17T02:21:06+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,24
+Karen Albright,network,"Hi team,
+
+Nick here. Wanted to flag coalition admin, email, and water testing data entry so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Nick",1,INC0001011,2025-12-09T05:08:21+00:00,Nick Farrell,1,"Coalition admin, email, and water testing data entry — follow-up",1,i0abaead80682f891e9987dbcb1f49d-v11,2025-12-21T02:08:21+00:00,1,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,25
+Priya Nair,inquiry,"Hi team,
+
+Rachel here. Wanted to flag brewery p&l and personal budget review (1st and 15th of each month) so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Rachel",2,INC0001012,2025-12-07T03:19:54+00:00,Rachel Foster,4,Brewery P&L and personal budget review (1st and 15th of each month) — follow-up,2,i142409d6eccea06864988ed0f43ce8-v12,2025-12-20T06:55:01+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,26
+Marcus Webb,software,"Hi team,
+
+Karen here. Wanted to flag gmail-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Karen",3,INC0001013,2025-12-12T19:13:51+00:00,Karen Albright,3,gmail-api — follow-up,6,i899b4dccb552d663c2fde37348858d-v13,2025-12-26T00:36:10+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,27
+Zoe Torres,hardware,"Hi team,
+
+Priya here. Wanted to flag google-calendar-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Priya",2,INC0001014,2025-12-21T18:42:41+00:00,Priya Nair,2,google-calendar-api — follow-up,7,ieb2030cc2a9384add59fcdb8d2d53d-v14,2025-12-23T15:00:20+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,28
+Elena Vasquez,network,"Hi team,
+
+Marcus here. Wanted to flag slack-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Marcus",3,INC0001015,2025-12-10T02:37:55+00:00,Marcus Webb,3,slack-api — follow-up,3,i0365c0c5fd2f3eabae47d122b3288b-v15,2025-12-25T21:41:10+00:00,3,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,29
+Jake Callahan,software,"Hi team,
+
+Deborah here. Wanted to flag monday inventory check — flag restocking needs to jake so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Deborah",1,INC0001001,2025-12-25T15:03:17+00:00,Deborah Greenfield-Myer,1,Monday inventory check — flag restocking needs to Jake — follow-up,1,i05d1218c48a8565b034a9a167a4fe6-v16,2025-12-13T04:55:55+00:00,1,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,30
+Lauren Pratt,hardware,"Hi team,
+
+Richard here. Wanted to flag cellar work: transfers, dry-hopping, tank cleaning so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Richard",2,INC0001002,2025-11-14T09:14:43+00:00,Richard Myer,2,"Cellar work: transfers, dry-hopping, tank cleaning — follow-up",2,i89caf5d4bc15faaa885ae7eaa80e29-v17,2025-12-11T07:11:29+00:00,2,servicenow-api,incidents,/opt/mocks/servicenow-api/incident.json,31

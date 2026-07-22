@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sub_5zHeKmzqe4KR7a3CBhgK",
+    "customer": "cus_gS96wXuF3jdZ4XeHL68g",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1803504066",
+    "current_period_end": "1806096066",
+    "cancel_at_period_end": "false",
+    "created": "1720583084"
+  },
+  {
+    "id": "sub_PhOHDFEZfoCfnswHP80I",
+    "customer": "cus_4YHJyGugo1LzAr367wTo",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1803512838",
+    "current_period_end": "1806104838",
+    "cancel_at_period_end": "false",
+    "created": "1714073323"
+  },
+  {
+    "id": "sub_LlfefwZdBLPRJNdxAanZ",
+    "customer": "cus_pUY6UrLIh60enZPPOlco",
+    "price": "price_Pro_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1802654918",
+    "current_period_end": "1805246918",
+    "cancel_at_period_end": "true",
+    "created": "1722299045"
+  },
+  {
+    "id": "sub_DUNRDJ4RFcbL1enAO7Ku",
+    "customer": "cus_qaZ8XqdHHrgN3ypzOfFy",
+    "price": "price_Pro_Y",
+    "status": "active",
+    "quantity": "3",
+    "current_period_start": "1773367205",
+    "current_period_end": "1804903205",
+    "cancel_at_period_end": "false",
+    "created": "1717664882"
+  },
+  {
+    "id": "sub_VaKTLw7dAVkDpEVsHP3K",
+    "customer": "cus_InS7jwzGqNyUIUEK5vcc",
+    "price": "price_Pro_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1802239331",
+    "current_period_end": "1804831331",
+    "cancel_at_period_end": "false",
+    "created": "1725061033"
+  },
+  {
+    "id": "sub_NvsVPCHIM6locSq6auBH",
+    "customer": "cus_tJbnhCPsBu52kmorii6O",
+    "price": "price_Starter_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1802605918",
+    "current_period_end": "1805197918",
+    "cancel_at_period_end": "false",
+    "created": "1710244026"
+  },
+  {
+    "id": "sub_t4hQCQa8g3mZGWxY1O3G",
+    "customer": "cus_gS96wXuF3jdZ4XeHL68g",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1802918721",
+    "current_period_end": "1805510721",
+    "cancel_at_period_end": "false",
+    "created": "1717256645"
+  },
+  {
+    "id": "sub_c0JQAQvyunqzE4nCYWJS",
+    "customer": "cus_4YHJyGugo1LzAr367wTo",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1803458556",
+    "current_period_end": "1806050556",
+    "cancel_at_period_end": "false",
+    "created": "1717739939"
+  },
+  {
+    "id": "sub_a2y7Z63NoFthX6jUEJyL",
+    "customer": "cus_pUY6UrLIh60enZPPOlco",
+    "price": "price_Pro_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1803357911",
+    "current_period_end": "1805949911",
+    "cancel_at_period_end": "true",
+    "created": "1720122117"
+  },
+  {
+    "id": "sub_KrzrV9dKeu7XQk2Z0Q9e",
+    "customer": "cus_qaZ8XqdHHrgN3ypzOfFy",
+    "price": "price_Pro_Y",
+    "status": "active",
+    "quantity": "3",
+    "current_period_start": "1773664656",
+    "current_period_end": "1805200656",
+    "cancel_at_period_end": "false",
+    "created": "1708638152"
+  },
+  {
+    "id": "sub_bdZCJtlbXo1DWIR4oHgy",
+    "customer": "cus_InS7jwzGqNyUIUEK5vcc",
+    "price": "price_Pro_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1802701587",
+    "current_period_end": "1805293587",
+    "cancel_at_period_end": "false",
+    "created": "1731999207"
+  },
+  {
+    "id": "sub_WfneSCfS6xrDZScYLqXT",
+    "customer": "cus_tJbnhCPsBu52kmorii6O",
+    "price": "price_Starter_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1802237873",
+    "current_period_end": "1804829873",
+    "cancel_at_period_end": "false",
+    "created": "1710064451"
+  },
+  {
+    "id": "sub_FkGewL0QJw7GQzLghfBG",
+    "customer": "cus_gS96wXuF3jdZ4XeHL68g",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1802339818",
+    "current_period_end": "1804931818",
+    "cancel_at_period_end": "false",
+    "created": "1728670243"
+  },
+  {
+    "id": "sub_Oebv0F6fFOqIZk8BOUTN",
+    "customer": "cus_4YHJyGugo1LzAr367wTo",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1803819245",
+    "current_period_end": "1806411245",
+    "cancel_at_period_end": "false",
+    "created": "1714733271"
+  },
+  {
+    "id": "sub_tBjcuTcwHLei4f1RevVV",
+    "customer": "cus_pUY6UrLIh60enZPPOlco",
+    "price": "price_Pro_M",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1802903405",
+    "current_period_end": "1805495405",
+    "cancel_at_period_end": "true",
+    "created": "1722279120"
+  },
+  {
+    "id": "sub_3qeR4lLXdfRVPpXqANnu",
+    "customer": "cus_qaZ8XqdHHrgN3ypzOfFy",
+    "price": "price_Pro_Y",
+    "status": "active",
+    "quantity": "3",
+    "current_period_start": "1774194752",
+    "current_period_end": "1805730752",
+    "cancel_at_period_end": "false",
+    "created": "1715046767"
+  },
+  {
+    "id": "sub_BMssdzwBagIkw9lxie7q",
+    "customer": "cus_InS7jwzGqNyUIUEK5vcc",
+    "price": "price_Pro_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1803707758",
+    "current_period_end": "1806299758",
+    "cancel_at_period_end": "false",
+    "created": "1725456268"
+  },
+  {
+    "id": "sub_L82y6hxzmLhEoVNYfA51",
+    "customer": "cus_tJbnhCPsBu52kmorii6O",
+    "price": "price_Starter_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1802386518",
+    "current_period_end": "1804978518",
+    "cancel_at_period_end": "false",
+    "created": "1716915161"
+  },
+  {
+    "id": "sub_QGF1Mc7EngBPQefTkgAw",
+    "customer": "cus_gS96wXuF3jdZ4XeHL68g",
+    "price": "price_Starter_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1803299823",
+    "current_period_end": "1805891823",
+    "cancel_at_period_end": "false",
+    "created": "1717399412"
+  },
+  {
+    "id": "sub_ecgBhlQRWNABuraVF10n",
+    "customer": "cus_4YHJyGugo1LzAr367wTo",
+    "price": "price_Ent_M",
+    "status": "active",
+    "quantity": "5",
+    "current_period_start": "1802401166",
+    "current_period_end": "1804993166",
+    "cancel_at_period_end": "false",
+    "created": "1724674378"
+  }
+]

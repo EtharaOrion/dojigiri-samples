@@ -1,0 +1,962 @@
+[
+  {
+    "Id": "700001",
+    "DocNumber": "SI2026-0001",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "1009301",
+      "name": "Whitfield, Amara"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700002",
+    "DocNumber": "SI2026-0002",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "2009304",
+      "name": "Marchetti, Sofia"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700003",
+    "DocNumber": "SI2026-0003",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "3009307",
+      "name": "Voss, Eliana"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 2950,
+    "Status": "Open"
+  },
+  {
+    "Id": "700004",
+    "DocNumber": "SI2026-0004",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "4009310",
+      "name": "Bergstrom, Cecilia"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700005",
+    "DocNumber": "SI2026-0005",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "5009313",
+      "name": "Moreno, Isabella"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 2950,
+    "Status": "Open"
+  },
+  {
+    "Id": "700006",
+    "DocNumber": "SI2026-0006",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "6009316",
+      "name": "Delacroix, Naomi"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700007",
+    "DocNumber": "SI2026-0007",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "7009319",
+      "name": "Rao, Priya"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700008",
+    "DocNumber": "SI2026-0008",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "8009322",
+      "name": "Tanaka, Yuki"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700009",
+    "DocNumber": "SI2026-0009",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "9009325",
+      "name": "Bouchard, Camille"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700010",
+    "DocNumber": "SI2026-0010",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "10009328",
+      "name": "Laurent, Vivienne"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700011",
+    "DocNumber": "SI2026-0011",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "11009331",
+      "name": "Chen, Mei-Lin"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700012",
+    "DocNumber": "SI2026-0012",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "12009334",
+      "name": "Petrov, Daria"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700013",
+    "DocNumber": "SI2026-0013",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "13009337",
+      "name": "Sorenson, Liam"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700014",
+    "DocNumber": "SI2026-0014",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "14009340",
+      "name": "Reyes, Mateo"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700015",
+    "DocNumber": "SI2026-0015",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "15009343",
+      "name": "Espinoza, Julian"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700016",
+    "DocNumber": "SI2026-0016",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "16009346",
+      "name": "Kovac, Adrian"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700017",
+    "DocNumber": "SI2026-0017",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "17009349",
+      "name": "Hale, Sebastian"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700018",
+    "DocNumber": "SI2026-0018",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "18009352",
+      "name": "Ferreira, Lucas"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 2950,
+    "Status": "Open"
+  },
+  {
+    "Id": "700019",
+    "DocNumber": "SI2026-0019",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "19009355",
+      "name": "Park, Genevieve"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700020",
+    "DocNumber": "SI2026-0020",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "20009358",
+      "name": "Rosenberg, Talia"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700021",
+    "DocNumber": "SI2026-0021",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "21009361",
+      "name": "Fontaine, Anaïs"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700022",
+    "DocNumber": "SI2026-0022",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "22009364",
+      "name": "Ibarra, Rafael"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700023",
+    "DocNumber": "SI2026-0023",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "23009367",
+      "name": "Haddad, Noor"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700024",
+    "DocNumber": "SI2026-0024",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "24009370",
+      "name": "Sokolova, Elena"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700025",
+    "DocNumber": "SI2026-0025",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "25009373",
+      "name": "Lindqvist, Theo"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700026",
+    "DocNumber": "SI2026-0026",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "26009376",
+      "name": "Krishnan, Maya"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700027",
+    "DocNumber": "SI2026-0027",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "27009379",
+      "name": "Delgado, Oscar"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700028",
+    "DocNumber": "SI2026-0028",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "28009382",
+      "name": "Andersen, Freya"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700029",
+    "DocNumber": "SI2026-0029",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "29009385",
+      "name": "Navarro, Diego"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700030",
+    "DocNumber": "SI2026-0030",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "30009388",
+      "name": "Halvorsen, Ingrid"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700031",
+    "DocNumber": "SI2026-0031",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "31009391",
+      "name": "Volkov, Sasha"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700032",
+    "DocNumber": "SI2026-0032",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "32009394",
+      "name": "Rosenfeld, Leah"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700033",
+    "DocNumber": "SI2026-0033",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "33009397",
+      "name": "Popescu, Nina"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700034",
+    "DocNumber": "SI2026-0034",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "34009400",
+      "name": "Serrano, Emilio"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700035",
+    "DocNumber": "SI2026-0035",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "35009403",
+      "name": "Wexford, Clara"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700036",
+    "DocNumber": "SI2026-0036",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "36009406",
+      "name": "Mehta, Rohan"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700037",
+    "DocNumber": "SI2026-0037",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "37009409",
+      "name": "Novak, Beatrix"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700038",
+    "DocNumber": "SI2026-0038",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "38009412",
+      "name": "Orlov, Dmitri"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700039",
+    "DocNumber": "SI2026-0039",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "39009415",
+      "name": "Marchetti, Selene"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "700040",
+    "DocNumber": "SI2026-0040",
+    "TxnDate": "2026-05-11",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "40009418",
+      "name": "Bianchi, Aurora"
+    },
+    "Line": [
+      {
+        "Amount": 2950.0,
+        "Description": "Summer Intensive 2026 tuition, full six-week enrollment (barre, pointe, variations, repertory).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Summer Intensive Tuition"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2950.0,
+    "Balance": 0,
+    "Status": "Paid"
+  }
+]

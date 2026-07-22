@@ -1,0 +1,50 @@
+[
+  {
+    "account_id": "acc_chk_7301",
+    "name": "Everyday Checking",
+    "official_name": "Wells Fargo Everyday Checking",
+    "mask": "0123",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "4218.55",
+    "current": "4318.55",
+    "limit": "2000.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_sav_7302",
+    "name": "High-Yield Savings",
+    "official_name": "Ally Online Savings",
+    "mask": "4455",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "15230.10",
+    "current": "15230.10",
+    "limit": "2000.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_crd_7303",
+    "name": "Wells Fargo Rewards Card",
+    "official_name": "Wells Fargo Visa Rewards",
+    "mask": "7788",
+    "type": "credit",
+    "subtype": "credit card",
+    "available": "3100.00",
+    "current": "1900.00",
+    "limit": "5000.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_lon_7304",
+    "name": "Auto Loan",
+    "official_name": "Wells Fargo Auto Loan",
+    "mask": "9901",
+    "type": "loan",
+    "subtype": "auto",
+    "available": "18450.00",
+    "current": "18450.00",
+    "limit": "32000.00",
+    "iso_currency_code": "USD"
+  }
+]

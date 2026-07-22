@@ -1,0 +1,24 @@
+AccountSubType,AccountType,Active,CurrentBalance,Description,Id,Name
+Checking,Bank,True,47250.00,Operating bank account,1,Business Checking
+Savings,Bank,True,15000.00,Reserve savings,2,Business Savings
+AccountsReceivable,Accounts Receivable,True,8240.00,Trade receivables,3,Accounts Receivable
+SalesOfProductIncome,Income,True,0.00,Standard sales,4,Sales Revenue
+SuppliesMaterialsCogs,Cost of Goods Sold,True,0.00,COGS,5,Cost of Goods Sold
+OfficeGeneralAdminExpenses,Expense,True,0.00,Office supplies,6,Office Supplies
+SuppliesMaterials,Expense,True,0.00,SaaS spend,7,Software Subscriptions
+AccountsPayable,Accounts Payable,True,2480.00,Trade payables,8,Accounts Payable
+SuppliesMaterials,Expense,True,14820.50,Art and program supplies for youth workshops,9,Program Supplies
+OtherCurrentAssets,Other Current Asset,True,35000.00,Awarded grants pending disbursement,10,Grants Receivable
+OtherPrimaryIncome,Income,True,27500.00,Revenue from fundraising events,11,Fundraising Events Income
+PayrollExpenses,Expense,True,128400.00,Staff wages and payroll,12,Payroll Expense
+RentOrLeaseOfBuildings,Expense,True,24000.00,Studio lease on Cass Avenue,13,Rent - Cass Avenue
+RentOrLeaseOfBuildings,Expense,True,18000.00,Studio lease on Livernois,14,Rent - Livernois
+Utilities,Expense,True,9360.75,"Electricity, gas, water and internet",15,Utilities
+LegalProfessionalFees,Expense,True,12250.00,"Legal, accounting and consulting fees",16,Professional Services
+AdvertisingPromotional,Expense,True,6820.40,"Marketing, printing and promotional materials",17,Marketing & Printing
+Insurance,Expense,True,4875.00,General liability and property insurance,18,Insurance
+SuppliesMaterials,Expense,True,3960.25,Software subscriptions and technology tools,19,Technology & Software
+OtherPrimaryIncome,Income,True,58200.00,Contributions from individual donors,20,Individual Donations Income
+OtherPrimaryIncome,Income,True,95000.00,Grant income restricted to specific programs,21,Restricted Grant Income
+ServiceFeeIncome,Income,True,16400.00,Tuition and program participation fees,22,Program Service Fees Income
+PrepaidExpenses,Other Current Asset,True,5200.00,Prepaid insurance and subscriptions,23,Prepaid Expenses

@@ -1,0 +1,41 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn_KsjtQ2i2B167fAytlNBqBzsy,acc_chk_001,1648.2,USD,2026-03-01,Cornerstone Mortgage - monthly payment,Cornerstone Online Bank,"[""Payment"", ""Loan""]",False,other
+txn_yoMeDLe5o2X0JiKyGT937S50,acc_chk_001,-6812.44,USD,2026-03-02,Bellmark Industries payroll direct deposit,Bellmark Industries,"[""Transfer"", ""Payroll""]",False,other
+txn_AtzS8ppLRKQlRLCt0had1r0R,acc_chk_001,420.0,USD,2026-03-03,Toyota Financial - auto loan,Toyota Financial Services,"[""Payment"", ""Loan""]",False,other
+txn_5mjr6tO4YWlGKIG8zrQAbxT5,acc_chk_001,560.0,USD,2026-03-04,Calvary Hill Church - monthly tithe,Calvary Hill Church,"[""Transfer"", ""Giving""]",False,other
+txn_4I8xXkvUd5CPQtliAedUPoRx,acc_chk_001,214.83,USD,2026-03-06,Nashville Electric Service,Nashville Electric Service,"[""Service"", ""Utilities""]",False,online
+txn_lSyoKvA8D15PN0H5XqfhmT9J,acc_chk_001,58.4,USD,2026-03-07,Metro Water Services,Metro Water Services,"[""Service"", ""Utilities""]",False,online
+txn_pOw4mr3xecHGzTV4Vzu3WXC4,acc_ccd_003,84.5,USD,2026-03-08,Harpeth Valley Gas,Harpeth Valley Gas,"[""Service"", ""Utilities""]",False,online
+txn_kI5WrKlfnarfeIkaN44hHZnF,acc_ccd_003,127.65,USD,2026-03-09,Harvest Market grocery,Harvest Market,"[""Shops"", ""Groceries""]",False,in store
+txn_vJmDViv0FLiAU8n4P8rjeyaf,acc_ccd_003,70.0,USD,2026-03-10,BlueRidge Fiber internet,BlueRidge Fiber,"[""Service"", ""Telecom""]",False,online
+txn_U0F8aFYq599pCx0i3QZb8uHg,acc_ccd_003,85.0,USD,2026-03-11,Volunteer Mobile wireless,Volunteer Mobile,"[""Service"", ""Telecom""]",False,online
+txn_GaN0TsQSV1jWAktqTabPbNAd,acc_ccd_003,44.0,USD,2026-03-12,Peloton membership,Peloton,"[""Recreation"", ""Fitness""]",False,online
+txn_jLSIfRszMuqwpO4L1dIZXDT2,acc_ccd_003,15.99,USD,2026-03-13,Ridgeline Streaming,Ridgeline Streaming,"[""Service"", ""Subscription""]",False,online
+txn_Vz7NgH0BW4G5R6LdONnzI4Nv,acc_ccd_003,52.3,USD,2026-03-14,Shell fuel - Highway 70,Shell,"[""Travel"", ""Gas""]",False,in store
+txn_4kx1gtTiCq0HVQQlLQnRO8OU,acc_ccd_003,24.0,USD,2026-03-15,Hazelton Coffee Club,Hazelton Coffee,"[""Shops"", ""Food""]",False,online
+txn_Tq9ylDpRSDXNmVecacaTR0qu,acc_sav_002,-208.11,USD,2026-03-16,Cornerstone HYSA interest,Cornerstone Online Bank,"[""Transfer"", ""Interest""]",False,other
+txn_NKDsDs80JcSUfNtOZHZBPR3H,acc_chk_001,1000.0,USD,2026-03-17,Transfer to Cornerstone HYSA,Cornerstone Online Bank,"[""Transfer"", ""Internal""]",False,other
+txn_1yCIv9dskViViq1CCqr9QSgd,acc_ccd_003,96.42,USD,2026-02-03,Green Hills Kroger,Kroger,"[""Shops"", ""Groceries""]",False,in store
+txn_BuM8xMYvoBHyCnGy7e0I520Z,acc_ccd_003,63.75,USD,2026-02-08,Percy Warner cafe brunch with Tanya,Nashville Local Cafe,"[""Food"", ""Restaurant""]",False,in store
+txn_UCWjxPntYmeexCG6mMhxUp9i,acc_ccd_003,148.2,USD,2026-02-12,Highlander service - oil change,Toyota of Cool Springs,"[""Service"", ""Automotive""]",False,in store
+txn_W4oRw7KhLDnCFZY90LiYgZKx,acc_chk_001,1648.2,USD,2026-02-01,Cornerstone Mortgage - monthly payment,Cornerstone Online Bank,"[""Payment"", ""Loan""]",False,other
+txn_mXOGndDWuYm0jZ72d4BRrxOq,acc_chk_001,-6812.44,USD,2026-02-02,Bellmark Industries payroll direct deposit,Bellmark Industries,"[""Transfer"", ""Payroll""]",False,other
+txn_M2qtEjkj953mLB9HiSYr274t,acc_chk_001,420.0,USD,2026-02-03,Toyota Financial - auto loan,Toyota Financial Services,"[""Payment"", ""Loan""]",False,other
+txn_BVX0PfpIgqDkl39276Ly7AIS,acc_chk_001,560.0,USD,2026-02-04,Calvary Hill Church - monthly tithe,Calvary Hill Church,"[""Transfer"", ""Giving""]",False,other
+txn_ssF8rKDUY6pc0o9FZ7cKhFaF,acc_ccd_003,38.75,USD,2026-02-18,Volunteer State Booksellers,Volunteer State Booksellers,"[""Shops"", ""Books""]",False,online
+txn_2ZKmnq7rcpEefrul5eETQPe8,acc_ccd_003,224.4,USD,2026-02-20,Cumberland Mutual Insurance,Cumberland Mutual,"[""Service"", ""Insurance""]",False,online
+txn_vcvodVUCNj9epbngOi2NyHyM,acc_ccd_003,110.9,USD,2026-01-10,Harvest Market grocery,Harvest Market,"[""Shops"", ""Groceries""]",False,in store
+txn_rZjDgH3bg5VUBERhVQuQc8bZ,acc_ccd_003,55.0,USD,2026-01-14,Riverbend Wellness - yoga classes,Riverbend Wellness,"[""Recreation"", ""Fitness""]",False,in store
+txn_YwTZAl7qZAVOflBIFJ98OzUt,acc_ccd_003,89.99,USD,2026-01-16,Titans Team Shop,Titans Team Shop,"[""Shops"", ""Clothing""]",False,online
+txn_xmLx2jFtkWvnkNDqOIxxuPHG,acc_chk_001,1648.2,USD,2026-01-01,Cornerstone Mortgage - monthly payment,Cornerstone Online Bank,"[""Payment"", ""Loan""]",False,other
+txn_VLmSYJoUomU5sVkqlTfvuDUV,acc_chk_001,-6812.44,USD,2026-01-02,Bellmark Industries payroll direct deposit,Bellmark Industries,"[""Transfer"", ""Payroll""]",False,other
+txn_mnKWVLVlEwQzJQh0C4Mu3vUr,acc_chk_001,560.0,USD,2026-01-04,Calvary Hill Church - monthly tithe,Calvary Hill Church,"[""Transfer"", ""Giving""]",False,other
+txn_3Mo3fwCSugiFW738aCdxgrti,acc_ccd_003,72.1,USD,2026-01-20,Sunday Supper Meal Kit,Sunday Supper,"[""Shops"", ""Food""]",False,online
+txn_QCdmpwNBUTdjSATx8Vab4rtZ,acc_ccd_003,142.93,USD,2025-12-19,Firepoint Grill - date night,Firepoint Grill,"[""Food"", ""Restaurant""]",False,in store
+txn_UN9EDqub7Y9sXs7rqbrMAewO,acc_ccd_003,318.45,USD,2025-12-15,Christmas gifts - Harvest Market,Harvest Market,"[""Shops"", ""Retail""]",False,in store
+txn_adOMJsp8HhCaLLy4ByL3xlCk,acc_chk_001,224.0,USD,2025-12-10,SHRM annual membership,SHRM,"[""Service"", ""Professional""]",False,online
+txn_GRmkMxpo8SPlG56tEmjFqXRc,acc_ccd_003,64.85,USD,2025-11-22,Grisham hardcover set,Volunteer State Booksellers,"[""Shops"", ""Books""]",False,online
+txn_u1kFAsrQv28yxs6f37tmTNUE,acc_ccd_003,210.0,USD,2025-11-08,Ryman - Chris Stapleton tickets,Ryman Auditorium,"[""Recreation"", ""Events""]",False,online
+txn_pGTdtlw6kmUOB49ZgNfNMqrP,acc_chk_001,1648.2,USD,2025-11-01,Cornerstone Mortgage - monthly payment,Cornerstone Online Bank,"[""Payment"", ""Loan""]",False,other
+txn_rBaGEDZKyS68gf1rHhyyVZuV,acc_ccd_003,96.5,USD,2025-10-12,Cornbread Kitchen - skillet set,Cornbread Kitchen Supply,"[""Shops"", ""Home""]",False,online
+txn_uQ2ugspWbWRtobISK51Qo6f4,acc_ccd_003,118.0,USD,2025-09-05,Peloton accessories,Peloton,"[""Shops"", ""Fitness""]",False,online

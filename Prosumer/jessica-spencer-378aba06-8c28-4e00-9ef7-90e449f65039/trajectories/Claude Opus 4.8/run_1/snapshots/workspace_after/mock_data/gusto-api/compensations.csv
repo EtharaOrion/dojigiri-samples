@@ -1,0 +1,21 @@
+id,employee_id,job_title,rate,payment_unit,flsa_status,effective_date,__api__,__table__,__file__,__row_index__
+comp-de1ccc90,emp-9db1b05f,VP of Engineering,72000.0,Year,Exempt,2018-01-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,0
+comp-eff5214a,emp-3219fe72,Staff Software Engineer,96000.0,Year,Exempt,2019-02-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,1
+comp-56005632,emp-e9e15fcb,Senior Software Engineer,128000.0,Year,Exempt,2020-03-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,2
+comp-cd0fd500,emp-10e7420c,Software Engineer,158000.0,Year,Exempt,2021-04-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,3
+comp-9735e1bc,emp-2286b15c,People Operations Manager,195000.0,Year,Exempt,2022-05-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,4
+comp-d35ba63f,emp-a20539b8,Senior Designer,76000.0,Year,Exempt,2023-06-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,5
+comp-4ccfc23e,emp-11efe83a,Junior Designer,58000.0,Year,Exempt,2018-07-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,6
+comp-bf9803e6,emp-979e0af2,Recruiter,96000.0,Year,Exempt,2019-08-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,7
+comp-6bd7921b,emp-8bcb5761,VP of Engineering,128000.0,Year,Exempt,2020-09-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,8
+comp-8a15b705,emp-476cff32,VP of Engineering,158000.0,Year,Exempt,2021-10-15,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,9
+comp-de1ccc90-v010,emp-9db1b05f-v010,VP of Engineering,72000.0,Year,Exempt,2018-02-14T22:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,10
+comp-eff5214a-v011,emp-3219fe72-v011,Staff Software Engineer,96000.0,Year,Exempt,2019-03-20T05:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,11
+comp-56005632-v012,emp-e9e15fcb-v012,Senior Software Engineer,128000.0,Year,Exempt,2020-04-20T12:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,12
+comp-cd0fd500-v013,emp-10e7420c-v013,Software Engineer,158000.0,Year,Exempt,2021-05-24T19:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,13
+comp-9735e1bc-v014,emp-2286b15c-v014,People Operations Manager,195000.0,Year,Exempt,2022-06-26T02:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,14
+comp-d35ba63f-v015,emp-a20539b8-v015,Senior Designer,76000.0,Year,Exempt,2023-07-30T09:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,15
+comp-4ccfc23e-v016,emp-11efe83a-v016,Junior Designer,58000.0,Year,Exempt,2018-09-01T16:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,16
+comp-bf9803e6-v017,emp-979e0af2-v017,Recruiter,96000.0,Year,Exempt,2019-10-05T23:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,17
+comp-6bd7921b-v018,emp-8bcb5761-v018,VP of Engineering,128000.0,Year,Exempt,2020-11-08T06:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,18
+comp-8a15b705-v019,emp-476cff32-v019,VP of Engineering,158000.0,Year,Exempt,2021-12-11T13:00:00,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,19

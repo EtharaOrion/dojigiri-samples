@@ -1,0 +1,107 @@
+[
+  {
+    "CustomerRef": {
+      "name": "Great Lakes Power Foundation",
+      "value": "1002"
+    },
+    "Id": "6001",
+    "Line": [
+      {
+        "Amount": 25000.00,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Headline sponsorship — winter showcase. Wire received via Comerica.",
+    "TotalAmt": 25000.00,
+    "TxnDate": "2025-11-20"
+  },
+  {
+    "CustomerRef": {
+      "name": "Greenfield Foundation",
+      "value": "1001"
+    },
+    "Id": "6002",
+    "Line": [
+      {
+        "Amount": 75000.00,
+        "LinkedTxn": [
+          {
+            "TxnId": "4002",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Greenfield Year 2 tranche — restricted to Livernois build-out per grant agreement.",
+    "TotalAmt": 75000.00,
+    "TxnDate": "2025-12-22"
+  },
+  {
+    "CustomerRef": {
+      "name": "Beacon Foundation",
+      "value": "1003"
+    },
+    "Id": "6003",
+    "Line": [
+      {
+        "Amount": 37500.00,
+        "LinkedTxn": [
+          {
+            "TxnId": "4003",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Beacon renewal — first 50% installment; balance expected after fall report.",
+    "TotalAmt": 37500.00,
+    "TxnDate": "2026-01-28"
+  },
+  {
+    "CustomerRef": {
+      "name": "City of Detroit Cultural Affairs",
+      "value": "1005"
+    },
+    "Id": "6004",
+    "Line": [
+      {
+        "Amount": 17500.00,
+        "LinkedTxn": [
+          {
+            "TxnId": "4004",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "City Cultural Affairs annual grant — first half disbursement.",
+    "TotalAmt": 17500.00,
+    "TxnDate": "2026-02-10"
+  },
+  {
+    "CustomerRef": {
+      "name": "ACF Art Works",
+      "value": "1006"
+    },
+    "Id": "6005",
+    "Line": [
+      {
+        "Amount": 25000.00,
+        "LinkedTxn": [
+          {
+            "TxnId": "4005",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "ACF Art Works first half — youth filmmaking project budget line.",
+    "TotalAmt": 25000.00,
+    "TxnDate": "2026-03-05"
+  }
+]

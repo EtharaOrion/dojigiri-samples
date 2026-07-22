@@ -1,0 +1,9 @@
+[
+  {
+    "escalation_policy_id": "PPOL7301",
+    "name": "Primary birth on-call",
+    "num_loops": "2",
+    "tier1_user_id": "PU7304",
+    "tier2_user_id": "PU7301"
+  }
+]

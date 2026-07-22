@@ -1,0 +1,49 @@
+product_id,retailer_id,name,brand,category,unit_size,price,in_stock,sale_price,image_url
+prod-giant-7301,giant,Strawberry Jam,Bonne Maman,Pantry,2 lb,5.99,True,5.09,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-giant-7302,giant,Extra Virgin Olive Oil,Kirkland Signature,Pantry,1 gal,14.99,True,12.16,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-giant-7303,giant,Avocado Oil Spray,Chosen Foods,Pantry,24 oz,8.99,True,7.64,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-giant-7304,giant,Long Grain White Rice,Mahatma,Pantry,1.5 lb,4.49,True,3.66,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-giant-7305,giant,Jasmine Rice,Lundberg,Pantry,3 lb,6.99,True,5.94,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-giant-7306,giant,Spaghetti Pasta,Barilla,Pantry,32 oz,2.49,True,2.12,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-vons-7301,vons,Penne Rigate,De Cecco,Pantry,1 lb,3.99,True,3.59,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-vons-7302,vons,Marinara Sauce,Rao's,Pantry,5 oz,8.99,False,7.64,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-vons-7303,vons,Tomato Soup,Campbell's,Pantry,64 oz,2.49,True,2.12,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-vons-7304,vons,Pinto Beans (Canned),365 Everyday Value,Pantry,each,1.29,True,1.1,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-vons-7305,vons,Chicken Broth,Swanson,Pantry,22 oz,3.99,True,3.39,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-vons-7306,vons,Salted Tortilla Chips,Tostitos,Snacks,12 oz,4.99,True,4.47,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-ralphs-7301,1htdec,Sea Salt Kettle Chips,Kettle,Snacks,750 ml,3.99,True,3.39,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-ralphs-7302,1htdec,Cheez-It Crackers (Original),Sunshine,Snacks,30 rolls,4.99,True,3.96,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-ralphs-7303,1htdec,Goldfish Crackers,Pepperidge Farm,Snacks,each,3.49,True,2.97,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-ralphs-7304,1htdec,Oreos Original,Nabisco,Snacks,100 caps,4.99,True,4.03,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-ralphs-7305,1htdec,Hummus (Original),Sabra,Snacks,6 oz,4.49,True,3.82,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-ralphs-7306,1htdec,Guacamole Singles,Wholly Guacamole,Snacks,2 lb,9.99,True,8.49,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-meijer-7301,sas2pd,Mixed Nuts,Planters,Snacks,2 lb,8.49,True,7.22,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-meijer-7302,sas2pd,Vanilla Ice Cream (Pint),Häagen-Dazs,Frozen,2 lb,5.99,True,4.91,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-meijer-7303,sas2pd,Chocolate Ice Cream (Pint),Ben & Jerry's,Frozen,2 lb,5.99,True,5.46,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-meijer-7304,sas2pd,Frozen Pepperoni Pizza,DiGiorno,Frozen,2 lb,7.99,True,6.79,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-meijer-7305,sas2pd,Frozen Mango Chunks,365 Everyday Value,Frozen,2 lb,4.99,True,4.24,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-meijer-7306,sas2pd,Frozen Broccoli Florets,Birds Eye,Frozen,2 lb,3.49,True,2.97,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-shoprite-7301,b5t05pyr,Spring Water,Poland Spring,Beverages,2 lb,6.99,True,5.94,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-shoprite-7302,b5t05pyr,Sparkling Water (Variety Pack),LaCroix,Beverages,2 lb,5.99,True,5.18,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-shoprite-7303,b5t05pyr,Cold Brew Coffee,Stumptown,Beverages,2 lb,6.99,True,5.62,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-shoprite-7304,b5t05pyr,Orange Juice (No Pulp),Tropicana,Beverages,2 lb,5.99,True,5.09,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-shoprite-7305,b5t05pyr,Diet Coke 12-Pack,Coca-Cola,Beverages,2 lb,8.99,False,7.64,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-shoprite-7306,b5t05pyr,Coca-Cola 12-Pack,Coca-Cola,Beverages,2 lb,8.99,True,7.64,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-cvs-7301,cvs,Topo Chico Sparkling Water,Topo Chico,Beverages,2 lb,12.99,True,11.04,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-cvs-7302,cvs,Pinot Noir Wine,Meiomi,Alcohol,2 lb,21.99,True,18.69,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-cvs-7303,cvs,Cabernet Sauvignon Wine,Josh Cellars,Alcohol,2 lb,13.99,True,11.89,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-cvs-7304,cvs,IPA 6-Pack,Sierra Nevada,Alcohol,2 lb,11.99,True,10.19,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-cvs-7305,cvs,Light Lager 12-Pack,Modelo Especial,Alcohol,2 lb,18.99,True,16.14,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-cvs-7306,cvs,Paper Towels,Bounty,Household,2 lb,24.99,True,21.24,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-walgreens-7301,z8d2vesbr,Toilet Paper (Mega Roll),Charmin Ultra Soft,Household,2 lb,22.99,True,20.71,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-walgreens-7302,z8d2vesbr,Liquid Dish Soap,Dawn,Household,2 lb,4.49,True,3.7,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-walgreens-7303,z8d2vesbr,Laundry Detergent Pods,Tide,Household,2 lb,14.99,True,12.97,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-walgreens-7304,z8d2vesbr,All-Purpose Cleaner,Method,Household,2 lb,4.99,True,4.24,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-walgreens-7305,z8d2vesbr,Trash Bags (13 gal),Hefty,Household,2 lb,16.99,True,14.44,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-walgreens-7306,z8d2vesbr,Diapers Size 4,Pampers Swaddlers,Baby,2 lb,49.99,True,42.49,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-bjs-7301,bjs,Baby Wipes,WaterWipes,Baby,2 lb,24.99,True,21.19,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-bjs-7302,bjs,Toothpaste (Cavity Protection),Crest,Personal Care,2 lb,3.99,False,3.5,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-bjs-7303,bjs,Soft-Bristle Toothbrush,Oral-B,Personal Care,2 lb,6.99,True,5.94,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-bjs-7304,bjs,Body Wash,Dove,Personal Care,2 lb,7.99,True,7.25,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-bjs-7305,bjs,Shampoo (Daily Moisture),Native,Personal Care,2 lb,8.99,True,7.64,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg
+prod-bjs-7306,bjs,Aluminum-Free Deodorant,Native,Personal Care,2 lb,12.99,True,11.04,https://d2lnr5mha7bycj.cloudfront.net/instacart-api/products/image_url.jpg

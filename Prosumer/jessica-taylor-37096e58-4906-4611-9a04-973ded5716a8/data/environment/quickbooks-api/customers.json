@@ -1,0 +1,200 @@
+[
+  {
+    "Id": "100",
+    "DisplayName": "Verdant Provisions",
+    "PrimaryEmailAddr": {
+      "Address": "hello@verdantprovisions.com"
+    },
+    "Balance": 6500.0,
+    "Active": true,
+    "Notes": "brand refresh — retainer client | project: Brand Refresh 2026",
+    "BillAddr_Line1": "2140 Sunset Blvd",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90026",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554000"
+    }
+  },
+  {
+    "Id": "101",
+    "DisplayName": "Pinnacle Collective",
+    "PrimaryEmailAddr": {
+      "Address": "info@pinnaclecollective.com"
+    },
+    "Balance": 4800.0,
+    "Active": true,
+    "Notes": "logo + signage package — retainer client | project: Logo & Signage Package",
+    "BillAddr_Line1": "815 S Hill St",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90014",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554001"
+    }
+  },
+  {
+    "Id": "102",
+    "DisplayName": "Bloom Skin Co.",
+    "PrimaryEmailAddr": {
+      "Address": "nina@bloomskinco.com"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "seasonal packaging — retainer client | project: General Design Retainer",
+    "BillAddr_Line1": "1040 W 3th St",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90022",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554002"
+    }
+  },
+  {
+    "Id": "103",
+    "DisplayName": "Hill Road Coffee",
+    "PrimaryEmailAddr": {
+      "Address": "denise@hillroadcoffee.com"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "menu + wayfinding — retainer client | project: Menu & Signage",
+    "BillAddr_Line1": "1420 Hillhurst Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90027",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554003"
+    }
+  },
+  {
+    "Id": "104",
+    "DisplayName": "Sunroom Nonprofit",
+    "PrimaryEmailAddr": {
+      "Address": "priya@sunroomla.org"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "annual report design — retainer client | project: Annual Report 2026",
+    "BillAddr_Line1": "533 W 8th St",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90014",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554004"
+    }
+  },
+  {
+    "Id": "105",
+    "DisplayName": "Bloom Skin Co",
+    "PrimaryEmailAddr": {
+      "Address": "nina@bloomskinco.com"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "Small-business design client | project: Seasonal Packaging 2026",
+    "BillAddr_Line1": "4200 Lincoln Blvd",
+    "BillAddr_City": "Marina del Rey",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90292",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13105554020"
+    }
+  },
+  {
+    "Id": "106",
+    "DisplayName": "Aurora Bistro LLC",
+    "PrimaryEmailAddr": {
+      "Address": "hello@aurorabistro.com"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "Small-business design client | project: Brand Identity",
+    "BillAddr_Line1": "7150 Melrose Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90046",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554021"
+    }
+  },
+  {
+    "Id": "107",
+    "DisplayName": "Kiln + Loom Ceramics",
+    "PrimaryEmailAddr": {
+      "Address": "hi@kilnloom.co"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "Small-business design client | project: Product Photography Direction",
+    "BillAddr_Line1": "2916 Rowena Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90039",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554022"
+    }
+  },
+  {
+    "Id": "108",
+    "DisplayName": "Coastwise Nonprofit",
+    "PrimaryEmailAddr": {
+      "Address": "team@coastwise.org"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "Small-business design client | project: Website Refresh",
+    "BillAddr_Line1": "1500 Rosecrans Ave",
+    "BillAddr_City": "Manhattan Beach",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90266",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554023"
+    }
+  },
+  {
+    "Id": "109",
+    "DisplayName": "Rally Kombucha",
+    "PrimaryEmailAddr": {
+      "Address": "hi@rallykombucha.com"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "Small-business design client | project: General Design Retainer",
+    "BillAddr_Line1": "1480 W 7th St",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90044",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554024"
+    }
+  },
+  {
+    "Id": "110",
+    "DisplayName": "Fern & Field Naturals",
+    "PrimaryEmailAddr": {
+      "Address": "orders@fernandfield.com"
+    },
+    "Balance": 0.0,
+    "Active": true,
+    "Notes": "Small-business design client | project: General Design Retainer",
+    "BillAddr_Line1": "1500 W 8th St",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90045",
+    "Job": false,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+12135554025"
+    }
+  }
+]

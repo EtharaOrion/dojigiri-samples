@@ -1,0 +1,974 @@
+[
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Order force plate system",
+    "Project": "Performance Lab Buildout",
+    "Status": "Done",
+    "createdTime": "2025-05-18T10:00:00.000Z",
+    "id": "recTask2165550342"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Schedule NordBord install",
+    "Project": "ACL Rehab Protocol Refresh",
+    "Status": "To do",
+    "createdTime": "2025-05-23T10:11:00.000Z",
+    "id": "recTask2165550356"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft patient consent forms",
+    "Project": "Aetna Insurance Credentialing",
+    "Status": "In progress",
+    "createdTime": "2025-05-28T10:22:00.000Z",
+    "id": "recTask4405550367"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 16,
+    "Name": "Review CPT billing codes",
+    "Project": "Athlete Screening Program",
+    "Status": "Done",
+    "createdTime": "2025-06-02T10:33:00.000Z",
+    "id": "recTask0000000004"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 8,
+    "Name": "Book Aetna credentialing call",
+    "Project": "Return-to-Sport Testing SOP",
+    "Status": "To do",
+    "createdTime": "2025-06-07T10:44:00.000Z",
+    "id": "recTask0000000005"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Spec AlterG treadmill bay",
+    "Project": "Front Desk Scheduling Workflow",
+    "Status": "In progress",
+    "createdTime": "2025-06-12T10:55:00.000Z",
+    "id": "recTask0000000006"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Write return-to-sport checklist",
+    "Project": "Equipment Financing Review",
+    "Status": "Done",
+    "createdTime": "2025-06-17T10:06:00.000Z",
+    "id": "recTask0000000007"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 8,
+    "Name": "Set up VALD data export",
+    "Project": "Student Rotation Onboarding",
+    "Status": "In progress",
+    "createdTime": "2025-06-22T10:17:00.000Z",
+    "id": "recTask0000000008"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 16,
+    "Name": "Plan student rotation calendar",
+    "Project": "Quarterly Billing Cleanup",
+    "Status": "In progress",
+    "createdTime": "2025-06-27T10:28:00.000Z",
+    "id": "recTask0000000009"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 16,
+    "Name": "Audit Q2 outstanding claims",
+    "Project": "Patient Outcome Survey Rollout",
+    "Status": "Done",
+    "createdTime": "2025-07-02T10:39:00.000Z",
+    "id": "recTask0000000010"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 12,
+    "Name": "Draft athlete screening intake",
+    "Project": "Performance Lab Buildout",
+    "Status": "To do",
+    "createdTime": "2025-07-07T10:50:00.000Z",
+    "id": "recTask0000000011"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Confirm lab electrical work",
+    "Project": "ACL Rehab Protocol Refresh",
+    "Status": "In progress",
+    "createdTime": "2025-07-12T10:01:00.000Z",
+    "id": "recTask0000000012"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 6,
+    "Name": "Update protocol library in Notion",
+    "Project": "Aetna Insurance Credentialing",
+    "Status": "Done",
+    "createdTime": "2025-07-17T10:12:00.000Z",
+    "id": "recTask0000000013"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 16,
+    "Name": "Prep monthly financial review",
+    "Project": "Athlete Screening Program",
+    "Status": "In progress",
+    "createdTime": "2025-07-22T10:23:00.000Z",
+    "id": "recTask0000000014"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 16,
+    "Name": "Email outcome survey to patients",
+    "Project": "Return-to-Sport Testing SOP",
+    "Status": "In progress",
+    "createdTime": "2025-07-27T10:34:00.000Z",
+    "id": "recTask0000000015"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 12,
+    "Name": "Reconcile equipment invoices",
+    "Project": "Front Desk Scheduling Workflow",
+    "Status": "Done",
+    "createdTime": "2025-08-01T10:45:00.000Z",
+    "id": "recTask0000000016"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 8,
+    "Name": "Coordinate firebirds screening day",
+    "Project": "Equipment Financing Review",
+    "Status": "In progress",
+    "createdTime": "2025-08-06T10:56:00.000Z",
+    "id": "recTask0000000017"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 12,
+    "Name": "Renew clinic liability policy",
+    "Project": "Student Rotation Onboarding",
+    "Status": "To do",
+    "createdTime": "2025-08-11T10:07:00.000Z",
+    "id": "recTask0000000018"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 12,
+    "Name": "Renew clinic liability policy",
+    "Project": "Student Rotation Onboarding",
+    "Status": "To do",
+    "createdTime": "2025-08-11T10:07:00.000Z",
+    "id": "recTask19"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 12,
+    "Name": "Renew clinic liability policy",
+    "Project": "Student Rotation Onboarding",
+    "Status": "To do",
+    "createdTime": "2025-08-11T10:07:00.000Z",
+    "id": "recTask20"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 1,
+    "Name": "Confirm pledge letters \u2014 Building Our Future Campaign #1",
+    "Project": "Building Our Future Campaign",
+    "Status": "Done",
+    "createdTime": "2026-02-02T06:30:00.000Z",
+    "id": "recTask3000000000"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft retreat lodging block \u2014 Fall Parish Retreat #2",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-02-03T03:07:00.000Z",
+    "id": "recTask3000000001"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Review order of service \u2014 Interfaith Prayer Service #3",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-02-03T22:44:00.000Z",
+    "id": "recTask3000000002"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Schedule memorial-anniversary list \u2014 Sunday School Term #4",
+    "Project": "Sunday School Term",
+    "Status": "Done",
+    "createdTime": "2026-02-04T19:21:00.000Z",
+    "id": "recTask3000000003"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Send accessibility ramp sign-off \u2014 Pastoral Care #5",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-02-05T14:58:00.000Z",
+    "id": "recTask3000000004"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Prepare board agenda \u2014 Sanctuary Renovation #6",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-02-06T10:35:00.000Z",
+    "id": "recTask3000000005"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Follow up on choir music selections \u2014 Stewardship Sunday #7",
+    "Project": "Stewardship Sunday",
+    "Status": "Done",
+    "createdTime": "2026-02-07T07:12:00.000Z",
+    "id": "recTask3000000006"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Finalize donor cultivation notes \u2014 Adult Education \u2014 Living with the Gospels #8",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-02-08T02:49:00.000Z",
+    "id": "recTask3000000007"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Coordinate bulletin proof \u2014 Building Our Future Campaign #9",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-02-08T23:26:00.000Z",
+    "id": "recTask3000000008"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Update confirmation class roster \u2014 Fall Parish Retreat #10",
+    "Project": "Fall Parish Retreat",
+    "Status": "Done",
+    "createdTime": "2026-02-09T19:03:00.000Z",
+    "id": "recTask3000000009"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Confirm hospital-visit schedule \u2014 Interfaith Prayer Service #11",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-02-10T14:40:00.000Z",
+    "id": "recTask3000000010"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft kickoff invitations \u2014 Sunday School Term #12",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-02-11T11:17:00.000Z",
+    "id": "recTask3000000011"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Review Typeform survey \u2014 Pastoral Care #13",
+    "Project": "Pastoral Care",
+    "Status": "Done",
+    "createdTime": "2026-02-12T06:54:00.000Z",
+    "id": "recTask3000000012"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Schedule budget ledger with Xero \u2014 Sanctuary Renovation #14",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-02-13T02:31:00.000Z",
+    "id": "recTask3000000013"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Send thank-you sequence \u2014 Stewardship Sunday #15",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-02-13T23:08:00.000Z",
+    "id": "recTask3000000014"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 1,
+    "Name": "Prepare pledge letters \u2014 Adult Education \u2014 Living with the Gospels #16",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "Done",
+    "createdTime": "2026-02-14T18:45:00.000Z",
+    "id": "recTask3000000015"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Follow up on retreat lodging block \u2014 Building Our Future Campaign #17",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-02-15T15:22:00.000Z",
+    "id": "recTask3000000016"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Finalize order of service \u2014 Fall Parish Retreat #18",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-02-16T10:59:00.000Z",
+    "id": "recTask3000000017"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Coordinate memorial-anniversary list \u2014 Interfaith Prayer Service #19",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Done",
+    "createdTime": "2026-02-17T06:36:00.000Z",
+    "id": "recTask3000000018"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Update accessibility ramp sign-off \u2014 Sunday School Term #20",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-02-18T03:13:00.000Z",
+    "id": "recTask3000000019"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Confirm board agenda \u2014 Pastoral Care #21",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-02-18T22:50:00.000Z",
+    "id": "recTask3000000020"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Draft choir music selections \u2014 Sanctuary Renovation #22",
+    "Project": "Sanctuary Renovation",
+    "Status": "Done",
+    "createdTime": "2026-02-19T19:27:00.000Z",
+    "id": "recTask3000000021"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Review donor cultivation notes \u2014 Stewardship Sunday #23",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-02-20T15:04:00.000Z",
+    "id": "recTask3000000022"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Schedule bulletin proof \u2014 Adult Education \u2014 Living with the Gospels #24",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-02-21T10:41:00.000Z",
+    "id": "recTask3000000023"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Send confirmation class roster \u2014 Building Our Future Campaign #25",
+    "Project": "Building Our Future Campaign",
+    "Status": "Done",
+    "createdTime": "2026-02-22T07:18:00.000Z",
+    "id": "recTask3000000024"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Prepare hospital-visit schedule \u2014 Fall Parish Retreat #26",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-02-23T02:55:00.000Z",
+    "id": "recTask3000000025"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Follow up on kickoff invitations \u2014 Interfaith Prayer Service #27",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-02-23T22:32:00.000Z",
+    "id": "recTask3000000026"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Finalize Typeform survey \u2014 Sunday School Term #28",
+    "Project": "Sunday School Term",
+    "Status": "Done",
+    "createdTime": "2026-02-24T19:09:00.000Z",
+    "id": "recTask3000000027"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Coordinate budget ledger with Xero \u2014 Pastoral Care #29",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-02-25T14:46:00.000Z",
+    "id": "recTask3000000028"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Update thank-you sequence \u2014 Sanctuary Renovation #30",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-02-26T11:23:00.000Z",
+    "id": "recTask3000000029"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 1,
+    "Name": "Confirm pledge letters \u2014 Stewardship Sunday #31",
+    "Project": "Stewardship Sunday",
+    "Status": "Done",
+    "createdTime": "2026-02-27T07:00:00.000Z",
+    "id": "recTask3000000030"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft retreat lodging block \u2014 Adult Education \u2014 Living with the Gospels #32",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-02-28T02:37:00.000Z",
+    "id": "recTask3000000031"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Review order of service \u2014 Building Our Future Campaign #33",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-02-28T23:14:00.000Z",
+    "id": "recTask3000000032"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Schedule memorial-anniversary list \u2014 Fall Parish Retreat #34",
+    "Project": "Fall Parish Retreat",
+    "Status": "Done",
+    "createdTime": "2026-03-01T18:51:00.000Z",
+    "id": "recTask3000000033"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Send accessibility ramp sign-off \u2014 Interfaith Prayer Service #35",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-03-02T15:28:00.000Z",
+    "id": "recTask3000000034"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Prepare board agenda \u2014 Sunday School Term #36",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-03-03T11:05:00.000Z",
+    "id": "recTask3000000035"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Follow up on choir music selections \u2014 Pastoral Care #37",
+    "Project": "Pastoral Care",
+    "Status": "Done",
+    "createdTime": "2026-03-04T06:42:00.000Z",
+    "id": "recTask3000000036"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Finalize donor cultivation notes \u2014 Sanctuary Renovation #38",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-03-05T03:19:00.000Z",
+    "id": "recTask3000000037"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Coordinate bulletin proof \u2014 Stewardship Sunday #39",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-03-05T22:56:00.000Z",
+    "id": "recTask3000000038"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Update confirmation class roster \u2014 Adult Education \u2014 Living with the Gospels #40",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "Done",
+    "createdTime": "2026-03-06T18:33:00.000Z",
+    "id": "recTask3000000039"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Confirm hospital-visit schedule \u2014 Building Our Future Campaign #41",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-03-07T15:10:00.000Z",
+    "id": "recTask3000000040"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft kickoff invitations \u2014 Fall Parish Retreat #42",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-03-08T10:47:00.000Z",
+    "id": "recTask3000000041"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Review Typeform survey \u2014 Interfaith Prayer Service #43",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Done",
+    "createdTime": "2026-03-09T07:24:00.000Z",
+    "id": "recTask3000000042"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Schedule budget ledger with Xero \u2014 Sunday School Term #44",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-03-10T03:01:00.000Z",
+    "id": "recTask3000000043"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Send thank-you sequence \u2014 Pastoral Care #45",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-03-10T22:38:00.000Z",
+    "id": "recTask3000000044"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 1,
+    "Name": "Prepare pledge letters \u2014 Sanctuary Renovation #46",
+    "Project": "Sanctuary Renovation",
+    "Status": "Done",
+    "createdTime": "2026-03-11T19:15:00.000Z",
+    "id": "recTask3000000045"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Follow up on retreat lodging block \u2014 Stewardship Sunday #47",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-03-12T14:52:00.000Z",
+    "id": "recTask3000000046"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Finalize order of service \u2014 Adult Education \u2014 Living with the Gospels #48",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-03-13T11:29:00.000Z",
+    "id": "recTask3000000047"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Coordinate memorial-anniversary list \u2014 Building Our Future Campaign #49",
+    "Project": "Building Our Future Campaign",
+    "Status": "Done",
+    "createdTime": "2026-03-14T07:06:00.000Z",
+    "id": "recTask3000000048"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Update accessibility ramp sign-off \u2014 Fall Parish Retreat #50",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-03-15T02:43:00.000Z",
+    "id": "recTask3000000049"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Confirm board agenda \u2014 Interfaith Prayer Service #51",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-03-15T23:20:00.000Z",
+    "id": "recTask3000000050"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Draft choir music selections \u2014 Sunday School Term #52",
+    "Project": "Sunday School Term",
+    "Status": "Done",
+    "createdTime": "2026-03-16T18:57:00.000Z",
+    "id": "recTask3000000051"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Review donor cultivation notes \u2014 Pastoral Care #53",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-03-17T14:34:00.000Z",
+    "id": "recTask3000000052"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Schedule bulletin proof \u2014 Sanctuary Renovation #54",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-03-18T11:11:00.000Z",
+    "id": "recTask3000000053"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Send confirmation class roster \u2014 Stewardship Sunday #55",
+    "Project": "Stewardship Sunday",
+    "Status": "Done",
+    "createdTime": "2026-03-19T06:48:00.000Z",
+    "id": "recTask3000000054"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Prepare hospital-visit schedule \u2014 Adult Education \u2014 Living with the Gospels #56",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-03-20T03:25:00.000Z",
+    "id": "recTask3000000055"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Follow up on kickoff invitations \u2014 Building Our Future Campaign #57",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-03-20T23:02:00.000Z",
+    "id": "recTask3000000056"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Finalize Typeform survey \u2014 Fall Parish Retreat #58",
+    "Project": "Fall Parish Retreat",
+    "Status": "Done",
+    "createdTime": "2026-03-21T18:39:00.000Z",
+    "id": "recTask3000000057"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Coordinate budget ledger with Xero \u2014 Interfaith Prayer Service #59",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-03-22T15:16:00.000Z",
+    "id": "recTask3000000058"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Update thank-you sequence \u2014 Sunday School Term #60",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-03-23T10:53:00.000Z",
+    "id": "recTask3000000059"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 1,
+    "Name": "Confirm pledge letters \u2014 Pastoral Care #61",
+    "Project": "Pastoral Care",
+    "Status": "Done",
+    "createdTime": "2026-03-24T06:30:00.000Z",
+    "id": "recTask3000000060"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft retreat lodging block \u2014 Sanctuary Renovation #62",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-03-25T03:07:00.000Z",
+    "id": "recTask3000000061"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Review order of service \u2014 Stewardship Sunday #63",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-03-25T22:44:00.000Z",
+    "id": "recTask3000000062"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Schedule memorial-anniversary list \u2014 Adult Education \u2014 Living with the Gospels #64",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "Done",
+    "createdTime": "2026-03-26T19:21:00.000Z",
+    "id": "recTask3000000063"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Send accessibility ramp sign-off \u2014 Building Our Future Campaign #65",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-03-27T14:58:00.000Z",
+    "id": "recTask3000000064"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Prepare board agenda \u2014 Fall Parish Retreat #66",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-03-28T10:35:00.000Z",
+    "id": "recTask3000000065"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Follow up on choir music selections \u2014 Interfaith Prayer Service #67",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Done",
+    "createdTime": "2026-03-29T07:12:00.000Z",
+    "id": "recTask3000000066"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Finalize donor cultivation notes \u2014 Sunday School Term #68",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-03-30T02:49:00.000Z",
+    "id": "recTask3000000067"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Coordinate bulletin proof \u2014 Pastoral Care #69",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-03-30T23:26:00.000Z",
+    "id": "recTask3000000068"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Update confirmation class roster \u2014 Sanctuary Renovation #70",
+    "Project": "Sanctuary Renovation",
+    "Status": "Done",
+    "createdTime": "2026-03-31T19:03:00.000Z",
+    "id": "recTask3000000069"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Confirm hospital-visit schedule \u2014 Stewardship Sunday #71",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-04-01T14:40:00.000Z",
+    "id": "recTask3000000070"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Draft kickoff invitations \u2014 Adult Education \u2014 Living with the Gospels #72",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-04-02T11:17:00.000Z",
+    "id": "recTask3000000071"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Review Typeform survey \u2014 Building Our Future Campaign #73",
+    "Project": "Building Our Future Campaign",
+    "Status": "Done",
+    "createdTime": "2026-04-03T06:54:00.000Z",
+    "id": "recTask3000000072"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Schedule budget ledger with Xero \u2014 Fall Parish Retreat #74",
+    "Project": "Fall Parish Retreat",
+    "Status": "In progress",
+    "createdTime": "2026-04-04T02:31:00.000Z",
+    "id": "recTask3000000073"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Send thank-you sequence \u2014 Interfaith Prayer Service #75",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-04-04T23:08:00.000Z",
+    "id": "recTask3000000074"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 1,
+    "Name": "Prepare pledge letters \u2014 Sunday School Term #76",
+    "Project": "Sunday School Term",
+    "Status": "Done",
+    "createdTime": "2026-04-05T18:45:00.000Z",
+    "id": "recTask3000000075"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Follow up on retreat lodging block \u2014 Pastoral Care #77",
+    "Project": "Pastoral Care",
+    "Status": "Planning",
+    "createdTime": "2026-04-06T15:22:00.000Z",
+    "id": "recTask3000000076"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Finalize order of service \u2014 Sanctuary Renovation #78",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-04-07T10:59:00.000Z",
+    "id": "recTask3000000077"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Coordinate memorial-anniversary list \u2014 Stewardship Sunday #79",
+    "Project": "Stewardship Sunday",
+    "Status": "Done",
+    "createdTime": "2026-04-08T06:36:00.000Z",
+    "id": "recTask3000000078"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Update accessibility ramp sign-off \u2014 Adult Education \u2014 Living with the Gospels #80",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "In progress",
+    "createdTime": "2026-04-09T03:13:00.000Z",
+    "id": "recTask3000000079"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Confirm board agenda \u2014 Building Our Future Campaign #81",
+    "Project": "Building Our Future Campaign",
+    "Status": "Planning",
+    "createdTime": "2026-04-09T22:50:00.000Z",
+    "id": "recTask3000000080"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Draft choir music selections \u2014 Fall Parish Retreat #82",
+    "Project": "Fall Parish Retreat",
+    "Status": "Done",
+    "createdTime": "2026-04-10T19:27:00.000Z",
+    "id": "recTask3000000081"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Review donor cultivation notes \u2014 Interfaith Prayer Service #83",
+    "Project": "Interfaith Prayer Service",
+    "Status": "Planning",
+    "createdTime": "2026-04-11T15:04:00.000Z",
+    "id": "recTask3000000082"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Schedule bulletin proof \u2014 Sunday School Term #84",
+    "Project": "Sunday School Term",
+    "Status": "In progress",
+    "createdTime": "2026-04-12T10:41:00.000Z",
+    "id": "recTask3000000083"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Send confirmation class roster \u2014 Pastoral Care #85",
+    "Project": "Pastoral Care",
+    "Status": "Done",
+    "createdTime": "2026-04-13T07:18:00.000Z",
+    "id": "recTask3000000084"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 1,
+    "Name": "Prepare hospital-visit schedule \u2014 Sanctuary Renovation #86",
+    "Project": "Sanctuary Renovation",
+    "Status": "In progress",
+    "createdTime": "2026-04-14T02:55:00.000Z",
+    "id": "recTask3000000085"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Follow up on kickoff invitations \u2014 Stewardship Sunday #87",
+    "Project": "Stewardship Sunday",
+    "Status": "Planning",
+    "createdTime": "2026-04-14T22:32:00.000Z",
+    "id": "recTask3000000086"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Finalize Typeform survey \u2014 Adult Education \u2014 Living with the Gospels #88",
+    "Project": "Adult Education \u2014 Living with the Gospels",
+    "Status": "Done",
+    "createdTime": "2026-04-15T19:09:00.000Z",
+    "id": "recTask3000000087"
+  }
+]

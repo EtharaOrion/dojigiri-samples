@@ -1,0 +1,21 @@
+field_id,form_id,title,field_type,ref,required,choices,order,__api__,__table__,__file__,__row_index__
+fld-csat-name,frm-csat-01,What is your name?,short_text,name,True,"[""choices-23150""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,0
+fld-csat-rating,frm-csat-01,How would you rate our service?,rating,service_rating,True,"[""choices-37123""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,1
+fld-csat-recommend,frm-csat-01,Would you recommend us?,multiple_choice,recommend,True,"[""Definitely"", ""Probably"", ""Not sure"", ""No""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,2
+fld-csat-email,frm-csat-01,Your email,email,contact_email,False,"[""choices-21504""]",4,typeform-api,fields,/opt/mocks/typeform-api/fields.json,3
+fld-onb-role,frm-onboard-02,What is your role?,multiple_choice,role,True,"[""Engineer"", ""Product Manager"", ""Designer"", ""Executive"", ""Other""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,4
+fld-onb-ease,frm-onboard-02,How easy was setup?,rating,setup_ease,True,"[""choices-7785""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,5
+fld-onb-comments,frm-onboard-02,Any additional comments?,short_text,comments,False,"[""choices-11190""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,6
+fld-evt-name,frm-event-03,Full name,short_text,attendee_name,True,"[""choices-1083""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,7
+fld-evt-email,frm-event-03,Email address,email,attendee_email,True,"[""choices-71234""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,8
+fld-evt-track,frm-event-03,Which track will you attend?,multiple_choice,track,True,"[""Platform"", ""Frontend"", ""Data"", ""Security""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,9
+fld-csat-name-v11,frm-csat-01,What is your name?,short_text,name,True,"[""choices-14047""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,10
+fld-csat-rating-v12,frm-csat-01,How would you rate our service?,rating,service_rating,True,"[""choices-67406""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,11
+fld-csat-recommend-v13,frm-csat-01,Would you recommend us?,multiple_choice,recommend,True,"[""Definitely"", ""Probably"", ""Not sure"", ""No""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,12
+fld-csat-email-v14,frm-csat-01,Your email,email,contact_email,False,"[""choices-76460""]",4,typeform-api,fields,/opt/mocks/typeform-api/fields.json,13
+fld-onb-role-v15,frm-onboard-02,What is your role?,multiple_choice,role,True,"[""Engineer"", ""Product Manager"", ""Designer"", ""Executive"", ""Other""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,14
+fld-onb-ease-v16,frm-onboard-02,How easy was setup?,rating,setup_ease,True,"[""choices-9597""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,15
+fld-onb-comments-v17,frm-onboard-02,Any additional comments?,short_text,comments,False,"[""choices-97741""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,16
+fld-evt-name-v18,frm-event-03,Full name,short_text,attendee_name,True,"[""choices-9354""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,17
+fld-evt-email-v19,frm-event-03,Email address,email,attendee_email,True,"[""choices-80163""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,18
+fld-evt-track-v20,frm-event-03,Which track will you attend?,multiple_choice,track,True,"[""Platform"", ""Frontend"", ""Data"", ""Security""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,19

@@ -1,0 +1,11 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description,Classification
+acct-1000,Chase Sapphire Business,Bank,Checking,2843.55,True,Chase Sapphire Business — Checking,Asset
+acct-1010,Ally Business Checking,Bank,Checking,5240.12,True,Ally Business Checking — Checking,Asset
+acct-1020,Ally High-Yield Savings,Bank,Savings,5200.0,True,Ally High-Yield Savings — Savings,Asset
+acct-1030,Fidelity Roth IRA,Other Asset,OtherLongTermAssets,6800.0,True,Fidelity Roth IRA — OtherLongTermAssets,Expense
+acct-4000,Design Services Revenue,Income,ServiceFeeIncome,0.0,True,Design Services Revenue — ServiceFeeIncome,Revenue
+acct-5000,Software & Subscriptions,Expense,OtherMiscellaneousServiceCost,0.0,True,Software & Subscriptions — OtherMiscellaneousServiceCost,Expense
+acct-5010,Client Meeting Meals,Expense,TravelMeals,0.0,True,Client Meeting Meals — TravelMeals,Expense
+acct-5020,Office & Home Studio,Expense,OfficeGeneralAdministrativeExpenses,0.0,True,Office & Home Studio — OfficeGeneralAdministrativeExpenses,Expense
+acct-5030,Estimated Tax Payments,Expense,TaxesPaid,0.0,True,Estimated Tax Payments — TaxesPaid,Expense
+acct-5040,Print & Production,Expense,SuppliesMaterials,0.0,True,Print & Production — SuppliesMaterials,Expense

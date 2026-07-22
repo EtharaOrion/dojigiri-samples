@@ -1,0 +1,5 @@
+id,name,description,active,created,__api__,__table__,__file__,__row_index__,object
+prod_Starter,Starter Plan,Up to 3 seats and basic reporting,True,1770143400,stripe-api,products,/opt/mocks/stripe-api/products.json,0,product
+prod_Pro,Pro Plan,Unlimited seats and advanced analytics,True,1766331900,stripe-api,products,/opt/mocks/stripe-api/products.json,1,product
+prod_Enterprise,Enterprise Plan,Dedicated support and SSO,True,1764090000,stripe-api,products,/opt/mocks/stripe-api/products.json,2,product
+prod_POS,POS Hardware Bundle,Card reader plus stand,True,1770142500,stripe-api,products,/opt/mocks/stripe-api/products.json,3,product

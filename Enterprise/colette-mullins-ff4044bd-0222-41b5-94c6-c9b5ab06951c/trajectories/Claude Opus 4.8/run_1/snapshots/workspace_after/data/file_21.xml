@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClevelandInterfaithCouncil established="2003" city="Cleveland OH">
+  <CoChairs>
+    <Chair>
+      <Name>Rev. Colette Mullins</Name>
+      <Organization>St. Genevieve Community Church (Episcopal)</Organization>
+      <Phone>(216) 555-0340</Phone>
+      <Email>colette.mullins@Greenridertech.com</Email>
+    </Chair>
+    <Chair>
+      <Name>Father Thomas Murphy</Name>
+      <Organization>St. Augustine Catholic Parish</Organization>
+      <Phone>(216) 555-0424</Phone>
+      <Email>frmurphy@staugcle.org</Email>
+    </Chair>
+    <Chair>
+      <Name>Imam Rashid Hassan</Name>
+      <Organization>Cleveland Islamic Center</Organization>
+      <Phone>(216) 555-0435</Phone>
+      <Email>rhassan@clevelandic.org</Email>
+    </Chair>
+  </CoChairs>
+  <MemberCommunities>
+    <Community>
+      <Organization>Temple Israel of Cleveland</Organization>
+      <Tradition>Jewish/Reform</Tradition>
+      <Leader>Rabbi Miriam Goldfarb</Leader>
+      <Phone>(216) 555-0580</Phone>
+      <Email>mgoldfarb@templeisraelcle.org</Email>
+    </Community>
+    <Community>
+      <Organization>First Baptist Church of Cleveland</Organization>
+      <Tradition>Baptist</Tradition>
+      <Leader>Rev. James Washington</Leader>
+      <Phone>(216) 555-0591</Phone>
+      <Email>jwashington@firstbaptistcle.org</Email>
+    </Community>
+    <Community>
+      <Organization>Cleveland Buddhist Center</Organization>
+      <Tradition>Buddhist</Tradition>
+      <Leader>Rev. Kenji Yamamoto</Leader>
+      <Phone>(216) 555-0602</Phone>
+      <Email>kyamamoto@clevelandbuddhist.org</Email>
+    </Community>
+    <Community>
+      <Organization>Lakewood Presbyterian Church</Organization>
+      <Tradition>Presbyterian</Tradition>
+      <Leader>Rev. Anne McAllister</Leader>
+      <Phone>(216) 555-0613</Phone>
+      <Email>amcallister@lakewoodpresby.org</Email>
+    </Community>
+    <Community>
+      <Organization>Greater Cleveland Unitarian Fellowship</Organization>
+      <Tradition>Unitarian Universalist</Tradition>
+      <Leader>Rev. Patricia Stern-Davis</Leader>
+      <Phone>(216) 555-0624</Phone>
+      <Email>pstern@gcuf.org</Email>
+    </Community>
+    <Community>
+      <Organization>St. Therese Greek Orthodox Church</Organization>
+      <Tradition>Greek Orthodox</Tradition>
+      <Leader>Fr. Konstantinos Papadopoulos</Leader>
+      <Phone>(216) 555-0635</Phone>
+      <Email>kpapadopoulos@sttheresecle.org</Email>
+    </Community>
+  </MemberCommunities>
+</ClevelandInterfaithCouncil>

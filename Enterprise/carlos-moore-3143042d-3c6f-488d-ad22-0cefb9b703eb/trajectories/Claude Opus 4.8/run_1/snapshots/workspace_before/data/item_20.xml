@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wellnessProgram name="Bellmark Employee Wellness Program" projectLead="Carlos Moore" employeeId="CM-2018-047" launchTarget="2027-01" status="launch-preparation">
+  <vendor>
+    <name>HealthPath Solutions</name>
+    <contractSigned>2025-11</contractSigned>
+    <pricePerEmployeePerMonth currency="USD">18.50</pricePerEmployeePerMonth>
+    <pilot>
+      <participants>30</participants>
+      <window start="2025-07" end="2025-09"/>
+      <appRating outOf="5">4.2</appRating>
+      <outcome>Positive, recommended for full rollout</outcome>
+    </pilot>
+  </vendor>
+  <population>
+    <totalEmployees>400</totalEmployees>
+    <offices>
+      <office name="Commerce Park HQ" employees="245"/>
+      <office name="Warehouse Annex, East Nashville" employees="120"/>
+      <office name="Memphis Satellite" employees="35"/>
+    </offices>
+  </population>
+  <features>
+    <feature key="mental-health" enabled="true">Mental health resources with employee assistance sessions, eight per year at no cost</feature>
+    <feature key="fitness-tracking" enabled="true">Activity and fitness tracking with device sync</feature>
+    <feature key="nutrition" enabled="true">Nutrition guidance and weekly content</feature>
+    <feature key="eap-integration" enabled="true">Native employee assistance program integration</feature>
+    <feature key="admin-reporting" enabled="true">Real time, exportable administrator dashboard</feature>
+  </features>
+  <integration>
+    <identityProvider>Single sign-on through the company identity platform</identityProvider>
+    <recordsSystem>Core employee records system, read sync for eligibility</recordsSystem>
+    <dataPrivacy signedAddendum="2025-12">Business associate agreement signed, legal and data privacy review complete</dataPrivacy>
+  </integration>
+  <rolloutPhases>
+    <phase number="1" name="Vendor Selection" status="complete"/>
+    <phase number="2" name="Launch Preparation" status="in-progress">
+      <task owner="IT and CM" due="2026-10" status="in-progress">Integration with records system and single sign-on</task>
+      <task owner="CM" due="2026-10" status="in-progress">Employee communication plan</task>
+      <task owner="CM" due="2026-11" status="pending">Manager training sessions</task>
+      <task owner="Legal" due="2026-10" status="pending">Employee data handling disclosure review</task>
+    </phase>
+    <phase number="3" name="Post-Launch" status="upcoming">
+      <task owner="CM" due="2027-02" status="planned">Thirty day check in with implementation manager</task>
+      <task owner="CM" due="2027-04" status="planned">Ninety day engagement metrics review and vendor scorecard</task>
+      <task owner="CM" due="2027-07" status="planned">Mid year assessment for the diversity and inclusion committee</task>
+      <task owner="CM" due="2027-11" status="planned">Annual report and renewal decision</task>
+    </phase>
+  </rolloutPhases>
+  <governance>
+    <reportsTo>Wanda Giles, Vice President Human Resources</reportsTo>
+    <confidentiality>Internal HR leadership only. Do not distribute without approval.</confidentiality>
+  </governance>
+</wellnessProgram>

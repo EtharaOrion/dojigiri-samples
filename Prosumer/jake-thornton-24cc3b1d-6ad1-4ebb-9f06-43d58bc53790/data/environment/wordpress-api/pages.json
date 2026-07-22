@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9301",
+    "title": "About",
+    "slug": "about",
+    "status": "publish",
+    "author": "1",
+    "content": "<h1>About</h1><p>Static page content.</p>",
+    "date": "2026-11-28T11:25:48+00:00",
+    "modified": "2026-10-10T21:17:08+00:00",
+    "parent": "0"
+  },
+  {
+    "id": "9302",
+    "title": "Contact",
+    "slug": "contact",
+    "status": "publish",
+    "author": "1",
+    "content": "<h1>Contact</h1><p>Static page content.</p>",
+    "date": "2026-01-03T05:34:13+00:00",
+    "modified": "2026-10-14T00:09:56+00:00",
+    "parent": "0"
+  },
+  {
+    "id": "9303",
+    "title": "Pricing",
+    "slug": "pricing",
+    "status": "publish",
+    "author": "1",
+    "content": "<h1>Pricing</h1><p>Static page content.</p>",
+    "date": "2026-12-03T01:16:11+00:00",
+    "modified": "2026-10-04T04:31:49+00:00",
+    "parent": "0"
+  }
+]

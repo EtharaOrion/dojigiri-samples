@@ -1,0 +1,222 @@
+[
+  {
+    "contact_id": "bd5e9cd8-cf22-7d93-4620-092ed80abb7344",
+    "name": "Marcus Johnson",
+    "first_name": "Marcus",
+    "last_name": "Johnson",
+    "email": "marcus.d.johnson@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1000"
+  },
+  {
+    "contact_id": "6hltjk2bf35x8bm9es0xtvk6zqkn3x3z",
+    "name": "Linda Thornton",
+    "first_name": "Linda",
+    "last_name": "Thornton",
+    "email": "linda.thornton@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1001"
+  },
+  {
+    "contact_id": "aae06882-10b1-4a86-433d-024a166d16222",
+    "name": "Katie Thornton",
+    "first_name": "Katie",
+    "last_name": "Thornton",
+    "email": "katie.thornton@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1002"
+  },
+  {
+    "contact_id": "0112adc3-4353-58b7-494c-2b254b93d7b7304",
+    "name": "Gloria Johnson",
+    "first_name": "Gloria",
+    "last_name": "Johnson",
+    "email": "gloria.johnson@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1003"
+  },
+  {
+    "contact_id": "02b2rsxc3dnu8krqe7w9ehhv5hy83rxp",
+    "name": "Dave Thornton",
+    "first_name": "Dave",
+    "last_name": "Thornton",
+    "email": "dave.thornton@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1004"
+  },
+  {
+    "contact_id": "4b6cb64e-d17f-7b90-4607-705d40c49f7333",
+    "name": "Priya Raman",
+    "first_name": "Priya",
+    "last_name": "Johnson",
+    "email": "priya.raman@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1005"
+  },
+  {
+    "contact_id": "babc8af8-c8c5-c891-4412-73d91ebc8b7322",
+    "name": "Andre Bishop",
+    "first_name": "Andre",
+    "last_name": "Johnson",
+    "email": "andre.bishop@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1006"
+  },
+  {
+    "contact_id": "an2j168jbfku8q4841evkqideqn7oqxk",
+    "name": "Dr. Keisha Williams",
+    "first_name": "Dr.",
+    "last_name": "Keisha Williams",
+    "email": "keisha.williams@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1007"
+  },
+  {
+    "contact_id": "h04qg61zgz82t9zy1tf55cmzscmsiw28",
+    "name": "Nene Barry",
+    "first_name": "Nene",
+    "last_name": "Barry",
+    "email": "nene.barry@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1008"
+  },
+  {
+    "contact_id": "0b322810-542a-d192-4824-24f204e594b7307",
+    "name": "Dr. Rashida Moore",
+    "first_name": "Dr.",
+    "last_name": "Rashida Moore",
+    "email": "dr.rashida.moore@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1009"
+  },
+  {
+    "contact_id": "f3x55moybprgfy6d7cxddk13r6thf0os",
+    "name": "Dr. Tanya Brooks",
+    "first_name": "Dr.",
+    "last_name": "Tanya Brooks",
+    "email": "dr.tanya.brooks@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1010"
+  },
+  {
+    "contact_id": "eefc4a99-aaa9-5291-4f32-5dfc8981e8276",
+    "name": "Tasha Williams",
+    "first_name": "Tasha",
+    "last_name": "Williams",
+    "email": "tasha.williams@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1011"
+  },
+  {
+    "contact_id": "3e5de2ac-adcf-cea3-406e-d1afaed97931",
+    "name": "Aisha Patel",
+    "first_name": "Aisha",
+    "last_name": "Patel",
+    "email": "aisha.patel@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1012"
+  },
+  {
+    "contact_id": "ad97449a-0d55-5895-46fc-caa29da53904",
+    "name": "Erin Boyd",
+    "first_name": "Erin",
+    "last_name": "Boyd",
+    "email": "erin.boyd@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1013"
+  },
+  {
+    "contact_id": "fna3ya5ooqu5sm3cav8yh2db4bg8xlo7",
+    "name": "Whitney Sims",
+    "first_name": "Whitney",
+    "last_name": "Sims",
+    "email": "whitney.sims@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1014"
+  },
+  {
+    "contact_id": "8ff33896-41e4-008a-400e-5a59cf266024",
+    "name": "Maya Roberts",
+    "first_name": "Maya",
+    "last_name": "Roberts",
+    "email": "maya.roberts@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1015"
+  },
+  {
+    "contact_id": "abf1d8a1-d44d-cea6-481f-40e39c8a6ac7301",
+    "name": "Devon Ellis",
+    "first_name": "Devon",
+    "last_name": "Ellis",
+    "email": "devon.ellis@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1016"
+  },
+  {
+    "contact_id": "6ca87e58-1eeb-03b5-4510-a1b686245719",
+    "name": "Priya Anand",
+    "first_name": "Priya",
+    "last_name": "Anand",
+    "email": "priya.anand@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1017"
+  },
+  {
+    "contact_id": "kt9tlx1dc2nahu60ctfb5qm5u5w36htc",
+    "name": "Dr. Sofia Ramirez",
+    "first_name": "Dr.",
+    "last_name": "Sofia Ramirez",
+    "email": "sofia.ramirez@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1018"
+  },
+  {
+    "contact_id": "4e25fe39-2ac9-cc92-4819-c0a84b9c5b7386",
+    "name": "Brianna Cole",
+    "first_name": "Brianna",
+    "last_name": "Cole",
+    "email": "brianna.cole@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1019"
+  }
+]

@@ -1,0 +1,9 @@
+amount_due,amount_paid,charge,created,currency,customer,due_date,id,number,status,subscription,__api__,__table__,__file__,__row_index__,object
+75000,75000,ch_004d9b92879ce0aee8,1781634600,usd,cus_edd662a1be10c36a,1784226600,in_00086eb0799d556ace,INV-2900,paid,sub_00d33d6e83bb1521df,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,0,invoice
+4900,4900,ch_00a32eea751c6d35ba,1780425000,usd,cus_d740de94f7156088,1783017000,in_007276292e28f742a4,INV-2901,paid,sub_003cc63eeff83f6ea7,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,1,invoice
+1900,1900,ch_009bb2a021f93d5720,1779215400,usd,cus_1ad202554975fc46,1781807400,in_009de349ca592c4817,INV-2902,paid,sub_002ad8d053d0d4d5c5,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,2,invoice
+49000,49000,ch_006707abf436e6b07a,1778005800,usd,cus_e4920d2325b0b322,1780597800,in_000793435a056250a0,INV-2903,paid,sub_000ea0565528d2f707,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,3,invoice
+2800,2800,ch_00391e473b77de19f2,1776796200,usd,cus_cbfd6a6989adeaa2,1779388200,in_00484db0b126807942,INV-2904,paid,sub_00da98454eacf69245,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,4,invoice
+4900,0,,1775586600,usd,cus_00eecb88b0827dd7,1778178600,in_00d441e54959103147,INV-2905,open,,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,5,invoice
+3500,0,,1774377000,usd,cus_cafd8c851ba7a59a,1776969000,in_00a44117281c4f4ac9,INV-2906,open,,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,6,invoice
+3500,0,,1773167400,usd,cus_8f33a3882fca127c,1775759400,in_00864e06c1de5b1fd5,INV-2907,open,,stripe-api,invoices,/opt/mocks/stripe-api/invoices.json,7,invoice

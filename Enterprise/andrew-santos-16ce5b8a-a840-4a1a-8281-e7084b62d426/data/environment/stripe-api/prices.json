@@ -1,0 +1,92 @@
+[
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_b8d6b456a0373d",
+    "nickname": "Starter plan — monthly",
+    "product": "prod_82b09dc624281f",
+    "recurring_interval": "month",
+    "unit_amount": "1900"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_f46a30376253db",
+    "nickname": "Pro plan — monthly",
+    "product": "prod_6fdcb3e7001492",
+    "recurring_interval": "month",
+    "unit_amount": "4900"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_8a96840b25912c",
+    "nickname": "Business plan — monthly",
+    "product": "prod_813468e14a61b4",
+    "recurring_interval": "month",
+    "unit_amount": "14900"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_34d2ee58524e49",
+    "nickname": "Pro plan — annual",
+    "product": "prod_e8bbb182e6ede1",
+    "recurring_interval": "year",
+    "unit_amount": "49000"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_732822010115be",
+    "nickname": "Implementation services",
+    "product": "prod_d1a70d88883cf0",
+    "recurring_interval": "one_time",
+    "unit_amount": "75000"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_9a9442610ea938",
+    "nickname": "Consultation — 60 min",
+    "product": "prod_3a643eb147e5a3",
+    "recurring_interval": "one_time",
+    "unit_amount": "18000"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_a4148824278447",
+    "nickname": "Brand kit",
+    "product": "prod_702d06f5142336",
+    "recurring_interval": "one_time",
+    "unit_amount": "12000"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_27820d8902e942",
+    "nickname": "Welcome pack",
+    "product": "prod_a193fe658d7625",
+    "recurring_interval": "one_time",
+    "unit_amount": "4500"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_5f810714c0479c",
+    "nickname": "Tee — large",
+    "product": "prod_39e317352ebe97",
+    "recurring_interval": "one_time",
+    "unit_amount": "2800"
+  },
+  {
+    "active": "true",
+    "currency": "usd",
+    "id": "price_6081de547da312",
+    "nickname": "Notebook bundle",
+    "product": "prod_4b4bc65c73490b",
+    "recurring_interval": "one_time",
+    "unit_amount": "3500"
+  }
+]

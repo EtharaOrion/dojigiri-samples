@@ -1,0 +1,8 @@
+id,messages_total,messages_unread,name,threads_total,threads_unread,type,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,130,14,INBOX,130,14,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,130,14,130,14
+SENT,20,0,SENT,20,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,20,0,20,0
+DRAFTS,1,0,DRAFT,1,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,1,0,1,0
+TRASH,0,0,TRASH,0,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,0,0,0,0
+SPAM,0,0,SPAM,0,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,0,0,0,0
+Label_greenridertech,5,1,Conway Dermatology Associates,5,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,5,1,5,1
+Label_followup,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,2,1,2,1

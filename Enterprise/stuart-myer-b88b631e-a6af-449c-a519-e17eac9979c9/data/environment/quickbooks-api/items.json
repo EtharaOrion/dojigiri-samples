@@ -1,0 +1,222 @@
+[
+  {
+    "Id": "1",
+    "Name": "Oktoberfest Amber Lager - 1/6 bbl keg",
+    "Description": "American amber lager, seasonal Oktoberfest release; sixtel keg",
+    "Type": "Inventory",
+    "UnitPrice": 165.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "2",
+    "Name": "Czech-Style Pilsner - 1/2 bbl keg",
+    "Description": "Decoction-mashed Czech pilsner; half barrel keg",
+    "Type": "Inventory",
+    "UnitPrice": 195.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "3",
+    "Name": "Farmhouse Saison - case 24x16oz",
+    "Description": "Dry, peppery farmhouse saison; case of 24 pounder cans",
+    "Type": "Inventory",
+    "UnitPrice": 96.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "4",
+    "Name": "Anniversary Wild Ale - case 12x500ml",
+    "Description": "Barrel-aged wild ale, anniversary release; case of 12",
+    "Type": "Inventory",
+    "UnitPrice": 168.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "5",
+    "Name": "West Coast IPA - 1/6 bbl keg",
+    "Description": "Dank, dry West Coast IPA; sixtel keg",
+    "Type": "Inventory",
+    "UnitPrice": 175.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "6",
+    "Name": "Winter Ale - case 24x16oz",
+    "Description": "Spiced dark winter ale; case of 24 pounder cans",
+    "Type": "Inventory",
+    "UnitPrice": 108.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "7",
+    "Name": "Keg Deposit",
+    "Description": "Refundable stainless keg deposit",
+    "Type": "Service",
+    "UnitPrice": 50.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "8",
+    "Name": "Logo Glassware - case of 12",
+    "Description": "Driftwood logo willi-becher glasses; case of 12",
+    "Type": "Inventory",
+    "UnitPrice": 84.0,
+    "IncomeAccountRef_value": 5,
+    "IncomeAccountRef_name": "Merchandise Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "9",
+    "Name": "Private Taproom Event",
+    "Description": "Private taproom buyout / event booking",
+    "Type": "Service",
+    "UnitPrice": 500.0,
+    "IncomeAccountRef_value": 3,
+    "IncomeAccountRef_name": "Taproom Sales",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "10",
+    "Name": "Hazy IPA - 1/2 bbl keg",
+    "Description": "New England-style hazy IPA; half-barrel keg",
+    "Type": "Inventory",
+    "UnitPrice": 210.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "11",
+    "Name": "Dry Irish Stout - 1/6 bbl keg",
+    "Description": "Nitro dry Irish stout; sixtel keg",
+    "Type": "Inventory",
+    "UnitPrice": 155.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "12",
+    "Name": "Hefeweizen - case 24x16oz",
+    "Description": "German-style wheat beer; case of 24 pounder cans",
+    "Type": "Inventory",
+    "UnitPrice": 62.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "13",
+    "Name": "Barrel-Aged Imperial Stout - case 12x500ml",
+    "Description": "Bourbon barrel-aged imperial stout; case of 12 bombers",
+    "Type": "Inventory",
+    "UnitPrice": 180.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "14",
+    "Name": "Fresh Hop Pale Ale - 1/2 bbl keg",
+    "Description": "Seasonal wet-hop pale ale; half-barrel keg",
+    "Type": "Inventory",
+    "UnitPrice": 195.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "15",
+    "Name": "Pilsner - case 24x16oz",
+    "Description": "Crisp German pilsner; case of 24 pounder cans",
+    "Type": "Inventory",
+    "UnitPrice": 58.0,
+    "IncomeAccountRef_value": 4,
+    "IncomeAccountRef_name": "Wholesale Beer Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "16",
+    "Name": "Driftwood Logo T-Shirt",
+    "Description": "Organic cotton tee with Driftwood logo",
+    "Type": "Inventory",
+    "UnitPrice": 24.0,
+    "IncomeAccountRef_value": 5,
+    "IncomeAccountRef_name": "Merchandise Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "17",
+    "Name": "Driftwood Trucker Hat",
+    "Description": "Embroidered trucker hat",
+    "Type": "Inventory",
+    "UnitPrice": 26.0,
+    "IncomeAccountRef_value": 5,
+    "IncomeAccountRef_name": "Merchandise Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "18",
+    "Name": "Driftwood Pint Glass",
+    "Description": "Branded 16oz pint glass (single)",
+    "Type": "Inventory",
+    "UnitPrice": 8.0,
+    "IncomeAccountRef_value": 5,
+    "IncomeAccountRef_name": "Merchandise Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "19",
+    "Name": "Taproom Pint Pour",
+    "Description": "16oz draft pour in the taproom",
+    "Type": "Service",
+    "UnitPrice": 7.0,
+    "IncomeAccountRef_value": 3,
+    "IncomeAccountRef_name": "Taproom Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "20",
+    "Name": "Brewery Tour & Tasting",
+    "Description": "Guided brewery tour with tasting flight",
+    "Type": "Service",
+    "UnitPrice": 20.0,
+    "IncomeAccountRef_value": 3,
+    "IncomeAccountRef_name": "Taproom Sales",
+    "Active": "true",
+    "Taxable": "true"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "account_id": "acc_sav_002",
+    "name": "Cornerstone High-Yield Savings",
+    "official_name": "Cornerstone Online Bank High-Yield Savings",
+    "mask": "3811",
+    "type": "depository",
+    "subtype": "savings",
+    "available": 42500.0,
+    "current": 42500.0,
+    "limit": null,
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_chk_001",
+    "name": "Cornerstone Checking",
+    "official_name": "Carlos Moore Personal Checking",
+    "mask": "8370",
+    "type": "depository",
+    "subtype": "checking",
+    "available": 8542.55,
+    "current": 8642.55,
+    "limit": null,
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_ccd_003",
+    "name": "Cornerstone Rewards Card",
+    "official_name": "Cornerstone Cash Rewards Visa",
+    "mask": "4021",
+    "type": "credit",
+    "subtype": "credit card",
+    "available": 13715.45,
+    "current": 1284.55,
+    "limit": 15000.0,
+    "iso_currency_code": "USD"
+  }
+]

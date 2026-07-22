@@ -1,0 +1,16 @@
+company_id,department,email,first_name,flsa_status,id,job_title,last_name,payment_unit,rate,start_date,terminated,__api__,__table__,__file__,__row_index__
+co-0000f7b97211,Executive,andrew.santos@Greenridertech.co,Andrew,Exempt,emp-1a2b3c4d,Executive Director,Santos,Year,92000.0,2018-03-15,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,0
+co-0000f7b97211,Programs,marcus@dyaa.org,Marcus,Exempt,emp-2b3c4d5e,Program Director,Thompson,Year,78000.0,2019-11-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,1
+co-0000f7b97211,Development,bross@dyaa.org,Bethany,Exempt,emp-3c4d5e6f,Development Director,Ross,Year,72000.0,2021-02-08,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,2
+co-0000f7b97211,Operations,ghoffman@dyaa.org,Greg,Exempt,emp-4d5e6f70,Operations Manager,Hoffman,Year,58000.0,2020-10-19,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,3
+co-0000f7b97211,Operations,lsims@dyaa.org,Latoya,Non-exempt,emp-5e6f7081,Administrative Coordinator,Sims,Year,45000.0,2022-01-17,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,4
+co-0000f7b97211,Programs,sortega@dyaa.org,Sam,Non-exempt,emp-6f708192,"Program Coordinator, After-School",Ortega,Year,48000.0,2022-11-07,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,5
+co-0000f7b97211,Programs,npark@dyaa.org,Naomi,Non-exempt,emp-708192a3,"Program Coordinator, Summer",Park,Year,48000.0,2023-02-21,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,6
+co-0000f7b97211,Programs,cellison@dyaa.org,Curtis,Non-exempt,emp-8192a3b4,"Program Coordinator, Livernois Site",Ellison,Year,49000.0,2026-02-02,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,7
+co-0000f7b97211,Programs,jbrooks@dyaa.org,Jamal,Non-exempt,emp-92a3b4c5,"Teaching Artist, Visual Arts",Brooks,Year,52000.0,2020-03-09,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,8
+co-0000f7b97211,Programs,tokafor@dyaa.org,Tanya,Non-exempt,emp-a3b4c5d6,"Teaching Artist, Music",Okafor,Year,52000.0,2020-10-12,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,9
+co-0000f7b97211,Programs,pnair@dyaa.org,Priya,Non-exempt,emp-b4c5d6e7,"Teaching Artist, Filmmaking",Nair,Year,50000.0,2021-01-25,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,10
+co-0000f7b97211,Programs,rcarter@dyaa.org,Renee,Non-exempt,emp-c5d6e7f8,"Teaching Artist, Spoken Word",Carter,Year,48000.0,2022-02-14,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,11
+co-0000f7b97211,Programs,dhayes@dyaa.org,Devon,Non-exempt,emp-d6e7f809,"Teaching Artist, Dance",Hayes,Year,47000.0,2023-10-30,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,12
+co-0000f7b97211,Programs,amendez@dyaa.org,Aria,Non-exempt,emp-e7f8091a,"Teaching Artist, Visual Arts",Mendez,Year,45000.0,2026-02-20,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,13
+co-0000f7b97211,Programs,ninapark@dyaa.org,Nina,Non-exempt,emp-f8091a2b,"Teaching Artist, Music",Park,Year,45000.0,2025-10-13,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,14

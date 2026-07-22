@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Stuart Myer"
+        ],
+        "emails": [
+          {
+            "data": "stuart.myer@voissync.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+15035550100",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1834 SE Hawthorne Blvd Apt 4",
+              "city": "Portland",
+              "region": "OR",
+              "postal_code": "97214",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Stuart Myer"
+        ],
+        "emails": [
+          {
+            "data": "stuart.myer@voissync.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+15035550100",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1834 SE Hawthorne Blvd Apt 4",
+              "city": "Portland",
+              "region": "OR",
+              "postal_code": "97214",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

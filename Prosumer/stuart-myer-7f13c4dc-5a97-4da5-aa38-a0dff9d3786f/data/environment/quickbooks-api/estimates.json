@@ -1,0 +1,822 @@
+[
+  {
+    "Id": "8001",
+    "DocNumber": "DBC-EST-1000",
+    "TxnDate": "2026-02-01",
+    "ExpirationDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "8 x West Coast IPA - 1/6 bbl keg for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "West Coast IPA - 1/6 bbl keg"
+          },
+          "UnitPrice": 175.0,
+          "Qty": 8
+        }
+      }
+    ],
+    "TotalAmt": 1400.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "5002",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-03T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8002",
+    "DocNumber": "DBC-EST-1001",
+    "TxnDate": "2026-02-10",
+    "ExpirationDate": "2026-03-12",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1170.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "6 x Czech-Style Pilsner - 1/2 bbl keg for Laurelhurst Public House",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "2",
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          },
+          "UnitPrice": 195.0,
+          "Qty": 6
+        }
+      }
+    ],
+    "TotalAmt": 1170.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "5004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-10T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-12T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8003",
+    "DocNumber": "DBC-EST-1002",
+    "TxnDate": "2025-11-15",
+    "ExpirationDate": "2025-12-16",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1650.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "10 x Oktoberfest Amber Lager - 1/6 bbl keg for Division Street Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          },
+          "UnitPrice": 165.0,
+          "Qty": 10
+        }
+      }
+    ],
+    "TotalAmt": 1650.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5007",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-15T10:00:00-07:00",
+      "LastUpdatedTime": "2025-12-16T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8004",
+    "DocNumber": "DBC-EST-1003",
+    "TxnDate": "2026-03-01",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "1010",
+      "name": "Hawthorne Fermentary"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "1 x Private Taproom Event for Hawthorne Fermentary",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "9",
+            "name": "Private Taproom Event"
+          },
+          "UnitPrice": 500.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-04",
+    "LinkedTxn": [
+      {
+        "TxnId": "5010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-31T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8005",
+    "DocNumber": "DBC-EST-1004",
+    "TxnDate": "2025-11-30",
+    "ExpirationDate": "2025-12-30",
+    "CustomerRef": {
+      "value": "1013",
+      "name": "Kenton Club & Kitchen"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2016.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "12 x Anniversary Wild Ale - case 12x500ml for Kenton Club & Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "4",
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          },
+          "UnitPrice": 168.0,
+          "Qty": 12
+        }
+      }
+    ],
+    "TotalAmt": 2016.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5013",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-30T10:00:00-07:00",
+      "LastUpdatedTime": "2025-12-30T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8006",
+    "DocNumber": "DBC-EST-1005",
+    "TxnDate": "2025-10-07",
+    "ExpirationDate": "2025-11-06",
+    "CustomerRef": {
+      "value": "1016",
+      "name": "Pearl District Gastropub"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1440.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "15 x Farmhouse Saison - case 24x16oz for Pearl District Gastropub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "3",
+            "name": "Farmhouse Saison - case 24x16oz"
+          },
+          "UnitPrice": 96.0,
+          "Qty": 15
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-10-10",
+    "LinkedTxn": [
+      {
+        "TxnId": "5016",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-07T10:00:00-07:00",
+      "LastUpdatedTime": "2025-11-06T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8007",
+    "DocNumber": "DBC-EST-1006",
+    "TxnDate": "2025-12-18",
+    "ExpirationDate": "2026-01-17",
+    "CustomerRef": {
+      "value": "1019",
+      "name": "Lents Corner Bar"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 972.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "9 x Winter Ale - case 24x16oz for Lents Corner Bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Winter Ale - case 24x16oz"
+          },
+          "UnitPrice": 108.0,
+          "Qty": 9
+        }
+      }
+    ],
+    "TotalAmt": 972.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5019",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-18T10:00:00-07:00",
+      "LastUpdatedTime": "2026-01-17T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8008",
+    "DocNumber": "DBC-EST-1000",
+    "TxnDate": "2026-02-01",
+    "ExpirationDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "8 x West Coast IPA - 1/6 bbl keg for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "West Coast IPA - 1/6 bbl keg"
+          },
+          "UnitPrice": 175.0,
+          "Qty": 8
+        }
+      }
+    ],
+    "TotalAmt": 1400.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "5002",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-03T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8009",
+    "DocNumber": "DBC-EST-1001",
+    "TxnDate": "2026-02-10",
+    "ExpirationDate": "2026-03-12",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1170.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "6 x Czech-Style Pilsner - 1/2 bbl keg for Laurelhurst Public House",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "2",
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          },
+          "UnitPrice": 195.0,
+          "Qty": 6
+        }
+      }
+    ],
+    "TotalAmt": 1170.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "5004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-10T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-12T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8010",
+    "DocNumber": "DBC-EST-1002",
+    "TxnDate": "2025-11-15",
+    "ExpirationDate": "2025-12-16",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1650.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "10 x Oktoberfest Amber Lager - 1/6 bbl keg for Division Street Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          },
+          "UnitPrice": 165.0,
+          "Qty": 10
+        }
+      }
+    ],
+    "TotalAmt": 1650.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5007",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-15T10:00:00-07:00",
+      "LastUpdatedTime": "2025-12-16T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8011",
+    "DocNumber": "DBC-EST-1003",
+    "TxnDate": "2026-03-01",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "1010",
+      "name": "Hawthorne Fermentary"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "1 x Private Taproom Event for Hawthorne Fermentary",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "9",
+            "name": "Private Taproom Event"
+          },
+          "UnitPrice": 500.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-04",
+    "LinkedTxn": [
+      {
+        "TxnId": "5010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-31T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8012",
+    "DocNumber": "DBC-EST-1004",
+    "TxnDate": "2025-11-30",
+    "ExpirationDate": "2025-12-30",
+    "CustomerRef": {
+      "value": "1013",
+      "name": "Kenton Club & Kitchen"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2016.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "12 x Anniversary Wild Ale - case 12x500ml for Kenton Club & Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "4",
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          },
+          "UnitPrice": 168.0,
+          "Qty": 12
+        }
+      }
+    ],
+    "TotalAmt": 2016.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5013",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-30T10:00:00-07:00",
+      "LastUpdatedTime": "2025-12-30T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8013",
+    "DocNumber": "DBC-EST-1005",
+    "TxnDate": "2025-10-07",
+    "ExpirationDate": "2025-11-06",
+    "CustomerRef": {
+      "value": "1016",
+      "name": "Pearl District Gastropub"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1440.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "15 x Farmhouse Saison - case 24x16oz for Pearl District Gastropub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "3",
+            "name": "Farmhouse Saison - case 24x16oz"
+          },
+          "UnitPrice": 96.0,
+          "Qty": 15
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-10-10",
+    "LinkedTxn": [
+      {
+        "TxnId": "5016",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-07T10:00:00-07:00",
+      "LastUpdatedTime": "2025-11-06T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8014",
+    "DocNumber": "DBC-EST-1006",
+    "TxnDate": "2025-12-18",
+    "ExpirationDate": "2026-01-17",
+    "CustomerRef": {
+      "value": "1019",
+      "name": "Lents Corner Bar"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 972.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "9 x Winter Ale - case 24x16oz for Lents Corner Bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Winter Ale - case 24x16oz"
+          },
+          "UnitPrice": 108.0,
+          "Qty": 9
+        }
+      }
+    ],
+    "TotalAmt": 972.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5019",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-18T10:00:00-07:00",
+      "LastUpdatedTime": "2026-01-17T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8015",
+    "DocNumber": "DBC-EST-1000",
+    "TxnDate": "2026-02-01",
+    "ExpirationDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "8 x West Coast IPA - 1/6 bbl keg for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "West Coast IPA - 1/6 bbl keg"
+          },
+          "UnitPrice": 175.0,
+          "Qty": 8
+        }
+      }
+    ],
+    "TotalAmt": 1400.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "5002",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-03T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8016",
+    "DocNumber": "DBC-EST-1001",
+    "TxnDate": "2026-02-10",
+    "ExpirationDate": "2026-03-12",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1170.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "6 x Czech-Style Pilsner - 1/2 bbl keg for Laurelhurst Public House",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "2",
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          },
+          "UnitPrice": 195.0,
+          "Qty": 6
+        }
+      }
+    ],
+    "TotalAmt": 1170.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "5004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-10T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-12T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8017",
+    "DocNumber": "DBC-EST-1002",
+    "TxnDate": "2025-11-15",
+    "ExpirationDate": "2025-12-16",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1650.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "10 x Oktoberfest Amber Lager - 1/6 bbl keg for Division Street Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          },
+          "UnitPrice": 165.0,
+          "Qty": 10
+        }
+      }
+    ],
+    "TotalAmt": 1650.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5007",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-15T10:00:00-07:00",
+      "LastUpdatedTime": "2025-12-16T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8018",
+    "DocNumber": "DBC-EST-1003",
+    "TxnDate": "2026-03-01",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "1010",
+      "name": "Hawthorne Fermentary"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "1 x Private Taproom Event for Hawthorne Fermentary",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "9",
+            "name": "Private Taproom Event"
+          },
+          "UnitPrice": 500.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-04",
+    "LinkedTxn": [
+      {
+        "TxnId": "5010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-03-31T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "8019",
+    "DocNumber": "DBC-EST-1004",
+    "TxnDate": "2025-11-30",
+    "ExpirationDate": "2025-12-30",
+    "CustomerRef": {
+      "value": "1013",
+      "name": "Kenton Club & Kitchen"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2016.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "12 x Anniversary Wild Ale - case 12x500ml for Kenton Club & Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "4",
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          },
+          "UnitPrice": 168.0,
+          "Qty": 12
+        }
+      }
+    ],
+    "TotalAmt": 2016.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "5013",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-30T10:00:00-07:00",
+      "LastUpdatedTime": "2025-12-30T10:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "8020",
+    "DocNumber": "DBC-EST-1005",
+    "TxnDate": "2025-10-07",
+    "ExpirationDate": "2025-11-06",
+    "CustomerRef": {
+      "value": "1016",
+      "name": "Pearl District Gastropub"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1440.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "15 x Farmhouse Saison - case 24x16oz for Pearl District Gastropub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "3",
+            "name": "Farmhouse Saison - case 24x16oz"
+          },
+          "UnitPrice": 96.0,
+          "Qty": 15
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-10-10",
+    "LinkedTxn": [
+      {
+        "TxnId": "5016",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-07T10:00:00-07:00",
+      "LastUpdatedTime": "2025-11-06T10:00:00-07:00"
+    },
+    "SyncToken": "2"
+  }
+]

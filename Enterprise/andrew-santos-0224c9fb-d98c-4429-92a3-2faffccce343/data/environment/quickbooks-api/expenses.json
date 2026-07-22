@@ -1,0 +1,1402 @@
+[
+  {
+    "Id": "8001",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-19T00:00:00-00:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2025-12-19"
+  },
+  {
+    "Id": "8002",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-15T00:00:00-00:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2025-12-15"
+  },
+  {
+    "Id": "8003",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-11T00:00:00-00:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2025-12-11"
+  },
+  {
+    "Id": "8004",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-07T00:00:00-00:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2025-12-07"
+  },
+  {
+    "Id": "8005",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-03T00:00:00-00:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2025-12-03"
+  },
+  {
+    "Id": "8006",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-30T00:00:00-00:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2025-11-30"
+  },
+  {
+    "Id": "16962",
+    "Line": [
+      {
+        "Amount": 50.0,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-03T00:00:00-00:00"
+    },
+    "TotalAmt": 50.0,
+    "TxnDate": "2026-01-03"
+  },
+  {
+    "Id": "16963",
+    "Line": [
+      {
+        "Amount": 87.13,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-04T00:00:00-00:00"
+    },
+    "TotalAmt": 87.13,
+    "TxnDate": "2026-01-04"
+  },
+  {
+    "Id": "16964",
+    "Line": [
+      {
+        "Amount": 124.26,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-05T00:00:00-00:00"
+    },
+    "TotalAmt": 124.26,
+    "TxnDate": "2026-01-05"
+  },
+  {
+    "Id": "16965",
+    "Line": [
+      {
+        "Amount": 161.39,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-06T00:00:00-00:00"
+    },
+    "TotalAmt": 161.39,
+    "TxnDate": "2026-01-06"
+  },
+  {
+    "Id": "16966",
+    "Line": [
+      {
+        "Amount": 198.52,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-07T00:00:00-00:00"
+    },
+    "TotalAmt": 198.52,
+    "TxnDate": "2026-01-07"
+  },
+  {
+    "Id": "16967",
+    "Line": [
+      {
+        "Amount": 235.65,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-08T00:00:00-00:00"
+    },
+    "TotalAmt": 235.65,
+    "TxnDate": "2026-01-08"
+  },
+  {
+    "Id": "16968",
+    "Line": [
+      {
+        "Amount": 272.78,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-09T00:00:00-00:00"
+    },
+    "TotalAmt": 272.78,
+    "TxnDate": "2026-01-09"
+  },
+  {
+    "Id": "16969",
+    "Line": [
+      {
+        "Amount": 309.91,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-10T00:00:00-00:00"
+    },
+    "TotalAmt": 309.91,
+    "TxnDate": "2026-01-10"
+  },
+  {
+    "Id": "16970",
+    "Line": [
+      {
+        "Amount": 347.04,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-11T00:00:00-00:00"
+    },
+    "TotalAmt": 347.04,
+    "TxnDate": "2026-01-11"
+  },
+  {
+    "Id": "16971",
+    "Line": [
+      {
+        "Amount": 384.17,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-12T00:00:00-00:00"
+    },
+    "TotalAmt": 384.17,
+    "TxnDate": "2026-01-12"
+  },
+  {
+    "Id": "16972",
+    "Line": [
+      {
+        "Amount": 421.3,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-13T00:00:00-00:00"
+    },
+    "TotalAmt": 421.3,
+    "TxnDate": "2026-01-13"
+  },
+  {
+    "Id": "16973",
+    "Line": [
+      {
+        "Amount": 458.43,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-14T00:00:00-00:00"
+    },
+    "TotalAmt": 458.43,
+    "TxnDate": "2026-01-14"
+  },
+  {
+    "Id": "16974",
+    "Line": [
+      {
+        "Amount": 495.56,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-15T00:00:00-00:00"
+    },
+    "TotalAmt": 495.56,
+    "TxnDate": "2026-01-15"
+  },
+  {
+    "Id": "16975",
+    "Line": [
+      {
+        "Amount": 532.69,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-16T00:00:00-00:00"
+    },
+    "TotalAmt": 532.69,
+    "TxnDate": "2026-01-16"
+  },
+  {
+    "Id": "16976",
+    "Line": [
+      {
+        "Amount": 569.82,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-17T00:00:00-00:00"
+    },
+    "TotalAmt": 569.82,
+    "TxnDate": "2026-01-17"
+  },
+  {
+    "Id": "16977",
+    "Line": [
+      {
+        "Amount": 606.95,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-18T00:00:00-00:00"
+    },
+    "TotalAmt": 606.95,
+    "TxnDate": "2026-01-18"
+  },
+  {
+    "Id": "16978",
+    "Line": [
+      {
+        "Amount": 644.08,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-19T00:00:00-00:00"
+    },
+    "TotalAmt": 644.08,
+    "TxnDate": "2026-01-19"
+  },
+  {
+    "Id": "16979",
+    "Line": [
+      {
+        "Amount": 681.21,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-20T00:00:00-00:00"
+    },
+    "TotalAmt": 681.21,
+    "TxnDate": "2026-01-20"
+  },
+  {
+    "Id": "16980",
+    "Line": [
+      {
+        "Amount": 718.34,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-21T00:00:00-00:00"
+    },
+    "TotalAmt": 718.34,
+    "TxnDate": "2026-01-21"
+  },
+  {
+    "Id": "16981",
+    "Line": [
+      {
+        "Amount": 755.47,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-22T00:00:00-00:00"
+    },
+    "TotalAmt": 755.47,
+    "TxnDate": "2026-01-22"
+  },
+  {
+    "Id": "16982",
+    "Line": [
+      {
+        "Amount": 792.6,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-23T00:00:00-00:00"
+    },
+    "TotalAmt": 792.6,
+    "TxnDate": "2026-01-23"
+  },
+  {
+    "Id": "16983",
+    "Line": [
+      {
+        "Amount": 829.73,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-24T00:00:00-00:00"
+    },
+    "TotalAmt": 829.73,
+    "TxnDate": "2026-01-24"
+  },
+  {
+    "Id": "16984",
+    "Line": [
+      {
+        "Amount": 866.86,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-25T00:00:00-00:00"
+    },
+    "TotalAmt": 866.86,
+    "TxnDate": "2026-01-25"
+  },
+  {
+    "Id": "16985",
+    "Line": [
+      {
+        "Amount": 903.99,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-26T00:00:00-00:00"
+    },
+    "TotalAmt": 903.99,
+    "TxnDate": "2026-01-26"
+  },
+  {
+    "Id": "16986",
+    "Line": [
+      {
+        "Amount": 941.12,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-27T00:00:00-00:00"
+    },
+    "TotalAmt": 941.12,
+    "TxnDate": "2026-01-27"
+  },
+  {
+    "Id": "16987",
+    "Line": [
+      {
+        "Amount": 978.25,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-28T00:00:00-00:00"
+    },
+    "TotalAmt": 978.25,
+    "TxnDate": "2026-01-28"
+  },
+  {
+    "Id": "16988",
+    "Line": [
+      {
+        "Amount": 1015.38,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-29T00:00:00-00:00"
+    },
+    "TotalAmt": 1015.38,
+    "TxnDate": "2026-01-29"
+  },
+  {
+    "Id": "16989",
+    "Line": [
+      {
+        "Amount": 1052.51,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-30T00:00:00-00:00"
+    },
+    "TotalAmt": 1052.51,
+    "TxnDate": "2026-01-30"
+  },
+  {
+    "Id": "16990",
+    "Line": [
+      {
+        "Amount": 1089.64,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-31T00:00:00-00:00"
+    },
+    "TotalAmt": 1089.64,
+    "TxnDate": "2026-01-31"
+  },
+  {
+    "Id": "16991",
+    "Line": [
+      {
+        "Amount": 1126.77,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-01T00:00:00-00:00"
+    },
+    "TotalAmt": 1126.77,
+    "TxnDate": "2026-02-01"
+  },
+  {
+    "Id": "16992",
+    "Line": [
+      {
+        "Amount": 1163.9,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-02T00:00:00-00:00"
+    },
+    "TotalAmt": 1163.9,
+    "TxnDate": "2026-02-02"
+  },
+  {
+    "Id": "16993",
+    "Line": [
+      {
+        "Amount": 1201.03,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-03T00:00:00-00:00"
+    },
+    "TotalAmt": 1201.03,
+    "TxnDate": "2026-02-03"
+  },
+  {
+    "Id": "16994",
+    "Line": [
+      {
+        "Amount": 1238.16,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-04T00:00:00-00:00"
+    },
+    "TotalAmt": 1238.16,
+    "TxnDate": "2026-02-04"
+  },
+  {
+    "Id": "16995",
+    "Line": [
+      {
+        "Amount": 1275.29,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-05T00:00:00-00:00"
+    },
+    "TotalAmt": 1275.29,
+    "TxnDate": "2026-02-05"
+  },
+  {
+    "Id": "16996",
+    "Line": [
+      {
+        "Amount": 1312.42,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-06T00:00:00-00:00"
+    },
+    "TotalAmt": 1312.42,
+    "TxnDate": "2026-02-06"
+  },
+  {
+    "Id": "16997",
+    "Line": [
+      {
+        "Amount": 1349.55,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-07T00:00:00-00:00"
+    },
+    "TotalAmt": 1349.55,
+    "TxnDate": "2026-02-07"
+  },
+  {
+    "Id": "16998",
+    "Line": [
+      {
+        "Amount": 1386.68,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-08T00:00:00-00:00"
+    },
+    "TotalAmt": 1386.68,
+    "TxnDate": "2026-02-08"
+  },
+  {
+    "Id": "16999",
+    "Line": [
+      {
+        "Amount": 1423.81,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-09T00:00:00-00:00"
+    },
+    "TotalAmt": 1423.81,
+    "TxnDate": "2026-02-09"
+  },
+  {
+    "Id": "17000",
+    "Line": [
+      {
+        "Amount": 1460.94,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-10T00:00:00-00:00"
+    },
+    "TotalAmt": 1460.94,
+    "TxnDate": "2026-02-10"
+  },
+  {
+    "Id": "17001",
+    "Line": [
+      {
+        "Amount": 1498.07,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-11T00:00:00-00:00"
+    },
+    "TotalAmt": 1498.07,
+    "TxnDate": "2026-02-11"
+  },
+  {
+    "Id": "17002",
+    "Line": [
+      {
+        "Amount": 1535.2,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-12T00:00:00-00:00"
+    },
+    "TotalAmt": 1535.2,
+    "TxnDate": "2026-02-12"
+  },
+  {
+    "Id": "17003",
+    "Line": [
+      {
+        "Amount": 1572.33,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-13T00:00:00-00:00"
+    },
+    "TotalAmt": 1572.33,
+    "TxnDate": "2026-02-13"
+  },
+  {
+    "Id": "17004",
+    "Line": [
+      {
+        "Amount": 1609.46,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-14T00:00:00-00:00"
+    },
+    "TotalAmt": 1609.46,
+    "TxnDate": "2026-02-14"
+  },
+  {
+    "Id": "17005",
+    "Line": [
+      {
+        "Amount": 1646.59,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-15T00:00:00-00:00"
+    },
+    "TotalAmt": 1646.59,
+    "TxnDate": "2026-02-15"
+  },
+  {
+    "Id": "17006",
+    "Line": [
+      {
+        "Amount": 1683.72,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-16T00:00:00-00:00"
+    },
+    "TotalAmt": 1683.72,
+    "TxnDate": "2026-02-16"
+  },
+  {
+    "Id": "17007",
+    "Line": [
+      {
+        "Amount": 1720.85,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-17T00:00:00-00:00"
+    },
+    "TotalAmt": 1720.85,
+    "TxnDate": "2026-02-17"
+  },
+  {
+    "Id": "17008",
+    "Line": [
+      {
+        "Amount": 1757.98,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-18T00:00:00-00:00"
+    },
+    "TotalAmt": 1757.98,
+    "TxnDate": "2026-02-18"
+  },
+  {
+    "Id": "17009",
+    "Line": [
+      {
+        "Amount": 1795.11,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-19T00:00:00-00:00"
+    },
+    "TotalAmt": 1795.11,
+    "TxnDate": "2026-02-19"
+  },
+  {
+    "Id": "17010",
+    "Line": [
+      {
+        "Amount": 1832.24,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-20T00:00:00-00:00"
+    },
+    "TotalAmt": 1832.24,
+    "TxnDate": "2026-02-20"
+  },
+  {
+    "Id": "17011",
+    "Line": [
+      {
+        "Amount": 1869.37,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-21T00:00:00-00:00"
+    },
+    "TotalAmt": 1869.37,
+    "TxnDate": "2026-02-21"
+  },
+  {
+    "Id": "17012",
+    "Line": [
+      {
+        "Amount": 1906.5,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-22T00:00:00-00:00"
+    },
+    "TotalAmt": 1906.5,
+    "TxnDate": "2026-02-22"
+  },
+  {
+    "Id": "17013",
+    "Line": [
+      {
+        "Amount": 1943.63,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-23T00:00:00-00:00"
+    },
+    "TotalAmt": 1943.63,
+    "TxnDate": "2026-02-23"
+  },
+  {
+    "Id": "17014",
+    "Line": [
+      {
+        "Amount": 1980.76,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-24T00:00:00-00:00"
+    },
+    "TotalAmt": 1980.76,
+    "TxnDate": "2026-02-24"
+  },
+  {
+    "Id": "17015",
+    "Line": [
+      {
+        "Amount": 2017.89,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-25T00:00:00-00:00"
+    },
+    "TotalAmt": 2017.89,
+    "TxnDate": "2026-02-25"
+  },
+  {
+    "Id": "17016",
+    "Line": [
+      {
+        "Amount": 2055.02,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-26T00:00:00-00:00"
+    },
+    "TotalAmt": 2055.02,
+    "TxnDate": "2026-02-26"
+  },
+  {
+    "Id": "17017",
+    "Line": [
+      {
+        "Amount": 2092.15,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-27T00:00:00-00:00"
+    },
+    "TotalAmt": 2092.15,
+    "TxnDate": "2026-02-27"
+  },
+  {
+    "Id": "17018",
+    "Line": [
+      {
+        "Amount": 2129.28,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-28T00:00:00-00:00"
+    },
+    "TotalAmt": 2129.28,
+    "TxnDate": "2026-02-28"
+  },
+  {
+    "Id": "17019",
+    "Line": [
+      {
+        "Amount": 2166.41,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T00:00:00-00:00"
+    },
+    "TotalAmt": 2166.41,
+    "TxnDate": "2026-03-01"
+  },
+  {
+    "Id": "17020",
+    "Line": [
+      {
+        "Amount": 2203.54,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-02T00:00:00-00:00"
+    },
+    "TotalAmt": 2203.54,
+    "TxnDate": "2026-03-02"
+  },
+  {
+    "Id": "17021",
+    "Line": [
+      {
+        "Amount": 2240.67,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-03T00:00:00-00:00"
+    },
+    "TotalAmt": 2240.67,
+    "TxnDate": "2026-03-03"
+  },
+  {
+    "Id": "17022",
+    "Line": [
+      {
+        "Amount": 2277.8,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-04T00:00:00-00:00"
+    },
+    "TotalAmt": 2277.8,
+    "TxnDate": "2026-03-04"
+  },
+  {
+    "Id": "17023",
+    "Line": [
+      {
+        "Amount": 2314.93,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-05T00:00:00-00:00"
+    },
+    "TotalAmt": 2314.93,
+    "TxnDate": "2026-03-05"
+  },
+  {
+    "Id": "17024",
+    "Line": [
+      {
+        "Amount": 2352.06,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-06T00:00:00-00:00"
+    },
+    "TotalAmt": 2352.06,
+    "TxnDate": "2026-03-06"
+  },
+  {
+    "Id": "17025",
+    "Line": [
+      {
+        "Amount": 2389.19,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-07T00:00:00-00:00"
+    },
+    "TotalAmt": 2389.19,
+    "TxnDate": "2026-03-07"
+  },
+  {
+    "Id": "17026",
+    "Line": [
+      {
+        "Amount": 2426.32,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-08T00:00:00-00:00"
+    },
+    "TotalAmt": 2426.32,
+    "TxnDate": "2026-03-08"
+  },
+  {
+    "Id": "17027",
+    "Line": [
+      {
+        "Amount": 2463.45,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-09T00:00:00-00:00"
+    },
+    "TotalAmt": 2463.45,
+    "TxnDate": "2026-03-09"
+  },
+  {
+    "Id": "17028",
+    "Line": [
+      {
+        "Amount": 2500.58,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-10T00:00:00-00:00"
+    },
+    "TotalAmt": 2500.58,
+    "TxnDate": "2026-03-10"
+  },
+  {
+    "Id": "17029",
+    "Line": [
+      {
+        "Amount": 2537.71,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-11T00:00:00-00:00"
+    },
+    "TotalAmt": 2537.71,
+    "TxnDate": "2026-03-11"
+  },
+  {
+    "Id": "17030",
+    "Line": [
+      {
+        "Amount": 2574.84,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-12T00:00:00-00:00"
+    },
+    "TotalAmt": 2574.84,
+    "TxnDate": "2026-03-12"
+  },
+  {
+    "Id": "17031",
+    "Line": [
+      {
+        "Amount": 2611.97,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-13T00:00:00-00:00"
+    },
+    "TotalAmt": 2611.97,
+    "TxnDate": "2026-03-13"
+  },
+  {
+    "Id": "17032",
+    "Line": [
+      {
+        "Amount": 2649.1,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-14T00:00:00-00:00"
+    },
+    "TotalAmt": 2649.1,
+    "TxnDate": "2026-03-14"
+  },
+  {
+    "Id": "17033",
+    "Line": [
+      {
+        "Amount": 2686.23,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-15T00:00:00-00:00"
+    },
+    "TotalAmt": 2686.23,
+    "TxnDate": "2026-03-15"
+  },
+  {
+    "Id": "17034",
+    "Line": [
+      {
+        "Amount": 2723.36,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-16T00:00:00-00:00"
+    },
+    "TotalAmt": 2723.36,
+    "TxnDate": "2026-03-16"
+  },
+  {
+    "Id": "17035",
+    "Line": [
+      {
+        "Amount": 2760.49,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-17T00:00:00-00:00"
+    },
+    "TotalAmt": 2760.49,
+    "TxnDate": "2026-03-17"
+  },
+  {
+    "Id": "17036",
+    "Line": [
+      {
+        "Amount": 2797.62,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-18T00:00:00-00:00"
+    },
+    "TotalAmt": 2797.62,
+    "TxnDate": "2026-03-18"
+  },
+  {
+    "Id": "17037",
+    "Line": [
+      {
+        "Amount": 2834.75,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-19T00:00:00-00:00"
+    },
+    "TotalAmt": 2834.75,
+    "TxnDate": "2026-03-19"
+  },
+  {
+    "Id": "17038",
+    "Line": [
+      {
+        "Amount": 2871.88,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-20T00:00:00-00:00"
+    },
+    "TotalAmt": 2871.88,
+    "TxnDate": "2026-03-20"
+  },
+  {
+    "Id": "17039",
+    "Line": [
+      {
+        "Amount": 2909.01,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-21T00:00:00-00:00"
+    },
+    "TotalAmt": 2909.01,
+    "TxnDate": "2026-03-21"
+  },
+  {
+    "Id": "17040",
+    "Line": [
+      {
+        "Amount": 2946.14,
+        "Description": "Utilities \u2014 Orchestra Hall"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-22T00:00:00-00:00"
+    },
+    "TotalAmt": 2946.14,
+    "TxnDate": "2026-03-22"
+  },
+  {
+    "Id": "17041",
+    "Line": [
+      {
+        "Amount": 2983.27,
+        "Description": "Showcase production \u2014 El Barzon Catering"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-23T00:00:00-00:00"
+    },
+    "TotalAmt": 2983.27,
+    "TxnDate": "2026-03-23"
+  },
+  {
+    "Id": "17042",
+    "Line": [
+      {
+        "Amount": 3020.4,
+        "Description": "Program supplies \u2014 Great Lakes Discovery Center"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-24T00:00:00-00:00"
+    },
+    "TotalAmt": 3020.4,
+    "TxnDate": "2026-03-24"
+  },
+  {
+    "Id": "17043",
+    "Line": [
+      {
+        "Amount": 3057.53,
+        "Description": "Venue rental \u2014 Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-25T00:00:00-00:00"
+    },
+    "TotalAmt": 3057.53,
+    "TxnDate": "2026-03-25"
+  },
+  {
+    "Id": "17044",
+    "Line": [
+      {
+        "Amount": 3094.66,
+        "Description": "Catering deposit \u2014 Eastern Market Corp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-26T00:00:00-00:00"
+    },
+    "TotalAmt": 3094.66,
+    "TxnDate": "2026-03-26"
+  },
+  {
+    "Id": "17045",
+    "Line": [
+      {
+        "Amount": 3131.79,
+        "Description": "Teaching-artist stipend \u2014 Cass Avenue Landlord"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-27T00:00:00-00:00"
+    },
+    "TotalAmt": 3131.79,
+    "TxnDate": "2026-03-27"
+  },
+  {
+    "Id": "17046",
+    "Line": [
+      {
+        "Amount": 3168.92,
+        "Description": "Renovation milestone \u2014 Comerica"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-28T00:00:00-00:00"
+    },
+    "TotalAmt": 3168.92,
+    "TxnDate": "2026-03-28"
+  },
+  {
+    "Id": "17047",
+    "Line": [
+      {
+        "Amount": 3206.05,
+        "Description": "Printing and marketing \u2014 Office Depot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-29T00:00:00-00:00"
+    },
+    "TotalAmt": 3206.05,
+    "TxnDate": "2026-03-29"
+  },
+  {
+    "Id": "17048",
+    "Line": [
+      {
+        "Amount": 3243.18,
+        "Description": "Insurance premium \u2014 Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-30T00:00:00-00:00"
+    },
+    "TotalAmt": 3243.18,
+    "TxnDate": "2026-03-30"
+  },
+  {
+    "Id": "17049",
+    "Line": [
+      {
+        "Amount": 3280.31,
+        "Description": "Software subscription \u2014 Livernois Contractors LLC"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-31T00:00:00-00:00"
+    },
+    "TotalAmt": 3280.31,
+    "TxnDate": "2026-03-31"
+  },
+  {
+    "Id": "17050",
+    "Line": [
+      {
+        "Amount": 142.87,
+        "Description": "Staff meeting refreshments — Great Lakes Coffee"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-04-15T00:00:00-00:00"
+    },
+    "TotalAmt": 142.87,
+    "TxnDate": "2026-04-15"
+  },
+  {
+    "Id": "17051",
+    "Line": [
+      {
+        "Amount": 216.0,
+        "Description": "Google Workspace annual subscription — Google"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-04-28T00:00:00-00:00"
+    },
+    "TotalAmt": 216.0,
+    "TxnDate": "2026-04-28"
+  },
+  {
+    "Id": "17052",
+    "Line": [
+      {
+        "Amount": 79.99,
+        "Description": "Video conferencing subscription — Zoom"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-12T00:00:00-00:00"
+    },
+    "TotalAmt": 79.99,
+    "TxnDate": "2026-05-12"
+  },
+  {
+    "Id": "17053",
+    "Line": [
+      {
+        "Amount": 135.5,
+        "Description": "Email marketing campaign — Mailchimp"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-05-27T00:00:00-00:00"
+    },
+    "TotalAmt": 135.5,
+    "TxnDate": "2026-05-27"
+  },
+  {
+    "Id": "17054",
+    "Line": [
+      {
+        "Amount": 318.44,
+        "Description": "Program snacks and supplies — Meijer"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-06-10T00:00:00-00:00"
+    },
+    "TotalAmt": 318.44,
+    "TxnDate": "2026-06-10"
+  },
+  {
+    "Id": "17055",
+    "Line": [
+      {
+        "Amount": 1275.6,
+        "Description": "Studio repair and maintenance — Detroit Home Pros"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-06-24T00:00:00-00:00"
+    },
+    "TotalAmt": 1275.6,
+    "TxnDate": "2026-06-24"
+  }
+]

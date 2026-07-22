@@ -1,0 +1,113 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 19,
+      "passed": 2,
+      "failed": 17,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_behavioral_binance_price_crosscheck_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_coinbase_gift_wallet_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_hubspot_deals_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_kraken_price_crosscheck_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_lapsed_pledger_appeal_drafted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_notion_summary_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_paypal_captures_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_quickbooks_payments_ledger_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_salesforce_pledge_record_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_square_payments_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_stripe_charges_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_coinbase_gift_moved",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_distractor_touched",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_gmail_send",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_mailchimp_send",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_salesforce_mutated",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_coinbase_gift_wallet_quantity",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_coinbase_spot_price_fresh_quote",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_salesforce_feldman_authoritative_pledge",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

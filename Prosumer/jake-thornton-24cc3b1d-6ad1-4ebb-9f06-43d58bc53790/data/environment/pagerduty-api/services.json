@@ -1,0 +1,162 @@
+[
+  {
+    "service_id": "PSVC7301",
+    "name": "web",
+    "description": "web service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7302",
+    "name": "api",
+    "description": "api service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7303",
+    "name": "worker",
+    "description": "worker service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7304",
+    "name": "scheduler",
+    "description": "scheduler service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7305",
+    "name": "billing",
+    "description": "billing service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7306",
+    "name": "search",
+    "description": "search service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7314",
+    "name": "web",
+    "description": "web service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7328",
+    "name": "api",
+    "description": "api service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7342",
+    "name": "worker",
+    "description": "worker service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7356",
+    "name": "scheduler",
+    "description": "scheduler service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7370",
+    "name": "billing",
+    "description": "billing service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7384",
+    "name": "search",
+    "description": "search service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7392",
+    "name": "web",
+    "description": "web service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7406",
+    "name": "api",
+    "description": "api service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7420",
+    "name": "worker",
+    "description": "worker service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7434",
+    "name": "scheduler",
+    "description": "scheduler service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7448",
+    "name": "billing",
+    "description": "billing service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7462",
+    "name": "search",
+    "description": "search service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7470",
+    "name": "web",
+    "description": "web service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PSVC7484",
+    "name": "api",
+    "description": "api service",
+    "status": "active",
+    "escalation_policy_id": "PPOL7301",
+    "auto_resolve_timeout": "14400"
+  }
+]

@@ -1,0 +1,38 @@
+department,firstName,hireDate,id,jobTitle,lastName,location,status,supervisorId,workEmail,__api__,__table__,__file__,__row_index__
+Clergy,Colette,2018-01-15,e200,Minister & Rector,Mullins,Shaker Heights,Active,e202,colette.mullins@Greenridertech.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,0
+Administration,Étienne,2019-02-15,e201,Senior Coordinator,Mullins,Shaker Heights,Active,e200,etienne.mullins.lcsw@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,1
+Finance & Stewardship,Margaux,2020-03-15,e202,Manager,Mullins,Shaker Heights,Active,e200,margaux.mullins@lakelandreserve.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,2
+Pastoral Care,Julien,2021-04-15,e203,Program Director,Mullins,Shaker Heights,Active,e200,jmullins@ashfieldcollege.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,3
+Communications & Outreach,Sophie,2022-05-15,e204,Director,Mullins,Shaker Heights,Active,e201,sophie.mullins@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,4
+Faith Formation,Sarah,2023-06-15,e205,Ministry Director,Levin,Shaker Heights,Active,e202,slevin@gracechapelpgh.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,5
+Music Ministry,Rachel,2018-07-15,e206,Choirmaster,Stern,Shaker Heights,Active,e200,rstern@stgenevievecle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,6
+Administration,Howard,2019-08-15,e207,Senior Coordinator,Blumberg,Shaker Heights,Active,e201,hblumberg@blumberglaw.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,7
+Administration,Barbara,2020-09-15,e208,Executive Director,Klein,Shaker Heights,Active,e202,bklein@stgenevievecle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,8
+Pastoral Care,Thomas,2021-10-15,e209,Program Director,Murphy,Shaker Heights,Active,e200,frmurphy@staugcle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,9
+Communications & Outreach,Rashid,2022-11-15,e210,Director,Hassan,Shaker Heights,Active,e201,rhassan@clevelandic.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,10
+Faith Formation,Nathan,2023-12-15,e211,Ministry Director,Cohen,Shaker Heights,Active,e202,ncohen@shakermedical.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,11
+Clergy,Colette,2018-01-15,e212,Minister & Rector,Mullins,Shaker Heights,Active,e200,colette.mullins@Greenridertech.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,12
+Administration,Étienne,2019-02-15,e213,Senior Coordinator,Mullins,Shaker Heights,Active,e200,etienne.mullins.lcsw@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,13
+Finance & Stewardship,Margaux,2020-03-15,e214,Manager,Mullins,Shaker Heights,Active,e200,margaux.mullins@lakelandreserve.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,14
+Pastoral Care,Julien,2021-04-15,e215,Program Director,Mullins,Shaker Heights,Active,e200,jmullins@ashfieldcollege.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,15
+Communications & Outreach,Sophie,2022-05-15,e216,Director,Mullins,Shaker Heights,Active,e201,sophie.mullins@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,16
+Faith Formation,Sarah,2023-06-15,e217,Ministry Director,Levin,Shaker Heights,Active,e202,slevin@gracechapelpgh.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,17
+Music Ministry,Rachel,2018-07-15,e218,Choirmaster,Stern,Shaker Heights,Active,e200,rstern@stgenevievecle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,18
+Administration,Howard,2019-08-15,e219,Senior Coordinator,Blumberg,Shaker Heights,Active,e201,hblumberg@blumberglaw.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,19
+Clergy,Colette,2018-01-15,e220,Minister & Rector,Mullins,Shaker Heights,Active,e200,colette.mullins@Greenridertech.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,20
+Administration,Étienne,2019-02-15,e221,Senior Coordinator,Mullins,Shaker Heights,Active,e200,etienne.mullins.lcsw@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,21
+Finance & Stewardship,Margaux,2020-03-15,e222,Manager,Mullins,Shaker Heights,Active,e200,margaux.mullins@lakelandreserve.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,22
+Pastoral Care,Julien,2021-04-15,e223,Program Director,Mullins,Shaker Heights,Active,e200,jmullins@ashfieldcollege.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,23
+Communications & Outreach,Sophie,2022-05-15,e224,Director,Mullins,Shaker Heights,Active,e201,sophie.mullins@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,24
+Faith Formation,Sarah,2023-06-15,e225,Ministry Director,Levin,Shaker Heights,Active,e202,slevin@gracechapelpgh.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,25
+Music Ministry,Rachel,2018-07-15,e226,Choirmaster,Stern,Shaker Heights,Active,e200,rstern@stgenevievecle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,26
+Administration,Howard,2019-08-15,e227,Senior Coordinator,Blumberg,Shaker Heights,Active,e201,hblumberg@blumberglaw.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,27
+Administration,Barbara,2020-09-15,e228,Executive Director,Klein,Shaker Heights,Active,e202,bklein@stgenevievecle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,28
+Pastoral Care,Thomas,2021-10-15,e229,Program Director,Murphy,Shaker Heights,Active,e200,frmurphy@staugcle.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,29
+Communications & Outreach,Rashid,2022-11-15,e230,Director,Hassan,Shaker Heights,Active,e201,rhassan@clevelandic.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,30
+Faith Formation,Nathan,2023-12-15,e231,Ministry Director,Cohen,Shaker Heights,Active,e202,ncohen@shakermedical.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,31
+Clergy,Colette,2018-01-15,e232,Minister & Rector,Mullins,Shaker Heights,Active,e200,colette.mullins@Greenridertech.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,32
+Administration,Étienne,2019-02-15,e233,Senior Coordinator,Mullins,Shaker Heights,Active,e200,etienne.mullins.lcsw@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,33
+Finance & Stewardship,Margaux,2020-03-15,e234,Manager,Mullins,Shaker Heights,Active,e200,margaux.mullins@lakelandreserve.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,34
+Pastoral Care,Julien,2021-04-15,e235,Program Director,Mullins,Shaker Heights,Active,e200,jmullins@ashfieldcollege.edu,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,35
+Communications & Outreach,Sophie,2022-05-15,e236,Director,Mullins,Shaker Heights,Active,e201,sophie.mullins@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,36

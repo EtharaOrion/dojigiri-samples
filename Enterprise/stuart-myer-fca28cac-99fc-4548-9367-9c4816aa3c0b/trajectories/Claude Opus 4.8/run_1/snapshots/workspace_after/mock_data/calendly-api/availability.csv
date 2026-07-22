@@ -1,0 +1,6 @@
+owner,weekday,start_time,end_time,timezone,__api__,__table__,__file__,__row_index__,_pk
+user-stuart-myer,monday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,0,user-stuart-myer@monday@09:00
+user-stuart-myer,tuesday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,1,user-stuart-myer@tuesday@09:00
+user-stuart-myer,wednesday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,2,user-stuart-myer@wednesday@09:00
+user-stuart-myer,thursday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,3,user-stuart-myer@thursday@09:00
+user-stuart-myer,friday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,4,user-stuart-myer@friday@09:00

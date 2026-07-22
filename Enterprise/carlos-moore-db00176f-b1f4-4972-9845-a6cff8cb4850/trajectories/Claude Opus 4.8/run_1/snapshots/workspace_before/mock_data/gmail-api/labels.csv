@@ -1,0 +1,8 @@
+id,messages_total,messages_unread,name,threads_total,threads_unread,type,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,23,17,INBOX,22,17,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,23,17,22,17
+SENT,11,0,SENT,11,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,11,0,11,0
+DRAFTS,6,0,DRAFT,6,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,6,0,6,0
+TRASH,6,0,TRASH,6,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,6,0,6,0
+SPAM,9,4,SPAM,9,4,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,9,4,9,4
+Label_1,11,3,Bellmark Industries,9,3,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,11,3,9,3
+Label_2,5,2,Follow up,5,2,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,5,2,5,2

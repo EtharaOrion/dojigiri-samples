@@ -1,0 +1,11 @@
+effective_date,employee_id,flsa_status,id,job_title,payment_unit,rate,__api__,__table__,__file__,__row_index__
+2018-01-15,emp-9db1b05f,Exempt,comp-de1ccc90,Head Brewer & Co-Owner,Year,72000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,0
+2019-02-15,emp-3219fe72,Nonexempt,comp-eff5214a,Bartender,Hour,19.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,1
+2020-03-15,emp-e9e15fcb,Nonexempt,comp-56005632,Bartender,Hour,18.5,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,2
+2021-04-15,emp-10e7420c,Exempt,comp-cd0fd500,Co-Owner,Year,72000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,3
+2022-05-15,emp-2286b15c,Nonexempt,comp-9735e1bc,Bartender,Hour,18.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,4
+2023-06-15,emp-a20539b8,Nonexempt,comp-d35ba63f,Cellar Assistant,Year,42000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,5
+2018-07-15,emp-11efe83a,Nonexempt,comp-4ccfc23e,Bartender,Hour,18.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,6
+2019-08-15,emp-979e0af2,Nonexempt,comp-bf9803e6,Cellar Assistant,Year,41000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,7
+2020-09-15,emp-8bcb5761,Nonexempt,comp-6bd7921b,Bartender,Hour,18.5,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,8
+2021-10-15,emp-476cff32,Exempt,comp-8a15b705,Taproom Manager,Year,52000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,9

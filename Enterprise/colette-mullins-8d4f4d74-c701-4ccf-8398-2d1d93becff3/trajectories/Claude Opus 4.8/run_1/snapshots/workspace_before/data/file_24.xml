@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Budget period="Monthly" owner="Colette Mullins" currency="USD" updated="2026-10-01">
+  <TotalMonthly>9350</TotalMonthly>
+  <BudgetItem>
+    <Category>Housing</Category>
+    <Name>Mortgage</Name>
+    <Amount>2200</Amount>
+    <Notes>Fixed - 15yr mortgage on Shaker Heights home</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Family Support</Category>
+    <Name>Margaux Support</Name>
+    <Amount>1500</Amount>
+    <Notes>Medical school living expenses - Lakeland Reserve University</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Family Support</Category>
+    <Name>Julien Support</Name>
+    <Amount>1200</Amount>
+    <Notes>College expenses - Ashfield College</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Food</Category>
+    <Name>Groceries</Name>
+    <Amount>1200</Amount>
+    <Notes>Weekly shop plus Friday brioche ingredients</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Food</Category>
+    <Name>Dining Out</Name>
+    <Amount>250</Amount>
+    <Notes>Family restaurants and occasional pastoral lunches</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Home</Category>
+    <Name>Utilities</Name>
+    <Amount>350</Amount>
+    <Notes>Electric, gas, water, internet</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Family</Category>
+    <Name>Sophie Activities</Name>
+    <Amount>200</Amount>
+    <Notes>Chess tournaments, Maple Heights Academy fees</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Charitable</Category>
+    <Name>Charitable Giving</Name>
+    <Amount>1600</Amount>
+    <Notes>Tithing and additional parish support</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Transportation</Category>
+    <Name>Gas and Auto</Name>
+    <Amount>220</Amount>
+    <Notes>Commute and pastoral visits</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Insurance</Category>
+    <Name>Insurance</Name>
+    <Amount>450</Amount>
+    <Notes>Home, auto, health supplemental</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Personal</Category>
+    <Name>Entertainment</Name>
+    <Amount>100</Amount>
+    <Notes>Concerts, hiking gear, chess club dues</Notes>
+  </BudgetItem>
+  <BudgetItem>
+    <Category>Personal</Category>
+    <Name>Books and Subscriptions</Name>
+    <Amount>80</Amount>
+    <Notes>Theological journals and library purchases</Notes>
+  </BudgetItem>
+</Budget>

@@ -1,0 +1,43 @@
+{
+  "CompanyInfo": {
+    "CompanyName": "Taylor Visual Studio",
+    "LegalName": "Jessica Marie Taylor (Sole Proprietor DBA Taylor Visual Studio)",
+    "CompanyAddr": {
+      "Line1": "3450 W 6th St, Suite 812",
+      "City": "Los Angeles",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "90020"
+    },
+    "Email": {
+      "Address": "jessica@taylorvisualstudio.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13232670118"
+    },
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "IndustryType": "Graphic Design Services",
+    "NameValue": [
+      {
+        "Name": "OwnerName",
+        "Value": "Jessica Marie Taylor"
+      },
+      {
+        "Name": "OwnershipStructure",
+        "Value": "Sole Proprietor"
+      },
+      {
+        "Name": "AverageMonthlyRevenue",
+        "Value": "$4,800"
+      },
+      {
+        "Name": "AnnualGrossRevenue",
+        "Value": "$57,600"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2020-06-10T09:00:00-07:00",
+      "LastUpdatedTime": "2026-12-29T09:15:00-07:00"
+    }
+  }
+}

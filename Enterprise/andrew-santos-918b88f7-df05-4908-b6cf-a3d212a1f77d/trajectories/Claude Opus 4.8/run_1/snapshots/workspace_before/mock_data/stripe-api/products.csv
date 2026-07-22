@@ -1,0 +1,11 @@
+active,created,description,id,name,__api__,__table__,__file__,__row_index__,object
+True,1773513000,Starter plan — monthly — subscriptions,prod_82b09dc624281f,Starter plan — monthly,stripe-api,products,/opt/mocks/stripe-api/products.json,0,product
+True,1767810600,Pro plan — monthly — subscriptions,prod_6fdcb3e7001492,Pro plan — monthly,stripe-api,products,/opt/mocks/stripe-api/products.json,1,product
+True,1777573800,Business plan — monthly — subscriptions,prod_813468e14a61b4,Business plan — monthly,stripe-api,products,/opt/mocks/stripe-api/products.json,2,product
+True,1765823400,Pro plan — annual — subscriptions,prod_e8bbb182e6ede1,Pro plan — annual,stripe-api,products,/opt/mocks/stripe-api/products.json,3,product
+True,1771439400,Implementation services — services,prod_d1a70d88883cf0,Implementation services,stripe-api,products,/opt/mocks/stripe-api/products.json,4,product
+True,1772389800,Consultation — 60 min — services,prod_3a643eb147e5a3,Consultation — 60 min,stripe-api,products,/opt/mocks/stripe-api/products.json,5,product
+True,1777141800,Brand kit — goods,prod_702d06f5142336,Brand kit,stripe-api,products,/opt/mocks/stripe-api/products.json,6,product
+True,1772735400,Welcome pack — goods,prod_a193fe658d7625,Welcome pack,stripe-api,products,/opt/mocks/stripe-api/products.json,7,product
+True,1773858600,Tee — large — goods,prod_39e317352ebe97,Tee — large,stripe-api,products,/opt/mocks/stripe-api/products.json,8,product
+True,1772735400,Notebook bundle — goods,prod_4b4bc65c73490b,Notebook bundle,stripe-api,products,/opt/mocks/stripe-api/products.json,9,product

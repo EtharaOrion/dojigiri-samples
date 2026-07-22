@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Start a Project, Spencer Interiors</title>
+<style>
+  :root{
+    --cream:#f4eee4; --terra:#b0592a; --walnut:#574033; --char:#2d2925;
+    --sand:#e6d8c3; --sage:#7c8559; --white:#fffdf9; --err:#b0392a;
+    --shadow:0 18px 44px rgba(45,41,37,.16);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;color:var(--char);background:
+     radial-gradient(900px 500px at 85% -5%,rgba(176,89,42,.10),transparent),
+     radial-gradient(800px 600px at -10% 110%,rgba(124,133,89,.12),transparent),var(--cream);
+     line-height:1.55;min-height:100vh}
+  header{max-width:880px;margin:0 auto;padding:30px 24px 8px;display:flex;justify-content:space-between;align-items:center}
+  .brand{font-size:20px;font-weight:700;color:var(--walnut)}.brand span{color:var(--terra)}
+  header .meta{font-size:12px;color:#857668;text-transform:uppercase;letter-spacing:1.5px}
+  .shell{max-width:880px;margin:18px auto 40px;padding:0 24px}
+  .intro h1{font-family:Georgia,serif;font-size:clamp(28px,5vw,40px);color:var(--walnut);line-height:1.1}
+  .intro p{max-width:600px;color:#5d5247;margin-top:12px;font-size:16px}
+  .progress{height:6px;background:var(--sand);border-radius:6px;margin:26px 0 6px;overflow:hidden}
+  .progress i{display:block;height:100%;width:8%;background:linear-gradient(90deg,var(--sage),var(--terra));border-radius:6px;transition:width .4s}
+  .phint{font-size:12px;color:#857668;margin-bottom:18px}
+
+  form{background:var(--white);border-radius:16px;box-shadow:var(--shadow);padding:34px;border:1px solid var(--sand)}
+  fieldset{border:0;margin-bottom:26px}
+  legend{font-family:Georgia,serif;font-size:18px;color:var(--terra);margin-bottom:14px;font-weight:700}
+  label.fl{display:block;font-size:13px;font-weight:600;color:var(--walnut);margin-bottom:7px;letter-spacing:.3px}
+  .req{color:var(--terra)}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  input[type=text],input[type=email],input[type=tel],select,textarea{
+    width:100%;font-family:inherit;font-size:15px;padding:13px 14px;border:1px solid #d3c4ae;border-radius:9px;background:#fffdf9;transition:.2s}
+  input:focus,select:focus,textarea:focus{outline:none;border-color:var(--terra);box-shadow:0 0 0 3px rgba(176,89,42,.15)}
+  .field{margin-bottom:18px}
+  .err-msg{color:var(--err);font-size:12.5px;margin-top:6px;display:none}
+  .field.bad input,.field.bad select{border-color:var(--err);box-shadow:0 0 0 3px rgba(176,57,42,.12)}
+  .field.bad .err-msg{display:block}
+
+  .choices{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  .choice{position:relative}
+  .choice input{position:absolute;opacity:0;inset:0;cursor:pointer}
+  .choice span{display:block;border:1px solid #d3c4ae;border-radius:10px;padding:14px 16px;font-size:14px;transition:.2s;cursor:pointer}
+  .choice span b{display:block;color:var(--walnut);font-size:15px;margin-bottom:2px}
+  .choice span small{color:#857668}
+  .choice input:checked + span{border-color:var(--terra);background:#fbf2ea;box-shadow:0 0 0 2px rgba(176,89,42,.18)}
+  .choice input:focus-visible + span{box-shadow:0 0 0 3px rgba(176,89,42,.25)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:10px}
+  .chip input{position:absolute;opacity:0}
+  .chip span{display:inline-block;border:1px solid #d3c4ae;border-radius:30px;padding:9px 16px;font-size:13px;cursor:pointer;transition:.2s;color:var(--char)}
+  .chip input:checked + span{background:var(--walnut);color:var(--cream);border-color:var(--walnut)}
+
+  .budget b{font-family:Georgia,serif;color:var(--terra);font-size:22px}
+  input[type=range]{width:100%;accent-color:var(--terra);margin-top:6px}
+  .scale{display:flex;justify-content:space-between;font-size:12px;color:#857668;margin-top:4px}
+
+  .submit{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-top:8px}
+  .consent{font-size:13px;color:#5d5247;display:flex;gap:9px;align-items:flex-start;max-width:440px}
+  .consent input{margin-top:3px;accent-color:var(--terra)}
+  button.send{background:var(--terra);color:#fff;border:0;border-radius:10px;padding:15px 34px;font-size:14px;
+    letter-spacing:1.5px;text-transform:uppercase;cursor:pointer;transition:.25s;box-shadow:0 10px 24px rgba(176,89,42,.3)}
+  button.send:hover{background:#974a22;transform:translateY(-2px)}
+  button.send:active{transform:translateY(0)}
+
+  /* success */
+  .done{display:none;text-align:center;padding:46px 30px}
+  .done.show{display:block;animation:pop .5s cubic-bezier(.2,.8,.2,1)}
+  @keyframes pop{from{opacity:0;transform:scale(.94)}to{opacity:1;transform:none}}
+  .check{width:78px;height:78px;border-radius:50%;background:var(--sage);margin:0 auto 18px;position:relative}
+  .check::after{content:"";position:absolute;left:28px;top:16px;width:18px;height:34px;border:solid #fff;border-width:0 5px 5px 0;transform:rotate(45deg);
+    animation:draw .4s .2s both}
+  @keyframes draw{from{height:0;opacity:0}to{height:34px;opacity:1}}
+  .done h2{font-family:Georgia,serif;color:var(--walnut);font-size:28px}
+  .done p{color:#5d5247;margin-top:10px;max-width:460px;margin-inline:auto}
+  .done button{margin-top:22px;background:transparent;border:1px solid var(--walnut);color:var(--walnut);
+    padding:12px 26px;border-radius:8px;cursor:pointer;font-size:13px;letter-spacing:1px;text-transform:uppercase}
+
+  footer{max-width:880px;margin:0 auto;padding:24px;color:#857668;font-size:13px;border-top:1px solid var(--sand);
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+  @media(max-width:640px){.row,.choices{grid-template-columns:1fr}form{padding:24px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">Spencer<span>.</span> Interiors</div>
+  <div class="meta">New project intake</div>
+</header>
+
+<div class="shell">
+  <div class="intro">
+    <h1>Tell us about your home.</h1>
+    <p>We take on a limited number of residential projects each season. Share a few details and we will follow up to set a discovery call. Nothing here is a commitment.</p>
+  </div>
+  <div class="progress"><i id="pbar"></i></div>
+  <div class="phint" id="phint">Step through the form, your progress fills as you go.</div>
+
+  <form id="intake" novalidate>
+    <fieldset>
+      <legend>About you</legend>
+      <div class="row">
+        <div class="field"><label class="fl">Full name <span class="req">*</span></label>
+          <input id="name" type="text"><div class="err-msg">Please add your name.</div></div>
+        <div class="field"><label class="fl">Email <span class="req">*</span></label>
+          <input id="email" type="email"><div class="err-msg">Add a valid email so we can reply.</div></div>
+      </div>
+      <div class="row">
+        <div class="field"><label class="fl">Phone</label>
+          <input id="phone" type="tel"></div>
+        <div class="field"><label class="fl">Property location <span class="req">*</span></label>
+          <input id="loc" type="text"><div class="err-msg">Where is the home?</div></div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Project type <span class="req">*</span></legend>
+      <div class="choices">
+        <label class="choice"><input type="radio" name="ptype" value="full"><span><b>Full home design</b><small>Concept to install across the whole home</small></span></label>
+        <label class="choice"><input type="radio" name="ptype" value="reno"><span><b>Renovation</b><small>Kitchen, bath, or a focused remodel</small></span></label>
+        <label class="choice"><input type="radio" name="ptype" value="stage"><span><b>Staging</b><small>Prepare a home for listing or sale</small></span></label>
+        <label class="choice"><input type="radio" name="ptype" value="room"><span><b>Single room</b><small>One space refreshed and styled</small></span></label>
+      </div>
+      <div class="err-msg" id="ptypeErr">Please pick a project type.</div>
+    </fieldset>
+
+    <fieldset>
+      <legend>What draws you to our work</legend>
+      <div class="chips">
+        <label class="chip"><input type="checkbox" value="mcm"><span>Mid century modern</span></label>
+        <label class="chip"><input type="checkbox" value="warm"><span>Warm neutrals</span></label>
+        <label class="chip"><input type="checkbox" value="natural"><span>Natural materials</span></label>
+        <label class="chip"><input type="checkbox" value="vintage"><span>Vintage finds</span></label>
+        <label class="chip"><input type="checkbox" value="entertain"><span>Built for hosting</span></label>
+        <label class="chip"><input type="checkbox" value="art"><span>Art forward</span></label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Scope</legend>
+      <div class="field budget">
+        <label class="fl">Approximate budget: <b id="bval">$150,000</b></label>
+        <input id="budget" type="range" min="25000" max="400000" step="5000" value="150000">
+        <div class="scale"><span>$25,000</span><span>$400,000 plus</span></div>
+      </div>
+      <div class="field">
+        <label class="fl">Timeline</label>
+        <select id="time">
+          <option value="">Select a timeline</option>
+          <option>As soon as we can start</option>
+          <option>Within the next two months</option>
+          <option>This fall, October onward</option>
+          <option>Flexible, planning ahead</option>
+        </select>
+      </div>
+      <div class="field">
+        <label class="fl">A line or two about the project</label>
+        <textarea id="msg" rows="4"></textarea>
+      </div>
+    </fieldset>
+
+    <div class="submit">
+      <label class="consent"><input id="consent" type="checkbox">
+        I agree to be contacted about my project by the studio.</label>
+      <button class="send" type="submit">Send my details</button>
+    </div>
+  </form>
+
+  <div class="done" id="done">
+    <div class="check"></div>
+    <h2>Thank you, <span id="dn">there</span>.</h2>
+    <p>Your details are in. Jessica or a member of the studio will reach out within two business days to set up a discovery call. We look forward to hearing about your home.</p>
+    <button id="again">Send another</button>
+  </div>
+</div>
+
+<footer>
+  <span>Spencer Interiors  |  7014 East 1st Avenue, Scottsdale, AZ 85251</span>
+  <span>(480) 555-0270  |  jessica.spencer@Finthesiss.ai</span>
+</footer>
+
+<script>
+var f=document.getElementById('intake');
+var fields=['name','email','phone','loc','time','msg'];
+function pct(){
+  var filled=0,total=fields.length+2;
+  fields.forEach(function(id){if(document.getElementById(id).value.trim())filled++;});
+  if(f.querySelector('input[name=ptype]:checked'))filled++;
+  if(document.getElementById('consent').checked)filled++;
+  return Math.max(8,Math.round(filled/total*100));
+}
+function upd(){document.getElementById('pbar').style.width=pct()+'%';}
+f.addEventListener('input',upd);f.addEventListener('change',upd);
+
+document.getElementById('budget').addEventListener('input',function(){
+  var v=+this.value,t=v>=400000?'$400,000 plus':'$'+v.toLocaleString();
+  document.getElementById('bval').textContent=t;
+});
+
+function setBad(id,bad){document.getElementById(id).closest('.field').classList.toggle('bad',bad);}
+
+f.addEventListener('submit',function(ev){
+  ev.preventDefault();
+  var ok=true;
+  var name=document.getElementById('name').value.trim();
+  var email=document.getElementById('email').value.trim();
+  var loc=document.getElementById('loc').value.trim();
+  var validEmail=/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email);
+  setBad('name',!name); if(!name)ok=false;
+  setBad('email',!validEmail); if(!validEmail)ok=false;
+  setBad('loc',!loc); if(!loc)ok=false;
+  var pt=f.querySelector('input[name=ptype]:checked');
+  document.getElementById('ptypeErr').style.display=pt?'none':'block'; if(!pt)ok=false;
+  if(!ok){ (document.querySelector('.field.bad input')||{focus:function(){}}).focus(); return; }
+  document.getElementById('dn').textContent=name.split(' ')[0];
+  f.style.display='none';
+  var d=document.getElementById('done');d.classList.add('show');
+  d.scrollIntoView({behavior:'smooth',block:'center'});
+});
+document.getElementById('again').addEventListener('click',function(){
+  f.reset();document.getElementById('bval').textContent='$150,000';
+  document.querySelectorAll('.field.bad').forEach(function(x){x.classList.remove('bad')});
+  document.getElementById('done').classList.remove('show');
+  f.style.display='block';upd();window.scrollTo({top:0,behavior:'smooth'});
+});
+upd();
+</script>
+</body>
+</html>

@@ -1,0 +1,974 @@
+[
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Order cosmetic laser demo unit",
+    "Project": "Cosmetic Laser Suite Buildout",
+    "Status": "In progress",
+    "createdTime": "2026-01-05T10:00:00.000Z",
+    "id": "recgizeg8Psh4487Q"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Confirm treatment-room electrical work",
+    "Project": "Cosmetic Laser Suite Buildout",
+    "Status": "To do",
+    "createdTime": "2026-01-08T14:12:00.000Z",
+    "id": "rec1cIaHZcUEqPbEN"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "6",
+    "Name": "Update acne protocol library",
+    "Project": "Acne Treatment Protocol Refresh",
+    "Status": "Done",
+    "createdTime": "2026-01-11T19:31:00.000Z",
+    "id": "recyH5xJ8tpqXJQ4I"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Draft patient consent forms",
+    "Project": "Aetna Insurance Credentialing",
+    "Status": "In progress",
+    "createdTime": "2026-01-14T22:45:00.000Z",
+    "id": "recv8GZ4fKq1OKtbg"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Book Aetna credentialing call",
+    "Project": "Aetna Insurance Credentialing",
+    "Status": "To do",
+    "createdTime": "2026-01-18T02:06:00.000Z",
+    "id": "recaMWUFuXBVjdctB"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "16",
+    "Name": "Review CPT billing codes",
+    "Project": "Annual Skin Cancer Screening Program",
+    "Status": "Done",
+    "createdTime": "2026-01-21T05:27:00.000Z",
+    "id": "rechnSg9EH6yO4GFQ"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "12",
+    "Name": "Draft skin-screening intake form",
+    "Project": "Annual Skin Cancer Screening Program",
+    "Status": "To do",
+    "createdTime": "2026-01-24T07:29:00.000Z",
+    "id": "rec5xLRwI0b26r08Q"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Write Mohs return-visit checklist",
+    "Project": "Mohs Surgery Workflow SOP",
+    "Status": "Done",
+    "createdTime": "2026-01-27T10:38:00.000Z",
+    "id": "reci6gkfsUFRDzsLb"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "16",
+    "Name": "Plan MA rotation calendar",
+    "Project": "Medical Assistant Onboarding",
+    "Status": "In progress",
+    "createdTime": "2026-01-30T10:55:00.000Z",
+    "id": "rec8BoFzQFm2OEQ3H"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "16",
+    "Name": "Audit Q1 outstanding claims",
+    "Project": "Quarterly Billing Cleanup",
+    "Status": "Done",
+    "createdTime": "2026-02-02T13:55:00.000Z",
+    "id": "recVja76RnIChtP8H"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "8",
+    "Name": "Email outcome survey to patients",
+    "Project": "Patient Outcome Survey Rollout",
+    "Status": "In progress",
+    "createdTime": "2026-02-05T15:11:00.000Z",
+    "id": "recDLM7ToThwNScgr"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "12",
+    "Name": "Reconcile equipment invoices",
+    "Project": "Equipment Financing Review",
+    "Status": "Done",
+    "createdTime": "2026-02-08T16:28:00.000Z",
+    "id": "recWzBQCABugjMgeP"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Renew clinic liability policy",
+    "Project": "Front Desk Scheduling Workflow",
+    "Status": "To do",
+    "createdTime": "2026-02-11T19:34:00.000Z",
+    "id": "recq0pbqfi14ZgTsN"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Advance trillium composition to final wash",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "In progress",
+    "createdTime": "2026-02-14T20:55:00.000Z",
+    "id": "recM14tuoIZWD1IAE"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Scan and archive trillium composition",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "To do",
+    "createdTime": "2026-02-18T02:42:00.000Z",
+    "id": "rec4QbKDFq1Y3gqSm"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Advance Oregon iris plate to final wash",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "In progress",
+    "createdTime": "2026-02-21T04:26:00.000Z",
+    "id": "recSCdLKRcAQX9VjU"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Order Ridgemont large-format sheets",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "To do",
+    "createdTime": "2026-02-24T05:28:00.000Z",
+    "id": "rec94TNWLAVYFeRgp"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Confirm Ashvale hang dimensions",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "In progress",
+    "createdTime": "2026-02-27T06:43:00.000Z",
+    "id": "recgxAFQ0FJZlCZBT"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Invoice church commission deposit",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "To do",
+    "createdTime": "2026-03-02T09:23:00.000Z",
+    "id": "recOFl9h2wJq5ty4m"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Prep workshop starter sets",
+    "Project": "Quarterly Workshop Program",
+    "Status": "To do",
+    "createdTime": "2026-03-05T13:11:00.000Z",
+    "id": "recUufJSunpJC01t5"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Update portfolio microsite",
+    "Project": "Portfolio Microsite Refresh",
+    "Status": "In progress",
+    "createdTime": "2026-03-08T17:51:00.000Z",
+    "id": "recbuszgI6hwgk10z"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Send Margaret critique state",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "To do",
+    "createdTime": "2026-03-11T18:43:00.000Z",
+    "id": "recrlz5tr9spOFBCI"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "6",
+    "Name": "Deliver November wedding print",
+    "Project": "November Wedding Prints",
+    "Status": "In progress",
+    "createdTime": "2026-03-15T00:06:00.000Z",
+    "id": "rec9GY1cjDoBoirPf"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Draft workshop alumni newsletter",
+    "Project": "Quarterly Workshop Program",
+    "Status": "To do",
+    "createdTime": "2026-03-18T02:06:00.000Z",
+    "id": "recdzEv7g5iFqhEvv"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Order Cedarbrook cold-press watercolor blocks",
+    "Project": "Cedarbrook Supply Orders",
+    "Status": "Done",
+    "createdTime": "2025-10-14T16:20:00.000Z",
+    "id": "recv8r1X56IYAOsBb"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Reorder sable round brushes 2 and 4",
+    "Project": "Cedarbrook Supply Orders",
+    "Status": "Done",
+    "createdTime": "2025-11-03T18:40:00.000Z",
+    "id": "recDQITh6nexYFTh3"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Restock natural earth pigment set",
+    "Project": "Cedarbrook Supply Orders",
+    "Status": "To do",
+    "createdTime": "2026-10-06T15:10:00.000Z",
+    "id": "rec0KAPEkj16zRUOC"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Approve Cedarbrook winter supply quote",
+    "Project": "Cedarbrook Supply Orders",
+    "Status": "In progress",
+    "createdTime": "2026-11-12T17:25:00.000Z",
+    "id": "recltr5csOS19MMFq"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Return warped hot-press sheets to Cedarbrook",
+    "Project": "Cedarbrook Supply Orders",
+    "Status": "Done",
+    "createdTime": "2026-01-09T20:15:00.000Z",
+    "id": "recJqgIoB5QmgNxDu"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Order Ridgemont archival mounting board",
+    "Project": "Ridgemont Paper Orders",
+    "Status": "Done",
+    "createdTime": "2025-11-18T19:05:00.000Z",
+    "id": "recu95iEAImBlOWyU"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Request Ridgemont large-format paper samples",
+    "Project": "Ridgemont Paper Orders",
+    "Status": "To do",
+    "createdTime": "2026-10-09T14:45:00.000Z",
+    "id": "rec3LpRalrwkn66Hk"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Confirm Ridgemont deckle-edge print stock",
+    "Project": "Ridgemont Paper Orders",
+    "Status": "In progress",
+    "createdTime": "2026-12-02T16:30:00.000Z",
+    "id": "rec9WPgm79mUdocT2"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Reconcile Ridgemont paper invoice",
+    "Project": "Ridgemont Paper Orders",
+    "Status": "Done",
+    "createdTime": "2026-02-16T21:50:00.000Z",
+    "id": "rectMgXrnV85uZr29"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Finalize camas lily plate composition",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "In progress",
+    "createdTime": "2026-03-20T18:10:00.000Z",
+    "id": "recxjB3SfzPGbwKz6"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Select frames for Ashvale hanging",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "To do",
+    "createdTime": "2026-11-05T17:40:00.000Z",
+    "id": "recinbzOIEGKICsB3"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Write exhibition wall labels",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "To do",
+    "createdTime": "2026-11-19T19:20:00.000Z",
+    "id": "recdu781QMHscmjp7"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Coordinate print scans with Ridgemont",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "In progress",
+    "createdTime": "2026-12-08T16:55:00.000Z",
+    "id": "recGnqdKpm7RiN94v"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Draft opening-night remarks",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "To do",
+    "createdTime": "2026-12-22T20:05:00.000Z",
+    "id": "reczafgJxo87zwzLE"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "5",
+    "Name": "Ship framed pieces to Ashvale Arts Center",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "To do",
+    "createdTime": "2027-01-04T15:35:00.000Z",
+    "id": "recqcrz41WnVONorv"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "3",
+    "Name": "Reserve lupine study for print series",
+    "Project": "Wild Botanica Exhibition",
+    "Status": "Done",
+    "createdTime": "2026-01-16T22:12:00.000Z",
+    "id": "recHTasmgIYWrf0sD"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "6",
+    "Name": "Sketch St. Brendan's sanctuary wildflower panel",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "In progress",
+    "createdTime": "2026-02-26T19:44:00.000Z",
+    "id": "recUPtxadZpJ4Irn3"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Review series proofs with Father Daniel Murphy",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "To do",
+    "createdTime": "2026-10-27T18:15:00.000Z",
+    "id": "recTMRa9mrfXsLde7"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Deliver framed wildflower triptych to parish",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "To do",
+    "createdTime": "2026-12-18T17:05:00.000Z",
+    "id": "recy7XgFrtvYYbPzA"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Invoice parish for final series payment",
+    "Project": "St. Brendan's Wildflower Series",
+    "Status": "To do",
+    "createdTime": "2027-01-15T16:40:00.000Z",
+    "id": "recKBfZXLQ4kdhRg7"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "3",
+    "Name": "Plan parish botanical card workshop agenda",
+    "Project": "St. Brendan's Workshop Prep",
+    "Status": "Done",
+    "createdTime": "2025-12-09T18:30:00.000Z",
+    "id": "recXqqnhUa9DwGsGI"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Assemble parish workshop starter kits",
+    "Project": "St. Brendan's Workshop Prep",
+    "Status": "To do",
+    "createdTime": "2026-11-02T15:50:00.000Z",
+    "id": "rec8hpjsNO2lZKYSk"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Confirm parish hall booking with Diane Kowalski",
+    "Project": "St. Brendan's Workshop Prep",
+    "Status": "In progress",
+    "createdTime": "2026-11-16T17:10:00.000Z",
+    "id": "recObqhJZXKFrNoOx"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Print workshop handouts for parish group",
+    "Project": "St. Brendan's Workshop Prep",
+    "Status": "To do",
+    "createdTime": "2026-12-11T19:00:00.000Z",
+    "id": "recI3Oytk6C7QM876"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Schedule spring watercolor workshop dates",
+    "Project": "Quarterly Workshop Program",
+    "Status": "To do",
+    "createdTime": "2026-10-13T16:25:00.000Z",
+    "id": "recDDMuJibOu4TBsx"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Update workshop registration page",
+    "Project": "Quarterly Workshop Program",
+    "Status": "In progress",
+    "createdTime": "2026-11-09T18:05:00.000Z",
+    "id": "recJ74LLMTi0BehJh"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Order bulk workshop pigment tins",
+    "Project": "Quarterly Workshop Program",
+    "Status": "To do",
+    "createdTime": "2026-12-03T15:15:00.000Z",
+    "id": "recGfu1recuVsZ3cr"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Compile workshop alumni mailing list",
+    "Project": "Quarterly Workshop Program",
+    "Status": "Done",
+    "createdTime": "2026-01-13T21:30:00.000Z",
+    "id": "recykMNZfXZE17eqq"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "6",
+    "Name": "Outline botanical illustration masterclass curriculum",
+    "Project": "Ashvale Masterclass Prep",
+    "Status": "In progress",
+    "createdTime": "2026-10-22T17:35:00.000Z",
+    "id": "recp9o0E0713Qrsh5"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Prepare specimen references for masterclass",
+    "Project": "Ashvale Masterclass Prep",
+    "Status": "To do",
+    "createdTime": "2026-11-04T16:20:00.000Z",
+    "id": "reckf5CxJiy7ZDF92"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Confirm Ashvale room and easel setup",
+    "Project": "Ashvale Masterclass Prep",
+    "Status": "To do",
+    "createdTime": "2026-10-30T18:50:00.000Z",
+    "id": "recRfF3xT7wWX8kAF"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Submit botanical prints to Meridian jury",
+    "Project": "Meridian Autumn Show",
+    "Status": "To do",
+    "createdTime": "2026-10-05T15:05:00.000Z",
+    "id": "recyTDMN3ZssUFADT"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Frame autumn maple study for Meridian",
+    "Project": "Meridian Autumn Show",
+    "Status": "In progress",
+    "createdTime": "2026-10-12T17:45:00.000Z",
+    "id": "recrHukWiqI1GdfPF"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Proof Mitchell wedding botanical print",
+    "Project": "November Wedding Prints",
+    "Status": "In progress",
+    "createdTime": "2026-03-24T19:15:00.000Z",
+    "id": "recrA8QN0TzqohkBq"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Package and ship wedding print order",
+    "Project": "November Wedding Prints",
+    "Status": "To do",
+    "createdTime": "2026-11-07T16:10:00.000Z",
+    "id": "recxDWAW85XSl6OIJ"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Photograph new botanical works for portfolio",
+    "Project": "Portfolio Microsite Refresh",
+    "Status": "To do",
+    "createdTime": "2026-10-19T18:25:00.000Z",
+    "id": "recbjRF51pApt0P2w"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Rewrite artist statement page",
+    "Project": "Portfolio Microsite Refresh",
+    "Status": "In progress",
+    "createdTime": "2026-11-23T17:30:00.000Z",
+    "id": "recgJtDTFHcFvFl7d"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Update commission inquiry form",
+    "Project": "Portfolio Microsite Refresh",
+    "Status": "To do",
+    "createdTime": "2026-12-14T15:40:00.000Z",
+    "id": "recOHTEOkMag6BUwN"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Book Declan orthodontist follow-up",
+    "Project": "Family & Household Logistics",
+    "Status": "To do",
+    "createdTime": "2026-10-08T15:20:00.000Z",
+    "id": "recgHr5HneDLplafF"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Plan Thanksgiving dinner with Sean and Megan",
+    "Project": "Family & Household Logistics",
+    "Status": "In progress",
+    "createdTime": "2026-11-10T18:00:00.000Z",
+    "id": "recm979tAhuWzG00t"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Order Christmas gifts for Dublin family",
+    "Project": "Family & Household Logistics",
+    "Status": "To do",
+    "createdTime": "2026-12-05T16:45:00.000Z",
+    "id": "recNlkZoOIm7Kb29o"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Schedule furnace winter service",
+    "Project": "Family & Household Logistics",
+    "Status": "Done",
+    "createdTime": "2025-11-25T20:30:00.000Z",
+    "id": "rec54mlajFJ3KBm3w"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Renew Declan's passport for summer trip",
+    "Project": "Family & Household Logistics",
+    "Status": "To do",
+    "createdTime": "2027-02-11T17:15:00.000Z",
+    "id": "recQLMxOWo6Ix3XDz"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Coordinate weekend visit to Patrick and Eileen",
+    "Project": "Family & Household Logistics",
+    "Status": "In progress",
+    "createdTime": "2026-10-24T15:55:00.000Z",
+    "id": "recCgVCUt1puCvIbm"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Arrange spring break flights to Seattle",
+    "Project": "Family & Household Logistics",
+    "Status": "To do",
+    "createdTime": "2027-03-06T16:35:00.000Z",
+    "id": "recmMx7IpNLRszpAj"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Sign Declan up for winter robotics club",
+    "Project": "Declan School & Activities",
+    "Status": "Done",
+    "createdTime": "2025-12-01T22:10:00.000Z",
+    "id": "recTkRZFBcP9btQS8"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Attend Declan parent-teacher conference",
+    "Project": "Declan School & Activities",
+    "Status": "To do",
+    "createdTime": "2026-11-13T19:40:00.000Z",
+    "id": "recT2Vx5igYUMFYbE"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Review Declan's semester course selections",
+    "Project": "Declan School & Activities",
+    "Status": "To do",
+    "createdTime": "2027-01-20T17:50:00.000Z",
+    "id": "recJsIrYQjnaW1GWI"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Approve February staff schedule",
+    "Project": "Front Desk Scheduling Workflow",
+    "Status": "Done",
+    "createdTime": "2026-02-19T21:05:00.000Z",
+    "id": "recXWEepwODxB7vqt"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "1",
+    "Name": "Update no-show policy signage",
+    "Project": "Front Desk Scheduling Workflow",
+    "Status": "To do",
+    "createdTime": "2026-10-16T15:25:00.000Z",
+    "id": "reczWQo43GpMMq5rg"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Review front-desk phone script with Heather Doyle",
+    "Project": "Front Desk Scheduling Workflow",
+    "Status": "In progress",
+    "createdTime": "2026-11-18T18:35:00.000Z",
+    "id": "recBgDgMri123T2KS"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Finalize Q4 provider on-call rotation",
+    "Project": "Clinic Staff Scheduling",
+    "Status": "To do",
+    "createdTime": "2026-10-02T16:15:00.000Z",
+    "id": "recD6o2li7kCdIryg"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "1",
+    "Name": "Approve Lauren Bell CME leave request",
+    "Project": "Clinic Staff Scheduling",
+    "Status": "Done",
+    "createdTime": "2026-03-12T20:20:00.000Z",
+    "id": "recOj6q6LLR0FL9pi"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Plan holiday clinic closure calendar",
+    "Project": "Clinic Staff Scheduling",
+    "Status": "In progress",
+    "createdTime": "2026-11-27T17:00:00.000Z",
+    "id": "rec74tfOV01CJWXjz"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Onboard new medical assistant paperwork",
+    "Project": "Medical Assistant Onboarding",
+    "Status": "To do",
+    "createdTime": "2026-10-28T15:45:00.000Z",
+    "id": "recryxE2TCK5hIZee"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Schedule Kayla Nguyen laser safety training",
+    "Project": "Medical Assistant Onboarding",
+    "Status": "Done",
+    "createdTime": "2026-02-23T21:40:00.000Z",
+    "id": "recqPJV2dVTxhvGiE"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "6",
+    "Name": "Review dermoscopy training module",
+    "Project": "Medical Assistant Onboarding",
+    "Status": "In progress",
+    "createdTime": "2026-12-09T18:20:00.000Z",
+    "id": "recx0o3A21G52XkH5"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "12",
+    "Name": "Reconcile December patient billing",
+    "Project": "Quarterly Billing Cleanup",
+    "Status": "To do",
+    "createdTime": "2027-01-07T16:05:00.000Z",
+    "id": "rec9WErWNNQSjPV4t"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "8",
+    "Name": "Follow up on denied Aetna claims",
+    "Project": "Quarterly Billing Cleanup",
+    "Status": "Done",
+    "createdTime": "2026-01-19T22:35:00.000Z",
+    "id": "recdlvaHe7pMfOPk4"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "6",
+    "Name": "Audit cosmetic services revenue report",
+    "Project": "Quarterly Billing Cleanup",
+    "Status": "In progress",
+    "createdTime": "2026-11-30T17:25:00.000Z",
+    "id": "recPRjXslYube4CPn"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Renew Cigna insurance credentialing",
+    "Project": "Aetna Insurance Credentialing",
+    "Status": "To do",
+    "createdTime": "2026-10-21T15:35:00.000Z",
+    "id": "rec2WzHzBsAlot1NG"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Submit BCBS re-credentialing packet",
+    "Project": "Aetna Insurance Credentialing",
+    "Status": "Done",
+    "createdTime": "2025-12-15T21:15:00.000Z",
+    "id": "recoPkw9iCAJeV5XQ"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Update patient recall reminder templates",
+    "Project": "Patient Recall Program",
+    "Status": "To do",
+    "createdTime": "2026-10-11T16:50:00.000Z",
+    "id": "recpDo4JXQra3hFVy"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Run annual mole-check recall batch",
+    "Project": "Patient Recall Program",
+    "Status": "In progress",
+    "createdTime": "2026-12-16T18:10:00.000Z",
+    "id": "rec6IDVcY1SMGHjGu"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "2",
+    "Name": "Review teledermatology intake questions",
+    "Project": "Patient Recall Program",
+    "Status": "Done",
+    "createdTime": "2026-03-05T20:45:00.000Z",
+    "id": "recaEm3T6kpWtNnbH"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Refresh isotretinoin counseling handout",
+    "Project": "Acne Treatment Protocol Refresh",
+    "Status": "To do",
+    "createdTime": "2026-10-07T15:30:00.000Z",
+    "id": "recADz0QwtcGbmC5A"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Standardize acne follow-up intervals",
+    "Project": "Acne Treatment Protocol Refresh",
+    "Status": "In progress",
+    "createdTime": "2026-11-20T17:55:00.000Z",
+    "id": "recvopivR6pwJFPGb"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Order replacement cryotherapy unit",
+    "Project": "Equipment Financing Review",
+    "Status": "To do",
+    "createdTime": "2026-10-26T16:00:00.000Z",
+    "id": "recORPWMGWnSax4Ur"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "6",
+    "Name": "Compare laser lease financing offers",
+    "Project": "Equipment Financing Review",
+    "Status": "Done",
+    "createdTime": "2026-01-27T22:20:00.000Z",
+    "id": "reczUCexGhiIzLC1Y"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Schedule annual laser calibration service",
+    "Project": "Equipment Financing Review",
+    "Status": "In progress",
+    "createdTime": "2026-12-12T18:40:00.000Z",
+    "id": "recgLMa2CPuHkUvnq"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Confirm Mohs lab courier schedule",
+    "Project": "Mohs Surgery Workflow SOP",
+    "Status": "To do",
+    "createdTime": "2026-10-15T15:50:00.000Z",
+    "id": "rec6L9mzOOdh66aCX"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "3",
+    "Name": "Update Mohs specimen tracking log",
+    "Project": "Mohs Surgery Workflow SOP",
+    "Status": "Done",
+    "createdTime": "2026-02-11T21:25:00.000Z",
+    "id": "reckQxp5O93pEDVmN"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "4",
+    "Name": "Recruit volunteers for screening event",
+    "Project": "Annual Skin Cancer Screening Program",
+    "Status": "To do",
+    "createdTime": "2026-10-04T16:35:00.000Z",
+    "id": "recm4e2lj32BE2Twq"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Order screening event tents and signage",
+    "Project": "Annual Skin Cancer Screening Program",
+    "Status": "In progress",
+    "createdTime": "2026-10-14T17:20:00.000Z",
+    "id": "recGuhehJ6o4szfgE"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Send screening results follow-up letters",
+    "Project": "Annual Skin Cancer Screening Program",
+    "Status": "To do",
+    "createdTime": "2026-11-01T18:15:00.000Z",
+    "id": "recikl6etxjmBypDe"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "6",
+    "Name": "Compile patient outcome survey results",
+    "Project": "Patient Outcome Survey Rollout",
+    "Status": "Done",
+    "createdTime": "2026-03-18T20:55:00.000Z",
+    "id": "recp0GMnvnBdX2G6W"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Present survey findings to Dr. Rachel Hoffman",
+    "Project": "Patient Outcome Survey Rollout",
+    "Status": "To do",
+    "createdTime": "2026-10-29T17:10:00.000Z",
+    "id": "rechvNlq7lDdno0ol"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "3",
+    "Name": "Order treatment-room cabinetry",
+    "Project": "Cosmetic Laser Suite Buildout",
+    "Status": "To do",
+    "createdTime": "2026-10-17T15:15:00.000Z",
+    "id": "recnhl9WYjjevBfNz"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Schedule laser suite final inspection",
+    "Project": "Cosmetic Laser Suite Buildout",
+    "Status": "In progress",
+    "createdTime": "2026-11-24T18:30:00.000Z",
+    "id": "recmTzRiJNHlnOFm1"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "2",
+    "Name": "Draft laser suite launch announcement",
+    "Project": "Cosmetic Laser Suite Buildout",
+    "Status": "To do",
+    "createdTime": "2026-12-19T16:20:00.000Z",
+    "id": "reckuMQYIkb5qQMOc"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "16",
+    "Name": "Migrate patient records to new EHR module",
+    "Project": "EHR Migration Project",
+    "Status": "In progress",
+    "createdTime": "2026-11-06T17:45:00.000Z",
+    "id": "recPVaQyuZPiSW5kT"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "8",
+    "Name": "Test EHR e-prescribing integration",
+    "Project": "EHR Migration Project",
+    "Status": "To do",
+    "createdTime": "2026-12-04T15:25:00.000Z",
+    "id": "recp9CMGdjUtuFp2h"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": "6",
+    "Name": "Train staff on EHR charting workflow",
+    "Project": "EHR Migration Project",
+    "Status": "To do",
+    "createdTime": "2027-01-12T18:00:00.000Z",
+    "id": "recqj29QCDzXDPOuz"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": "4",
+    "Name": "Back up legacy chart archive",
+    "Project": "EHR Migration Project",
+    "Status": "Done",
+    "createdTime": "2026-02-07T21:35:00.000Z",
+    "id": "reciGCr80dbrWZAU7"
+  }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<householdBudget owner="Andrew Santos" currency="USD" period="monthly" asOf="2026-02-10">
+  <income>
+    <source name="DYAA salary" annual="92000" monthly="7667"/>
+    <source name="Principal salary, Marco" annual="105000" monthly="8750"/>
+  </income>
+  <expenses total="6540">
+    <item category="Mortgage" amount="1850" note="3.6 percent fixed, 22 years remaining"/>
+    <item category="Student loans" amount="800" note="32,000 remaining at 4.5 percent"/>
+    <item category="Groceries" amount="950"/>
+    <item category="Dining out" amount="250"/>
+    <item category="Utilities" amount="310"/>
+    <item category="Kids activities" amount="380"/>
+    <item category="Gas and auto" amount="280"/>
+    <item category="Insurance" amount="720" note="home, auto, health"/>
+    <item category="College savings" amount="350" note="529 plans for both children"/>
+    <item category="Donations" amount="300"/>
+    <item category="Support for Elena" amount="250"/>
+    <item category="Entertainment" amount="100"/>
+  </expenses>
+  <savings>
+    <account name="Capital One 360" type="Emergency fund" balance="35000" apy="4.1"/>
+    <account name="529 plan, older child" balance="28000" monthly="200"/>
+    <account name="529 plan, younger child" balance="22000" monthly="150"/>
+  </savings>
+</householdBudget>

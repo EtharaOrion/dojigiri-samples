@@ -1,0 +1,4 @@
+board_id,end_date,goal,id,name,start_date,state,__api__,__table__,__file__,__row_index__
+1,2026-01-23T00:00:00Z,Prepare open enrollment communications and finalize the wellness vendor.,101,Open Enrollment Prep Sprint,2026-01-05T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,0
+1,2026-10-24T00:00:00Z,Roll out the 2026 benefits open enrollment to all staff.,100,Open Enrollment Launch Sprint,2026-10-06T00:00:00Z,future,jira-api,sprints,/opt/mocks/jira-api/sprints.json,1
+1,2026-10-02T00:00:00Z,Execute benefits enrollment build and onboarding automation in flight.,102,Benefits & Onboarding Execution Sprint,2026-09-14T00:00:00Z,active,jira-api,sprints,/opt/mocks/jira-api/sprints.json,2

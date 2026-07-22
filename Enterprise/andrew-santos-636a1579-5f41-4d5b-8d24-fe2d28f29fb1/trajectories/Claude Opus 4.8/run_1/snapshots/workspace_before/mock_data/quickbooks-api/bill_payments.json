@@ -1,0 +1,90 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "DYAA Operating \u2014 Chase"
+          }
+        },
+        "Id": "BP-001",
+        "Line": [
+          {
+            "Amount": 8400.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL-2026-001",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Detroit Home Pros \u2014 Livernois milestone 4 payment.",
+        "TotalAmt": 8400.0,
+        "TxnDate": "2026-02-18",
+        "VendorRef": {
+          "name": "Detroit Home Pros",
+          "value": "V-DHP"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "DYAA Operating \u2014 Chase"
+          }
+        },
+        "Id": "BP-002",
+        "Line": [
+          {
+            "Amount": 1850.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL-2026-002",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "ACH",
+        "PrivateNote": "Maria Reyes CPA \u2014 Q1 retainer.",
+        "TotalAmt": 1850.0,
+        "TxnDate": "2026-03-05",
+        "VendorRef": {
+          "name": "Reyes CPA",
+          "value": "V-RCPA"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "DYAA Operating \u2014 Chase"
+          }
+        },
+        "Id": "BP-003",
+        "Line": [
+          {
+            "Amount": 3200.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL-2025-019",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Cass Avenue lease \u2014 December.",
+        "TotalAmt": 3200.0,
+        "TxnDate": "2025-12-01",
+        "VendorRef": {
+          "name": "Cass Avenue Landlord LLC",
+          "value": "V-CASS"
+        }
+      }
+    ],
+    "maxResults": 3,
+    "startPosition": 1,
+    "totalCount": 3
+  }
+}

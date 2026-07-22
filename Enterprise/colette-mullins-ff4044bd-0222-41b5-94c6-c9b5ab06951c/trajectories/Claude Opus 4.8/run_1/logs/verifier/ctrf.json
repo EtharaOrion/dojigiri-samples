@@ -1,0 +1,103 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 17,
+      "passed": 5,
+      "failed": 12,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_behavioral_donor_record_cross_checked",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_payment_channels_gathered",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_quickbooks_pledge_record_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_behavioral_xero_event_ledger_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_distractor_touched",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_docusign_envelope",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_gmail_send",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_mailchimp_appeal",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_outlook_send",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_slack_post",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_whatsapp_send",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_abernathy_authoritative_pledge",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_board_reconciliation_saved",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_cultivation_brief_saved",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_family_table_populated",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_greenwald_authoritative_pledge",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outcome_headline_figures_present",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "created": "2025-01-06T09:00:00.000Z",
+    "description": "All engineers",
+    "id": "00gfb168bae5",
+    "name": "engineering",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-01-15T09:00:00.000Z",
+    "description": "Product designers",
+    "id": "00g0a2b98467",
+    "name": "design",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-01-24T09:00:00.000Z",
+    "description": "Operations team",
+    "id": "00gfb29bbe57",
+    "name": "ops",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-02-02T09:00:00.000Z",
+    "description": "Department heads",
+    "id": "00g2ae28b99f",
+    "name": "leadership",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-02-11T09:00:00.000Z",
+    "description": "HR team",
+    "id": "00g1b0595a84",
+    "name": "human-resources",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-02-20T09:00:00.000Z",
+    "description": "Finance team",
+    "id": "00g1b3fbd102",
+    "name": "finance",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-03-01T09:00:00.000Z",
+    "description": "Sales team",
+    "id": "00gd051bd86b",
+    "name": "sales",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-03-10T09:00:00.000Z",
+    "description": "Marketing team",
+    "id": "00g504f58dbf",
+    "name": "marketing",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-03-19T09:00:00.000Z",
+    "description": "IT and service desk",
+    "id": "00gb32d2f826",
+    "name": "it",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2025-03-28T09:00:00.000Z",
+    "description": "All employees",
+    "id": "00ga64d6002b",
+    "name": "everyone",
+    "type": "OKTA_GROUP"
+  }
+]

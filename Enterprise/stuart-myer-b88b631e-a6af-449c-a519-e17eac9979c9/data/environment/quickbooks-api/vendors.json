@@ -1,0 +1,269 @@
+{
+  "QueryResponse": {
+    "Vendor": [
+      {
+        "Id": "2001",
+        "DisplayName": "Pacific Malt Company",
+        "PrimaryEmailAddr": {
+          "Address": "ar@pacificmaltco.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(360) 555-0190"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Pacific Malt Company."
+      },
+      {
+        "Id": "2002",
+        "DisplayName": "Crosby Hops",
+        "PrimaryEmailAddr": {
+          "Address": "billing@crosbyhops.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0241"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Crosby Hops."
+      },
+      {
+        "Id": "2003",
+        "DisplayName": "Portland General Electric",
+        "PrimaryEmailAddr": {
+          "Address": "business@portlandgeneral.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0228"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Portland General Electric."
+      },
+      {
+        "Id": "2004",
+        "DisplayName": "NW Natural",
+        "PrimaryEmailAddr": {
+          "Address": "billing@nwnatural.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0226"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — NW Natural."
+      },
+      {
+        "Id": "2005",
+        "DisplayName": "Burnside Industrial Holdings LLC",
+        "PrimaryEmailAddr": {
+          "Address": "lease@burnsideindustrial.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0188"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Burnside Industrial Holdings LLC."
+      },
+      {
+        "Id": "2006",
+        "DisplayName": "Oregon Liquor & Cannabis Commission",
+        "PrimaryEmailAddr": {
+          "Address": "licensing@oregon.gov"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0160"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Oregon Liquor & Cannabis Commission."
+      },
+      {
+        "Id": "2007",
+        "DisplayName": "Cascade Gas & Welding Supply",
+        "PrimaryEmailAddr": {
+          "Address": "orders@cascadegasweld.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0533"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Cascade Gas & Welding Supply."
+      },
+      {
+        "Id": "2008",
+        "DisplayName": "BrewPack Container Co",
+        "PrimaryEmailAddr": {
+          "Address": "sales@brewpackcontainers.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(206) 555-0471"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — BrewPack Container Co."
+      },
+      {
+        "Id": "2009",
+        "DisplayName": "Inkwell Label & Print",
+        "PrimaryEmailAddr": {
+          "Address": "ar@inkwelllabel.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0617"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Inkwell Label & Print."
+      },
+      {
+        "Id": "2010",
+        "DisplayName": "White Labs",
+        "PrimaryEmailAddr": {
+          "Address": "orders@whitelabs.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(858) 555-0143"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — White Labs."
+      },
+      {
+        "Id": "2011",
+        "DisplayName": "Sauvie Island Farms",
+        "PrimaryEmailAddr": {
+          "Address": "stuart@sauvieislandfarms.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0392"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Sauvie Island Farms."
+      },
+      {
+        "Id": "2012",
+        "DisplayName": "Ekos Brewmaster",
+        "PrimaryEmailAddr": {
+          "Address": "billing@goekos.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(704) 555-0118"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Ekos Brewmaster."
+      },
+      {
+        "Id": "2013",
+        "DisplayName": "Portland Water Bureau",
+        "PrimaryEmailAddr": {
+          "Address": "commercial@portlandoregon.gov"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0223"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Portland Water Bureau."
+      },
+      {
+        "Id": "2014",
+        "DisplayName": "Wyeast Laboratories",
+        "PrimaryEmailAddr": {
+          "Address": "orders@wyeastlab.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(541) 555-0214"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Wyeast Laboratories (liquid brewing yeast strains)."
+      },
+      {
+        "Id": "2015",
+        "DisplayName": "Imperial Yeast",
+        "PrimaryEmailAddr": {
+          "Address": "accounts@imperialyeast.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0215"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Imperial Yeast (Portland yeast lab — house and seasonal strains)."
+      },
+      {
+        "Id": "2016",
+        "DisplayName": "Ball Corporation",
+        "PrimaryEmailAddr": {
+          "Address": "ar@ball.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(303) 555-0216"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Ball Corporation (aluminum cans and ends for packaging)."
+      },
+      {
+        "Id": "2017",
+        "DisplayName": "Country Malt Group",
+        "PrimaryEmailAddr": {
+          "Address": "orders@countrymalt.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(509) 555-0217"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Country Malt Group (base and specialty malts)."
+      },
+      {
+        "Id": "2018",
+        "DisplayName": "Five Star Chemicals & Supply",
+        "PrimaryEmailAddr": {
+          "Address": "sales@fivestarchemicals.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(303) 555-0218"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Five Star Chemicals & Supply (brewery cleaning and sanitation chemicals)."
+      },
+      {
+        "Id": "2019",
+        "DisplayName": "BSG CraftBrewing",
+        "PrimaryEmailAddr": {
+          "Address": "ar@bsgcraftbrewing.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(800) 555-0219"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — BSG CraftBrewing (brewing ingredients and supplies distributor)."
+      },
+      {
+        "Id": "2020",
+        "DisplayName": "Oregon Brewers Guild",
+        "PrimaryEmailAddr": {
+          "Address": "billing@oregonbeer.org"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0220"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Driftwood vendor account — Oregon Brewers Guild (trade association membership and event fees)."
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 20,
+    "totalCount": 20
+  }
+}

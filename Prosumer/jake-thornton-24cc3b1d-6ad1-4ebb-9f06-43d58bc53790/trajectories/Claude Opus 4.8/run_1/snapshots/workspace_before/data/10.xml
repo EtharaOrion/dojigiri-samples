@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homeVisitSupplyLog>
+  <visit>
+    <date>2026-10-29</date>
+    <client>Tasha Williams</client>
+    <gestationalWeek>36</gestationalWeek>
+    <bagCheck>
+      <item status="ok">Doppler and gel</item>
+      <item status="ok">Sterile gloves (2 boxes size M)</item>
+      <item status="ok">Birth kit sealed and dated</item>
+      <item status="ok">Blood pressure cuff and thermometer</item>
+      <item status="reorder">Cord clamps - 2 remaining, low stock</item>
+      <item status="ok">Phone charger and battery pack</item>
+    </bagCheck>
+    <notes>Reorder cord clamps before on-call window opens Nov 7. Birth plan reviewed; client confirmed home birth preference and birth pool placement.</notes>
+  </visit>
+  <visit>
+    <date>2026-11-04</date>
+    <client>Tasha Williams</client>
+    <gestationalWeek>38</gestationalWeek>
+    <bagCheck>
+      <item status="ok">Doppler and gel</item>
+      <item status="ok">Sterile gloves (3 boxes restocked)</item>
+      <item status="ok">Birth kit sealed and dated</item>
+      <item status="ok">Blood pressure cuff and thermometer</item>
+      <item status="ok">Cord clamps restocked - 10 units</item>
+      <item status="ok">Snacks and water bottle</item>
+      <item status="ok">Change of clothes packed</item>
+    </bagCheck>
+    <notes>38-week check complete. Vitals normal. Fetal position vertex. Birth bag staged at front door. Gloria on standby for kids starting Nov 7.</notes>
+  </visit>
+  <visit>
+    <date>2026-11-20</date>
+    <client>Aisha Patel</client>
+    <gestationalWeek>35</gestationalWeek>
+    <bagCheck>
+      <item status="ok">Doppler and gel</item>
+      <item status="ok">Sterile gloves</item>
+      <item status="ok">Birth kit sealed</item>
+      <item status="ok">Blood pressure cuff and thermometer</item>
+      <item status="ok">Cord clamps</item>
+    </bagCheck>
+    <notes>Home birth plan reviewed and signed. Dr. Williams backup confirmed for December. Client has birth pool on order for December delivery.</notes>
+  </visit>
+  <reorderQueue>
+    <item>
+      <supply>Sterile gloves size M</supply>
+      <quantity>3 boxes</quantity>
+      <source>midwifery supply distributor</source>
+      <urgency>routine</urgency>
+    </item>
+    <item>
+      <supply>Birth kit replacement units</supply>
+      <quantity>2 units</quantity>
+      <source>midwifery supply distributor</source>
+      <urgency>before 2026-12-03</urgency>
+    </item>
+    <item>
+      <supply>Lubricating gel sachets</supply>
+      <quantity>1 box</quantity>
+      <source>Amazon</source>
+      <urgency>routine</urgency>
+    </item>
+  </reorderQueue>
+</homeVisitSupplyLog>

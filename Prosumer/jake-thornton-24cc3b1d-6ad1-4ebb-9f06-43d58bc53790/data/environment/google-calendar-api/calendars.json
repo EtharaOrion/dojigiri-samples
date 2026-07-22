@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jake.thornton@greenrider.co",
+    "summary": "Jake Thornton",
+    "description": "Primary calendar",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "7301"
+  },
+  {
+    "id": "greenrider.co_clinical@group.calendar.google.com",
+    "summary": "Clinical",
+    "description": "Practice-wide clinical events",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "7302"
+  },
+  {
+    "id": "greenrider.co_holidays@group.calendar.google.com",
+    "summary": "Company holidays",
+    "description": "Holidays and PTO",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "7308"
+  },
+  {
+    "id": "jake.thornton@greenrider.co254",
+    "summary": "Personal",
+    "description": "Part of Jake's Table Southern-fusion cooking classes in East Lake, Atlanta.",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "7305"
+  }
+]

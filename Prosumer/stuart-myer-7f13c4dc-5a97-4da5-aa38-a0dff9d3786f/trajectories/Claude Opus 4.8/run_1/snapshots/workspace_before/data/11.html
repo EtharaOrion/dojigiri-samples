@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Clean Water Coalition · Water Quality Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root{
+    --ink:#0e1e1a; --paper:#f4f7f5; --teal:#0f6e5e; --teal-d:#0a4d44;
+    --sand:#e9ecdf; --warn:#cc7a2c; --crit:#a23a2a; --ok:#4f8d63;
+    --grid:#dbe3da; --muted:#69756f; --card:#ffffff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Inter',system-ui,sans-serif;background:var(--paper);color:var(--ink);line-height:1.5}
+  a{color:var(--teal-d);text-decoration:none}
+  header.top{background:var(--ink);color:#cfe2dc;padding:14px 24px;display:flex;
+    align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px}
+  .logo{display:flex;align-items:center;gap:12px;font-weight:700;letter-spacing:.04em}
+  .logo .dot{width:30px;height:30px;border-radius:50%;background:
+    radial-gradient(circle at 30% 30%,#7fd9c4 0%,var(--teal) 60%,var(--teal-d) 100%)}
+  .topnav{display:flex;gap:22px;font-size:13px;letter-spacing:.06em;text-transform:uppercase}
+  .topnav a{color:#cfe2dc}.topnav a:hover{color:#fff}
+  .topnav a.active{color:#fff;border-bottom:2px solid var(--teal)}
+  .who{font-size:13px;color:#9fb8b0}
+  /* Layout */
+  main{max-width:1340px;margin:24px auto;padding:0 24px;display:grid;
+    grid-template-columns:300px 1fr;gap:24px}
+  aside.sites{background:var(--card);border:1px solid var(--grid);border-radius:8px;
+    padding:18px;height:fit-content;position:sticky;top:14px}
+  aside.sites h3{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+  .site-row{padding:10px 12px;border-radius:6px;cursor:pointer;display:flex;
+    justify-content:space-between;align-items:center;border-left:3px solid transparent;
+    transition:.18s}
+  .site-row:hover{background:var(--sand)}
+  .site-row.active{background:#dff0eb;border-left-color:var(--teal)}
+  .site-row .nm{font-weight:600;font-size:14px}
+  .site-row .lo{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+  .badge{font-size:10px;font-weight:700;letter-spacing:.08em;padding:3px 8px;border-radius:10px;text-transform:uppercase}
+  .badge.ok{background:#dceee0;color:var(--ok)}
+  .badge.warn{background:#f6e3cf;color:var(--warn)}
+  .badge.crit{background:#f1d6cf;color:var(--crit)}
+  /* KPI strip */
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:16px;margin-bottom:18px}
+  .kpi{background:var(--card);border:1px solid var(--grid);border-radius:8px;padding:18px 20px;
+    position:relative;overflow:hidden}
+  .kpi .lab{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .kpi .val{font-size:34px;font-weight:700;margin-top:6px;color:var(--ink)}
+  .kpi .delta{font-size:12px;color:var(--muted);margin-top:6px}
+  .kpi.warn::after,.kpi.crit::after{content:'';position:absolute;right:-30px;top:-30px;width:90px;height:90px;
+    border-radius:50%;opacity:.16}
+  .kpi.warn::after{background:var(--warn)}.kpi.crit::after{background:var(--crit)}
+  /* Toolbar */
+  .toolbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px;margin-bottom:14px}
+  .seg{display:inline-flex;background:#e7ece8;border-radius:7px;padding:3px}
+  .seg button{background:none;border:none;padding:8px 14px;font-size:13px;font-weight:600;
+    color:var(--muted);cursor:pointer;border-radius:5px;letter-spacing:.04em}
+  .seg button.active{background:#fff;color:var(--teal-d);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .legend{display:flex;gap:18px;font-size:12px;color:var(--muted)}
+  .legend span::before{content:'';display:inline-block;width:10px;height:10px;border-radius:50%;
+    margin-right:6px;vertical-align:middle}
+  .legend .l-ok::before{background:var(--ok)}
+  .legend .l-warn::before{background:var(--warn)}
+  .legend .l-crit::before{background:var(--crit)}
+  /* Cards */
+  .panel{background:var(--card);border:1px solid var(--grid);border-radius:8px;padding:22px;margin-bottom:18px}
+  .panel h3{font-size:15px;color:var(--ink);margin-bottom:4px}
+  .panel .sub{font-size:13px;color:var(--muted);margin-bottom:18px}
+  /* SVG bar chart */
+  .chart-wrap{width:100%;overflow-x:auto}
+  /* Site detail */
+  .detail{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  .stat{padding:14px 16px;background:#f6f9f7;border-radius:6px;border:1px solid var(--grid)}
+  .stat .l{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .stat .v{font-size:22px;font-weight:700;margin-top:4px}
+  /* Volunteer panel */
+  .volgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:8px}
+  .vol{background:#f6f9f7;border:1px solid var(--grid);border-radius:6px;padding:14px}
+  .vol .who{font-weight:600}
+  .vol .count{font-size:24px;color:var(--teal-d);font-weight:700;margin-top:6px}
+  /* Map */
+  .map-svg{background:linear-gradient(180deg,#eaf2ee 0%,#dfece6 100%);border-radius:6px;display:block}
+  .map-pin{cursor:pointer;transition:transform .2s ease}
+  .map-pin:hover{transform:scale(1.25);transform-origin:center}
+  .tip{position:absolute;background:var(--ink);color:#fff;padding:8px 12px;border-radius:5px;
+    font-size:12px;pointer-events:none;opacity:0;transition:.15s;white-space:nowrap;z-index:10}
+  .tip.show{opacity:1}
+  footer.bottom{background:var(--ink);color:#9fb8b0;padding:36px 24px;margin-top:30px}
+  .foot{max-width:1340px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:30px}
+  footer.bottom h4{color:#cfe2dc;font-size:12px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:10px}
+  footer.bottom a{color:#9fb8b0;display:block;padding:3px 0;font-size:14px}
+  footer.bottom a:hover{color:#fff}
+  .copy{max-width:1340px;margin:18px auto 0;border-top:1px solid #1f3530;padding-top:14px;font-size:12px;color:#6f8983;text-align:center}
+  @media (max-width:920px){
+    main{grid-template-columns:1fr}
+    aside.sites{position:static}
+    .detail{grid-template-columns:1fr}
+  }
+  /* fade */
+  @keyframes pop{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+  .panel,.kpi{animation:pop .4s ease both}
+  .kpi:nth-child(2){animation-delay:.07s}
+  .kpi:nth-child(3){animation-delay:.14s}
+  .kpi:nth-child(4){animation-delay:.21s}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="logo"><div class="dot"></div> Multnomah Clean Water Coalition</div>
+  <nav class="topnav">
+    <a href="#" class="active">Dashboard</a>
+    <a href="#">Sites</a>
+    <a href="#">Reports</a>
+    <a href="#">Volunteer</a>
+    <a href="#">CAFO Campaign</a>
+  </nav>
+  <div class="who">Stuart Myer · Water Quality Testing Lead</div>
+</header>
+
+<main>
+  <aside class="sites">
+    <h3>Monitoring Sites</h3>
+    <div id="siteList"></div>
+  </aside>
+
+  <section>
+    <div class="kpis">
+      <div class="kpi"><div class="lab">Sites monitored</div><div class="val" id="kSites">14</div>
+        <div class="delta">Three full rounds this year</div></div>
+      <div class="kpi warn"><div class="lab">Sites approaching threshold</div><div class="val" id="kWarn">3</div>
+        <div class="delta">Phosphorus above 0.080 mg/L</div></div>
+      <div class="kpi crit"><div class="lab">Sites exceeding threshold</div><div class="val" id="kCrit">1</div>
+        <div class="delta">State guidance 0.1 mg/L</div></div>
+      <div class="kpi"><div class="lab">PFAS exceedances</div><div class="val" id="kPfas">4</div>
+        <div class="delta">EPA action level 4 ng/L</div></div>
+    </div>
+
+    <div class="toolbar">
+      <div class="seg">
+        <button class="active" data-metric="P">Phosphorus mg/L</button>
+        <button data-metric="PF">PFAS ng/L</button>
+        <button data-metric="pH">pH</button>
+      </div>
+      <div class="legend">
+        <span class="l-ok">Below threshold</span>
+        <span class="l-warn">Approaching</span>
+        <span class="l-crit">Exceeds</span>
+      </div>
+    </div>
+
+    <div class="panel" style="position:relative">
+      <h3>Sites by current reading</h3>
+      <div class="sub">Latest October round, sorted highest to lowest. Click a bar to load the site detail panel.</div>
+      <div class="chart-wrap"><svg id="bars" viewBox="0 0 880 320" width="100%" height="320"></svg></div>
+      <div class="tip" id="tip"></div>
+    </div>
+
+    <div class="panel">
+      <h3>Site map, Multnomah County eastern watersheds</h3>
+      <div class="sub">Schematic. Pins are color coded by current phosphorus reading.</div>
+      <div style="position:relative">
+        <svg class="map-svg" viewBox="0 0 880 360" width="100%" height="360">
+          <!-- river paths -->
+          <path d="M 30 60 Q 250 100 460 90 T 850 70" stroke="#7aa6c5" stroke-width="6" fill="none" opacity=".8"/>
+          <path d="M 80 200 Q 280 240 480 220 T 850 200" stroke="#7aa6c5" stroke-width="5" fill="none" opacity=".7"/>
+          <path d="M 120 320 Q 320 300 500 320 T 840 310" stroke="#7aa6c5" stroke-width="4" fill="none" opacity=".6"/>
+          <text x="42" y="50" font-size="11" fill="#577" font-style="italic">Columbia River</text>
+          <text x="100" y="192" font-size="11" fill="#577" font-style="italic">Columbia Slough</text>
+          <text x="140" y="346" font-size="11" fill="#577" font-style="italic">Johnson / Fairview</text>
+          <g id="pins"></g>
+        </svg>
+        <div class="tip" id="mapTip"></div>
+      </div>
+    </div>
+
+    <div class="panel" id="detailPanel">
+      <h3 id="dName">Select a site</h3>
+      <div class="sub" id="dSub">Click any bar or pin to load three-round trend and notes.</div>
+      <div class="detail" id="dStats"></div>
+    </div>
+
+    <div class="panel">
+      <h3>Volunteer activity, last 30 days</h3>
+      <div class="sub">Top contributors by sampling sessions logged in Airtable.</div>
+      <div class="volgrid">
+        <div class="vol"><div class="who">Marcus Diaz</div><div class="count">6</div><div style="font-size:12px;color:var(--muted)">sessions</div></div>
+        <div class="vol"><div class="who">Stuart Myer</div><div class="count">5</div><div style="font-size:12px;color:var(--muted)">sessions</div></div>
+        <div class="vol"><div class="who">David Cortez</div><div class="count">3</div><div style="font-size:12px;color:var(--muted)">sessions</div></div>
+        <div class="vol"><div class="who">Renata Cole</div><div class="count">2</div><div style="font-size:12px;color:var(--muted)">sessions</div></div>
+        <div class="vol"><div class="who">Nick Farrell</div><div class="count">2</div><div style="font-size:12px;color:var(--muted)">sessions</div></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="bottom">
+  <div class="foot">
+    <div>
+      <h4>Coalition</h4>
+      <a href="#">About the program</a>
+      <a href="#">Annual report</a>
+      <a href="#">Board minutes</a>
+    </div>
+    <div>
+      <h4>Get involved</h4>
+      <a href="#">Volunteer signup</a>
+      <a href="#">Adopt a site</a>
+      <a href="#">Donate</a>
+    </div>
+    <div>
+      <h4>Data</h4>
+      <a href="#">Airtable base, public view</a>
+      <a href="#">Methodology</a>
+      <a href="#">Regulatory thresholds</a>
+    </div>
+    <div>
+      <h4>Contact</h4>
+      <a href="#">David Cortez, director</a>
+      <a href="#">Stuart Myer, water quality lead</a>
+      <a href="#">Press inquiries</a>
+    </div>
+  </div>
+  <div class="copy">Multnomah County Clean Water Coalition. Internal dashboard, citizen monitoring program.</div>
+</footer>
+
+<script>
+  const sites = [
+    {id:1, nm:'Site 1',  lo:'Troutdale access',           p:0.041, pf:1.8, ph:7.4, status:'ok'},
+    {id:2, nm:'Site 2',  lo:'Beaver Creek',               p:0.052, pf:2.1, ph:7.3, status:'ok'},
+    {id:3, nm:'Site 3',  lo:'Slough West, NE 33rd',       p:0.061, pf:4.6, ph:7.2, status:'warn'},
+    {id:4, nm:'Site 4',  lo:'Slough East, NE 122nd',      p:0.058, pf:3.2, ph:7.2, status:'ok'},
+    {id:5, nm:'Site 5',  lo:'Lents footbridge',           p:0.063, pf:2.8, ph:7.4, status:'ok'},
+    {id:6, nm:'Site 6',  lo:'SE Foster culvert',          p:0.054, pf:2.0, ph:7.3, status:'ok'},
+    {id:7, nm:'Site 7',  lo:'Reed Canyon',                p:0.045, pf:1.6, ph:7.4, status:'ok'},
+    {id:8, nm:'Site 8',  lo:'Sandy River tributary',      p:0.067, pf:2.4, ph:7.5, status:'ok'},
+    {id:9, nm:'Site 9',  lo:'Johnson Creek, Milwaukie',   p:0.094, pf:5.8, ph:7.1, status:'warn'},
+    {id:10,nm:'Site 10', lo:'Fairview Lake inlet',        p:0.087, pf:4.4, ph:7.2, status:'warn'},
+    {id:11,nm:'Site 11', lo:'Gresham Main outfall',       p:0.072, pf:3.0, ph:7.3, status:'ok'},
+    {id:12,nm:'Site 12', lo:'Fairview Creek, CAFO',       p:0.112, pf:11.2,ph:7.0, status:'crit'},
+    {id:13,nm:'Site 13', lo:'Salmon Creek, NE Marine Dr', p:0.049, pf:2.0, ph:7.4, status:'ok'},
+    {id:14,nm:'Site 14', lo:'Columbia, Kelley Point',     p:0.038, pf:1.5, ph:7.5, status:'ok'},
+  ];
+  // map xy positions
+  const pos = [
+    [820,72],[760,80],[700,95],[640,180],[560,200],[480,210],[420,225],
+    [380,75],[320,335],[280,210],[330,300],[420,340],[520,340],[820,300]
+  ];
+
+  const list = document.getElementById('siteList');
+  sites.forEach(s => {
+    const div = document.createElement('div');
+    div.className = 'site-row';
+    div.dataset.id = s.id;
+    div.innerHTML = `<div><div class="nm">${s.nm}</div><div class="lo">${s.lo}</div></div>
+      <span class="badge ${s.status}">${s.status==='crit'?'Exceeds':s.status==='warn'?'Approaching':'OK'}</span>`;
+    div.addEventListener('click', () => selectSite(s.id));
+    list.appendChild(div);
+  });
+
+  // Render bar chart
+  const svg = document.getElementById('bars');
+  const tip = document.getElementById('tip');
+  let currentMetric = 'P';
+  function metricFor(s, m){ return m==='P'?s.p:m==='PF'?s.pf:s.ph; }
+  function colorFor(s){
+    return s.status==='crit'?'#a23a2a':s.status==='warn'?'#cc7a2c':'#4f8d63';
+  }
+  function renderBars(){
+    svg.innerHTML = '';
+    const data = [...sites].sort((a,b)=>metricFor(b,currentMetric)-metricFor(a,currentMetric));
+    const max = Math.max(...data.map(s=>metricFor(s,currentMetric)));
+    const bw = 800 / data.length;
+    // y axis label
+    const yLab = currentMetric==='P'?'mg/L':currentMetric==='PF'?'ng/L':'pH';
+    svg.innerHTML += `<text x="40" y="20" font-size="11" fill="#69756f">${yLab}</text>`;
+    // grid
+    for (let i=0; i<4; i++){
+      const y = 40 + i*60;
+      svg.innerHTML += `<line x1="50" y1="${y}" x2="850" y2="${y}" stroke="#e6ece8"/>`;
+      svg.innerHTML += `<text x="42" y="${y+4}" font-size="10" fill="#9aa6a0" text-anchor="end">${(max*(1-i/3)).toFixed(currentMetric==='P'?3:1)}</text>`;
+    }
+    data.forEach((s,i) => {
+      const h = (metricFor(s,currentMetric)/max) * 200;
+      const x = 60 + i * bw;
+      const y = 240 - h;
+      const c = colorFor(s);
+      svg.innerHTML += `<rect class="bar" data-id="${s.id}" x="${x}" y="${y}" width="${bw-6}" height="${h}" fill="${c}" rx="3" style="cursor:pointer;transition:.2s">
+        <title>${s.nm}: ${metricFor(s,currentMetric)} ${yLab}</title></rect>`;
+      svg.innerHTML += `<text x="${x + (bw-6)/2}" y="260" font-size="10" fill="#69756f" text-anchor="middle">${s.id}</text>`;
+    });
+    // Threshold line
+    if (currentMetric==='P'){
+      const ty = 240 - (0.1/max)*200;
+      svg.innerHTML += `<line x1="50" y1="${ty}" x2="850" y2="${ty}" stroke="#a23a2a" stroke-dasharray="4 4"/>
+        <text x="855" y="${ty+3}" font-size="10" fill="#a23a2a">0.100 threshold</text>`;
+    } else if (currentMetric==='PF'){
+      const ty = 240 - (4/max)*200;
+      svg.innerHTML += `<line x1="50" y1="${ty}" x2="850" y2="${ty}" stroke="#a23a2a" stroke-dasharray="4 4"/>
+        <text x="855" y="${ty+3}" font-size="10" fill="#a23a2a">4 ng/L action</text>`;
+    }
+    // attach handlers
+    svg.querySelectorAll('rect.bar').forEach(r => {
+      r.addEventListener('click', () => selectSite(+r.dataset.id));
+      r.addEventListener('mouseenter', e => {
+        const s = sites.find(x=>x.id==r.dataset.id);
+        tip.textContent = `${s.nm} · ${metricFor(s,currentMetric)} ${yLab}`;
+        tip.classList.add('show');
+      });
+      r.addEventListener('mousemove', e => {
+        tip.style.left = (e.clientX+10) + 'px';
+        tip.style.top = (e.clientY-30 + window.scrollY) + 'px';
+      });
+      r.addEventListener('mouseleave', () => tip.classList.remove('show'));
+    });
+  }
+
+  // Map pins
+  const pins = document.getElementById('pins');
+  const mapTip = document.getElementById('mapTip');
+  sites.forEach((s,i) => {
+    const [x,y] = pos[i];
+    const c = colorFor(s);
+    pins.innerHTML += `<circle class="map-pin" data-id="${s.id}" cx="${x}" cy="${y}" r="9"
+      fill="${c}" stroke="white" stroke-width="2"/>
+      <text x="${x}" y="${y+4}" font-size="9" fill="#fff" text-anchor="middle" font-weight="700" pointer-events="none">${s.id}</text>`;
+  });
+  pins.addEventListener('click', e => {
+    if (e.target.dataset.id) selectSite(+e.target.dataset.id);
+  });
+  pins.addEventListener('mouseover', e => {
+    if (!e.target.dataset.id) return;
+    const s = sites.find(x=>x.id==e.target.dataset.id);
+    mapTip.textContent = `${s.nm} · ${s.lo} · ${s.p} mg/L`;
+    mapTip.classList.add('show');
+  });
+  pins.addEventListener('mousemove', e => {
+    mapTip.style.left = (e.clientX+10) + 'px';
+    mapTip.style.top = (e.clientY-30 + window.scrollY) + 'px';
+  });
+  pins.addEventListener('mouseout', () => mapTip.classList.remove('show'));
+
+  // segmented control
+  document.querySelectorAll('.seg button').forEach(b => {
+    b.addEventListener('click', () => {
+      document.querySelectorAll('.seg button').forEach(x=>x.classList.remove('active'));
+      b.classList.add('active');
+      currentMetric = b.dataset.metric;
+      renderBars();
+    });
+  });
+
+  function selectSite(id){
+    document.querySelectorAll('.site-row').forEach(r => r.classList.toggle('active', +r.dataset.id===id));
+    const s = sites.find(x=>x.id===id);
+    document.getElementById('dName').textContent = s.nm + ' · ' + s.lo;
+    document.getElementById('dSub').textContent = 'Three-round trend, key contaminants, sampling notes.';
+    const trend = id===12 ? [0.082,0.089,0.112] : id===9 ? [0.071,0.082,0.094] : [s.p*.85,s.p*.93,s.p];
+    document.getElementById('dStats').innerHTML = `
+      <div class="stat"><div class="l">Phosphorus, October</div><div class="v">${s.p.toFixed(3)} mg/L</div></div>
+      <div class="stat"><div class="l">PFAS, October</div><div class="v">${s.pf.toFixed(1)} ng/L</div></div>
+      <div class="stat"><div class="l">pH, October</div><div class="v">${s.ph.toFixed(1)}</div></div>
+      <div class="stat"><div class="l">Three-round trend (mg/L)</div><div class="v">${trend.map(v=>v.toFixed(3)).join(' → ')}</div></div>
+    `;
+  }
+
+  renderBars();
+  selectSite(12);
+</script>
+</body>
+</html>

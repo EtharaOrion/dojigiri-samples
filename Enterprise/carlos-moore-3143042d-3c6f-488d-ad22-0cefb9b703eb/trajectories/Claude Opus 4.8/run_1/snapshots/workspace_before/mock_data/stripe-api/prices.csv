@@ -1,0 +1,25 @@
+id,product,unit_amount,currency,recurring_interval,active,nickname,__api__,__table__,__file__,__row_index__,object,recurring,type
+price_DT0GYxVbQO2O0ozj,prod_VELxOggvNfkCZB,1599,usd,month,True,General Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,0,price,"{""interval"": ""month""}",recurring
+price_uVygWF80OOgzCx0t,prod_0W8j2UyiUJ5db5,4400,usd,month,True,Building Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,1,price,"{""interval"": ""month""}",recurring
+price_feVlKTxeusyvcQux,prod_VYKkxEosiMreRW,8500,usd,month,True,Youth Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,2,price,"{""interval"": ""month""}",recurring
+price_vInQt6HxIfoutv3K,prod_IzqD22P2qUgwEi,7000,usd,month,True,Choir & Music Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,3,price,"{""interval"": ""month""}",recurring
+price_318SGUJunjKlIiOT,prod_dNFCwKjSsqzgNs,14500,usd,month,True,Missions & Outreach (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,4,price,"{""interval"": ""month""}",recurring
+price_mifLiYHbA4SsLW9u,prod_NMQkEwbYgrb6Kq,6200,usd,month,True,Sunday School (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,5,price,"{""interval"": ""month""}",recurring
+price_CHFJMsYWGDK9UBTK,prod_hFzUvjOr3ivI2o,18500,usd,month,True,Benevolence Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,6,price,"{""interval"": ""month""}",recurring
+price_5Oyi74LDyOck3FrU,prod_LWhXXwoDHOSCML,2400,usd,month,True,Hospitality Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,7,price,"{""interval"": ""month""}",recurring
+price_HoULojaUvI5SoalN,prod_bLTeGJ1TeS3r25,12000,usd,month,True,Food Pantry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,8,price,"{""interval"": ""month""}",recurring
+price_q4qVXInkR1Ezdbl9,prod_kr2kHtrdielSEs,22400,usd,year,True,Building Campaign (Annual),stripe-api,prices,/opt/mocks/stripe-api/prices.json,9,price,"{""interval"": ""year""}",recurring
+price_EfQFF3NgOrisNIkG,prod_Y0qMoS73xpMx2g,15000,usd,month,True,General Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,10,price,"{""interval"": ""month""}",recurring
+price_B9utzhDMkFUwp15u,prod_zolm87k75FDTJ3,4500,usd,month,True,Media Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,11,price,"{""interval"": ""month""}",recurring
+price_n4gcubSV8X04oUtk,prod_NwVQgz8rYn5ntK,9500,usd,month,True,Transportation Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,12,price,"{""interval"": ""month""}",recurring
+price_ghGemWZ7zjFawfRQ,prod_2YgFjURLCALXn9,1099,usd,month,True,General Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,13,price,"{""interval"": ""month""}",recurring
+price_8Ta6jW1t4yMd6raK,prod_FAEvtdDlZWQqLV,1499,usd,month,True,Children's Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,14,price,"{""interval"": ""month""}",recurring
+price_E2e01M9BSoVBcBig,prod_V3vNFIgZle2aHe,999,usd,month,True,Prayer Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,15,price,"{""interval"": ""month""}",recurring
+price_GcorMlM9n4PWtywC,prod_hIoydKkQyV8tB5,1800,usd,month,True,Choir & Music Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,16,price,"{""interval"": ""month""}",recurring
+price_ieHpRD1bT7UJnsps,prod_OPpR4B2ovGxsRv,700,usd,year,True,Missions Pledge (Annual),stripe-api,prices,/opt/mocks/stripe-api/prices.json,17,price,"{""interval"": ""year""}",recurring
+price_cViYwePTAe7IOTga,prod_cLKl9Wv2Ncbp0z,3999,usd,month,True,Youth Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,18,price,"{""interval"": ""month""}",recurring
+price_MLgozLsC3wMQiFgX,prod_3a4QKFCBI2VxoF,4500,usd,year,True,Benevolence Gift (Annual),stripe-api,prices,/opt/mocks/stripe-api/prices.json,19,price,"{""interval"": ""year""}",recurring
+price_iJl4cbZImsp3N3HE,prod_HSdCQZlTM9IO4s,9500,usd,year,True,Building Campaign (Annual),stripe-api,prices,/opt/mocks/stripe-api/prices.json,20,price,"{""interval"": ""year""}",recurring
+price_HXgf3HJHzG6vKGGa,prod_xmT4CtSMErptlK,7900,usd,month,True,Fellowship Ministry (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,21,price,"{""interval"": ""month""}",recurring
+price_S7O8Lyoagra9FR5F,prod_Iydw7ykdsVqbTK,6800,usd,month,True,Grounds & Maintenance (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,22,price,"{""interval"": ""month""}",recurring
+price_egCuAVd9q20PgF98,prod_hLyrSNjEQguj1U,2500,usd,month,True,Retreat Fund (Monthly),stripe-api,prices,/opt/mocks/stripe-api/prices.json,23,price,"{""interval"": ""month""}",recurring

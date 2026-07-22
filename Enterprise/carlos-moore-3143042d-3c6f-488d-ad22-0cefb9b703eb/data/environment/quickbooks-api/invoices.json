@@ -1,0 +1,578 @@
+[
+  {
+    "Id": "5001",
+    "DocNumber": "INV-2200",
+    "TxnDate": "2025-01-01",
+    "DueDate": "2025-01-16",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Finley, Gerald"
+    },
+    "Line": [
+      {
+        "Amount": 150.0,
+        "Description": "Fundraiser Table Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Fundraiser Table Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "INV-2201",
+    "TxnDate": "2025-02-02",
+    "DueDate": "2025-02-17",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Nadella, Priya"
+    },
+    "Line": [
+      {
+        "Amount": 240.0,
+        "Description": "Gala Dinner Ticket - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Gala Dinner Ticket"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 240.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "INV-2202",
+    "TxnDate": "2025-03-03",
+    "DueDate": "2025-03-18",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Webb, Marcus"
+    },
+    "Line": [
+      {
+        "Amount": 285.0,
+        "Description": "Benefit Concert Ticket - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Benefit Concert Ticket"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 285.0,
+    "Balance": 285.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5004",
+    "DocNumber": "INV-2203",
+    "TxnDate": "2025-04-04",
+    "DueDate": "2025-04-19",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Colbert, Renee"
+    },
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Silent Auction Item - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Silent Auction Item"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 180.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5005",
+    "DocNumber": "INV-2204",
+    "TxnDate": "2025-05-05",
+    "DueDate": "2025-05-20",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Marston, Anthony"
+    },
+    "Line": [
+      {
+        "Amount": 400.0,
+        "Description": "Gold Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Gold Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 400.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5006",
+    "DocNumber": "INV-2205",
+    "TxnDate": "2025-06-06",
+    "DueDate": "2025-06-21",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Yoon, Sabrina"
+    },
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Event Hall Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Event Hall Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "Balance": 750.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5007",
+    "DocNumber": "INV-2206",
+    "TxnDate": "2025-07-07",
+    "DueDate": "2025-07-22",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Redmond, Curtis"
+    },
+    "Line": [
+      {
+        "Amount": 130.0,
+        "Description": "Bake Sale Package - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Bake Sale Package"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 130.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5008",
+    "DocNumber": "INV-2207",
+    "TxnDate": "2025-08-08",
+    "DueDate": "2025-08-23",
+    "CustomerRef": {
+      "value": "8",
+      "name": "Freeman, Yolanda"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Platinum Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Platinum Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5009",
+    "DocNumber": "INV-2208",
+    "TxnDate": "2025-09-09",
+    "DueDate": "2025-09-24",
+    "CustomerRef": {
+      "value": "9",
+      "name": "Pruitt, Devon"
+    },
+    "Line": [
+      {
+        "Amount": 825.0,
+        "Description": "Youth Program Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 825.0,
+    "Balance": 825.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5010",
+    "DocNumber": "INV-2209",
+    "TxnDate": "2025-10-10",
+    "DueDate": "2025-10-25",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Barrera, Alicia"
+    },
+    "Line": [
+      {
+        "Amount": 160.0,
+        "Description": "Raffle Ticket Book - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Raffle Ticket Book"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 160.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5011",
+    "DocNumber": "INV-2210",
+    "TxnDate": "2025-11-11",
+    "DueDate": "2025-11-26",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Cobb, Nathaniel"
+    },
+    "Line": [
+      {
+        "Amount": 624.9,
+        "Description": "Reimbursement - Travel - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Reimbursement - Travel"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 624.9,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5012",
+    "DocNumber": "INV-2211",
+    "TxnDate": "2025-12-12",
+    "DueDate": "2025-12-27",
+    "CustomerRef": {
+      "value": "12",
+      "name": "Ross, Bethany"
+    },
+    "Line": [
+      {
+        "Amount": 225.0,
+        "Description": "Church Supply Reimbursement - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Church Supply Reimbursement"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 225.0,
+    "Balance": 225.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5013",
+    "DocNumber": "INV-2212",
+    "TxnDate": "2026-01-13",
+    "DueDate": "2026-01-28",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Castellano, Owen"
+    },
+    "Line": [
+      {
+        "Amount": 150.0,
+        "Description": "Fundraiser Table Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Fundraiser Table Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5014",
+    "DocNumber": "INV-2213",
+    "TxnDate": "2026-02-14",
+    "DueDate": "2026-02-28",
+    "CustomerRef": {
+      "value": "14",
+      "name": "Simmons, Harold"
+    },
+    "Line": [
+      {
+        "Amount": 240.0,
+        "Description": "Gala Dinner Ticket - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Gala Dinner Ticket"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 240.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5015",
+    "DocNumber": "INV-2214",
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-03-28",
+    "CustomerRef": {
+      "value": "15",
+      "name": "Vaughn, Kendra"
+    },
+    "Line": [
+      {
+        "Amount": 285.0,
+        "Description": "Benefit Concert Ticket - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Benefit Concert Ticket"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 285.0,
+    "Balance": 285.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5016",
+    "DocNumber": "INV-2215",
+    "TxnDate": "2025-01-16",
+    "DueDate": "2025-01-28",
+    "CustomerRef": {
+      "value": "16",
+      "name": "Maple Street Realty"
+    },
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Silent Auction Item - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Silent Auction Item"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 180.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5017",
+    "DocNumber": "INV-2216",
+    "TxnDate": "2025-02-17",
+    "DueDate": "2025-02-28",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Hillsboro HR Roundtable"
+    },
+    "Line": [
+      {
+        "Amount": 400.0,
+        "Description": "Gold Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Gold Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 400.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5018",
+    "DocNumber": "INV-2217",
+    "TxnDate": "2025-03-18",
+    "DueDate": "2025-03-28",
+    "CustomerRef": {
+      "value": "18",
+      "name": "Bellmark Industries"
+    },
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Event Hall Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Event Hall Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "Balance": 750.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5019",
+    "DocNumber": "INV-2218",
+    "TxnDate": "2025-04-19",
+    "DueDate": "2025-04-28",
+    "CustomerRef": {
+      "value": "19",
+      "name": "Calvary Hill Church"
+    },
+    "Line": [
+      {
+        "Amount": 130.0,
+        "Description": "Bake Sale Package - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Bake Sale Package"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 130.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5020",
+    "DocNumber": "INV-2219",
+    "TxnDate": "2025-05-20",
+    "DueDate": "2025-05-28",
+    "CustomerRef": {
+      "value": "20",
+      "name": "Estes, Roland"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Platinum Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Platinum Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5021",
+    "DocNumber": "INV-2220",
+    "TxnDate": "2025-06-21",
+    "DueDate": "2025-06-28",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Finley, Gerald"
+    },
+    "Line": [
+      {
+        "Amount": 825.0,
+        "Description": "Youth Program Sponsorship - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Sponsorship"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 825.0,
+    "Balance": 825.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5022",
+    "DocNumber": "INV-2221",
+    "TxnDate": "2025-07-22",
+    "DueDate": "2025-07-28",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Nadella, Priya"
+    },
+    "Line": [
+      {
+        "Amount": 160.0,
+        "Description": "Raffle Ticket Book - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Raffle Ticket Book"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 160.0,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5023",
+    "DocNumber": "INV-2222",
+    "TxnDate": "2025-08-23",
+    "DueDate": "2025-08-28",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Webb, Marcus"
+    },
+    "Line": [
+      {
+        "Amount": 624.9,
+        "Description": "Reimbursement - Travel - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Reimbursement - Travel"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 624.9,
+    "Balance": 0.0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5024",
+    "DocNumber": "INV-2223",
+    "TxnDate": "2025-09-24",
+    "DueDate": "2025-09-28",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Colbert, Renee"
+    },
+    "Line": [
+      {
+        "Amount": 225.0,
+        "Description": "Church Supply Reimbursement - committee item",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Church Supply Reimbursement"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 225.0,
+    "Balance": 225.0,
+    "Status": "Open"
+  }
+]

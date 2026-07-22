@@ -1,0 +1,118 @@
+department,firstName,hireDate,id,jobTitle,lastName,location,status,supervisorId,workEmail,__api__,__table__,__file__,__row_index__
+Human Resources,Carlos,2018-01-15,e200,Corporate HR Director,Moore,Nashville,Active,e211,carlos.moore@Finthesiss.ai,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,0
+Human Resources,Angela,2015-03-03,e201,HR Generalist,Boyd,Nashville,Active,e212,angela.boyd@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,1
+Human Resources,Brian,2015-04-01,e202,Recruiter,Osei,Nashville,Active,e213,brian.osei@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,2
+Human Resources,Chandra,2015-04-30,e203,Benefits Specialist,Booker,Nashville,Active,e214,chandra.booker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,3
+Human Resources,Devon,2015-05-29,e204,Payroll Specialist,Krause,Nashville,Active,e215,devon.krause@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,4
+Human Resources,Elena,2015-06-27,e205,HR Business Partner,Xu,Nashville,Active,e212,elena.xu@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,5
+Operations,Frank,2015-07-26,e206,Operations Lead,Gupta,Nashville,Active,e213,frank.gupta@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,6
+Finance,Grace,2015-08-24,e207,Staff Accountant,Tran,Nashville,Active,e214,grace.tran@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,7
+IT,Hector,2015-09-22,e208,IT Support Analyst,Carrasco,Nashville,Active,e215,hector.carrasco@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,8
+Human Resources,Ivy,2015-10-21,e209,HR Coordinator,Patel,Nashville,Active,e212,ivy.patel@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,9
+Human Resources,Jamal,2015-11-19,e210,HRIS Analyst,Castillo,Nashville,Active,e213,jamal.castillo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,10
+Human Resources,Wanda,2016-03-07,e211,VP of Human Resources,Giles,Nashville,Active,,wanda.giles@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,11
+Human Resources,Kayla,2016-01-16,e212,HR Manager,Lambert,Nashville,Active,e200,kayla.lambert@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,12
+Human Resources,Leon,2016-02-14,e213,HR Manager,Yates,Nashville,Active,e200,leon.yates@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,13
+Human Resources,Monique,2016-03-14,e214,HR Manager,Hollins,Nashville,Active,e200,monique.hollins@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,14
+Human Resources,Nate,2016-04-12,e215,HR Manager,Underwood,Nashville,Active,e200,nate.underwood@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,15
+Human Resources,Olivia,2016-05-11,e216,Senior Recruiter,Diallo,Nashville,Active,e214,olivia.diallo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,16
+Human Resources,Priya,2016-06-09,e217,Compensation Analyst,Quinn,Nashville,Active,e215,priya.quinn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,17
+Operations,Quincy,2016-07-08,e218,Warehouse Supervisor,Delgado,Nashville,Active,e212,quincy.delgado@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,18
+Facilities,Rhea,2016-08-06,e219,Facilities Coordinator,Meyers,Nashville,Active,e213,rhea.meyers@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,19
+Human Resources,Sam,2016-09-04,e220,Recruiting Coordinator,Zimmerman,Nashville,Active,e214,sam.zimmerman@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,20
+Human Resources,Tara,2016-10-03,e221,Learning & Development Specialist,Iverson,Nashville,Active,e215,tara.iverson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,21
+Operations,Andre,2016-11-01,e222,Logistics Coordinator,Vaughn,Nashville,Active,e212,andre.vaughn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,22
+Finance,Bianca,2016-11-30,e223,Financial Analyst,Ellison,Nashville,Active,e213,bianca.ellison@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,23
+Human Resources,Carl,2016-12-29,e224,Employee Relations Specialist,Ramsey,Nashville,Active,e214,carl.ramsey@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,24
+Sales,Diana,2017-01-27,e225,Account Manager,Emerson,Nashville,Active,e215,diana.emerson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,25
+Operations,Errol,2017-02-25,e226,Production Supervisor,Nunez,Nashville,Active,e212,errol.nunez@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,26
+Human Resources,Felicia,2017-03-26,e227,Benefits Administrator,Abbott,Nashville,Active,e213,felicia.abbott@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,27
+IT,Gerald,2017-04-24,e228,Systems Administrator,Jennings,Nashville,Active,e214,gerald.jennings@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,28
+Operations,Hannah,2017-05-23,e229,Supply Chain Analyst,Whitaker,Nashville,Active,e215,hannah.whitaker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,29
+Human Resources,Isaac,2017-06-21,e230,Senior HR Business Partner,Farris,Nashville,Active,e212,isaac.farris@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,30
+Facilities,Janelle,2017-07-20,e231,Facilities Technician,Sinclair,Nashville,Active,e213,janelle.sinclair@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,31
+Finance,Kevin,2017-08-18,e232,Payroll Accountant,Boyd,Nashville,Active,e214,kevin.boyd@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,32
+IT,Lydia,2017-09-16,e233,Help Desk Technician,Osei,Nashville,Active,e215,lydia.osei@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,33
+Operations,Marcus,2017-10-15,e234,Inventory Analyst,Booker,Nashville,Active,e212,marcus.booker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,34
+Operations,Nadia,2017-11-13,e235,Operations Coordinator,Krause,Nashville,Active,e213,nadia.krause@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,35
+Finance,Omar,2017-12-12,e236,Accounts Payable Specialist,Xu,Nashville,Active,e214,omar.xu@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,36
+Facilities,Paula,2018-01-10,e237,EHS Specialist,Gupta,Nashville,Active,e215,paula.gupta@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,37
+Sales,Reggie,2018-02-08,e238,Sales Coordinator,Tran,Nashville,Active,e212,reggie.tran@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,38
+Facilities,Sonia,2018-03-09,e239,Maintenance Supervisor,Carrasco,Nashville,Active,e213,sonia.carrasco@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,39
+Sales,Terrence,2018-04-07,e240,Inside Sales Representative,Patel,Nashville,Active,e214,terrence.patel@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,40
+Human Resources,Vanessa,2018-05-06,e241,HR Generalist,Castillo,Nashville,Active,e215,vanessa.castillo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,41
+Human Resources,Wesley,2018-06-04,e242,Recruiter,Lambert,Nashville,Active,e212,wesley.lambert@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,42
+Human Resources,Yolanda,2018-07-03,e243,Benefits Specialist,Yates,Nashville,Active,e213,yolanda.yates@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,43
+Human Resources,Darnell,2018-08-01,e244,Payroll Specialist,Hollins,Nashville,Active,e214,darnell.hollins@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,44
+Human Resources,Camille,2018-08-30,e245,HR Business Partner,Underwood,Nashville,Active,e215,camille.underwood@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,45
+Operations,Malik,2018-09-28,e246,Operations Lead,Diallo,Nashville,Active,e212,malik.diallo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,46
+Finance,Renee,2018-10-27,e247,Staff Accountant,Quinn,Nashville,Active,e213,renee.quinn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,47
+IT,Trevor,2018-11-25,e248,IT Support Analyst,Delgado,Nashville,Active,e214,trevor.delgado@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,48
+Human Resources,Simone,2018-12-24,e249,HR Coordinator,Meyers,Nashville,Active,e215,simone.meyers@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,49
+Human Resources,Naomi,2019-01-22,e250,HRIS Analyst,Zimmerman,Nashville,Active,e212,naomi.zimmerman@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,50
+Human Resources,Curtis,2019-02-20,e251,Senior Recruiter,Iverson,Nashville,Active,e213,curtis.iverson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,51
+Human Resources,Angela,2019-03-21,e252,Compensation Analyst,Castillo,Nashville,Active,e214,angela.castillo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,52
+Operations,Brian,2019-04-19,e253,Warehouse Supervisor,Lambert,Nashville,Active,e215,brian.lambert@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,53
+Facilities,Chandra,2019-05-18,e254,Facilities Coordinator,Yates,Nashville,Active,e212,chandra.yates@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,54
+Human Resources,Devon,2019-06-16,e255,Recruiting Coordinator,Hollins,Nashville,Active,e213,devon.hollins@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,55
+Human Resources,Elena,2019-07-15,e256,Learning & Development Specialist,Underwood,Nashville,Active,e214,elena.underwood@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,56
+Operations,Frank,2019-08-13,e257,Logistics Coordinator,Diallo,Nashville,Active,e215,frank.diallo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,57
+Finance,Grace,2019-09-11,e258,Financial Analyst,Quinn,Nashville,Active,e212,grace.quinn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,58
+Human Resources,Hector,2019-10-10,e259,Employee Relations Specialist,Delgado,Nashville,Active,e213,hector.delgado@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,59
+Sales,Ivy,2019-11-08,e260,Account Manager,Meyers,Nashville,Active,e214,ivy.meyers@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,60
+Operations,Jamal,2019-12-07,e261,Production Supervisor,Zimmerman,Nashville,Active,e215,jamal.zimmerman@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,61
+Human Resources,Kayla,2020-01-05,e262,Benefits Administrator,Iverson,Nashville,Active,e212,kayla.iverson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,62
+IT,Leon,2020-02-03,e263,Systems Administrator,Vaughn,Nashville,Active,e213,leon.vaughn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,63
+Operations,Monique,2020-03-03,e264,Supply Chain Analyst,Ellison,Nashville,Active,e214,monique.ellison@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,64
+Human Resources,Nate,2020-04-01,e265,Senior HR Business Partner,Ramsey,Nashville,Active,e215,nate.ramsey@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,65
+Facilities,Olivia,2020-04-30,e266,Facilities Technician,Emerson,Nashville,Active,e212,olivia.emerson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,66
+Finance,Priya,2020-05-29,e267,Payroll Accountant,Nunez,Nashville,Active,e213,priya.nunez@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,67
+IT,Quincy,2020-06-27,e268,Help Desk Technician,Abbott,Nashville,Active,e214,quincy.abbott@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,68
+Operations,Rhea,2020-07-26,e269,Inventory Analyst,Jennings,Nashville,Active,e215,rhea.jennings@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,69
+Operations,Sam,2020-08-24,e270,Operations Coordinator,Whitaker,Nashville,Active,e212,sam.whitaker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,70
+Finance,Tara,2020-09-22,e271,Accounts Payable Specialist,Farris,Nashville,Active,e213,tara.farris@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,71
+Facilities,Andre,2020-10-21,e272,EHS Specialist,Sinclair,Nashville,Active,e214,andre.sinclair@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,72
+Sales,Bianca,2020-11-19,e273,Sales Coordinator,Boyd,Nashville,Active,e215,bianca.boyd@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,73
+Facilities,Carl,2020-12-18,e274,Maintenance Supervisor,Osei,Nashville,Active,e212,carl.osei@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,74
+Sales,Diana,2021-01-16,e275,Inside Sales Representative,Booker,Nashville,Active,e213,diana.booker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,75
+Human Resources,Errol,2021-02-14,e276,HR Generalist,Krause,Nashville,Active,e214,errol.krause@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,76
+Human Resources,Felicia,2021-03-15,e277,Recruiter,Xu,Nashville,Active,e215,felicia.xu@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,77
+Human Resources,Gerald,2021-04-13,e278,Benefits Specialist,Gupta,Nashville,Active,e212,gerald.gupta@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,78
+Human Resources,Hannah,2021-05-12,e279,Payroll Specialist,Tran,Nashville,Active,e213,hannah.tran@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,79
+Human Resources,Isaac,2021-06-10,e280,HR Business Partner,Carrasco,Nashville,Active,e214,isaac.carrasco@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,80
+Operations,Janelle,2021-07-09,e281,Operations Lead,Patel,Nashville,Active,e215,janelle.patel@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,81
+Finance,Kevin,2021-08-07,e282,Staff Accountant,Castillo,Nashville,Active,e212,kevin.castillo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,82
+IT,Lydia,2021-09-05,e283,IT Support Analyst,Lambert,Nashville,Active,e213,lydia.lambert@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,83
+Human Resources,Marcus,2021-10-04,e284,HR Coordinator,Yates,Nashville,Active,e214,marcus.yates@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,84
+Human Resources,Nadia,2021-11-02,e285,HRIS Analyst,Hollins,Nashville,Active,e215,nadia.hollins@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,85
+Human Resources,Omar,2021-12-01,e286,Senior Recruiter,Underwood,Nashville,Active,e212,omar.underwood@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,86
+Human Resources,Paula,2021-12-30,e287,Compensation Analyst,Diallo,Nashville,Active,e213,paula.diallo@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,87
+Operations,Reggie,2022-01-28,e288,Warehouse Supervisor,Quinn,Nashville,Active,e214,reggie.quinn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,88
+Facilities,Sonia,2022-02-26,e289,Facilities Coordinator,Delgado,Nashville,Active,e215,sonia.delgado@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,89
+Human Resources,Terrence,2022-03-27,e290,Recruiting Coordinator,Meyers,Nashville,Active,e212,terrence.meyers@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,90
+Human Resources,Vanessa,2022-04-25,e291,Learning & Development Specialist,Zimmerman,Nashville,Active,e213,vanessa.zimmerman@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,91
+Operations,Wesley,2022-05-24,e292,Logistics Coordinator,Iverson,Nashville,Active,e214,wesley.iverson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,92
+Finance,Yolanda,2022-06-22,e293,Financial Analyst,Vaughn,Nashville,Active,e215,yolanda.vaughn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,93
+Human Resources,Darnell,2022-07-21,e294,Employee Relations Specialist,Ellison,Nashville,Active,e212,darnell.ellison@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,94
+Sales,Camille,2022-08-19,e295,Account Manager,Ramsey,Nashville,Active,e213,camille.ramsey@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,95
+Operations,Malik,2022-09-17,e296,Production Supervisor,Emerson,Nashville,Active,e214,malik.emerson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,96
+Human Resources,Renee,2022-10-16,e297,Benefits Administrator,Nunez,Nashville,Active,e215,renee.nunez@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,97
+IT,Trevor,2022-11-14,e298,Systems Administrator,Abbott,Nashville,Active,e212,trevor.abbott@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,98
+Operations,Simone,2022-12-13,e299,Supply Chain Analyst,Jennings,Nashville,Active,e213,simone.jennings@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,99
+Human Resources,Naomi,2023-01-11,e300,Senior HR Business Partner,Whitaker,Nashville,Active,e214,naomi.whitaker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,100
+Facilities,Curtis,2023-02-09,e301,Facilities Technician,Farris,Nashville,Active,e215,curtis.farris@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,101
+Finance,Angela,2023-03-10,e302,Payroll Accountant,Zimmerman,Nashville,Active,e212,angela.zimmerman@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,102
+IT,Brian,2023-04-08,e303,Help Desk Technician,Iverson,Nashville,Active,e213,brian.iverson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,103
+Operations,Chandra,2023-05-07,e304,Inventory Analyst,Vaughn,Nashville,Active,e214,chandra.vaughn@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,104
+Operations,Devon,2023-06-05,e305,Operations Coordinator,Ellison,Nashville,Active,e215,devon.ellison@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,105
+Finance,Elena,2023-07-04,e306,Accounts Payable Specialist,Ramsey,Nashville,Active,e212,elena.ramsey@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,106
+Facilities,Frank,2023-08-02,e307,EHS Specialist,Emerson,Nashville,Active,e213,frank.emerson@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,107
+Sales,Grace,2023-08-31,e308,Sales Coordinator,Nunez,Nashville,Active,e214,grace.nunez@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,108
+Facilities,Hector,2023-09-29,e309,Maintenance Supervisor,Abbott,Nashville,Active,e215,hector.abbott@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,109
+Sales,Ivy,2023-10-28,e310,Inside Sales Representative,Jennings,Nashville,Active,e212,ivy.jennings@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,110
+Human Resources,Jamal,2023-11-26,e311,HR Generalist,Whitaker,Nashville,Active,e213,jamal.whitaker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,111
+Human Resources,Kayla,2023-12-25,e312,Recruiter,Farris,Nashville,Active,e214,kayla.farris@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,112
+Human Resources,Leon,2024-01-23,e313,Benefits Specialist,Sinclair,Nashville,Active,e215,leon.sinclair@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,113
+Human Resources,Monique,2024-02-21,e314,Payroll Specialist,Boyd,Nashville,Active,e212,monique.boyd@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,114
+Human Resources,Nate,2024-03-21,e315,HR Business Partner,Osei,Nashville,Active,e213,nate.osei@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,115
+Operations,Olivia,2024-04-19,e316,Operations Lead,Booker,Nashville,Active,e214,olivia.booker@bellmark.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,116

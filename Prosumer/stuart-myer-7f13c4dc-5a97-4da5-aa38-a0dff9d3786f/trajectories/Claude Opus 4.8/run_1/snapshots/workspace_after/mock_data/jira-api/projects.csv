@@ -1,0 +1,3 @@
+description,id,key,lead,name,project_type_key,__api__,__table__,__file__,__row_index__
+Core platform tracking.,10000,PLAT,Stuart Myer,Platform,software,jira-api,projects,/opt/mocks/jira-api/projects.json,0
+Internal operations + support.,10001,OPS,Stuart Myer,Operations,service_desk,jira-api,projects,/opt/mocks/jira-api/projects.json,1

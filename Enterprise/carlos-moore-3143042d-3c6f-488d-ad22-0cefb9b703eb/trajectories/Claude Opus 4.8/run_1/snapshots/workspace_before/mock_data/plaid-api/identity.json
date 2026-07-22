@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_sav_002": [
+      {
+        "names": [
+          "Carlos Moore"
+        ],
+        "emails": [
+          {
+            "data": "carlos.moore@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+16155550110",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "742 Sawyer Brown Road",
+              "city": "Nashville",
+              "region": "TN",
+              "postal_code": "37221",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_chk_001": [
+      {
+        "names": [
+          "Carlos Moore"
+        ],
+        "emails": [
+          {
+            "data": "carlos.moore@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+16155550110",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "742 Sawyer Brown Road",
+              "city": "Nashville",
+              "region": "TN",
+              "postal_code": "37221",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

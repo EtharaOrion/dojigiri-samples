@@ -1,0 +1,6 @@
+id,product,unit_amount,currency,recurring_interval,active,nickname,__api__,__table__,__file__,__row_index__,object,recurring,type
+price_pzv42gq7m9fz9c,prod_b61a8lewxpnaiq,2500,usd,month,True,Print Club Monthly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,0,price,"{""interval"": ""month""}",recurring
+price_v48mx6l3pmszow,prod_z5dcgs02544171,2800,usd,month,True,Note-card Society Quarterly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,1,price,"{""interval"": ""month""}",recurring
+price_evfi5njex4sz0y,prod_ekuxrnycdkhr5s,6500,usd,month,True,Workshop Series Monthly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,2,price,"{""interval"": ""month""}",recurring
+price_agksgcbiwhukbo,prod_aiakyqnod1imb3,12000,usd,year,True,Studio Circle Annual,stripe-api,prices,/opt/mocks/stripe-api/prices.json,3,price,"{""interval"": ""year""}",recurring
+price_0ekgda2amkwmh2,prod_ekuxrnycdkhr5s,6500,usd,one_time,True,Single Workshop Session,stripe-api,prices,/opt/mocks/stripe-api/prices.json,4,price,"{""interval"": ""one_time""}",recurring

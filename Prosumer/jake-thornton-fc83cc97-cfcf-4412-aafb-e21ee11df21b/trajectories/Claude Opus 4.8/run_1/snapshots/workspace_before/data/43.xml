@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jakesTableEnrollment>
+  <class>
+    <title>Holiday Brunch</title>
+    <date>2026-12-06</date>
+    <venueType>home</venueType>
+    <capacity>8</capacity>
+    <enrolled>8</enrolled>
+    <pricePerSeat currency="USD">75</pricePerSeat>
+  </class>
+  <class>
+    <title>New Year Soul Food</title>
+    <date>2027-01-16</date>
+    <venueType>home</venueType>
+    <capacity>8</capacity>
+    <enrolled>6</enrolled>
+    <pricePerSeat currency="USD">75</pricePerSeat>
+  </class>
+  <class>
+    <title>Valentine's Couples</title>
+    <date>2027-02-13</date>
+    <venueType>home</venueType>
+    <capacity>8</capacity>
+    <enrolled>6</enrolled>
+    <pricePerSeat currency="USD">75</pricePerSeat>
+  </class>
+  <class>
+    <title>Spring Grilling Pop-up</title>
+    <date>2027-05-09</date>
+    <venueType>venue</venueType>
+    <capacity>12</capacity>
+    <enrolled>9</enrolled>
+    <pricePerSeat currency="USD">65</pricePerSeat>
+  </class>
+</jakesTableEnrollment>

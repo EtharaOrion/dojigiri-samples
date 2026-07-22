@@ -1,0 +1,3 @@
+id,name,primary,type,currency,balance,native_balance,created_at,updated_at,_balance_num,_native_num
+gift-wallet-building-our-future-btc,Building Our Future — Donated BTC Gift,True,wallet,"{""code"": ""BTC"", ""name"": ""Bitcoin""}","{""amount"": ""0.85000000"", ""currency"": ""BTC""}","{""amount"": ""45900.00"", ""currency"": ""USD""}",2026-02-01T00:00:00Z,2026-02-05T00:00:00Z,0.85,45900.0
+campaign-eth-wallet-empty,Building Our Future — ETH Wallet (empty),False,wallet,"{""code"": ""ETH"", ""name"": ""Ethereum""}","{""amount"": ""0.00000000"", ""currency"": ""ETH""}","{""amount"": ""0.00"", ""currency"": ""USD""}",2026-02-01T00:00:00Z,2026-02-05T00:00:00Z,0.0,0.0

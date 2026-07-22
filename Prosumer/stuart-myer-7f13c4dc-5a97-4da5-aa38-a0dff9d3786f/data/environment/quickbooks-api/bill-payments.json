@@ -1,0 +1,684 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "Id": "7001",
+        "VendorRef": {
+          "value": "2005",
+          "name": "Burnside Industrial Holdings LLC"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 4200.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3001",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 4200.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2400"
+      },
+      {
+        "Id": "7002",
+        "VendorRef": {
+          "value": "2001",
+          "name": "Pacific Malt Company"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 1873.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3002",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1873.5
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7003",
+        "VendorRef": {
+          "value": "2002",
+          "name": "Crosby Hops"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 1267.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3003",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1267.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7004",
+        "VendorRef": {
+          "value": "2003",
+          "name": "Portland General Electric"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 580.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3004",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 580.5
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2403"
+      },
+      {
+        "Id": "7005",
+        "VendorRef": {
+          "value": "2004",
+          "name": "NW Natural"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 234.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3005",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 234.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7006",
+        "VendorRef": {
+          "value": "2007",
+          "name": "Cascade Gas & Welding Supply"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 210.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3006",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 210.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7007",
+        "VendorRef": {
+          "value": "2008",
+          "name": "BrewPack Container Co"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 2393.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3007",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 2393.5
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2406"
+      },
+      {
+        "Id": "7008",
+        "VendorRef": {
+          "value": "2009",
+          "name": "Inkwell Label & Print"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 647.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3008",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 647.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7009",
+        "VendorRef": {
+          "value": "2012",
+          "name": "Ekos Brewmaster"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 205.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3009",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 205.5
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7010",
+        "VendorRef": {
+          "value": "2013",
+          "name": "Portland Water Bureau"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 294.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3010",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 294.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2409"
+      },
+      {
+        "Id": "7011",
+        "VendorRef": {
+          "value": "2006",
+          "name": "Oregon Liquor & Cannabis Commission"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 410.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3011",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 410.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7012",
+        "VendorRef": {
+          "value": "2010",
+          "name": "White Labs"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 333.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3012",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 333.5
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7013",
+        "VendorRef": {
+          "value": "2011",
+          "name": "Sauvie Island Farms"
+        },
+        "TxnDate": "2026-03-05",
+        "TotalAmt": 307.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3013",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 307.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2412"
+      },
+      {
+        "Id": "7014",
+        "VendorRef": {
+          "value": "2005",
+          "name": "Burnside Industrial Holdings LLC"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 4240.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3014",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 4240.5
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7015",
+        "VendorRef": {
+          "value": "2001",
+          "name": "Pacific Malt Company"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 1914.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3015",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1914.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7016",
+        "VendorRef": {
+          "value": "2002",
+          "name": "Crosby Hops"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 1240.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3016",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1240.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2415"
+      },
+      {
+        "Id": "7017",
+        "VendorRef": {
+          "value": "2003",
+          "name": "Portland General Electric"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 553.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3017",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 553.5
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7018",
+        "VendorRef": {
+          "value": "2004",
+          "name": "NW Natural"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 207.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3018",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 207.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7019",
+        "VendorRef": {
+          "value": "2007",
+          "name": "Cascade Gas & Welding Supply"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 250.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3019",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 250.5
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2418"
+      },
+      {
+        "Id": "7020",
+        "VendorRef": {
+          "value": "2008",
+          "name": "BrewPack Container Co"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 2434.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3020",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 2434.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7021",
+        "VendorRef": {
+          "value": "2009",
+          "name": "Inkwell Label & Print"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 620.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3021",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 620.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7022",
+        "VendorRef": {
+          "value": "2012",
+          "name": "Ekos Brewmaster"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 178.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3022",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 178.5
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2421"
+      },
+      {
+        "Id": "7023",
+        "VendorRef": {
+          "value": "2013",
+          "name": "Portland Water Bureau"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 267.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3023",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 267.0
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7024",
+        "VendorRef": {
+          "value": "2006",
+          "name": "Oregon Liquor & Cannabis Commission"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 450.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3024",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 450.5
+          }
+        ],
+        "PayType": "ACH",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "ACH auto-pay"
+      },
+      {
+        "Id": "7025",
+        "VendorRef": {
+          "value": "2010",
+          "name": "White Labs"
+        },
+        "TxnDate": "2025-10-03",
+        "TotalAmt": 374.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3025",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 374.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2424"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 25,
+    "totalCount": 25
+  }
+}

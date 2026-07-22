@@ -1,0 +1,4 @@
+uuid,owner,name,slug,duration,kind,color,active,description,scheduling_url,created_at,__api__,__table__,__file__,__row_index__
+et-carlos-moore-intro-15,user-carlos-moore,Intro Call,carlos-moore-intro-15,15,solo,#0069ff,True,15-minute intro call with Carlos Moore,https://calendly.com/carlos-moore/intro-15,2025-09-02T10:00:00.000000Z,calendly-api,event_types,/opt/mocks/calendly-api/event_types.json,0
+et-carlos-moore-meeting-30,user-carlos-moore,Working Session,carlos-moore-meeting-30,30,solo,#1aa763,True,30-minute working session with Carlos Moore,https://calendly.com/carlos-moore/meeting-30,2025-09-02T10:05:00.000000Z,calendly-api,event_types,/opt/mocks/calendly-api/event_types.json,1
+et-carlos-moore-deep-dive-60,user-carlos-moore,Deep Dive,carlos-moore-deep-dive-60,60,solo,#f1684e,True,60-minute deep dive with Carlos Moore,https://calendly.com/carlos-moore/deep-dive-60,2025-09-02T10:10:00.000000Z,calendly-api,event_types,/opt/mocks/calendly-api/event_types.json,2

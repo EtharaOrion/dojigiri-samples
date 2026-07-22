@@ -1,0 +1,5 @@
+business_name,company_id,email,first_name,hourly_rate,id,last_name,start_date,type,wage_type,__api__,__table__,__file__,__row_index__
+Driftwood Brewing Company,co-0000f7b97211,renata.vogel.design@gmail.com,Renata,75.0,con-73ab2723,Vogel,2024-01-15,1099,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,0
+Driftwood Brewing Company,co-0000f7b97211,hollis.pak.pdx@gmail.com,Hollis,90.0,con-39f95d82,Pak,2024-01-15,1099,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,1
+Driftwood Brewing Company,co-0000f7b97211,theo.brandt.glycol@gmail.com,Theo,105.0,con-9e51996e,Brandt,2024-01-15,1099,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,2
+Driftwood Brewing Company,co-0000f7b97211,lila.cohen.books@gmail.com,Lila,120.0,con-86b52384,Cohen,2024-01-15,1099,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,3

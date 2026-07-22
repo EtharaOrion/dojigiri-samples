@@ -1,0 +1,5 @@
+distance_unit,height,length,mass_unit,object_id,template,weight,width,__api__,__table__,__file__,__row_index__
+in,0.5,10.0,oz,parcel-202785a881fb,USPS_FlatRateEnvelope,8.0,12.5,shippo-api,parcels,/opt/mocks/shippo-api/parcels.json,0
+in,4.0,8.0,oz,parcel-3aef5c0626a4,USPS_SmallFlatRateBox,16.0,8.0,shippo-api,parcels,/opt/mocks/shippo-api/parcels.json,1
+in,5.5,11.0,oz,parcel-8f410e122eb0,USPS_MediumFlatRateBox,32.0,8.5,shippo-api,parcels,/opt/mocks/shippo-api/parcels.json,2
+in,6.0,14.0,oz,parcel-6c6f3d87a07c,UPS_Custom,48.0,10.0,shippo-api,parcels,/opt/mocks/shippo-api/parcels.json,3

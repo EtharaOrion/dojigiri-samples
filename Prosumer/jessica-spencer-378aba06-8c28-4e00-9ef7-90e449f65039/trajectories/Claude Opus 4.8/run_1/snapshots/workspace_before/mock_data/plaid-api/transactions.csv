@@ -1,0 +1,47 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn_0001,acc_chk_001,3200.0,USD,2025-10-01,Direct Deposit Payroll,Helix Robotics,"[""Transfer"", ""Payroll""]",False,other
+txn_0002,acc_chk_001,1450.0,USD,2025-10-02,Rent Payment,Pinecrest Property Mgmt,"[""Payment"", ""Rent""]",False,online
+txn_0003,acc_chk_001,86.43,USD,2025-10-03,Whole Foods Market,Whole Foods,"[""Food and Drink"", ""Groceries""]",False,in store
+txn_0004,acc_chk_001,12.5,USD,2025-10-04,Blue Bottle Coffee,Blue Bottle,"[""Food and Drink"", ""Coffee Shop""]",False,in store
+txn_0005,acc_crd_003,54.99,USD,2025-10-05,Amazon Marketplace,Amazon,"[""Shops"", ""Online Marketplaces""]",False,online
+txn_0006,acc_chk_001,40.0,USD,2025-10-06,Shell Gas Station,Shell,"[""Travel"", ""Gas Stations""]",False,in store
+txn_0007,acc_crd_003,118.2,USD,2025-10-07,Costco Wholesale,Costco,"[""Shops"", ""Warehouses""]",False,in store
+txn_0008,acc_chk_001,9.99,USD,2025-10-08,Netflix Subscription,Netflix,"[""Service"", ""Subscription""]",False,online
+txn_0009,acc_chk_001,25.0,USD,2025-10-09,Uber Trip,Uber,"[""Travel"", ""Ride Share""]",False,online
+txn_0010,acc_crd_003,210.75,USD,2025-10-10,Best Buy,Best Buy,"[""Shops"", ""Electronics""]",False,in store
+txn_0011,acc_chk_001,500.0,USD,2025-10-11,Transfer to Savings,Cascade Federal Bank,"[""Transfer"", ""Internal""]",False,other
+txn_0012,acc_sav_002,500.0,USD,2025-10-11,Transfer from Checking,Cascade Federal Bank,"[""Transfer"", ""Internal""]",False,other
+txn_0013,acc_chk_001,62.3,USD,2025-10-12,Trader Joes,Trader Joes,"[""Food and Drink"", ""Groceries""]",False,in store
+txn_0014,acc_crd_003,15.49,USD,2025-10-13,Spotify Premium,Spotify,"[""Service"", ""Subscription""]",False,online
+txn_0015,acc_chk_001,33.1,USD,2025-10-14,Chipotle,Chipotle,"[""Food and Drink"", ""Restaurants""]",False,in store
+txn_0016,acc_crd_003,89.0,USD,2025-10-15,Nike Store,Nike,"[""Shops"", ""Clothing""]",False,in store
+txn_0017,acc_chk_001,450.0,USD,2025-10-16,Auto Loan Payment,Cascade Federal Bank,"[""Payment"", ""Loan""]",False,online
+txn_0018,acc_chk_001,72.84,USD,2025-10-17,PG&E Utility,PG&E,"[""Service"", ""Utilities""]",False,online
+txn_0019,acc_crd_003,27.4,USD,2025-10-18,Walgreens,Walgreens,"[""Shops"", ""Pharmacies""]",False,in store
+txn_0020,acc_chk_001,18.0,USD,2025-10-19,Lyft Ride,Lyft,"[""Travel"", ""Ride Share""]",False,online
+txn_0021,acc_chk_001,3200.0,USD,2025-10-20,Direct Deposit Payroll,Helix Robotics,"[""Transfer"", ""Payroll""]",False,other
+txn_0022,acc_crd_003,64.12,USD,2025-10-21,Target,Target,"[""Shops"", ""Department Stores""]",False,in store
+txn_0023,acc_chk_001,11.25,USD,2025-10-22,Starbucks,Starbucks,"[""Food and Drink"", ""Coffee Shop""]",False,in store
+txn_0024,acc_chk_001,95.6,USD,2025-10-23,Safeway,Safeway,"[""Food and Drink"", ""Groceries""]",False,in store
+txn_0025,acc_crd_003,320.0,USD,2025-10-24,Delta Air Lines,Delta,"[""Travel"", ""Airlines""]",False,online
+txn_0026,acc_chk_001,14.99,USD,2025-10-25,iCloud Storage,Apple,"[""Service"", ""Subscription""]",False,online
+txn_0027,acc_chk_001,48.75,USD,2025-10-26,Olive Garden,Olive Garden,"[""Food and Drink"", ""Restaurants""]",False,in store
+txn_0028,acc_crd_003,72.0,USD,2025-10-27,Home Depot,Home Depot,"[""Shops"", ""Hardware""]",False,in store
+txn_0029,acc_chk_001,22.4,USD,2025-10-28,DoorDash,DoorDash,"[""Food and Drink"", ""Delivery""]",True,online
+txn_0030,acc_chk_001,9.99,USD,2025-10-29,Hulu Subscription,Hulu,"[""Service"", ""Subscription""]",True,online
+txn_20251016_6ba87bd0,acc_chase_business_checking,-180.0,USD,2025-10-16,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20251115_66e896fa,acc_chase_business_checking,-180.0,USD,2025-11-15,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20251215_e51b498a,acc_chase_business_checking,-180.0,USD,2025-12-15,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20260115_9bc49baf,acc_chase_business_checking,-180.0,USD,2026-01-15,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20260215_0a245226,acc_chase_business_checking,-180.0,USD,2026-02-15,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20260315_3f49406d,acc_chase_business_checking,-180.0,USD,2026-03-15,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20261016_3a845e02,acc_chase_business_checking,-380.0,USD,2026-10-16,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20261115_312f272b,acc_chase_business_checking,-180.0,USD,2026-11-15,Desert Pool Pros,Desert Pool Pros,"[""Service,Pool Maintenance""]",False,in store
+txn_20251001_d4f5887f,acc_chase_business_checking,-240.0,USD,2025-10-01,Green Harvest Market,Green Harvest Market,"[""Shops,Groceries""]",False,in store
+txn_20251008_246bf7b6,acc_chase_business_checking,-220.0,USD,2025-10-08,Green Harvest Market,Green Harvest Market,"[""Shops,Groceries""]",False,in store
+txn_20251105_67eccc31,acc_chase_business_checking,-265.0,USD,2025-11-05,Green Harvest Market,Green Harvest Market,"[""Shops,Groceries""]",False,in store
+txn_20251203_0083813b,acc_chase_business_checking,-280.0,USD,2025-12-03,Green Harvest Market,Green Harvest Market,"[""Shops,Groceries""]",False,in store
+txn_20260115_046cdc3b,acc_chase_business_checking,-6500.0,USD,2026-01-15,Reynolds and Associates CPA,Reynolds and Associates CPA,"[""Service,Financial,Tax""]",False,in store
+txn_20260401_21f90c59,acc_chase_business_checking,-6500.0,USD,2026-03-31,Reynolds and Associates CPA,Reynolds and Associates CPA,"[""Service,Financial,Tax""]",False,in store
+txn_20260615_be0d6d46,acc_chase_business_checking,-6500.0,USD,2026-10-01,Reynolds and Associates CPA,Reynolds and Associates CPA,"[""Service,Financial,Tax""]",False,in store
+txn_20260915_5edf445b,acc_chase_business_checking,-6500.0,USD,2026-10-15,Reynolds and Associates CPA,Reynolds and Associates CPA,"[""Service,Financial,Tax""]",False,in store

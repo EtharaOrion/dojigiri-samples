@@ -1,0 +1,30 @@
+id,name,is_private,is_archived,topic,purpose,creator,created,num_members,__api__,__table__,__file__,__row_index__
+C01GENERAL,Jessica Marie Taylor,False,False,Company-wide announcements,Default channel for all,grace.taylor.sj@gmail.com,1700000000,5,slack-api,channels,/opt/mocks/slack-api/channels.json,0
+C01ENG,David Taylor,False,False,All engineering discussion,Engineering team chat,david.taylor.engineer@gmail.com,1700000100,5,slack-api,channels,/opt/mocks/slack-api/channels.json,1
+C01DEPLOY,Mia Petrov,False,False,Deploy notifications,Automated deploy + incident notifications,mia.petrov.la@gmail.com,1700000200,5,slack-api,channels,/opt/mocks/slack-api/channels.json,2
+C01RANDOM,Tomas Varga,False,False,Off-topic,Memes welcome,tomas.varga.sf@gmail.com,1700000300,5,slack-api,channels,/opt/mocks/slack-api/channels.json,3
+C01AUTHV2,Nina Okafor,False,False,Auth v2 rollout tracking,Project channel for auth migration,nina@bloomskinco.com,1740000000,3,slack-api,channels,/opt/mocks/slack-api/channels.json,4
+G01LEADS,Ray Mitchell,True,False,Engineering leads sync,Private leads channel,ray.mitchell.design@gmail.com,1740000100,2,slack-api,channels,/opt/mocks/slack-api/channels.json,5
+C01GENERAL-v7,Marcus Reeves,False,False,Company-wide announcements,Default channel for all,grace.taylor.sj@gmail.com,1700000000,5,slack-api,channels,/opt/mocks/slack-api/channels.json,6
+C01ENG-v8,Aria Chen,False,False,All engineering discussion,Engineering team chat,david.taylor.engineer@gmail.com,1700000100,5,slack-api,channels,/opt/mocks/slack-api/channels.json,7
+C01DEPLOY-v9,Verdant Provisions,False,False,Deploy notifications,Automated deploy + incident notifications,mia.petrov.la@gmail.com,1700000200,5,slack-api,channels,/opt/mocks/slack-api/channels.json,8
+C01RANDOM-v10,Pinnacle Collective,False,False,Off-topic,Memes welcome,tomas.varga.sf@gmail.com,1700000300,5,slack-api,channels,/opt/mocks/slack-api/channels.json,9
+C01AUTHV2-v11,Grace Taylor,False,False,Auth v2 rollout tracking,Project channel for auth migration,nina@bloomskinco.com,1740000000,3,slack-api,channels,/opt/mocks/slack-api/channels.json,10
+G01LEADS-v12,David Taylor,True,False,Engineering leads sync,Private leads channel,ray.mitchell.design@gmail.com,1740000100,2,slack-api,channels,/opt/mocks/slack-api/channels.json,11
+C01GENERAL-v13,Mia Petrov,False,False,Company-wide announcements,Default channel for all,grace.taylor.sj@gmail.com,1700000000,5,slack-api,channels,/opt/mocks/slack-api/channels.json,12
+C01ENG-v14,Tomas Varga,False,False,All engineering discussion,Engineering team chat,david.taylor.engineer@gmail.com,1700000100,5,slack-api,channels,/opt/mocks/slack-api/channels.json,13
+C01DEPLOY-v15,Nina Okafor,False,False,Deploy notifications,Automated deploy + incident notifications,mia.petrov.la@gmail.com,1700000200,5,slack-api,channels,/opt/mocks/slack-api/channels.json,14
+C01RANDOM-v16,Ray Mitchell,False,False,Off-topic,Memes welcome,tomas.varga.sf@gmail.com,1700000300,5,slack-api,channels,/opt/mocks/slack-api/channels.json,15
+C01AUTHV2-v17,Marcus Reeves,False,False,Auth v2 rollout tracking,Project channel for auth migration,nina@bloomskinco.com,1740000000,3,slack-api,channels,/opt/mocks/slack-api/channels.json,16
+G01LEADS-v18,Aria Chen,True,False,Engineering leads sync,Private leads channel,ray.mitchell.design@gmail.com,1740000100,2,slack-api,channels,/opt/mocks/slack-api/channels.json,17
+C01GENERAL-v19,Verdant Provisions,False,False,Company-wide announcements,Default channel for all,grace.taylor.sj@gmail.com,1700000000,5,slack-api,channels,/opt/mocks/slack-api/channels.json,18
+C01ENG-v20,Pinnacle Collective,False,False,All engineering discussion,Engineering team chat,david.taylor.engineer@gmail.com,1700000100,5,slack-api,channels,/opt/mocks/slack-api/channels.json,19
+C_pinnacle_general,pinnacle-general,False,False,Pinnacle Collective client channel,Pinnacle Collective client channel,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,20
+C_pinnacle_design,pinnacle-design,False,False,Design deliverables + reviews,Design deliverables + reviews,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,21
+C_aurora_project,aurora-project,False,False,Aurora Bistro menu redesign,Aurora Bistro menu redesign,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,22
+C_kilnloom_shop,kilnloom-shop,False,False,Kiln + Loom Shopify theme,Kiln + Loom Shopify theme,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,23
+C_coastwise_report,coastwise-report,False,False,Coastwise annual report,Coastwise annual report,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,24
+C_rally_labels,rally-labels,False,False,Rally Kombucha label refresh,Rally Kombucha label refresh,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,25
+C_designer_community,designer-community,False,False,LA designer community server,LA designer community server,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,26
+C_freelance_tips,freelance-tips,False,False,Freelance tips + rate talk,Freelance tips + rate talk,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,27
+C_tvs_admin,tvs-admin,False,False,Taylor Visual Studio admin,Taylor Visual Studio admin,U_JESSICA,1785522600,8,slack-api,channels,/opt/mocks/slack-api/channels.json,28

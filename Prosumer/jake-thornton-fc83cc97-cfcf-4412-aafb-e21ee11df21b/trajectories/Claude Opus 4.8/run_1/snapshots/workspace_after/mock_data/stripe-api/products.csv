@@ -1,0 +1,5 @@
+id,name,description,active,created,__api__,__table__,__file__,__row_index__,object
+prod_Starter,Home Cooking Class Seat,Three-hour Southern-fusion class in the East Lake kitchen. Capacity eight.,True,1705823882,stripe-api,products,/opt/mocks/stripe-api/products.json,0,product
+prod_Pro,Venue Cooking Class Seat,Three-hour pop-up class at a community venue.,True,1715962047,stripe-api,products,/opt/mocks/stripe-api/products.json,1,product
+prod_Enterprise,Private Group Class,"Private booking for up to eight guests, menu chosen with Jake.",True,1715037999,stripe-api,products,/opt/mocks/stripe-api/products.json,2,product
+prod_POS,Jake's Table Gift Card,Prepaid gift card redeemable against any class seat.,True,1707743215,stripe-api,products,/opt/mocks/stripe-api/products.json,3,product

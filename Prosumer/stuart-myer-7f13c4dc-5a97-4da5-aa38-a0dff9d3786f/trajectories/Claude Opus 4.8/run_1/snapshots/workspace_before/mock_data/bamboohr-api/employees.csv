@@ -1,0 +1,38 @@
+department,firstName,hireDate,id,jobTitle,lastName,location,status,supervisorId,workEmail,__api__,__table__,__file__,__row_index__
+Engineering,Stuart,2018-01-15,e200,Associate,David Myer,Portland,Active,e200,stuart.myer@voissync.ai,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,0
+Operations,Deborah,2019-02-15,e201,Senior associate,Greenfield-Myer,Portland,Active,e200,deb.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,1
+Finance,Richard,2020-03-15,e202,Manager,Myer,Portland,Active,e200,richard.myer.or@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,2
+People,Jake,2021-04-15,e203,Senior manager,Callahan,Portland,Active,e200,jake.callahan@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,3
+Marketing,Lauren,2022-05-15,e204,Director,Pratt,Portland,Active,e201,lauren.pratt@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,4
+Customer success,Ruth,2023-06-15,e205,VP,Greenfield,Portland,Active,e202,ruth.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,5
+Engineering,Howard,2018-07-15,e206,Associate,Greenfield,Portland,Active,e200,howard.greenfield.ct@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,6
+Operations,Carol,2019-08-15,e207,Senior associate,Myer,Portland,Active,e201,carol.myer@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,7
+Finance,David,2020-09-15,e208,Manager,Cortez,Portland,Active,e202,david.cortez.cwc@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,8
+People,Megan,2021-10-15,e209,Senior manager,Hale,Portland,Active,e200,megan.hale.m@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,9
+Marketing,Tom,2022-11-15,e210,Director,Beckley,Portland,Active,e201,tom.beckley@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,10
+Customer success,Nick,2023-12-15,e211,VP,Farrell,Portland,Active,e202,nick.farrell.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,11
+Engineering,Stuart,2018-01-15,e200-v1,Associate,David Myer,Portland,Active,e200,stuart.myer@voissync.ai,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,12
+Operations,Deborah,2019-02-15,e201-v2,Senior associate,Greenfield-Myer,Portland,Active,e200,deb.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,13
+Finance,Richard,2020-03-15,e202-v3,Manager,Myer,Portland,Active,e200,richard.myer.or@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,14
+People,Jake,2021-04-15,e203-v4,Senior manager,Callahan,Portland,Active,e200,jake.callahan@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,15
+Marketing,Lauren,2022-05-15,e204-v5,Director,Pratt,Portland,Active,e201,lauren.pratt@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,16
+Customer success,Ruth,2023-06-15,e205-v6,VP,Greenfield,Portland,Active,e202,ruth.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,17
+Engineering,Howard,2018-07-15,e206-v7,Associate,Greenfield,Portland,Active,e200,howard.greenfield.ct@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,18
+Operations,Carol,2019-08-15,e207-v8,Senior associate,Myer,Portland,Active,e201,carol.myer@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,19
+Engineering,Stuart,2018-01-15,e200-v1-2,Associate,David Myer,Portland,Active,e200,stuart.myer@voissync.ai,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,20
+Operations,Deborah,2019-02-15,e201-v2-2,Senior associate,Greenfield-Myer,Portland,Active,e200,deb.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,21
+Finance,Richard,2020-03-15,e202-v3-2,Manager,Myer,Portland,Active,e200,richard.myer.or@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,22
+People,Jake,2021-04-15,e203-v4-2,Senior manager,Callahan,Portland,Active,e200,jake.callahan@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,23
+Marketing,Lauren,2022-05-15,e204-v5-2,Director,Pratt,Portland,Active,e201,lauren.pratt@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,24
+Customer success,Ruth,2023-06-15,e205-v6-2,VP,Greenfield,Portland,Active,e202,ruth.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,25
+Engineering,Howard,2018-07-15,e206-v7-2,Associate,Greenfield,Portland,Active,e200,howard.greenfield.ct@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,26
+Operations,Carol,2019-08-15,e207-v8-2,Senior associate,Myer,Portland,Active,e201,carol.myer@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,27
+Finance,David,2020-09-15,e208-v9,Manager,Cortez,Portland,Active,e202,david.cortez.cwc@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,28
+People,Megan,2021-10-15,e209-v10,Senior manager,Hale,Portland,Active,e200,megan.hale.m@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,29
+Marketing,Tom,2022-11-15,e210-v11,Director,Beckley,Portland,Active,e201,tom.beckley@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,30
+Customer success,Nick,2023-12-15,e211-v12,VP,Farrell,Portland,Active,e202,nick.farrell.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,31
+Engineering,Stuart,2018-01-15,e200-v1-v13,Associate,David Myer,Portland,Active,e200,stuart.myer@voissync.ai,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,32
+Operations,Deborah,2019-02-15,e201-v2-v14,Senior associate,Greenfield-Myer,Portland,Active,e200,deb.greenfield.pdx@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,33
+Finance,Richard,2020-03-15,e202-v3-v15,Manager,Myer,Portland,Active,e200,richard.myer.or@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,34
+People,Jake,2021-04-15,e203-v4-v16,Senior manager,Callahan,Portland,Active,e200,jake.callahan@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,35
+Marketing,Lauren,2022-05-15,e204-v5-v17,Director,Pratt,Portland,Active,e201,lauren.pratt@gmail.com,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,36

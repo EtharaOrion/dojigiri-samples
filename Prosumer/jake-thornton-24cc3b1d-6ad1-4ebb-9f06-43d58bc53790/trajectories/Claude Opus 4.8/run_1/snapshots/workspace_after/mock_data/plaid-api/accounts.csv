@@ -1,0 +1,5 @@
+account_id,name,official_name,mask,type,subtype,balances
+acc_chk_7301,Everyday Checking,Wells Fargo Everyday Checking,0123,depository,checking,"{""available"": 4218.55, ""current"": 4318.55, ""limit"": 2000.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_sav_7302,High-Yield Savings,Ally Online Savings,4455,depository,savings,"{""available"": 15230.1, ""current"": 15230.1, ""limit"": 2000.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_crd_7303,Wells Fargo Rewards Card,Wells Fargo Visa Rewards,7788,credit,credit card,"{""available"": 3100.0, ""current"": 1900.0, ""limit"": 5000.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_lon_7304,Auto Loan,Wells Fargo Auto Loan,9901,loan,auto,"{""available"": 18450.0, ""current"": 18450.0, ""limit"": 32000.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"

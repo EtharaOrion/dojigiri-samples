@@ -1,0 +1,236 @@
+{
+  "label": "after_injection",
+  "ts": 1784548978.890808,
+  "ts_iso": "2026-07-20T12:02:58Z",
+  "apis": {
+    "activecampaign-api": {
+      "tables": {
+        "campaigns": 20,
+        "contacts": 20,
+        "deals": 20,
+        "lists": 20
+      },
+      "documents": {}
+    },
+    "airtable-api": {
+      "tables": {
+        "bases": 20,
+        "records_tblCMContact0001": 20,
+        "records_tblCMProjcts0001": 20,
+        "records_tblCMTasks000001": 108,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "alpaca-api": {
+      "tables": {
+        "assets": 40,
+        "orders": 36,
+        "positions": 20
+      },
+      "documents": {
+        "account": true,
+        "quotes": true
+      }
+    },
+    "bamboohr-api": {
+      "tables": {
+        "employees": 37,
+        "time_off": 20,
+        "whos_out": 20
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "coinbase-api": {
+      "tables": {
+        "accounts": 20,
+        "prices": 30,
+        "transactions": 25
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "confluence-api": {
+      "tables": {
+        "comments": 20,
+        "labels": 35,
+        "pages": 20,
+        "spaces": 20
+      },
+      "documents": {}
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 20,
+        "envelopes": 112,
+        "recipients": 28,
+        "templates": 20
+      },
+      "documents": {}
+    },
+    "eventbrite-api": {
+      "tables": {
+        "attendees": 104,
+        "events": 24,
+        "organizations": 20,
+        "ticket_classes": 32,
+        "venues": 20
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 20,
+        "labels": 20,
+        "messages": 130
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 1
+      },
+      "documents": {}
+    },
+    "klaviyo-api": {
+      "tables": {
+        "campaigns": 20,
+        "lists": 20,
+        "profiles": 30
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 20,
+        "lists": 20,
+        "members": 116,
+        "reports": 20
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 106,
+        "comments": 20,
+        "databases": 20,
+        "pages": 20,
+        "users": 20
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "outlook-api": {
+      "tables": {
+        "contacts": 20,
+        "events": 103,
+        "messages": 20
+      },
+      "documents": {}
+    },
+    "paypal-api": {
+      "tables": {
+        "captures": 20,
+        "invoices": 12,
+        "orders": 20,
+        "payouts": 20,
+        "refunds": 20
+      },
+      "documents": {}
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 20,
+        "transactions": 48
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 25,
+        "bills": 25,
+        "customers": 20,
+        "estimates": 20,
+        "expenses": 20,
+        "invoices": 36,
+        "items": 20,
+        "payments": 24,
+        "vendors": 20
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 21,
+        "Contact": 108,
+        "Lead": 20,
+        "Opportunity": 20
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 36,
+        "channels": 20,
+        "messages": 112,
+        "users": 20
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "square-api": {
+      "tables": {
+        "catalog": 20,
+        "customers": 19,
+        "inventory": 20,
+        "orders": 9,
+        "payments": 9,
+        "refunds": 0
+      },
+      "documents": {
+        "merchant": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 22,
+        "customers": 20,
+        "invoices": 24,
+        "payment_intents": 0,
+        "prices": 20,
+        "products": 20,
+        "refunds": 0,
+        "subscriptions": 20
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 20,
+        "contacts": 20,
+        "invoices": 30
+      },
+      "documents": {}
+    }
+  }
+}

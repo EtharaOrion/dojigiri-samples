@@ -1,0 +1,213 @@
+{
+  "QueryResponse": {
+    "Account": [
+      {
+        "Id": "1",
+        "Name": "Operating Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 68450.25,
+        "Active": true,
+        "Description": "Primary operating account - OnPoint Community Credit Union"
+      },
+      {
+        "Id": "2",
+        "Name": "Reserve Savings",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 125000.0,
+        "Active": true,
+        "Description": "Tax and equipment reserve"
+      },
+      {
+        "Id": "3",
+        "Name": "Business Money Market",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 84200.0,
+        "Active": true,
+        "Description": "Short-term reserve - Brightpath Financial"
+      },
+      {
+        "Id": "4",
+        "Name": "Patient Services Income",
+        "AccountType": "Income",
+        "AccountSubType": "ServiceFeeIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Medical dermatology visits, biopsies, procedures"
+      },
+      {
+        "Id": "5",
+        "Name": "Cosmetic Procedures Income",
+        "AccountType": "Income",
+        "AccountSubType": "ServiceFeeIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Self-pay cosmetic dermatology services"
+      },
+      {
+        "Id": "6",
+        "Name": "Skincare Product Sales",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Medical-grade skincare product retail"
+      },
+      {
+        "Id": "7",
+        "Name": "Commission Income",
+        "AccountType": "Income",
+        "AccountSubType": "ServiceFeeIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Botanical illustration commissions"
+      },
+      {
+        "Id": "8",
+        "Name": "Print Sales",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Open-edition botanical prints and note cards"
+      },
+      {
+        "Id": "9",
+        "Name": "Workshop Income",
+        "AccountType": "Income",
+        "AccountSubType": "ServiceFeeIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Botanical illustration workshop tuition"
+      },
+      {
+        "Id": "10",
+        "Name": "Rent Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "RentOrLeaseOfBuildings",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Monthly clinic lease - Westbrook Property Mgmt"
+      },
+      {
+        "Id": "11",
+        "Name": "Utilities",
+        "AccountType": "Expense",
+        "AccountSubType": "Utilities",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Electric + water/sewer"
+      },
+      {
+        "Id": "12",
+        "Name": "Insurance",
+        "AccountType": "Expense",
+        "AccountSubType": "Insurance",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Malpractice + general liability + property - quarterly"
+      },
+      {
+        "Id": "13",
+        "Name": "Payroll - Clinical Staff",
+        "AccountType": "Expense",
+        "AccountSubType": "PayrollExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "NP, MA, and front-desk wages"
+      },
+      {
+        "Id": "14",
+        "Name": "Medical Supplies",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Clinical consumables, biopsy kits, medical waste"
+      },
+      {
+        "Id": "15",
+        "Name": "Cleaning Services",
+        "AccountType": "Expense",
+        "AccountSubType": "RepairMaintenance",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Willamette Cleaning - bi-weekly"
+      },
+      {
+        "Id": "16",
+        "Name": "Marketing & Advertising",
+        "AccountType": "Expense",
+        "AccountSubType": "Advertising",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Website, local ads, community board postings"
+      },
+      {
+        "Id": "17",
+        "Name": "Art & Studio Supplies",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Watercolor, gouache, fine papers, framing"
+      },
+      {
+        "Id": "18",
+        "Name": "Licenses & Permits",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherMiscServiceCost",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Oregon Medical Board and DEA renewals"
+      },
+      {
+        "Id": "19",
+        "Name": "Continuing Medical Education",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "CME courses, conferences, board maintenance"
+      },
+      {
+        "Id": "20",
+        "Name": "Software & Subscriptions",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "EHR, scheduling, design software subscriptions"
+      },
+      {
+        "Id": "21",
+        "Name": "Medical Equipment",
+        "AccountType": "Expense",
+        "AccountSubType": "EquipmentRental",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Dermatology and office equipment"
+      },
+      {
+        "Id": "22",
+        "Name": "Meals & Entertainment",
+        "AccountType": "Expense",
+        "AccountSubType": "Meals",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Staff meetings and business meals"
+      },
+      {
+        "Id": "23",
+        "Name": "Federal Estimated Tax",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Quarterly federal estimated tax payments"
+      }
+    ]
+  }
+}

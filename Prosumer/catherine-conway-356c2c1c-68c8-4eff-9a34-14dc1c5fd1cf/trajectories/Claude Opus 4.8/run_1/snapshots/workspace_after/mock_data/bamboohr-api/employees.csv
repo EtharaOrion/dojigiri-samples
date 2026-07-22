@@ -1,0 +1,14 @@
+department,firstName,hireDate,id,jobTitle,lastName,location,status,supervisorId,workEmail,__api__,__table__,__file__,__row_index__
+Clinical,Catherine,2015-03-02,101,Founder & Lead Dermatologist,Conway,Beaverton,Active,101,catherine.conway@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,0
+Clinical,Rachel,2016-06-15,102,Dermatologist & Partner,Hoffman,Beaverton,Active,101,rachel.hoffman@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,1
+Administration,Diane,2017-01-09,103,Office Manager,Kowalski,Beaverton,Active,101,diane.kowalski@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,2
+Nursing,Lauren,2018-04-23,104,Nurse Practitioner,Bell,Beaverton,Active,101,lauren.bell@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,3
+Nursing,Marcus,2019-08-19,105,Nurse Practitioner,Grant,Beaverton,Active,101,marcus.grant@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,4
+Clinical Support,Sofia,2020-02-11,106,Medical Assistant,Ramirez,Beaverton,Active,103,sofia.ramirez@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,5
+Clinical Support,Kayla,2021-05-17,107,Medical Assistant,Nguyen,Beaverton,Active,103,kayla.nguyen@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,6
+Clinical Support,Andre,2021-09-13,108,Medical Assistant,Willis,Beaverton,Active,103,andre.willis@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,7
+Front Office,Heather,2022-03-07,109,Front Desk Coordinator,Doyle,Beaverton,Active,103,heather.doyle@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,8
+Front Office,Priya,2022-11-14,110,Front Desk Coordinator,Shah,Beaverton,Active,103,priya.shah@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,9
+Billing,Grace,2023-02-20,111,Billing Coordinator,Whitfield,Beaverton,Active,103,grace.whitfield@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,10
+Clinical Support,Theresa,2023-07-10,112,Licensed Medical Aesthetician,Nolan,Beaverton,Active,101,theresa.nolan@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,11
+Nursing,Daniel,2024-01-15,113,Registered Nurse,Okafor,Beaverton,Active,104,daniel.okafor@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,12

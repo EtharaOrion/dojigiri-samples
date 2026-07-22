@@ -1,0 +1,542 @@
+[
+  {
+    "Id": "bp-000",
+    "TxnDate": "2026-12-01",
+    "PayType": "CreditCard",
+    "TotalAmt": 54.99,
+    "VendorRef": {
+      "value": "v-adobe-creati",
+      "name": "Adobe Creative Cloud"
+    },
+    "Line": [
+      {
+        "Amount": 54.99,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-000",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-59723"
+  },
+  {
+    "Id": "bp-001",
+    "TxnDate": "2026-12-02",
+    "PayType": "CreditCard",
+    "TotalAmt": 27.0,
+    "VendorRef": {
+      "value": "v-squarespace",
+      "name": "Squarespace"
+    },
+    "Line": [
+      {
+        "Amount": 27.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-001",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-96185"
+  },
+  {
+    "Id": "bp-002",
+    "TxnDate": "2026-12-03",
+    "PayType": "CreditCard",
+    "TotalAmt": 15.0,
+    "VendorRef": {
+      "value": "v-figma",
+      "name": "Figma"
+    },
+    "Line": [
+      {
+        "Amount": 15.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-002",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-6892"
+  },
+  {
+    "Id": "bp-003",
+    "TxnDate": "2026-12-04",
+    "PayType": "CreditCard",
+    "TotalAmt": 12.0,
+    "VendorRef": {
+      "value": "v-google-works",
+      "name": "Google Workspace"
+    },
+    "Line": [
+      {
+        "Amount": 12.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-003",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-73914"
+  },
+  {
+    "Id": "bp-004",
+    "TxnDate": "2026-12-05",
+    "PayType": "CreditCard",
+    "TotalAmt": 20.0,
+    "VendorRef": {
+      "value": "v-quickbooks",
+      "name": "QuickBooks"
+    },
+    "Line": [
+      {
+        "Amount": 20.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-004",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-99588"
+  },
+  {
+    "Id": "bp-000",
+    "TxnDate": "2026-12-01",
+    "PayType": "CreditCard",
+    "TotalAmt": 54.99,
+    "VendorRef": {
+      "value": "v-adobe-creati",
+      "name": "Adobe Creative Cloud"
+    },
+    "Line": [
+      {
+        "Amount": 54.99,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-000",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-72486"
+  },
+  {
+    "Id": "bp-001",
+    "TxnDate": "2026-12-02",
+    "PayType": "CreditCard",
+    "TotalAmt": 27.0,
+    "VendorRef": {
+      "value": "v-squarespace",
+      "name": "Squarespace"
+    },
+    "Line": [
+      {
+        "Amount": 27.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-001",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-72262"
+  },
+  {
+    "Id": "bp-002",
+    "TxnDate": "2026-12-03",
+    "PayType": "CreditCard",
+    "TotalAmt": 15.0,
+    "VendorRef": {
+      "value": "v-figma",
+      "name": "Figma"
+    },
+    "Line": [
+      {
+        "Amount": 15.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-002",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-38927"
+  },
+  {
+    "Id": "bp-003",
+    "TxnDate": "2026-12-04",
+    "PayType": "CreditCard",
+    "TotalAmt": 12.0,
+    "VendorRef": {
+      "value": "v-google-works",
+      "name": "Google Workspace"
+    },
+    "Line": [
+      {
+        "Amount": 12.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-003",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-76328"
+  },
+  {
+    "Id": "bp-004",
+    "TxnDate": "2026-12-05",
+    "PayType": "CreditCard",
+    "TotalAmt": 20.0,
+    "VendorRef": {
+      "value": "v-quickbooks",
+      "name": "QuickBooks"
+    },
+    "Line": [
+      {
+        "Amount": 20.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-004",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-69114"
+  },
+  {
+    "Id": "bp-000",
+    "TxnDate": "2026-12-01",
+    "PayType": "CreditCard",
+    "TotalAmt": 54.99,
+    "VendorRef": {
+      "value": "v-adobe-creati",
+      "name": "Adobe Creative Cloud"
+    },
+    "Line": [
+      {
+        "Amount": 54.99,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-000",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-93908"
+  },
+  {
+    "Id": "bp-001",
+    "TxnDate": "2026-12-02",
+    "PayType": "CreditCard",
+    "TotalAmt": 27.0,
+    "VendorRef": {
+      "value": "v-squarespace",
+      "name": "Squarespace"
+    },
+    "Line": [
+      {
+        "Amount": 27.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-001",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-63964"
+  },
+  {
+    "Id": "bp-002",
+    "TxnDate": "2026-12-03",
+    "PayType": "CreditCard",
+    "TotalAmt": 15.0,
+    "VendorRef": {
+      "value": "v-figma",
+      "name": "Figma"
+    },
+    "Line": [
+      {
+        "Amount": 15.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-002",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-48653"
+  },
+  {
+    "Id": "bp-003",
+    "TxnDate": "2026-12-04",
+    "PayType": "CreditCard",
+    "TotalAmt": 12.0,
+    "VendorRef": {
+      "value": "v-google-works",
+      "name": "Google Workspace"
+    },
+    "Line": [
+      {
+        "Amount": 12.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-003",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-88951"
+  },
+  {
+    "Id": "bp-004",
+    "TxnDate": "2026-12-05",
+    "PayType": "CreditCard",
+    "TotalAmt": 20.0,
+    "VendorRef": {
+      "value": "v-quickbooks",
+      "name": "QuickBooks"
+    },
+    "Line": [
+      {
+        "Amount": 20.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-004",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-71922"
+  },
+  {
+    "Id": "bp-000",
+    "TxnDate": "2026-12-01",
+    "PayType": "CreditCard",
+    "TotalAmt": 54.99,
+    "VendorRef": {
+      "value": "v-adobe-creati",
+      "name": "Adobe Creative Cloud"
+    },
+    "Line": [
+      {
+        "Amount": 54.99,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-000",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-8848"
+  },
+  {
+    "Id": "bp-001",
+    "TxnDate": "2026-12-02",
+    "PayType": "CreditCard",
+    "TotalAmt": 27.0,
+    "VendorRef": {
+      "value": "v-squarespace",
+      "name": "Squarespace"
+    },
+    "Line": [
+      {
+        "Amount": 27.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-001",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-19524"
+  },
+  {
+    "Id": "bp-002",
+    "TxnDate": "2026-12-03",
+    "PayType": "CreditCard",
+    "TotalAmt": 15.0,
+    "VendorRef": {
+      "value": "v-figma",
+      "name": "Figma"
+    },
+    "Line": [
+      {
+        "Amount": 15.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-002",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-34529"
+  },
+  {
+    "Id": "bp-003",
+    "TxnDate": "2026-12-04",
+    "PayType": "CreditCard",
+    "TotalAmt": 12.0,
+    "VendorRef": {
+      "value": "v-google-works",
+      "name": "Google Workspace"
+    },
+    "Line": [
+      {
+        "Amount": 12.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-003",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-26048"
+  },
+  {
+    "Id": "bp-004",
+    "TxnDate": "2026-12-05",
+    "PayType": "CreditCard",
+    "TotalAmt": 20.0,
+    "VendorRef": {
+      "value": "v-quickbooks",
+      "name": "QuickBooks"
+    },
+    "Line": [
+      {
+        "Amount": 20.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "bill-004",
+            "TxnType": "Bill"
+          }
+        ]
+      }
+    ],
+    "CheckPayment": {
+      "BankAccountRef": {
+        "name": "Operating Checking"
+      }
+    },
+    "PrivateNote": "privatenote-54691"
+  }
+]

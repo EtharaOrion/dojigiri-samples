@@ -1,0 +1,123 @@
+[
+  {
+    "Id": "1",
+    "Name": "Commission Income",
+    "Description": "Custom botanical illustration commission (watercolor/gouache panel)",
+    "Type": "Service",
+    "UnitPrice": "1200.00",
+    "IncomeAccountRef_value": "7",
+    "IncomeAccountRef_name": "Commission Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "2",
+    "Name": "Workshop Income",
+    "Description": "Botanical illustration workshop seat - quarterly session",
+    "Type": "Service",
+    "UnitPrice": "65.00",
+    "IncomeAccountRef_value": "9",
+    "IncomeAccountRef_name": "Workshop Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "3",
+    "Name": "Print Sales",
+    "Description": "Open-edition botanical print or boxed note-card set",
+    "Type": "NonInventory",
+    "UnitPrice": "45.00",
+    "IncomeAccountRef_value": "8",
+    "IncomeAccountRef_name": "Print Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "4",
+    "Name": "Wedding Botanical Print",
+    "Description": "Custom Oregon-natives wedding botanical print",
+    "Type": "Service",
+    "UnitPrice": "850.00",
+    "IncomeAccountRef_value": "7",
+    "IncomeAccountRef_name": "Commission Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "5",
+    "Name": "Gallery Commission Split",
+    "Description": "Net proceeds from gallery-represented sales",
+    "Type": "Service",
+    "UnitPrice": "600.00",
+    "IncomeAccountRef_value": "7",
+    "IncomeAccountRef_name": "Commission Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "6",
+    "Name": "New Patient Dermatology Visit",
+    "Description": "Comprehensive new-patient skin evaluation",
+    "Type": "Service",
+    "UnitPrice": "245.00",
+    "IncomeAccountRef_value": "4",
+    "IncomeAccountRef_name": "Patient Services Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "7",
+    "Name": "Skin Biopsy & Pathology",
+    "Description": "Shave or punch biopsy with pathology review",
+    "Type": "Service",
+    "UnitPrice": "185.00",
+    "IncomeAccountRef_value": "4",
+    "IncomeAccountRef_name": "Patient Services Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "8",
+    "Name": "Cosmetic Consultation",
+    "Description": "Self-pay cosmetic dermatology consultation",
+    "Type": "Service",
+    "UnitPrice": "150.00",
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Cosmetic Procedures Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "9",
+    "Name": "Chemical Peel",
+    "Description": "In-office chemical peel treatment",
+    "Type": "Service",
+    "UnitPrice": "220.00",
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Cosmetic Procedures Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "10",
+    "Name": "Medical-Grade Sunscreen",
+    "Description": "Broad-spectrum SPF 50 mineral sunscreen retail",
+    "Type": "NonInventory",
+    "UnitPrice": "38.00",
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Skincare Product Sales",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "11",
+    "Name": "Vitamin C Serum",
+    "Description": "Antioxidant vitamin C facial serum retail",
+    "Type": "NonInventory",
+    "UnitPrice": "72.00",
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Skincare Product Sales",
+    "Active": "true",
+    "Taxable": "true"
+  }
+]

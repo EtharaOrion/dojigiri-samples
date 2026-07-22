@@ -1,0 +1,16 @@
+id,doorbot_id,device_id,kind,created_at,answered,favorite,recording,snapshot_url,duration_seconds,cv_properties
+60000000,50000000,doorbell_front,motion,2025-12-21T06:13:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000000.jpg,72,person
+60000001,50000000,doorbell_front,ding,2025-12-20T17:44:00Z,True,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000001.jpg,62,person
+60000002,50000000,doorbell_front,motion,2025-12-19T13:21:00Z,False,True,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000002.jpg,41,package
+60000003,50000010,cam_backyard,motion,2025-12-18T15:08:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000003.jpg,33,person
+60000004,50000000,doorbell_front,ding,2025-12-17T12:53:00Z,True,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000004.jpg,61,person
+60000005,50000000,doorbell_front,motion,2025-12-16T10:17:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000005.jpg,29,package
+60000006,50000000,doorbell_front,ding,2025-12-14T18:31:00Z,True,True,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000006.jpg,55,person
+60000007,50000010,cam_backyard,motion,2025-12-13T07:42:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000007.jpg,18,person
+60000008,50000000,doorbell_front,motion,2025-12-11T14:55:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000008.jpg,44,package
+60000009,50000000,doorbell_front,ding,2025-12-09T19:08:00Z,True,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000009.jpg,73,person
+60000010,50000010,cam_backyard,motion,2025-11-30T22:14:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000010.jpg,26,person
+60000011,50000000,doorbell_front,ding,2025-11-26T15:21:00Z,True,True,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000011.jpg,68,person
+60000012,50000000,doorbell_front,motion,2025-11-21T12:34:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000012.jpg,37,package
+60000013,50000000,doorbell_front,ding,2025-11-17T20:02:00Z,True,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000013.jpg,82,person
+60000014,50000010,cam_backyard,motion,2025-11-10T11:18:00Z,False,False,"{""status"": ""ready""}",https://api.ring.com/snapshots/60000014.jpg,22,person

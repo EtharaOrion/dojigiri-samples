@@ -1,0 +1,506 @@
+[
+  {
+    "Id": "4001",
+    "TxnDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Check #1204 - boxed note-card sets"
+  },
+  {
+    "Id": "4002",
+    "TxnDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "ACH transfer - open-edition prints"
+  },
+  {
+    "Id": "4003",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay - member note cards"
+  },
+  {
+    "Id": "4004",
+    "TxnDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "9352",
+      "name": "Corvallis Fine Art Guild"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Card on file - open-edition print reorder"
+  },
+  {
+    "Id": "4005",
+    "TxnDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay - note-card restock"
+  },
+  {
+    "Id": "4006",
+    "TxnDate": "2026-03-08",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Multiple - See Batch Detail"
+    },
+    "TotalAmt": 5415.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 5415.0
+      }
+    ],
+    "PrivateNote": "Batch collection - wholesale prints, note-card sets, and Q1 workshop tuition. Mix of ACH, card, and check. All cleared by 3/12."
+  },
+  {
+    "Id": "4007",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "TotalAmt": 80.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 80.0
+      }
+    ],
+    "PrivateNote": "Card - gift-shop print sales"
+  },
+  {
+    "Id": "4008",
+    "TxnDate": "2026-03-19",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5008",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 60.0
+      }
+    ],
+    "PrivateNote": "Card - gift-shop print sales"
+  },
+  {
+    "Id": "4009",
+    "TxnDate": "2026-01-03",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Check #1218 - boxed note-card sets"
+  },
+  {
+    "Id": "4010",
+    "TxnDate": "2026-01-04",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "ACH transfer - open-edition prints"
+  },
+  {
+    "Id": "4011",
+    "TxnDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay - member note cards"
+  },
+  {
+    "Id": "4012",
+    "TxnDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "9328",
+      "name": "Sorensen, Marta"
+    },
+    "TotalAmt": 50.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 50.0
+      }
+    ],
+    "PrivateNote": "Partial deposit on western columbine commission. Balance due on final approval. Diane confirmed 1/9."
+  },
+  {
+    "Id": "4013",
+    "TxnDate": "2026-01-04",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay - note-card restock"
+  },
+  {
+    "Id": "4014",
+    "TxnDate": "2026-01-06",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2009",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "ACH transfer - open-edition print reorder"
+  },
+  {
+    "Id": "4015",
+    "TxnDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2010",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay - member note cards"
+  },
+  {
+    "Id": "4016",
+    "TxnDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Multiple - See Batch Detail"
+    },
+    "TotalAmt": 5035.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2011",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 5035.0
+      }
+    ],
+    "PrivateNote": "Batch collection - wholesale prints and note-card sets. All cleared by 1/14."
+  },
+  {
+    "Id": "4017",
+    "TxnDate": "2026-01-02",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "TotalAmt": 100.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2012",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 100.0
+      }
+    ],
+    "PrivateNote": "Card - gift-shop print sales"
+  },
+  {
+    "Id": "4018",
+    "TxnDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "9247",
+      "name": "St. Brendan Parish"
+    },
+    "TotalAmt": 1560.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2013",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 1560.0
+      }
+    ],
+    "PrivateNote": "Q1 botanical illustration workshop tuition - parish hall session. Cash + card collected at check-in."
+  },
+  {
+    "Id": "4019",
+    "TxnDate": "2026-01-16",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2014",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 60.0
+      }
+    ],
+    "PrivateNote": "Card - gift-shop print sales"
+  },
+  {
+    "Id": "16943",
+    "TxnDate": "2026-01-15",
+    "CustomerRef": {
+      "value": "9274",
+      "name": "Harper, Diane"
+    },
+    "TotalAmt": 4250.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "11274",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 4250.0
+      }
+    ],
+    "PrivateNote": "Progress payment on camas meadow panel series. Wire received."
+  },
+  {
+    "Id": "19319",
+    "TxnDate": "2026-01-15",
+    "CustomerRef": {
+      "value": "9286",
+      "name": "Nakamura, Lisa"
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "9715",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3800.0
+      }
+    ],
+    "PrivateNote": "Commission payment - penstemon and trillium studies."
+  },
+  {
+    "Id": "10815",
+    "TxnDate": "2026-03-15",
+    "CustomerRef": {
+      "value": "9310",
+      "name": "Fitzgerald, Owen"
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "17653",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3800.0
+      }
+    ],
+    "PrivateNote": "Commission payment - Douglas aster and bleeding heart panels."
+  },
+  {
+    "Id": "16473",
+    "TxnDate": "2026-12-15",
+    "CustomerRef": {
+      "value": "9328",
+      "name": "Sorensen, Marta"
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "10407",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3800.0
+      }
+    ],
+    "PrivateNote": "Progress billing - western columbine composition."
+  },
+  {
+    "Id": "15219",
+    "TxnDate": "2027-01-15",
+    "CustomerRef": {
+      "value": "9292",
+      "name": "Bennett, Claire"
+    },
+    "TotalAmt": 4250.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "10313",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 4250.0
+      }
+    ],
+    "PrivateNote": "Wedding botanical print series - final payment."
+  }
+]

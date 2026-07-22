@@ -1,0 +1,25 @@
+choices,field_id,field_type,form_id,order,ref,required,title,__api__,__table__,__file__,__row_index__
+"[""none""]",fld-cfcd208495,short_text,frm-cfcd208495,1,name,True,Your name,typeform-api,fields,/opt/mocks/typeform-api/fields.json,0
+"[""none""]",fld-c4ca4238a0,email,frm-cfcd208495,2,email,True,Work email,typeform-api,fields,/opt/mocks/typeform-api/fields.json,1
+"[""Engineering"", ""Design"", ""Operations"", ""Other""]",fld-c81e728d9d,multiple_choice,frm-cfcd208495,3,role,False,What's your role?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,2
+"[""none""]",fld-eccbc87e4b,rating,frm-cfcd208495,4,nps,True,How likely are you to recommend us?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,3
+"[""none""]",fld-d3d9446802,short_text,frm-c4ca4238a0,1,name,True,Your name,typeform-api,fields,/opt/mocks/typeform-api/fields.json,4
+"[""none""]",fld-6512bd43d9,email,frm-c4ca4238a0,2,email,True,Work email,typeform-api,fields,/opt/mocks/typeform-api/fields.json,5
+"[""Engineering"", ""Design"", ""Operations"", ""Other""]",fld-c20ad4d76f,multiple_choice,frm-c4ca4238a0,3,role,False,What's your role?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,6
+"[""none""]",fld-c51ce410c1,rating,frm-c4ca4238a0,4,nps,True,How likely are you to recommend us?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,7
+"[""none""]",fld-98f1370821,short_text,frm-c81e728d9d,1,name,True,Your name,typeform-api,fields,/opt/mocks/typeform-api/fields.json,8
+"[""none""]",fld-3c59dc048e,email,frm-c81e728d9d,2,email,True,Work email,typeform-api,fields,/opt/mocks/typeform-api/fields.json,9
+"[""Engineering"", ""Design"", ""Operations"", ""Other""]",fld-b6d767d2f8,multiple_choice,frm-c81e728d9d,3,role,False,What's your role?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,10
+"[""none""]",fld-37693cfc74,rating,frm-c81e728d9d,4,nps,True,How likely are you to recommend us?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,11
+"[""none""]",fld-34173cb38f,short_text,frm-eccbc87e4b,1,name,True,Your name,typeform-api,fields,/opt/mocks/typeform-api/fields.json,12
+"[""none""]",fld-c16a5320fa,email,frm-eccbc87e4b,2,email,True,Work email,typeform-api,fields,/opt/mocks/typeform-api/fields.json,13
+"[""Engineering"", ""Design"", ""Operations"", ""Other""]",fld-6364d3f0f4,multiple_choice,frm-eccbc87e4b,3,role,False,What's your role?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,14
+"[""none""]",fld-182be0c5cd,rating,frm-eccbc87e4b,4,nps,True,How likely are you to recommend us?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,15
+"[""none""]",fld-d645920e39,short_text,frm-a87ff679a2,1,name,True,Your name,typeform-api,fields,/opt/mocks/typeform-api/fields.json,16
+"[""none""]",fld-3416a75f4c,email,frm-a87ff679a2,2,email,True,Work email,typeform-api,fields,/opt/mocks/typeform-api/fields.json,17
+"[""Engineering"", ""Design"", ""Operations"", ""Other""]",fld-a1d0c6e83f,multiple_choice,frm-a87ff679a2,3,role,False,What's your role?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,18
+"[""none""]",fld-17e62166fc,rating,frm-a87ff679a2,4,nps,True,How likely are you to recommend us?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,19
+"[""none""]",fld-c0c7c76d30,short_text,frm-e4da3b7fbb,1,name,True,Your name,typeform-api,fields,/opt/mocks/typeform-api/fields.json,20
+"[""none""]",fld-2838023a77,email,frm-e4da3b7fbb,2,email,True,Work email,typeform-api,fields,/opt/mocks/typeform-api/fields.json,21
+"[""Engineering"", ""Design"", ""Operations"", ""Other""]",fld-9a1158154d,multiple_choice,frm-e4da3b7fbb,3,role,False,What's your role?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,22
+"[""none""]",fld-d82c8d1619,rating,frm-e4da3b7fbb,4,nps,True,How likely are you to recommend us?,typeform-api,fields,/opt/mocks/typeform-api/fields.json,23

@@ -1,0 +1,3 @@
+id,name,description,state,leadId,teamIds,startDate,targetDate,createdAt,updatedAt,__api__,__table__,__file__,__row_index__
+58e5iz2ahdq,Recipe blog full launch,"Get all twelve canonical dishes photographed, edited, and published for the March 1 launch.",started,user-cfcd215795,"[""vpf9j647cj8sa""]",2026-11-01,2027-03-01,2026-11-01T09:00:00Z,2027-01-01T00:00:00Z,linear-api,projects,/opt/mocks/linear-api/projects.json,0
+ey8tdcroxru907b,Blog landing and signup,Landing page copy and Calendly signup wiring for launch.,planned,user-cfcd215795,"[""team-platform;team-ops""]",2026-11-01,2027-02-15,2026-10-01T09:00:00Z,2027-01-01T00:00:00Z,linear-api,projects,/opt/mocks/linear-api/projects.json,1

@@ -1,0 +1,1082 @@
+[
+  {
+    "AccountId": "001Ax00000SECT07",
+    "Amount": "0",
+    "CloseDate": "2026-11-09T18:00:00+00:00",
+    "Id": "006Ax00000OPP501",
+    "Name": "TEDx Detroit alumni dinner \u2014 keynote slot",
+    "Probability": "60",
+    "StageName": "Verbal Commitment",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "0",
+    "CloseDate": "2026-10-22T17:00:00+00:00",
+    "Id": "006Ax00000OPP502",
+    "Name": "Celeste Abara \u2014 career arc check-in (Year 2)",
+    "Probability": "100",
+    "StageName": "Scheduled",
+    "Type": "Mentee Touchpoint"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "0",
+    "CloseDate": "2026-10-29T17:00:00+00:00",
+    "Id": "006Ax00000OPP503",
+    "Name": "Amara Osei \u2014 board-readiness coaching (Year 1)",
+    "Probability": "100",
+    "StageName": "Scheduled",
+    "Type": "Mentee Touchpoint"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "0",
+    "CloseDate": "2026-11-05T17:00:00+00:00",
+    "Id": "006Ax00000OPP504",
+    "Name": "Aisha Bello \u2014 Cleveland interim ED debrief (Year 3)",
+    "Probability": "80",
+    "StageName": "Scheduled",
+    "Type": "Mentee Touchpoint"
+  },
+  {
+    "AccountId": "001Ax00000SECT01",
+    "Amount": "0",
+    "CloseDate": "2026-12-03T16:00:00+00:00",
+    "Id": "006Ax00000OPP505",
+    "Name": "Mosaic Youth Theatre \u2014 co-programming exploration",
+    "Probability": "40",
+    "StageName": "Exploratory Meeting",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT02",
+    "Amount": "0",
+    "CloseDate": "2026-10-14T15:00:00+00:00",
+    "Id": "006Ax00000OPP506",
+    "Name": "Sphinx Organization \u2014 string instructor pipeline conversation",
+    "Probability": "55",
+    "StageName": "Cultivation",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT05",
+    "Amount": "0",
+    "CloseDate": "2026-11-19T19:00:00+00:00",
+    "Id": "006Ax00000OPP507",
+    "Name": "Inner-City Arts \u2014 peer site visit (LA)",
+    "Probability": "30",
+    "StageName": "Exploratory",
+    "Type": "Site Visit"
+  },
+  {
+    "AccountId": "001Ax00000SECT06",
+    "Amount": "0",
+    "CloseDate": "2026-12-10T16:00:00+00:00",
+    "Id": "006Ax00000OPP508",
+    "Name": "Westfield Sociology \u2014 guest lecture (Dr. Asante invite)",
+    "Probability": "75",
+    "StageName": "Verbal Commitment",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT08",
+    "Amount": "0",
+    "CloseDate": "2026-11-04T14:00:00+00:00",
+    "Id": "006Ax00000OPP509",
+    "Name": "Americans for the Arts \u2014 Detroit case study contribution",
+    "Probability": "65",
+    "StageName": "Drafting",
+    "Type": "Sector Visibility"
+  },
+  {
+    "AccountId": "001Ax00000SECT12",
+    "Amount": "0",
+    "CloseDate": "2026-10-21T15:30:00+00:00",
+    "Id": "006Ax00000OPP510",
+    "Name": "National League of Arts \u2014 panel chair, 2027 convening",
+    "Probability": "45",
+    "StageName": "Cultivation",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT04",
+    "Amount": "0",
+    "CloseDate": "2026-11-12T18:00:00+00:00",
+    "Id": "006Ax00000OPP511",
+    "Name": "Midtown Arts Collective \u2014 joint mural project at Livernois",
+    "Probability": "70",
+    "StageName": "Drafting MOU",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT09",
+    "Amount": "0",
+    "CloseDate": "2026-12-17T16:00:00+00:00",
+    "Id": "006Ax00000OPP512",
+    "Name": "ArtForce Detroit \u2014 teaching artist exchange",
+    "Probability": "50",
+    "StageName": "Exploratory",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT13",
+    "Amount": "0",
+    "CloseDate": "2026-10-28T17:00:00+00:00",
+    "Id": "006Ax00000OPP513",
+    "Name": "Detroit Symphony Orchestra Civic \u2014 shared violin pipeline",
+    "Probability": "60",
+    "StageName": "Cultivation",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT14",
+    "Amount": "0",
+    "CloseDate": "2026-11-25T15:00:00+00:00",
+    "Id": "006Ax00000OPP514",
+    "Name": "Allied Media Projects \u2014 digital-storytelling residency",
+    "Probability": "35",
+    "StageName": "Exploratory",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT16",
+    "Amount": "0",
+    "CloseDate": "2026-12-08T14:00:00+00:00",
+    "Id": "006Ax00000OPP515",
+    "Name": "Groundswell (Brooklyn) \u2014 cross-city muralist exchange",
+    "Probability": "25",
+    "StageName": "Exploratory",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT21",
+    "Amount": "0",
+    "CloseDate": "2026-11-18T16:00:00+00:00",
+    "Id": "006Ax00000OPP516",
+    "Name": "Cleveland Youth Arts Collective \u2014 Aisha Bello transition support",
+    "Probability": "80",
+    "StageName": "In Progress",
+    "Type": "Mentee Touchpoint"
+  },
+  {
+    "AccountId": "001Ax00000SECT22",
+    "Amount": "0",
+    "CloseDate": "2026-12-02T15:00:00+00:00",
+    "Id": "006Ax00000OPP517",
+    "Name": "Pittsburgh Creative Youth Network \u2014 Rust Belt cohort",
+    "Probability": "40",
+    "StageName": "Cultivation",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT11",
+    "Amount": "0",
+    "CloseDate": "2026-10-31T15:00:00+00:00",
+    "Id": "006Ax00000OPP518",
+    "Name": "Detroit Creative Corridor \u2014 workforce-dev framing co-write",
+    "Probability": "55",
+    "StageName": "Drafting",
+    "Type": "Sector Visibility"
+  },
+  {
+    "AccountId": "001Ax00000SECT18",
+    "Amount": "0",
+    "CloseDate": "2026-11-21T17:00:00+00:00",
+    "Id": "006Ax00000OPP519",
+    "Name": "ProsperUS Detroit \u2014 small-business / teaching-artist crossover",
+    "Probability": "30",
+    "StageName": "Exploratory",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT15",
+    "Amount": "0",
+    "CloseDate": "2026-12-15T16:30:00+00:00",
+    "Id": "006Ax00000OPP520",
+    "Name": "Detroit Future City \u2014 west-side strategy roundtable seat",
+    "Probability": "65",
+    "StageName": "Verbal Commitment",
+    "Type": "Sector Visibility"
+  },
+  {
+    "AccountId": "001Ax00000SECT07",
+    "Amount": "0",
+    "CloseDate": "2026-10-15T13:00:00+00:00",
+    "Id": "006Ax00000OPP521",
+    "Name": "TEDx Detroit alumni dinner \u2014 table host for mentees",
+    "Probability": "100",
+    "StageName": "Scheduled",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT10",
+    "Amount": "0",
+    "CloseDate": "2026-11-26T17:00:00+00:00",
+    "Id": "006Ax00000OPP522",
+    "Name": "Mexicantown CDC \u2014 Elena Santos community connection (light touch)",
+    "Probability": "50",
+    "StageName": "Exploratory",
+    "Type": "Sector Collaboration"
+  },
+  {
+    "AccountId": "001Ax00000SECT01",
+    "Amount": "0",
+    "CloseDate": "2026-03-01T00:00:00+00:00",
+    "Id": "006Ax00000OPP523",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #0",
+    "Probability": "25",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT02",
+    "Amount": "1000",
+    "CloseDate": "2026-03-03T00:00:00+00:00",
+    "Id": "006Ax00000OPP524",
+    "Name": "NLA Chicago panel \u2014 Mentorship #1",
+    "Probability": "50",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT03",
+    "Amount": "2000",
+    "CloseDate": "2026-03-05T00:00:00+00:00",
+    "Id": "006Ax00000OPP525",
+    "Name": "Kresge convening \u2014 Sector Partnership #2",
+    "Probability": "60",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT04",
+    "Amount": "3000",
+    "CloseDate": "2026-03-07T00:00:00+00:00",
+    "Id": "006Ax00000OPP526",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #3",
+    "Probability": "75",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT05",
+    "Amount": "4000",
+    "CloseDate": "2026-03-09T00:00:00+00:00",
+    "Id": "006Ax00000OPP527",
+    "Name": "Youth development summit \u2014 Advisory Role #4",
+    "Probability": "90",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT06",
+    "Amount": "0",
+    "CloseDate": "2026-03-11T00:00:00+00:00",
+    "Id": "006Ax00000OPP528",
+    "Name": "Placemaking forum \u2014 Keynote #5",
+    "Probability": "25",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT07",
+    "Amount": "1000",
+    "CloseDate": "2026-03-13T00:00:00+00:00",
+    "Id": "006Ax00000OPP529",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #6",
+    "Probability": "50",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT08",
+    "Amount": "2000",
+    "CloseDate": "2026-03-15T00:00:00+00:00",
+    "Id": "006Ax00000OPP530",
+    "Name": "Michigan arts council session \u2014 Conference #7",
+    "Probability": "60",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT09",
+    "Amount": "3000",
+    "CloseDate": "2026-03-17T00:00:00+00:00",
+    "Id": "006Ax00000OPP531",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #8",
+    "Probability": "75",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT10",
+    "Amount": "4000",
+    "CloseDate": "2026-03-19T00:00:00+00:00",
+    "Id": "006Ax00000OPP532",
+    "Name": "NLA Chicago panel \u2014 Mentorship #9",
+    "Probability": "90",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT11",
+    "Amount": "0",
+    "CloseDate": "2026-03-21T00:00:00+00:00",
+    "Id": "006Ax00000OPP533",
+    "Name": "Kresge convening \u2014 Sector Partnership #10",
+    "Probability": "25",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT12",
+    "Amount": "1000",
+    "CloseDate": "2026-03-23T00:00:00+00:00",
+    "Id": "006Ax00000OPP534",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #11",
+    "Probability": "50",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT13",
+    "Amount": "2000",
+    "CloseDate": "2026-03-25T00:00:00+00:00",
+    "Id": "006Ax00000OPP535",
+    "Name": "Youth development summit \u2014 Advisory Role #12",
+    "Probability": "60",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT14",
+    "Amount": "3000",
+    "CloseDate": "2026-03-27T00:00:00+00:00",
+    "Id": "006Ax00000OPP536",
+    "Name": "Placemaking forum \u2014 Keynote #13",
+    "Probability": "75",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT15",
+    "Amount": "4000",
+    "CloseDate": "2026-03-29T00:00:00+00:00",
+    "Id": "006Ax00000OPP537",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #14",
+    "Probability": "90",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT16",
+    "Amount": "0",
+    "CloseDate": "2026-03-31T00:00:00+00:00",
+    "Id": "006Ax00000OPP538",
+    "Name": "Michigan arts council session \u2014 Conference #15",
+    "Probability": "25",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT17",
+    "Amount": "1000",
+    "CloseDate": "2026-04-02T00:00:00+00:00",
+    "Id": "006Ax00000OPP539",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #16",
+    "Probability": "50",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT18",
+    "Amount": "2000",
+    "CloseDate": "2026-04-04T00:00:00+00:00",
+    "Id": "006Ax00000OPP540",
+    "Name": "NLA Chicago panel \u2014 Mentorship #17",
+    "Probability": "60",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "3000",
+    "CloseDate": "2026-04-06T00:00:00+00:00",
+    "Id": "006Ax00000OPP541",
+    "Name": "Kresge convening \u2014 Sector Partnership #18",
+    "Probability": "75",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT20",
+    "Amount": "4000",
+    "CloseDate": "2026-04-08T00:00:00+00:00",
+    "Id": "006Ax00000OPP542",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #19",
+    "Probability": "90",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT21",
+    "Amount": "0",
+    "CloseDate": "2026-04-10T00:00:00+00:00",
+    "Id": "006Ax00000OPP543",
+    "Name": "Youth development summit \u2014 Advisory Role #20",
+    "Probability": "25",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT22",
+    "Amount": "1000",
+    "CloseDate": "2026-04-12T00:00:00+00:00",
+    "Id": "006Ax00000OPP544",
+    "Name": "Placemaking forum \u2014 Keynote #21",
+    "Probability": "50",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT01",
+    "Amount": "2000",
+    "CloseDate": "2026-04-14T00:00:00+00:00",
+    "Id": "006Ax00000OPP545",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #22",
+    "Probability": "60",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT02",
+    "Amount": "3000",
+    "CloseDate": "2026-04-16T00:00:00+00:00",
+    "Id": "006Ax00000OPP546",
+    "Name": "Michigan arts council session \u2014 Conference #23",
+    "Probability": "75",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT03",
+    "Amount": "4000",
+    "CloseDate": "2026-04-18T00:00:00+00:00",
+    "Id": "006Ax00000OPP547",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #24",
+    "Probability": "90",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT04",
+    "Amount": "0",
+    "CloseDate": "2026-04-20T00:00:00+00:00",
+    "Id": "006Ax00000OPP548",
+    "Name": "NLA Chicago panel \u2014 Mentorship #25",
+    "Probability": "25",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT05",
+    "Amount": "1000",
+    "CloseDate": "2026-04-22T00:00:00+00:00",
+    "Id": "006Ax00000OPP549",
+    "Name": "Kresge convening \u2014 Sector Partnership #26",
+    "Probability": "50",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT06",
+    "Amount": "2000",
+    "CloseDate": "2026-04-24T00:00:00+00:00",
+    "Id": "006Ax00000OPP550",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #27",
+    "Probability": "60",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT07",
+    "Amount": "3000",
+    "CloseDate": "2026-04-26T00:00:00+00:00",
+    "Id": "006Ax00000OPP551",
+    "Name": "Youth development summit \u2014 Advisory Role #28",
+    "Probability": "75",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT08",
+    "Amount": "4000",
+    "CloseDate": "2026-04-28T00:00:00+00:00",
+    "Id": "006Ax00000OPP552",
+    "Name": "Placemaking forum \u2014 Keynote #29",
+    "Probability": "90",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT09",
+    "Amount": "0",
+    "CloseDate": "2026-04-30T00:00:00+00:00",
+    "Id": "006Ax00000OPP553",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #30",
+    "Probability": "25",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT10",
+    "Amount": "1000",
+    "CloseDate": "2026-05-02T00:00:00+00:00",
+    "Id": "006Ax00000OPP554",
+    "Name": "Michigan arts council session \u2014 Conference #31",
+    "Probability": "50",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT11",
+    "Amount": "2000",
+    "CloseDate": "2026-05-04T00:00:00+00:00",
+    "Id": "006Ax00000OPP555",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #32",
+    "Probability": "60",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT12",
+    "Amount": "3000",
+    "CloseDate": "2026-05-06T00:00:00+00:00",
+    "Id": "006Ax00000OPP556",
+    "Name": "NLA Chicago panel \u2014 Mentorship #33",
+    "Probability": "75",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT13",
+    "Amount": "4000",
+    "CloseDate": "2026-05-08T00:00:00+00:00",
+    "Id": "006Ax00000OPP557",
+    "Name": "Kresge convening \u2014 Sector Partnership #34",
+    "Probability": "90",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT14",
+    "Amount": "0",
+    "CloseDate": "2026-05-10T00:00:00+00:00",
+    "Id": "006Ax00000OPP558",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #35",
+    "Probability": "25",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT15",
+    "Amount": "1000",
+    "CloseDate": "2026-05-12T00:00:00+00:00",
+    "Id": "006Ax00000OPP559",
+    "Name": "Youth development summit \u2014 Advisory Role #36",
+    "Probability": "50",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT16",
+    "Amount": "2000",
+    "CloseDate": "2026-05-14T00:00:00+00:00",
+    "Id": "006Ax00000OPP560",
+    "Name": "Placemaking forum \u2014 Keynote #37",
+    "Probability": "60",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT17",
+    "Amount": "3000",
+    "CloseDate": "2026-05-16T00:00:00+00:00",
+    "Id": "006Ax00000OPP561",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #38",
+    "Probability": "75",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT18",
+    "Amount": "4000",
+    "CloseDate": "2026-05-18T00:00:00+00:00",
+    "Id": "006Ax00000OPP562",
+    "Name": "Michigan arts council session \u2014 Conference #39",
+    "Probability": "90",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "0",
+    "CloseDate": "2026-05-20T00:00:00+00:00",
+    "Id": "006Ax00000OPP563",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #40",
+    "Probability": "25",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT20",
+    "Amount": "1000",
+    "CloseDate": "2026-05-22T00:00:00+00:00",
+    "Id": "006Ax00000OPP564",
+    "Name": "NLA Chicago panel \u2014 Mentorship #41",
+    "Probability": "50",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT21",
+    "Amount": "2000",
+    "CloseDate": "2026-05-24T00:00:00+00:00",
+    "Id": "006Ax00000OPP565",
+    "Name": "Kresge convening \u2014 Sector Partnership #42",
+    "Probability": "60",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT22",
+    "Amount": "3000",
+    "CloseDate": "2026-05-26T00:00:00+00:00",
+    "Id": "006Ax00000OPP566",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #43",
+    "Probability": "75",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT01",
+    "Amount": "4000",
+    "CloseDate": "2026-05-28T00:00:00+00:00",
+    "Id": "006Ax00000OPP567",
+    "Name": "Youth development summit \u2014 Advisory Role #44",
+    "Probability": "90",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT02",
+    "Amount": "0",
+    "CloseDate": "2026-05-30T00:00:00+00:00",
+    "Id": "006Ax00000OPP568",
+    "Name": "Placemaking forum \u2014 Keynote #45",
+    "Probability": "25",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT03",
+    "Amount": "1000",
+    "CloseDate": "2026-06-01T00:00:00+00:00",
+    "Id": "006Ax00000OPP569",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #46",
+    "Probability": "50",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT04",
+    "Amount": "2000",
+    "CloseDate": "2026-06-03T00:00:00+00:00",
+    "Id": "006Ax00000OPP570",
+    "Name": "Michigan arts council session \u2014 Conference #47",
+    "Probability": "60",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT05",
+    "Amount": "3000",
+    "CloseDate": "2026-06-05T00:00:00+00:00",
+    "Id": "006Ax00000OPP571",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #48",
+    "Probability": "75",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT06",
+    "Amount": "4000",
+    "CloseDate": "2026-06-07T00:00:00+00:00",
+    "Id": "006Ax00000OPP572",
+    "Name": "NLA Chicago panel \u2014 Mentorship #49",
+    "Probability": "90",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT07",
+    "Amount": "0",
+    "CloseDate": "2026-06-09T00:00:00+00:00",
+    "Id": "006Ax00000OPP573",
+    "Name": "Kresge convening \u2014 Sector Partnership #50",
+    "Probability": "25",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT08",
+    "Amount": "1000",
+    "CloseDate": "2026-06-11T00:00:00+00:00",
+    "Id": "006Ax00000OPP574",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #51",
+    "Probability": "50",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT09",
+    "Amount": "2000",
+    "CloseDate": "2026-06-13T00:00:00+00:00",
+    "Id": "006Ax00000OPP575",
+    "Name": "Youth development summit \u2014 Advisory Role #52",
+    "Probability": "60",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT10",
+    "Amount": "3000",
+    "CloseDate": "2026-06-15T00:00:00+00:00",
+    "Id": "006Ax00000OPP576",
+    "Name": "Placemaking forum \u2014 Keynote #53",
+    "Probability": "75",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT11",
+    "Amount": "4000",
+    "CloseDate": "2026-06-17T00:00:00+00:00",
+    "Id": "006Ax00000OPP577",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #54",
+    "Probability": "90",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT12",
+    "Amount": "0",
+    "CloseDate": "2026-06-19T00:00:00+00:00",
+    "Id": "006Ax00000OPP578",
+    "Name": "Michigan arts council session \u2014 Conference #55",
+    "Probability": "25",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT13",
+    "Amount": "1000",
+    "CloseDate": "2026-06-21T00:00:00+00:00",
+    "Id": "006Ax00000OPP579",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #56",
+    "Probability": "50",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT14",
+    "Amount": "2000",
+    "CloseDate": "2026-06-23T00:00:00+00:00",
+    "Id": "006Ax00000OPP580",
+    "Name": "NLA Chicago panel \u2014 Mentorship #57",
+    "Probability": "60",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT15",
+    "Amount": "3000",
+    "CloseDate": "2026-06-25T00:00:00+00:00",
+    "Id": "006Ax00000OPP581",
+    "Name": "Kresge convening \u2014 Sector Partnership #58",
+    "Probability": "75",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT16",
+    "Amount": "4000",
+    "CloseDate": "2026-06-27T00:00:00+00:00",
+    "Id": "006Ax00000OPP582",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #59",
+    "Probability": "90",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT17",
+    "Amount": "0",
+    "CloseDate": "2026-06-29T00:00:00+00:00",
+    "Id": "006Ax00000OPP583",
+    "Name": "Youth development summit \u2014 Advisory Role #60",
+    "Probability": "25",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT18",
+    "Amount": "1000",
+    "CloseDate": "2026-07-01T00:00:00+00:00",
+    "Id": "006Ax00000OPP584",
+    "Name": "Placemaking forum \u2014 Keynote #61",
+    "Probability": "50",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "2000",
+    "CloseDate": "2026-07-03T00:00:00+00:00",
+    "Id": "006Ax00000OPP585",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #62",
+    "Probability": "60",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT20",
+    "Amount": "3000",
+    "CloseDate": "2026-07-05T00:00:00+00:00",
+    "Id": "006Ax00000OPP586",
+    "Name": "Michigan arts council session \u2014 Conference #63",
+    "Probability": "75",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT21",
+    "Amount": "4000",
+    "CloseDate": "2026-07-07T00:00:00+00:00",
+    "Id": "006Ax00000OPP587",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #64",
+    "Probability": "90",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT22",
+    "Amount": "0",
+    "CloseDate": "2026-07-09T00:00:00+00:00",
+    "Id": "006Ax00000OPP588",
+    "Name": "NLA Chicago panel \u2014 Mentorship #65",
+    "Probability": "25",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT01",
+    "Amount": "1000",
+    "CloseDate": "2026-07-11T00:00:00+00:00",
+    "Id": "006Ax00000OPP589",
+    "Name": "Kresge convening \u2014 Sector Partnership #66",
+    "Probability": "50",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT02",
+    "Amount": "2000",
+    "CloseDate": "2026-07-13T00:00:00+00:00",
+    "Id": "006Ax00000OPP590",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #67",
+    "Probability": "60",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT03",
+    "Amount": "3000",
+    "CloseDate": "2026-07-15T00:00:00+00:00",
+    "Id": "006Ax00000OPP591",
+    "Name": "Youth development summit \u2014 Advisory Role #68",
+    "Probability": "75",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT04",
+    "Amount": "4000",
+    "CloseDate": "2026-07-17T00:00:00+00:00",
+    "Id": "006Ax00000OPP592",
+    "Name": "Placemaking forum \u2014 Keynote #69",
+    "Probability": "90",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT05",
+    "Amount": "0",
+    "CloseDate": "2026-07-19T00:00:00+00:00",
+    "Id": "006Ax00000OPP593",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #70",
+    "Probability": "25",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT06",
+    "Amount": "1000",
+    "CloseDate": "2026-07-21T00:00:00+00:00",
+    "Id": "006Ax00000OPP594",
+    "Name": "Michigan arts council session \u2014 Conference #71",
+    "Probability": "50",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT07",
+    "Amount": "2000",
+    "CloseDate": "2026-07-23T00:00:00+00:00",
+    "Id": "006Ax00000OPP595",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #72",
+    "Probability": "60",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT08",
+    "Amount": "3000",
+    "CloseDate": "2026-07-25T00:00:00+00:00",
+    "Id": "006Ax00000OPP596",
+    "Name": "NLA Chicago panel \u2014 Mentorship #73",
+    "Probability": "75",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT09",
+    "Amount": "4000",
+    "CloseDate": "2026-07-27T00:00:00+00:00",
+    "Id": "006Ax00000OPP597",
+    "Name": "Kresge convening \u2014 Sector Partnership #74",
+    "Probability": "90",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT10",
+    "Amount": "0",
+    "CloseDate": "2026-07-29T00:00:00+00:00",
+    "Id": "006Ax00000OPP598",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #75",
+    "Probability": "25",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT11",
+    "Amount": "1000",
+    "CloseDate": "2026-07-31T00:00:00+00:00",
+    "Id": "006Ax00000OPP599",
+    "Name": "Youth development summit \u2014 Advisory Role #76",
+    "Probability": "50",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT12",
+    "Amount": "2000",
+    "CloseDate": "2026-08-02T00:00:00+00:00",
+    "Id": "006Ax00000OPP600",
+    "Name": "Placemaking forum \u2014 Keynote #77",
+    "Probability": "60",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  },
+  {
+    "AccountId": "001Ax00000SECT13",
+    "Amount": "3000",
+    "CloseDate": "2026-08-04T00:00:00+00:00",
+    "Id": "006Ax00000OPP601",
+    "Name": "Nonprofit leaders cohort \u2014 Working Group #78",
+    "Probability": "75",
+    "StageName": "Negotiation",
+    "Type": "Working Group"
+  },
+  {
+    "AccountId": "001Ax00000SECT14",
+    "Amount": "4000",
+    "CloseDate": "2026-08-06T00:00:00+00:00",
+    "Id": "006Ax00000OPP602",
+    "Name": "Michigan arts council session \u2014 Conference #79",
+    "Probability": "90",
+    "StageName": "Closed Won",
+    "Type": "Conference"
+  },
+  {
+    "AccountId": "001Ax00000SECT15",
+    "Amount": "0",
+    "CloseDate": "2026-08-08T00:00:00+00:00",
+    "Id": "006Ax00000OPP603",
+    "Name": "TEDx Detroit alumni \u2014 Speaking Engagement #80",
+    "Probability": "25",
+    "StageName": "Prospecting",
+    "Type": "Speaking Engagement"
+  },
+  {
+    "AccountId": "001Ax00000SECT16",
+    "Amount": "1000",
+    "CloseDate": "2026-08-10T00:00:00+00:00",
+    "Id": "006Ax00000OPP604",
+    "Name": "NLA Chicago panel \u2014 Mentorship #81",
+    "Probability": "50",
+    "StageName": "Verbal Commitment",
+    "Type": "Mentorship"
+  },
+  {
+    "AccountId": "001Ax00000SECT17",
+    "Amount": "2000",
+    "CloseDate": "2026-08-12T00:00:00+00:00",
+    "Id": "006Ax00000OPP605",
+    "Name": "Kresge convening \u2014 Sector Partnership #82",
+    "Probability": "60",
+    "StageName": "Negotiation",
+    "Type": "Sector Partnership"
+  },
+  {
+    "AccountId": "001Ax00000SECT18",
+    "Amount": "3000",
+    "CloseDate": "2026-08-14T00:00:00+00:00",
+    "Id": "006Ax00000OPP606",
+    "Name": "Detroit arts-ed roundtable \u2014 Panel Invitation #83",
+    "Probability": "75",
+    "StageName": "Closed Won",
+    "Type": "Panel Invitation"
+  },
+  {
+    "AccountId": "001Ax00000SECT19",
+    "Amount": "4000",
+    "CloseDate": "2026-08-16T00:00:00+00:00",
+    "Id": "006Ax00000OPP607",
+    "Name": "Youth development summit \u2014 Advisory Role #84",
+    "Probability": "90",
+    "StageName": "Prospecting",
+    "Type": "Advisory Role"
+  },
+  {
+    "AccountId": "001Ax00000SECT20",
+    "Amount": "0",
+    "CloseDate": "2026-08-18T00:00:00+00:00",
+    "Id": "006Ax00000OPP608",
+    "Name": "Placemaking forum \u2014 Keynote #85",
+    "Probability": "25",
+    "StageName": "Verbal Commitment",
+    "Type": "Keynote"
+  }
+]

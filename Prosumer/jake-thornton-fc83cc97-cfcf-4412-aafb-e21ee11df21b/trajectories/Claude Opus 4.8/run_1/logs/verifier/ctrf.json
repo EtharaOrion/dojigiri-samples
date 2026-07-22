@@ -1,0 +1,103 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 17,
+      "passed": 6,
+      "failed": 11,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_airtable_records_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_calendly_live_roster_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_docusign_waiver_status_checked",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gmail_drafts_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_google_calendar_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_instacart_cart_staged",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_mailchimp_audience_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_booking_moved",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_docusign_waivers_fired",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_gmail_unsolicited_send",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_instacart_order_placed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_openweather_forecast_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_plaid_accounts_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_quickbooks_class_income_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_stripe_balance_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_touched_distractor_services",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_trello_planning_card_read",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

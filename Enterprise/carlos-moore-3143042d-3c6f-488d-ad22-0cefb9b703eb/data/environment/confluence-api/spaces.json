@@ -1,0 +1,34 @@
+[
+  {
+    "description": "HR and company-wide working space for Bellmark Industries",
+    "id": "1001",
+    "key": "BELLM",
+    "name": "Bellmark Industries",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Cross-functional operations and payroll docs",
+    "id": "1002",
+    "key": "OPS",
+    "name": "Operations",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Human Resources team space",
+    "id": "1003",
+    "key": "HR",
+    "name": "Human Resources",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Personal notes and drafts",
+    "id": "1004",
+    "key": "~carlos-moo",
+    "name": "Carlos Moore – personal",
+    "status": "current",
+    "type": "personal"
+  }
+]

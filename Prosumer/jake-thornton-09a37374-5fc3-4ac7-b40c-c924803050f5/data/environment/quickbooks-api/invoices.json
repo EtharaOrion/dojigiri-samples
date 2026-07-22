@@ -1,0 +1,3767 @@
+[
+  {
+    "Id": "5001",
+    "DocNumber": "INV-2026-0301",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Abrams, Derek"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "INV-2026-0302",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Alvarez, Sofia"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "INV-2026-0303",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Chen, William"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5004",
+    "DocNumber": "INV-2026-0304",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Matsuda, Yuki"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5005",
+    "DocNumber": "INV-2026-0305",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Hayashi, Kenji"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5006",
+    "DocNumber": "BATCH-2026-03",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-10",
+    "PrivateNote": "Batch invoice for remaining 57 members not individually listed. All paid by 3/12.",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Multiple - See Batch Detail"
+    },
+    "Line": [
+      {
+        "Amount": 390.0,
+        "Description": "Venue cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 390.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5007",
+    "DocNumber": "INV-2026-0306",
+    "TxnDate": "2026-03-05",
+    "DueDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Drop-in Sessions (Walk-ins)"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Drop-in Fees"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-05T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-05T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5008",
+    "DocNumber": "INV-2026-0307",
+    "TxnDate": "2026-03-19",
+    "DueDate": "2026-03-19",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Drop-in Sessions (Walk-ins)"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Drop-in Fees"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-03-19T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-19T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2001",
+    "DocNumber": "INV-2026-0401",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Abrams, Derek"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2002",
+    "DocNumber": "INV-2026-0402",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Alvarez, Sofia"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2003",
+    "DocNumber": "INV-2026-0403",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Callahan, Nate"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 450.0,
+    "Status": "Overdue",
+    "PrivateNote": "Emailed 4/12, no response. Try again before May billing.",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2004",
+    "DocNumber": "INV-2026-0404",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Chen, William"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2005",
+    "DocNumber": "INV-2026-0405",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Eriksson, Lars"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Partial",
+    "PrivateNote": "Lars paid $50 on 4/8 - said remaining $45 coming with May payment. OK per Aaron 4/9.",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2006",
+    "DocNumber": "INV-2026-0406",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Hayashi, Kenji"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2007",
+    "DocNumber": "INV-2026-0407",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Matsuda, Yuki"
+    },
+    "Line": [
+      {
+        "Amount": 260.0,
+        "Description": "Venue cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 260.0,
+    "Balance": 260.0,
+    "Status": "Overdue",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2008",
+    "DocNumber": "INV-2026-0408",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Matsuda, Yuki"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 525.0,
+    "Status": "Overdue",
+    "PrivateNote": "System generated duplicate - needs void. See INV-2026-0407.",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2009",
+    "DocNumber": "INV-2026-0409",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "31",
+      "name": "Morrison, Tyler"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2010",
+    "DocNumber": "INV-2026-0410",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "42",
+      "name": "Rivera, Marco"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2011",
+    "DocNumber": "BATCH-2026-04",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-10",
+    "PrivateNote": "Batch invoice for remaining 53 members not individually listed. All paid by 4/14 except noted above.",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Multiple - See Batch Detail"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2012",
+    "DocNumber": "INV-2026-0411",
+    "TxnDate": "2026-10-02",
+    "DueDate": "2026-10-02",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Drop-in Sessions (Walk-ins)"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Drop-in Fees"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-02T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-02T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2013",
+    "DocNumber": "INV-2026-0412",
+    "TxnDate": "2026-10-05",
+    "DueDate": "2026-10-12",
+    "CustomerRef": {
+      "value": "63",
+      "name": "Spring Tournament 2026 - Registrations"
+    },
+    "Line": [
+      {
+        "Amount": 262.5,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Tournament Revenue"
+          }
+        }
+      },
+      {
+        "Amount": 262.5,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Tournament Revenue"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Spring Tournament Apr 5. Smaller than fall - local clubs only.",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-05T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-05T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "2014",
+    "DocNumber": "INV-2026-0413",
+    "TxnDate": "2026-10-16",
+    "DueDate": "2026-10-16",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Drop-in Sessions (Walk-ins)"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Drop-in Fees"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-16T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-16T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "1201",
+    "DocNumber": "ISC-2024-009",
+    "TxnDate": "2024-10-10",
+    "DueDate": "2024-10-20",
+    "CustomerRef": {
+      "value": "203",
+      "name": "Marcus Webb"
+    },
+    "TotalAmt": 260.0,
+    "Balance": 260.0,
+    "Line": [
+      {
+        "Description": "Venue cooking class seat x4",
+        "Amount": 52.0
+      },
+      {
+        "Description": "Venue cooking class seat x4",
+        "Amount": 52.0
+      },
+      {
+        "Description": "Venue cooking class seat x4",
+        "Amount": 52.0
+      },
+      {
+        "Description": "Venue cooking class seat x4",
+        "Amount": 52.0
+      },
+      {
+        "Description": "Venue cooking class seat x4",
+        "Amount": 52.0
+      }
+    ],
+    "EmailStatus": "Sent",
+    "BillEmail": {
+      "Address": "mwebb@dekalbfarmersmarket.com"
+    },
+    "MetaData": {
+      "CreateTime": "2024-10-10T10:00:00"
+    },
+    "Status": "Unpaid",
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "1401",
+    "DocNumber": "BAR-1101",
+    "TxnDate": "2025-10-18",
+    "DueDate": "2025-10-18",
+    "CustomerRef": {
+      "value": "301",
+      "name": "Bar Walk-In"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 150.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "401",
+            "name": "Buffalo Trace"
+          },
+          "UnitPrice": 18.0,
+          "Qty": 3
+        }
+      },
+      {
+        "Amount": 150.0,
+        "DetailType": "SubTotalLineDetail",
+        "SubTotalLineDetail": {},
+        "Description": "Home cooking class seat x4"
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "PrintStatus": "NotSet",
+    "EmailStatus": "NotSet",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2025-10-18T20:15:00-04:00",
+      "LastUpdatedTime": "2025-10-18T20:15:00-04:00"
+    },
+    "SyncToken": "1",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "1402",
+    "DocNumber": "BAR-1102",
+    "TxnDate": "2025-10-18",
+    "DueDate": "2025-10-18",
+    "CustomerRef": {
+      "value": "301",
+      "name": "Bar Walk-In"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 227.5,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "402",
+            "name": "Maker's Mark"
+          },
+          "UnitPrice": 18.0,
+          "Qty": 2
+        }
+      },
+      {
+        "Amount": 227.5,
+        "DetailType": "SubTotalLineDetail",
+        "SubTotalLineDetail": {},
+        "Description": "Venue cooking class seat x7"
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "PrintStatus": "NotSet",
+    "EmailStatus": "NotSet",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2025-10-18T21:05:00-04:00",
+      "LastUpdatedTime": "2025-10-18T21:05:00-04:00"
+    },
+    "SyncToken": "1",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "1403",
+    "DocNumber": "BAR-1103",
+    "TxnDate": "2025-10-19",
+    "DueDate": "2025-10-19",
+    "CustomerRef": {
+      "value": "301",
+      "name": "Bar Walk-In"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 150.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "405",
+            "name": "Olmeca Silver Tequila"
+          },
+          "UnitPrice": 22.0,
+          "Qty": 2
+        }
+      },
+      {
+        "Amount": 150.0,
+        "DetailType": "SubTotalLineDetail",
+        "SubTotalLineDetail": {},
+        "Description": "Home cooking class seat x4"
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "PrintStatus": "NotSet",
+    "EmailStatus": "NotSet",
+    "Status": "Paid",
+    "MetaData": {
+      "CreateTime": "2025-10-19T19:45:00-04:00",
+      "LastUpdatedTime": "2025-10-19T19:45:00-04:00"
+    },
+    "SyncToken": "1",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "6000",
+    "DocNumber": "INV-JT-202610-000",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-11",
+    "CustomerRef": {
+      "value": "200",
+      "name": "Rachel Nkomo"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 525.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6001",
+    "DocNumber": "INV-JT-202610-001",
+    "TxnDate": "2026-10-04",
+    "DueDate": "2026-10-14",
+    "CustomerRef": {
+      "value": "201",
+      "name": "Deja Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-04T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-04T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6002",
+    "DocNumber": "INV-JT-202610-002",
+    "TxnDate": "2026-10-07",
+    "DueDate": "2026-10-17",
+    "CustomerRef": {
+      "value": "202",
+      "name": "Marcus Ellis"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-07T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-07T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6003",
+    "DocNumber": "INV-JT-202610-003",
+    "TxnDate": "2026-10-10",
+    "DueDate": "2026-10-20",
+    "CustomerRef": {
+      "value": "203",
+      "name": "Priya Raman"
+    },
+    "Line": [
+      {
+        "Amount": 260.0,
+        "Description": "Venue cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 260.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-10T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-10T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6004",
+    "DocNumber": "INV-JT-202610-004",
+    "TxnDate": "2026-10-13",
+    "DueDate": "2026-10-23",
+    "CustomerRef": {
+      "value": "204",
+      "name": "Bianca Foster"
+    },
+    "Line": [
+      {
+        "Amount": 260.0,
+        "Description": "Venue cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 260.0,
+    "Balance": 260.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-13T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-13T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6005",
+    "DocNumber": "INV-JT-202610-005",
+    "TxnDate": "2026-10-16",
+    "DueDate": "2026-10-26",
+    "CustomerRef": {
+      "value": "205",
+      "name": "Andre Bishop"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-16T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-16T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6006",
+    "DocNumber": "INV-JT-202610-006",
+    "TxnDate": "2026-10-19",
+    "DueDate": "2026-10-29",
+    "CustomerRef": {
+      "value": "206",
+      "name": "Simone Clarke"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-19T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-19T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6007",
+    "DocNumber": "INV-JT-202610-007",
+    "TxnDate": "2026-10-22",
+    "DueDate": "2026-11-01",
+    "CustomerRef": {
+      "value": "207",
+      "name": "Wesley Tran"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-22T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-22T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6008",
+    "DocNumber": "INV-JT-202610-008",
+    "TxnDate": "2026-10-25",
+    "DueDate": "2026-11-04",
+    "CustomerRef": {
+      "value": "208",
+      "name": "Nadia Okafor"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 300.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-25T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-25T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6009",
+    "DocNumber": "INV-JT-202610-009",
+    "TxnDate": "2026-10-28",
+    "DueDate": "2026-11-07",
+    "CustomerRef": {
+      "value": "209",
+      "name": "Grant Whitfield"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-28T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-28T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6010",
+    "DocNumber": "INV-JT-202610-010",
+    "TxnDate": "2026-10-31",
+    "DueDate": "2026-11-10",
+    "CustomerRef": {
+      "value": "210",
+      "name": "Lila Mendez"
+    },
+    "Line": [
+      {
+        "Amount": 520.0,
+        "Description": "Venue cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 520.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-10-31T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-31T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6011",
+    "DocNumber": "INV-JT-202611-011",
+    "TxnDate": "2026-11-03",
+    "DueDate": "2026-11-13",
+    "CustomerRef": {
+      "value": "211",
+      "name": "Curtis Hale"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-03T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-03T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6012",
+    "DocNumber": "INV-JT-202611-012",
+    "TxnDate": "2026-11-06",
+    "DueDate": "2026-11-16",
+    "CustomerRef": {
+      "value": "212",
+      "name": "Yara Haddad"
+    },
+    "Line": [
+      {
+        "Amount": 390.0,
+        "Description": "Venue cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 390.0,
+    "Balance": 390.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-06T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-06T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6013",
+    "DocNumber": "INV-JT-202611-013",
+    "TxnDate": "2026-11-09",
+    "DueDate": "2026-11-19",
+    "CustomerRef": {
+      "value": "213",
+      "name": "Jordan Pope"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-09T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-09T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6014",
+    "DocNumber": "INV-JT-202611-014",
+    "TxnDate": "2026-11-12",
+    "DueDate": "2026-11-22",
+    "CustomerRef": {
+      "value": "214",
+      "name": "Renee Vaughn"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-12T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-12T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6015",
+    "DocNumber": "INV-JT-202611-015",
+    "TxnDate": "2026-11-15",
+    "DueDate": "2026-11-25",
+    "CustomerRef": {
+      "value": "215",
+      "name": "Malik Osei"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-15T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-15T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6016",
+    "DocNumber": "INV-JT-202611-016",
+    "TxnDate": "2026-11-18",
+    "DueDate": "2026-11-28",
+    "CustomerRef": {
+      "value": "216",
+      "name": "Hannah Beaumont"
+    },
+    "Line": [
+      {
+        "Amount": 325.0,
+        "Description": "Venue cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 325.0,
+    "Balance": 325.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-18T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-18T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6017",
+    "DocNumber": "INV-JT-202611-017",
+    "TxnDate": "2026-11-21",
+    "DueDate": "2026-12-01",
+    "CustomerRef": {
+      "value": "217",
+      "name": "Devon Pruitt"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-21T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-21T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6018",
+    "DocNumber": "INV-JT-202611-018",
+    "TxnDate": "2026-11-24",
+    "DueDate": "2026-12-04",
+    "CustomerRef": {
+      "value": "218",
+      "name": "Camille Rousseau"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-24T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-24T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6019",
+    "DocNumber": "INV-JT-202611-019",
+    "TxnDate": "2026-11-27",
+    "DueDate": "2026-12-07",
+    "CustomerRef": {
+      "value": "219",
+      "name": "Isaac Kim"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-27T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-27T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6020",
+    "DocNumber": "INV-JT-202611-020",
+    "TxnDate": "2026-11-30",
+    "DueDate": "2026-12-10",
+    "CustomerRef": {
+      "value": "220",
+      "name": "Brooke Sutton"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 375.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-11-30T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-30T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6021",
+    "DocNumber": "INV-JT-202612-021",
+    "TxnDate": "2026-12-03",
+    "DueDate": "2026-12-13",
+    "CustomerRef": {
+      "value": "221",
+      "name": "Omar Farah"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-03T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-03T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6022",
+    "DocNumber": "INV-JT-202612-022",
+    "TxnDate": "2026-12-06",
+    "DueDate": "2026-12-16",
+    "CustomerRef": {
+      "value": "222",
+      "name": "Tessa Lindqvist"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-06T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-06T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6023",
+    "DocNumber": "INV-JT-202612-023",
+    "TxnDate": "2026-12-09",
+    "DueDate": "2026-12-19",
+    "CustomerRef": {
+      "value": "223",
+      "name": "Gabriel Ortiz"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-09T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-09T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6024",
+    "DocNumber": "INV-JT-202612-024",
+    "TxnDate": "2026-12-12",
+    "DueDate": "2026-12-22",
+    "CustomerRef": {
+      "value": "224",
+      "name": "Nia Washington"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-12T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-12T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6025",
+    "DocNumber": "INV-JT-202612-025",
+    "TxnDate": "2026-12-15",
+    "DueDate": "2026-12-25",
+    "CustomerRef": {
+      "value": "225",
+      "name": "Colin Reyes"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-15T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-15T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6026",
+    "DocNumber": "INV-JT-202612-026",
+    "TxnDate": "2026-12-18",
+    "DueDate": "2026-12-28",
+    "CustomerRef": {
+      "value": "226",
+      "name": "Fatima Diallo"
+    },
+    "Line": [
+      {
+        "Amount": 520.0,
+        "Description": "Venue cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 520.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-18T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-18T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6027",
+    "DocNumber": "INV-JT-202612-027",
+    "TxnDate": "2026-12-21",
+    "DueDate": "2026-12-31",
+    "CustomerRef": {
+      "value": "227",
+      "name": "Seth Abrams"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-21T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-21T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6028",
+    "DocNumber": "INV-JT-202612-028",
+    "TxnDate": "2026-12-24",
+    "DueDate": "2027-01-03",
+    "CustomerRef": {
+      "value": "228",
+      "name": "Vera Nowak"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 450.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-24T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-24T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6029",
+    "DocNumber": "INV-JT-202612-029",
+    "TxnDate": "2026-12-27",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "229",
+      "name": "Darius Boone"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-27T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-27T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6030",
+    "DocNumber": "INV-JT-202612-030",
+    "TxnDate": "2026-12-30",
+    "DueDate": "2027-01-09",
+    "CustomerRef": {
+      "value": "230",
+      "name": "Rachel Nkomo"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2026-12-30T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-30T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6031",
+    "DocNumber": "INV-JT-202701-031",
+    "TxnDate": "2027-01-02",
+    "DueDate": "2027-01-12",
+    "CustomerRef": {
+      "value": "231",
+      "name": "Deja Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-02T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-02T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6032",
+    "DocNumber": "INV-JT-202701-032",
+    "TxnDate": "2027-01-05",
+    "DueDate": "2027-01-15",
+    "CustomerRef": {
+      "value": "232",
+      "name": "Marcus Ellis"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 375.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-05T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-05T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6033",
+    "DocNumber": "INV-JT-202701-033",
+    "TxnDate": "2027-01-08",
+    "DueDate": "2027-01-18",
+    "CustomerRef": {
+      "value": "233",
+      "name": "Priya Raman"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-08T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-08T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6034",
+    "DocNumber": "INV-JT-202701-034",
+    "TxnDate": "2027-01-11",
+    "DueDate": "2027-01-21",
+    "CustomerRef": {
+      "value": "234",
+      "name": "Bianca Foster"
+    },
+    "Line": [
+      {
+        "Amount": 325.0,
+        "Description": "Venue cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 325.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-11T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-11T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6035",
+    "DocNumber": "INV-JT-202701-035",
+    "TxnDate": "2027-01-14",
+    "DueDate": "2027-01-24",
+    "CustomerRef": {
+      "value": "235",
+      "name": "Andre Bishop"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-14T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-14T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6036",
+    "DocNumber": "INV-JT-202701-036",
+    "TxnDate": "2027-01-17",
+    "DueDate": "2027-01-27",
+    "CustomerRef": {
+      "value": "236",
+      "name": "Simone Clarke"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 300.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-17T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-17T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6037",
+    "DocNumber": "INV-JT-202701-037",
+    "TxnDate": "2027-01-20",
+    "DueDate": "2027-01-30",
+    "CustomerRef": {
+      "value": "237",
+      "name": "Wesley Tran"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-20T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-20T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6038",
+    "DocNumber": "INV-JT-202701-038",
+    "TxnDate": "2027-01-23",
+    "DueDate": "2027-02-02",
+    "CustomerRef": {
+      "value": "238",
+      "name": "Nadia Okafor"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-23T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-23T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6039",
+    "DocNumber": "INV-JT-202701-039",
+    "TxnDate": "2027-01-26",
+    "DueDate": "2027-02-05",
+    "CustomerRef": {
+      "value": "239",
+      "name": "Grant Whitfield"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-26T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-26T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6040",
+    "DocNumber": "INV-JT-202701-040",
+    "TxnDate": "2027-01-29",
+    "DueDate": "2027-02-08",
+    "CustomerRef": {
+      "value": "240",
+      "name": "Lila Mendez"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 525.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-01-29T09:00:00-04:00",
+      "LastUpdatedTime": "2027-01-29T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6041",
+    "DocNumber": "INV-JT-202702-041",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-11",
+    "CustomerRef": {
+      "value": "241",
+      "name": "Curtis Hale"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-01T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-01T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6042",
+    "DocNumber": "INV-JT-202702-042",
+    "TxnDate": "2027-02-04",
+    "DueDate": "2027-02-14",
+    "CustomerRef": {
+      "value": "242",
+      "name": "Yara Haddad"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-04T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-04T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6043",
+    "DocNumber": "INV-JT-202702-043",
+    "TxnDate": "2027-02-07",
+    "DueDate": "2027-02-17",
+    "CustomerRef": {
+      "value": "243",
+      "name": "Jordan Pope"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-07T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-07T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6044",
+    "DocNumber": "INV-JT-202702-044",
+    "TxnDate": "2027-02-10",
+    "DueDate": "2027-02-20",
+    "CustomerRef": {
+      "value": "244",
+      "name": "Renee Vaughn"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 525.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-10T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-10T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6045",
+    "DocNumber": "INV-JT-202702-045",
+    "TxnDate": "2027-02-13",
+    "DueDate": "2027-02-23",
+    "CustomerRef": {
+      "value": "245",
+      "name": "Malik Osei"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-13T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-13T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6046",
+    "DocNumber": "INV-JT-202702-046",
+    "TxnDate": "2027-02-16",
+    "DueDate": "2027-02-26",
+    "CustomerRef": {
+      "value": "246",
+      "name": "Hannah Beaumont"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-16T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-16T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6047",
+    "DocNumber": "INV-JT-202702-047",
+    "TxnDate": "2027-02-19",
+    "DueDate": "2027-03-01",
+    "CustomerRef": {
+      "value": "247",
+      "name": "Devon Pruitt"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-19T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-19T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6048",
+    "DocNumber": "INV-JT-202702-048",
+    "TxnDate": "2027-02-22",
+    "DueDate": "2027-03-04",
+    "CustomerRef": {
+      "value": "248",
+      "name": "Camille Rousseau"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-22T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-22T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6049",
+    "DocNumber": "INV-JT-202702-049",
+    "TxnDate": "2027-02-25",
+    "DueDate": "2027-03-07",
+    "CustomerRef": {
+      "value": "249",
+      "name": "Isaac Kim"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-25T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-25T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6050",
+    "DocNumber": "INV-JT-202702-050",
+    "TxnDate": "2027-02-28",
+    "DueDate": "2027-03-10",
+    "CustomerRef": {
+      "value": "250",
+      "name": "Brooke Sutton"
+    },
+    "Line": [
+      {
+        "Amount": 520.0,
+        "Description": "Venue cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 520.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-02-28T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-28T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6051",
+    "DocNumber": "INV-JT-202703-051",
+    "TxnDate": "2027-03-03",
+    "DueDate": "2027-03-13",
+    "CustomerRef": {
+      "value": "251",
+      "name": "Omar Farah"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-03T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-03T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6052",
+    "DocNumber": "INV-JT-202703-052",
+    "TxnDate": "2027-03-06",
+    "DueDate": "2027-03-16",
+    "CustomerRef": {
+      "value": "252",
+      "name": "Tessa Lindqvist"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 525.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-06T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-06T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6053",
+    "DocNumber": "INV-JT-202703-053",
+    "TxnDate": "2027-03-09",
+    "DueDate": "2027-03-19",
+    "CustomerRef": {
+      "value": "253",
+      "name": "Gabriel Ortiz"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-09T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-09T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6054",
+    "DocNumber": "INV-JT-202703-054",
+    "TxnDate": "2027-03-12",
+    "DueDate": "2027-03-22",
+    "CustomerRef": {
+      "value": "254",
+      "name": "Nia Washington"
+    },
+    "Line": [
+      {
+        "Amount": 325.0,
+        "Description": "Venue cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 325.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-12T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-12T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6055",
+    "DocNumber": "INV-JT-202703-055",
+    "TxnDate": "2027-03-15",
+    "DueDate": "2027-03-25",
+    "CustomerRef": {
+      "value": "255",
+      "name": "Colin Reyes"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-15T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-15T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6056",
+    "DocNumber": "INV-JT-202703-056",
+    "TxnDate": "2027-03-18",
+    "DueDate": "2027-03-28",
+    "CustomerRef": {
+      "value": "256",
+      "name": "Fatima Diallo"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 375.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-18T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-18T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6057",
+    "DocNumber": "INV-JT-202703-057",
+    "TxnDate": "2027-03-21",
+    "DueDate": "2027-03-31",
+    "CustomerRef": {
+      "value": "257",
+      "name": "Seth Abrams"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-21T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-21T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6058",
+    "DocNumber": "INV-JT-202703-058",
+    "TxnDate": "2027-03-24",
+    "DueDate": "2027-04-03",
+    "CustomerRef": {
+      "value": "258",
+      "name": "Vera Nowak"
+    },
+    "Line": [
+      {
+        "Amount": 260.0,
+        "Description": "Venue cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 260.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-24T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-24T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6059",
+    "DocNumber": "INV-JT-202703-059",
+    "TxnDate": "2027-03-27",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "259",
+      "name": "Darius Boone"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-27T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-27T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6060",
+    "DocNumber": "INV-JT-202703-060",
+    "TxnDate": "2027-03-30",
+    "DueDate": "2027-04-09",
+    "CustomerRef": {
+      "value": "260",
+      "name": "Rachel Nkomo"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-03-30T09:00:00-04:00",
+      "LastUpdatedTime": "2027-03-30T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6061",
+    "DocNumber": "INV-JT-202704-061",
+    "TxnDate": "2027-04-02",
+    "DueDate": "2027-04-12",
+    "CustomerRef": {
+      "value": "261",
+      "name": "Deja Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-02T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-02T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6062",
+    "DocNumber": "INV-JT-202704-062",
+    "TxnDate": "2027-04-05",
+    "DueDate": "2027-04-15",
+    "CustomerRef": {
+      "value": "262",
+      "name": "Marcus Ellis"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-05T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-05T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6063",
+    "DocNumber": "INV-JT-202704-063",
+    "TxnDate": "2027-04-08",
+    "DueDate": "2027-04-18",
+    "CustomerRef": {
+      "value": "263",
+      "name": "Priya Raman"
+    },
+    "Line": [
+      {
+        "Amount": 390.0,
+        "Description": "Venue cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 390.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-08T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-08T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6064",
+    "DocNumber": "INV-JT-202704-064",
+    "TxnDate": "2027-04-11",
+    "DueDate": "2027-04-21",
+    "CustomerRef": {
+      "value": "264",
+      "name": "Bianca Foster"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-11T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-11T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6065",
+    "DocNumber": "INV-JT-202704-065",
+    "TxnDate": "2027-04-14",
+    "DueDate": "2027-04-24",
+    "CustomerRef": {
+      "value": "265",
+      "name": "Andre Bishop"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-14T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-14T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6066",
+    "DocNumber": "INV-JT-202704-066",
+    "TxnDate": "2027-04-17",
+    "DueDate": "2027-04-27",
+    "CustomerRef": {
+      "value": "266",
+      "name": "Simone Clarke"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-17T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-17T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6067",
+    "DocNumber": "INV-JT-202704-067",
+    "TxnDate": "2027-04-20",
+    "DueDate": "2027-04-30",
+    "CustomerRef": {
+      "value": "267",
+      "name": "Wesley Tran"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-20T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-20T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6068",
+    "DocNumber": "INV-JT-202704-068",
+    "TxnDate": "2027-04-23",
+    "DueDate": "2027-05-03",
+    "CustomerRef": {
+      "value": "268",
+      "name": "Nadia Okafor"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 300.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-23T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-23T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6069",
+    "DocNumber": "INV-JT-202704-069",
+    "TxnDate": "2027-04-26",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "269",
+      "name": "Grant Whitfield"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Home cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-26T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-26T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6070",
+    "DocNumber": "INV-JT-202704-070",
+    "TxnDate": "2027-04-29",
+    "DueDate": "2027-05-09",
+    "CustomerRef": {
+      "value": "270",
+      "name": "Lila Mendez"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "Home cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-04-29T09:00:00-04:00",
+      "LastUpdatedTime": "2027-04-29T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6071",
+    "DocNumber": "INV-JT-202705-071",
+    "TxnDate": "2027-05-02",
+    "DueDate": "2027-05-12",
+    "CustomerRef": {
+      "value": "271",
+      "name": "Curtis Hale"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-02T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-02T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6072",
+    "DocNumber": "INV-JT-202705-072",
+    "TxnDate": "2027-05-05",
+    "DueDate": "2027-05-15",
+    "CustomerRef": {
+      "value": "272",
+      "name": "Yara Haddad"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 450.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-05T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-05T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6073",
+    "DocNumber": "INV-JT-202705-073",
+    "TxnDate": "2027-05-08",
+    "DueDate": "2027-05-18",
+    "CustomerRef": {
+      "value": "273",
+      "name": "Jordan Pope"
+    },
+    "Line": [
+      {
+        "Amount": 455.0,
+        "Description": "Venue cooking class seat x7",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 455.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-08T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-08T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6074",
+    "DocNumber": "INV-JT-202705-074",
+    "TxnDate": "2027-05-11",
+    "DueDate": "2027-05-21",
+    "CustomerRef": {
+      "value": "274",
+      "name": "Renee Vaughn"
+    },
+    "Line": [
+      {
+        "Amount": 375.0,
+        "Description": "Home cooking class seat x5",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 375.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-11T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-11T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6075",
+    "DocNumber": "INV-JT-202705-075",
+    "TxnDate": "2027-05-14",
+    "DueDate": "2027-05-24",
+    "CustomerRef": {
+      "value": "275",
+      "name": "Malik Osei"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-14T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-14T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6076",
+    "DocNumber": "INV-JT-202705-076",
+    "TxnDate": "2027-05-17",
+    "DueDate": "2027-05-27",
+    "CustomerRef": {
+      "value": "276",
+      "name": "Hannah Beaumont"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 450.0,
+    "Status": "Open",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-17T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-17T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6077",
+    "DocNumber": "INV-JT-202705-077",
+    "TxnDate": "2027-05-20",
+    "DueDate": "2027-05-30",
+    "CustomerRef": {
+      "value": "277",
+      "name": "Devon Pruitt"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Home cooking class seat x6",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-20T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-20T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6078",
+    "DocNumber": "INV-JT-202705-078",
+    "TxnDate": "2027-05-23",
+    "DueDate": "2027-06-02",
+    "CustomerRef": {
+      "value": "278",
+      "name": "Camille Rousseau"
+    },
+    "Line": [
+      {
+        "Amount": 520.0,
+        "Description": "Venue cooking class seat x8",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 520.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-23T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-23T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  },
+  {
+    "Id": "6079",
+    "DocNumber": "INV-JT-202705-079",
+    "TxnDate": "2027-05-26",
+    "DueDate": "2027-06-05",
+    "CustomerRef": {
+      "value": "279",
+      "name": "Isaac Kim"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Home cooking class seat x4",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Class Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "BillEmail": {
+      "Address": "billing@jakestable.com"
+    },
+    "EmailStatus": "NotSet",
+    "MetaData": {
+      "CreateTime": "2027-05-26T09:00:00-04:00",
+      "LastUpdatedTime": "2027-05-26T09:30:00-04:00"
+    },
+    "PrintStatus": "NeedToPrint",
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks.",
+    "SyncToken": "0"
+  }
+]

@@ -1,0 +1,1348 @@
+[
+  {
+    "departureDate": "2026-10-21",
+    "destinationLocationCode": "ORD",
+    "id": "AMA-DTW-ORD-1021A",
+    "itineraries": [
+      {
+        "duration": "PT1H10M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-10-21T08:55:00-05:00",
+              "iataCode": "ORD",
+              "terminal": "2"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2026-10-21T07:45:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT1H10M",
+            "number": "UA3402",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "168.00",
+      "currency": "USD",
+      "grandTotal": "212.20",
+      "total": "212.20"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "212.20"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "departureDate": "2026-10-21",
+    "destinationLocationCode": "ORD",
+    "id": "AMA-DTW-ORD-1021B",
+    "itineraries": [
+      {
+        "duration": "PT1H15M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A319"
+            },
+            "arrival": {
+              "at": "2026-10-21T10:35:00-05:00",
+              "iataCode": "ORD",
+              "terminal": "3"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-10-21T09:20:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "NT"
+            },
+            "duration": "PT1H15M",
+            "number": "AA2245",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "187.00",
+      "currency": "USD",
+      "grandTotal": "234.45",
+      "total": "234.45"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "234.45"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "departureDate": "2026-10-23",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-ORD-DTW-1023A",
+    "itineraries": [
+      {
+        "duration": "PT1H10M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-10-23T20:15:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2026-10-23T18:05:00-05:00",
+              "iataCode": "ORD",
+              "terminal": "2"
+            },
+            "duration": "PT1H10M",
+            "number": "UA3415",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 8,
+    "oneWay": true,
+    "originLocationCode": "ORD",
+    "price": {
+      "base": "172.00",
+      "currency": "USD",
+      "grandTotal": "218.95",
+      "total": "218.95"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "218.95"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "departureDate": "2026-10-23",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-ORD-DTW-1023B",
+    "itineraries": [
+      {
+        "duration": "PT1H20M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B738"
+            },
+            "arrival": {
+              "at": "2026-10-23T21:10:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-10-23T18:50:00-05:00",
+              "iataCode": "ORD",
+              "terminal": "2"
+            },
+            "duration": "PT1H20M",
+            "number": "DL1156",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 5,
+    "oneWay": true,
+    "originLocationCode": "ORD",
+    "price": {
+      "base": "194.00",
+      "currency": "USD",
+      "grandTotal": "241.30",
+      "total": "241.30"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "241.30"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2027-03-12",
+    "destinationLocationCode": "GRU",
+    "id": "AMA-DTW-GRU-0312A",
+    "itineraries": [
+      {
+        "duration": "PT13H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A321"
+            },
+            "arrival": {
+              "at": "2027-03-12T22:50:00-04:00",
+              "iataCode": "ATL",
+              "terminal": "S"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2027-03-12T20:25:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT2H25M",
+            "number": "DL2014",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "B764"
+            },
+            "arrival": {
+              "at": "2027-03-13T11:10:00-03:00",
+              "iataCode": "GRU",
+              "terminal": "3"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2027-03-12T23:55:00-04:00",
+              "iataCode": "ATL",
+              "terminal": "I"
+            },
+            "duration": "PT10H15M",
+            "number": "DL59",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": false,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "835.00",
+      "currency": "USD",
+      "grandTotal": "1057.40",
+      "total": "1057.40"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "1057.40"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2027-03-12",
+    "destinationLocationCode": "GRU",
+    "id": "AMA-DTW-GRU-0312B",
+    "itineraries": [
+      {
+        "duration": "PT14H10M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B738"
+            },
+            "arrival": {
+              "at": "2027-03-12T20:35:00-05:00",
+              "iataCode": "IAH",
+              "terminal": "B"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-03-12T17:55:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT3H40M",
+            "number": "UA2168",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "B789"
+            },
+            "arrival": {
+              "at": "2027-03-13T10:05:00-03:00",
+              "iataCode": "GRU",
+              "terminal": "3"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-03-12T21:50:00-05:00",
+              "iataCode": "IAH",
+              "terminal": "E"
+            },
+            "duration": "PT9H15M",
+            "number": "UA62",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 3,
+    "oneWay": false,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "879.00",
+      "currency": "USD",
+      "grandTotal": "1098.55",
+      "total": "1098.55"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "1098.55"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "departureDate": "2027-03-22",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-GRU-DTW-0322A",
+    "itineraries": [
+      {
+        "duration": "PT13H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B764"
+            },
+            "arrival": {
+              "at": "2027-03-23T07:35:00-04:00",
+              "iataCode": "ATL",
+              "terminal": "I"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2027-03-22T22:30:00-03:00",
+              "iataCode": "GRU",
+              "terminal": "3"
+            },
+            "duration": "PT10H05M",
+            "number": "DL110",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "A321"
+            },
+            "arrival": {
+              "at": "2027-03-23T11:35:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2027-03-23T09:10:00-04:00",
+              "iataCode": "ATL",
+              "terminal": "S"
+            },
+            "duration": "PT2H25M",
+            "number": "DL2087",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": false,
+    "originLocationCode": "GRU",
+    "price": {
+      "base": "843.00",
+      "currency": "USD",
+      "grandTotal": "1063.20",
+      "total": "1063.20"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "1063.20"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-09-14",
+    "destinationLocationCode": "LGA",
+    "id": "AMA-DTW-LGA-0914A",
+    "itineraries": [
+      {
+        "duration": "PT1H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B739"
+            },
+            "arrival": {
+              "at": "2026-09-14T08:15:00-04:00",
+              "iataCode": "LGA",
+              "terminal": "C"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-09-14T06:30:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT1H45M",
+            "number": "DL1422",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "232.00",
+      "currency": "USD",
+      "grandTotal": "298.60",
+      "total": "298.60"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "298.60"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-09-16",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-LGA-DTW-0916A",
+    "itineraries": [
+      {
+        "duration": "PT1H55M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A320"
+            },
+            "arrival": {
+              "at": "2026-09-16T19:35:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-09-16T17:40:00-04:00",
+              "iataCode": "LGA",
+              "terminal": "C"
+            },
+            "duration": "PT1H55M",
+            "number": "DL1789",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 3,
+    "oneWay": true,
+    "originLocationCode": "LGA",
+    "price": {
+      "base": "211.00",
+      "currency": "USD",
+      "grandTotal": "274.30",
+      "total": "274.30"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "274.30"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-08-19",
+    "destinationLocationCode": "DCA",
+    "id": "AMA-DTW-DCA-0819A",
+    "itineraries": [
+      {
+        "duration": "PT1H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-08-19T09:55:00-04:00",
+              "iataCode": "DCA",
+              "terminal": "2"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-08-19T08:10:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "NT"
+            },
+            "duration": "PT1H45M",
+            "number": "AA4519",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 5,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "198.00",
+      "currency": "USD",
+      "grandTotal": "256.75",
+      "total": "256.75"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "256.75"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "departureDate": "2026-08-21",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-DCA-DTW-0821A",
+    "itineraries": [
+      {
+        "duration": "PT1H50M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A319"
+            },
+            "arrival": {
+              "at": "2026-08-21T18:10:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "NT"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-08-21T16:20:00-04:00",
+              "iataCode": "DCA",
+              "terminal": "2"
+            },
+            "duration": "PT1H50M",
+            "number": "AA4602",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "DCA",
+    "price": {
+      "base": "187.00",
+      "currency": "USD",
+      "grandTotal": "243.90",
+      "total": "243.90"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "243.90"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "departureDate": "2026-11-10",
+    "destinationLocationCode": "LAX",
+    "id": "AMA-DTW-LAX-1110A",
+    "itineraries": [
+      {
+        "duration": "PT5H25M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A321"
+            },
+            "arrival": {
+              "at": "2026-11-10T11:40:00-08:00",
+              "iataCode": "LAX",
+              "terminal": "2"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-11-10T09:15:00-05:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT5H25M",
+            "number": "DL1503",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "301.00",
+      "currency": "USD",
+      "grandTotal": "389.20",
+      "total": "389.20"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "389.20"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-11-14",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-LAX-DTW-1114A",
+    "itineraries": [
+      {
+        "duration": "PT4H20M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B739"
+            },
+            "arrival": {
+              "at": "2026-11-15T05:50:00-05:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-11-14T22:30:00-08:00",
+              "iataCode": "LAX",
+              "terminal": "2"
+            },
+            "duration": "PT4H20M",
+            "number": "DL1688",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 2,
+    "oneWay": true,
+    "originLocationCode": "LAX",
+    "price": {
+      "base": "311.00",
+      "currency": "USD",
+      "grandTotal": "402.15",
+      "total": "402.15"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "402.15"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-09-28",
+    "destinationLocationCode": "ATL",
+    "id": "AMA-DTW-ATL-0928A",
+    "itineraries": [
+      {
+        "duration": "PT1H55M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B738"
+            },
+            "arrival": {
+              "at": "2026-09-28T08:55:00-04:00",
+              "iataCode": "ATL",
+              "terminal": "S"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-09-28T07:00:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT1H55M",
+            "number": "DL985",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "168.00",
+      "currency": "USD",
+      "grandTotal": "218.40",
+      "total": "218.40"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "218.40"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-10-05",
+    "destinationLocationCode": "MSP",
+    "id": "AMA-DTW-MSP-1005A",
+    "itineraries": [
+      {
+        "duration": "PT1H55M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A320"
+            },
+            "arrival": {
+              "at": "2026-10-05T12:15:00-05:00",
+              "iataCode": "MSP",
+              "terminal": "1"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-10-05T11:20:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT1H55M",
+            "number": "DL742",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "178.00",
+      "currency": "USD",
+      "grandTotal": "231.60",
+      "total": "231.60"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "231.60"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2026-08-12",
+    "destinationLocationCode": "BOS",
+    "id": "AMA-DTW-BOS-0812A",
+    "itineraries": [
+      {
+        "duration": "PT1H50M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A220"
+            },
+            "arrival": {
+              "at": "2026-08-12T15:55:00-04:00",
+              "iataCode": "BOS",
+              "terminal": "C"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-08-12T14:05:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT1H50M",
+            "number": "B6716",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 5,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "204.00",
+      "currency": "USD",
+      "grandTotal": "264.80",
+      "total": "264.80"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "264.80"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "departureDate": "2026-08-14",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-BOS-DTW-0814A",
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-08-14T20:40:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-08-14T18:25:00-04:00",
+              "iataCode": "BOS",
+              "terminal": "A"
+            },
+            "duration": "PT2H15M",
+            "number": "DL2231",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "BOS",
+    "price": {
+      "base": "193.00",
+      "currency": "USD",
+      "grandTotal": "251.30",
+      "total": "251.30"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "251.30"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2027-01-20",
+    "destinationLocationCode": "SFO",
+    "id": "AMA-DTW-SFO-0120A",
+    "itineraries": [
+      {
+        "duration": "PT5H10M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B739"
+            },
+            "arrival": {
+              "at": "2027-01-20T10:50:00-08:00",
+              "iataCode": "SFO",
+              "terminal": "3"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-01-20T08:40:00-05:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT5H10M",
+            "number": "UA1926",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 3,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "276.00",
+      "currency": "USD",
+      "grandTotal": "356.90",
+      "total": "356.90"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "356.90"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "departureDate": "2027-01-24",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-SFO-DTW-0124A",
+    "itineraries": [
+      {
+        "duration": "PT7H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B738"
+            },
+            "arrival": {
+              "at": "2027-01-24T13:15:00-06:00",
+              "iataCode": "ORD",
+              "terminal": "1"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-01-24T07:00:00-08:00",
+              "iataCode": "SFO",
+              "terminal": "3"
+            },
+            "duration": "PT4H15M",
+            "number": "UA488",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2027-01-24T17:05:00-05:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-01-24T14:40:00-06:00",
+              "iataCode": "ORD",
+              "terminal": "2"
+            },
+            "duration": "PT1H25M",
+            "number": "UA3510",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 5,
+    "oneWay": true,
+    "originLocationCode": "SFO",
+    "price": {
+      "base": "318.00",
+      "currency": "USD",
+      "grandTotal": "411.75",
+      "total": "411.75"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "411.75"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "departureDate": "2026-10-20",
+    "destinationLocationCode": "ORD",
+    "id": "AMA-DTW-ORD-1020A",
+    "itineraries": [
+      {
+        "duration": "PT1H20M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "A319"
+            },
+            "arrival": {
+              "at": "2026-10-20T16:50:00-05:00",
+              "iataCode": "ORD",
+              "terminal": "2"
+            },
+            "carrierCode": "DL",
+            "departure": {
+              "at": "2026-10-20T16:30:00-04:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "duration": "PT1H20M",
+            "number": "DL1240",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "158.00",
+      "currency": "USD",
+      "grandTotal": "205.15",
+      "total": "205.15"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "205.15"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "departureDate": "2027-02-08",
+    "destinationLocationCode": "GRU",
+    "id": "AMA-DTW-GRU-0208A",
+    "itineraries": [
+      {
+        "duration": "PT12H55M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B738"
+            },
+            "arrival": {
+              "at": "2027-02-08T21:35:00-05:00",
+              "iataCode": "MIA",
+              "terminal": "N"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2027-02-08T18:20:00-05:00",
+              "iataCode": "DTW",
+              "terminal": "NT"
+            },
+            "duration": "PT3H15M",
+            "number": "AA1377",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "B77W"
+            },
+            "arrival": {
+              "at": "2027-02-09T09:15:00-03:00",
+              "iataCode": "GRU",
+              "terminal": "3"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2027-02-08T23:15:00-05:00",
+              "iataCode": "MIA",
+              "terminal": "N"
+            },
+            "duration": "PT8H00M",
+            "number": "AA929",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": false,
+    "originLocationCode": "DTW",
+    "price": {
+      "base": "941.00",
+      "currency": "USD",
+      "grandTotal": "1189.65",
+      "total": "1189.65"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "1189.65"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "departureDate": "2027-02-18",
+    "destinationLocationCode": "DTW",
+    "id": "AMA-GRU-DTW-0218A",
+    "itineraries": [
+      {
+        "duration": "PT14H55M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "B789"
+            },
+            "arrival": {
+              "at": "2027-02-19T05:45:00-06:00",
+              "iataCode": "IAH",
+              "terminal": "E"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-02-18T22:10:00-03:00",
+              "iataCode": "GRU",
+              "terminal": "3"
+            },
+            "duration": "PT10H35M",
+            "number": "UA63",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "B738"
+            },
+            "arrival": {
+              "at": "2027-02-19T11:05:00-05:00",
+              "iataCode": "DTW",
+              "terminal": "EM"
+            },
+            "carrierCode": "UA",
+            "departure": {
+              "at": "2027-02-19T07:20:00-06:00",
+              "iataCode": "IAH",
+              "terminal": "C"
+            },
+            "duration": "PT2H45M",
+            "number": "UA2455",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 3,
+    "oneWay": false,
+    "originLocationCode": "GRU",
+    "price": {
+      "base": "986.00",
+      "currency": "USD",
+      "grandTotal": "1247.30",
+      "total": "1247.30"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "1247.30"
+        },
+        "travelerId": "1",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "flight-offer",
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn-mullins-6ae6475e,acc-colette-mullins-chk-001,-2450.0,USD,2025-06-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-985b0c97,acc-colette-mullins-chk-001,-2450.0,USD,2025-06-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-ab2b5ca4,acc-colette-mullins-chk-001,-2450.0,USD,2025-06-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-1681e556,acc-colette-mullins-biz-001,165.0,USD,2025-06-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-9647bb79,acc-colette-mullins-chk-001,-2450.0,USD,2025-07-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-3b82b529,acc-colette-mullins-chk-001,-2450.0,USD,2025-07-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-d9069b5e,acc-colette-mullins-chk-001,-2450.0,USD,2025-07-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-570f59e0,acc-colette-mullins-biz-001,165.0,USD,2025-07-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-23967345,acc-colette-mullins-chk-001,-2450.0,USD,2025-08-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-6a3b50c3,acc-colette-mullins-chk-001,-2450.0,USD,2025-08-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-b5cde994,acc-colette-mullins-chk-001,-2450.0,USD,2025-08-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-4e959868,acc-colette-mullins-biz-001,165.0,USD,2025-08-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-24f8e02d,acc-colette-mullins-chk-001,-2450.0,USD,2025-09-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-a0fcdb27,acc-colette-mullins-chk-001,-2450.0,USD,2025-09-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-fbaffe30,acc-colette-mullins-chk-001,-2450.0,USD,2025-09-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-ea016ccb,acc-colette-mullins-biz-001,165.0,USD,2025-09-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-28b158b3,acc-colette-mullins-chk-001,-2450.0,USD,2026-10-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-3e41049f,acc-colette-mullins-chk-001,-2450.0,USD,2026-10-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-c15c0ed1,acc-colette-mullins-chk-001,-2450.0,USD,2026-10-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-37ceb2d2,acc-colette-mullins-biz-001,165.0,USD,2026-10-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-59393fa4,acc-colette-mullins-chk-001,-2450.0,USD,2026-11-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-1894a909,acc-colette-mullins-chk-001,-2450.0,USD,2026-11-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-93fd3c9c,acc-colette-mullins-chk-001,-2450.0,USD,2026-11-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-9ecc2115,acc-colette-mullins-biz-001,165.0,USD,2026-11-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-0badfbd0,acc-colette-mullins-chk-001,-2450.0,USD,2026-12-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-0336d384,acc-colette-mullins-chk-001,-2450.0,USD,2026-12-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-ebec8efc,acc-colette-mullins-chk-001,-2450.0,USD,2026-12-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-350d88df,acc-colette-mullins-biz-001,165.0,USD,2026-12-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-9b63a161,acc-colette-mullins-chk-001,-2450.0,USD,2027-01-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-375546e0,acc-colette-mullins-chk-001,-2450.0,USD,2027-01-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-7b3bbcff,acc-colette-mullins-chk-001,-2450.0,USD,2027-01-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-f103e030,acc-colette-mullins-biz-001,165.0,USD,2027-01-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-colette-mullins-aa4c0b69,acc-colette-mullins-chk-001,-2450.0,USD,2027-02-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-58efa9bf,acc-colette-mullins-chk-001,-2450.0,USD,2027-02-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-eaef6350,acc-colette-mullins-chk-001,-2450.0,USD,2027-02-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-colette-mullins-db08b354,acc-colette-mullins-biz-001,165.0,USD,2027-02-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-mullins-5b37580a,acc-colette-mullins-chk-001,-2450.0,USD,2027-03-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-9e364914,acc-colette-mullins-chk-001,-2450.0,USD,2027-03-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-37a5786e,acc-colette-mullins-chk-001,-2450.0,USD,2027-03-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-0c524fd3,acc-colette-mullins-biz-001,165.0,USD,2027-03-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-colette-mullins-e9d08a5c,acc-colette-mullins-chk-001,-2450.0,USD,2027-04-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-36ea2c27,acc-colette-mullins-chk-001,-2450.0,USD,2027-04-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-50e50c76,acc-colette-mullins-chk-001,-2450.0,USD,2027-04-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-239edc6f,acc-colette-mullins-biz-001,165.0,USD,2027-04-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-colette-mullins-dc4aa1b6,acc-colette-mullins-chk-001,-2450.0,USD,2027-05-02,"Rent deposit — Property 1 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-8e5b771c,acc-colette-mullins-chk-001,-2450.0,USD,2027-05-02,"Rent deposit — Property 2 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-99dfa507,acc-colette-mullins-chk-001,-2450.0,USD,2027-05-02,"Rent deposit — Property 3 (Shaker Heights, Cleveland)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-mullins-309431d2,acc-colette-mullins-biz-001,165.0,USD,2027-05-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online

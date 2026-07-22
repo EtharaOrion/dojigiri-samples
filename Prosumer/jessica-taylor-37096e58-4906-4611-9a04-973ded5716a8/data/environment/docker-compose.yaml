@@ -1,0 +1,432 @@
+services:
+  main:
+    build:
+      context: .
+    image: harbor-main:local
+    command: ["sleep", "infinity"]
+    depends_on:
+      airtable-api:
+        condition: service_healthy
+      docusign-api:
+        condition: service_healthy
+      figma-api:
+        condition: service_healthy
+      gmail-api:
+        condition: service_healthy
+      google-calendar-api:
+        condition: service_healthy
+      hubspot-api:
+        condition: service_healthy
+      linear-api:
+        condition: service_healthy
+      mailchimp-api:
+        condition: service_healthy
+      notion-api:
+        condition: service_healthy
+      obsidian-api:
+        condition: service_healthy
+      outlook-api:
+        condition: service_healthy
+      pinterest-api:
+        condition: service_healthy
+      quickbooks-api:
+        condition: service_healthy
+      slack-api:
+        condition: service_healthy
+      square-api:
+        condition: service_healthy
+      stripe-api:
+        condition: service_healthy
+      typeform-api:
+        condition: service_healthy
+      webflow-api:
+        condition: service_healthy
+      xero-api:
+        condition: service_healthy
+    environment:
+      - AIRTABLE_API_URL=http://airtable-api:8032
+      - DOCUSIGN_API_URL=http://docusign-api:8053
+      - FIGMA_API_URL=http://figma-api:8079
+      - GMAIL_API_URL=http://gmail-api:8017
+      - GOOGLE_CALENDAR_API_URL=http://google-calendar-api:8016
+      - HUBSPOT_API_URL=http://hubspot-api:8024
+      - LINEAR_API_URL=http://linear-api:8004
+      - MAILCHIMP_API_URL=http://mailchimp-api:8081
+      - NOTION_API_URL=http://notion-api:8010
+      - OBSIDIAN_API_URL=http://obsidian-api:8014
+      - OUTLOOK_API_URL=http://outlook-api:8087
+      - PINTEREST_API_URL=http://pinterest-api:8006
+      - QUICKBOOKS_API_URL=http://quickbooks-api:8007
+      - SLACK_API_URL=http://slack-api:8013
+      - SQUARE_API_URL=http://square-api:8041
+      - STRIPE_API_URL=http://stripe-api:8021
+      - TYPEFORM_API_URL=http://typeform-api:8055
+      - WEBFLOW_API_URL=http://webflow-api:8100
+      - XERO_API_URL=http://xero-api:8088
+      - LITELLM_BASE_URL=http://litellm-proxy:4000
+      - OPENAI_API_BASE=http://litellm-proxy:4000/v1
+      - OPENAI_API_KEY=placeholder
+      - TEST_DIR=${TEST_DIR:-/tests}
+    volumes:
+      - ${HOST_VERIFIER_LOGS_PATH:-./logs/verifier}:${ENV_VERIFIER_LOGS_PATH:-/logs/verifier}
+  airtable-api:
+    build:
+      context: ./airtable-api
+    image: harbor-airtable-api:local
+    expose:
+      - "8032"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8032/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  docusign-api:
+    build:
+      context: ./docusign-api
+    image: harbor-docusign-api:local
+    expose:
+      - "8053"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8053/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  figma-api:
+    build:
+      context: ./figma-api
+    image: harbor-figma-api:local
+    expose:
+      - "8079"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8079/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  gmail-api:
+    build:
+      context: ./gmail-api
+    image: harbor-gmail-api:local
+    expose:
+      - "8017"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8017/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  google-calendar-api:
+    build:
+      context: ./google-calendar-api
+    image: harbor-google-calendar-api:local
+    expose:
+      - "8016"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8016/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  hubspot-api:
+    build:
+      context: ./hubspot-api
+    image: harbor-hubspot-api:local
+    expose:
+      - "8024"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8024/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  linear-api:
+    build:
+      context: ./linear-api
+    image: harbor-linear-api:local
+    expose:
+      - "8004"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8004/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  mailchimp-api:
+    build:
+      context: ./mailchimp-api
+    image: harbor-mailchimp-api:local
+    expose:
+      - "8081"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8081/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  notion-api:
+    build:
+      context: ./notion-api
+    image: harbor-notion-api:local
+    expose:
+      - "8010"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8010/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  obsidian-api:
+    build:
+      context: ./obsidian-api
+    image: harbor-obsidian-api:local
+    expose:
+      - "8014"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8014/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  outlook-api:
+    build:
+      context: ./outlook-api
+    image: harbor-outlook-api:local
+    expose:
+      - "8087"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8087/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  pinterest-api:
+    build:
+      context: ./pinterest-api
+    image: harbor-pinterest-api:local
+    expose:
+      - "8006"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8006/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  quickbooks-api:
+    build:
+      context: ./quickbooks-api
+    image: harbor-quickbooks-api:local
+    expose:
+      - "8007"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8007/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  slack-api:
+    build:
+      context: ./slack-api
+    image: harbor-slack-api:local
+    expose:
+      - "8013"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8013/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  square-api:
+    build:
+      context: ./square-api
+    image: harbor-square-api:local
+    expose:
+      - "8041"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8041/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  stripe-api:
+    build:
+      context: ./stripe-api
+    image: harbor-stripe-api:local
+    expose:
+      - "8021"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8021/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  typeform-api:
+    build:
+      context: ./typeform-api
+    image: harbor-typeform-api:local
+    expose:
+      - "8055"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8055/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  webflow-api:
+    build:
+      context: ./webflow-api
+    image: harbor-webflow-api:local
+    expose:
+      - "8100"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8100/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  xero-api:
+    build:
+      context: ./xero-api
+    image: harbor-xero-api:local
+    expose:
+      - "8088"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8088/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi

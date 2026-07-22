@@ -1,0 +1,98 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 16,
+      "passed": 10,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_airtable_budget_line_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_asana_workstream_notes_swept",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_bamboohr_operations_lead_role_literal_present",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_bamboohr_operations_roster_enumerated",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_confluence_current_policy_versions_referenced",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_greenhouse_open_operations_seats_surfaced",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gusto_current_band_literal_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gusto_operations_compensation_pulled",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gusto_payroll_of_record_headcount_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_microsoft_teams_channels_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_distractor_services_touched",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_docusign_envelope_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_notion_planning_notes_swept",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_okta_live_accounts_crossed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outlook_restructure_correspondence_swept",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_servicenow_case_routed_and_left_open",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+effective_date,employee_id,flsa_status,id,job_title,payment_unit,rate,__api__,__table__,__file__,__row_index__
+2018-01-15,emp-9db1b05f,exempt,comp-de1ccc90,Corporate HR Director,Year,112000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,0
+2019-02-15,emp-3219fe72,exempt,comp-eff5214a,VP of Human Resources,Year,205000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,1
+2020-03-15,emp-e9e15fcb,exempt,comp-56005632,Director of Talent Acquisition,Year,148000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,2
+2021-04-15,emp-10e7420c,exempt,comp-cd0fd500,Director of Total Rewards,Year,152000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,3
+2022-05-15,emp-2286b15c,exempt,comp-9735e1bc,Senior HR Business Partner,Year,122000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,4
+2023-06-15,emp-a20539b8,exempt,comp-d35ba63f,HR Business Partner,Year,112000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,5
+2018-07-15,emp-11efe83a,exempt,comp-4ccfc23e,Benefits Manager,Year,108000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,6
+2019-08-15,emp-979e0af2,exempt,comp-bf9803e6,Recruiting Manager,Year,106000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,7
+2020-09-15,emp-8bcb5761,exempt,comp-6bd7921b,Payroll Manager,Year,104000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,8
+2021-10-15,emp-476cff32,exempt,comp-8a15b705,HRIS Manager,Year,102000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,9
+2019-01-01,emp-aa086619,exempt,comp-d1dcee8f,HR Manager,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,10
+2019-01-31,emp-ad38c83c,exempt,comp-32803136,HR Generalist,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,11
+2019-03-02,emp-d51b23c8,exempt,comp-21a8f989,Benefits Specialist,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,12
+2019-04-01,emp-63afd6ea,exempt,comp-235ca9c2,Recruiter,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,13
+2019-05-01,emp-05d228ee,exempt,comp-28f963b7,Payroll Analyst,Year,84000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,14
+2019-05-31,emp-69a7b1b8,exempt,comp-a24fbebc,Operations Lead,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,15
+2019-06-30,emp-fc337e42,exempt,comp-85c4656c,HR Manager,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,16
+2019-07-30,emp-b7ca739c,exempt,comp-207c571b,HR Generalist,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,17
+2019-08-29,emp-d8f4d279,exempt,comp-10573460,Benefits Specialist,Year,58000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,18
+2019-09-28,emp-1d5667a1,exempt,comp-0273eccc,Recruiter,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,19
+2019-10-28,emp-ba55e8a5,exempt,comp-f1784968,Payroll Analyst,Year,71000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,20
+2019-11-27,emp-c18281b3,exempt,comp-5a04318c,Operations Lead,Year,71000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,21
+2019-12-27,emp-76edf95a,exempt,comp-7c8b0037,HR Manager,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,22
+2020-01-26,emp-beacbd9e,exempt,comp-cdd37450,HR Generalist,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,23
+2020-02-25,emp-cf15daf5,exempt,comp-56eaac62,Benefits Specialist,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,24
+2020-03-26,emp-66152c8f,exempt,comp-7020373a,Recruiter,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,25
+2020-04-25,emp-64aa987d,exempt,comp-ad83af30,Payroll Analyst,Year,71000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,26
+2020-05-25,emp-cd12205f,exempt,comp-750d30a1,Operations Lead,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,27
+2020-06-24,emp-317e0286,exempt,comp-7457b81c,HR Manager,Year,84000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,28
+2020-07-24,emp-d8f36249,exempt,comp-97be288f,HR Generalist,Year,71000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,29
+2020-08-23,emp-3818d2b7,exempt,comp-46e33aba,Benefits Specialist,Year,58000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,30
+2020-09-22,emp-50935ade,exempt,comp-5789ac78,Recruiter,Year,58000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,31
+2020-10-22,emp-3d223d2b,exempt,comp-1b26f701,Payroll Analyst,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,32
+2020-11-21,emp-5cb00563,exempt,comp-3ff65079,Operations Lead,Year,84000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,33
+2020-12-21,emp-cb4a1025,exempt,comp-76baabf4,HR Manager,Year,84000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,34
+2021-01-20,emp-72463fae,exempt,comp-8b0b334e,HR Generalist,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,35
+2021-02-19,emp-f8250fdc,exempt,comp-2530d2d3,Benefits Specialist,Year,84000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,36
+2021-03-21,emp-33e53598,exempt,comp-f436f06e,Recruiter,Year,71000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,37
+2021-04-20,emp-c404da28,exempt,comp-ff50bc4c,Payroll Analyst,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,38
+2021-05-20,emp-4e01349e,exempt,comp-e6d536f8,Operations Lead,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,39
+2021-06-19,emp-b07d6557,exempt,comp-5bb21eeb,HR Manager,Year,71000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,40
+2021-07-19,emp-86dbc905,exempt,comp-109fd0e5,HR Generalist,Year,96000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,41
+2021-08-18,emp-6399bfca,exempt,comp-19336872,Benefits Specialist,Year,62000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,42
+2021-09-17,emp-4e40a86e,exempt,comp-bb0f9e70,Recruiter,Year,84000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,43
+2021-10-17,emp-7855fdd0,exempt,comp-078c6e8c,Payroll Analyst,Year,58000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,44

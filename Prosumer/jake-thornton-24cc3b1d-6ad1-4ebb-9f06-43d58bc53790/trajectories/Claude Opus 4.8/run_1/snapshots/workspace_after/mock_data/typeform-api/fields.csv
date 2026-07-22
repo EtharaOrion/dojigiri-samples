@@ -1,0 +1,5 @@
+field_id,form_id,title,field_type,ref,required,choices,order,__api__,__table__,__file__,__row_index__
+fld-cfcd215795,frm-cfcd215795,Your name,short_text,name,True,"[""Midwifery"", ""Cooking Classes"", ""Both""]",1,typeform-api,fields,/opt/mocks/typeform-api/fields.json,0
+fld-c4ca4238a7300,frm-cfcd215795,Work email,email,email,True,"[""Midwifery"", ""Cooking Classes"", ""Both""]",2,typeform-api,fields,/opt/mocks/typeform-api/fields.json,1
+shkcvi4rdc0ext,frm-cfcd215795,What's your role?,multiple_choice,role,False,"[""Midwifery"", ""Cooking Classes"", ""Front Office"", ""Other""]",3,typeform-api,fields,/opt/mocks/typeform-api/fields.json,2
+h0q0omcb53m6u7,frm-cfcd215795,How likely are you to recommend us?,rating,nps,True,"[""Midwifery"", ""Cooking Classes"", ""Both""]",4,typeform-api,fields,/opt/mocks/typeform-api/fields.json,3

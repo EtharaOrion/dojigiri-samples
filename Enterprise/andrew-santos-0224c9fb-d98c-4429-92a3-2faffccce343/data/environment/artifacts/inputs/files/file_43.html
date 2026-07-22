@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Showcase Reservation and Support</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Trebuchet MS',Verdana,sans-serif;background:#eef7f4;color:#143b32}
+  header.site{background:linear-gradient(120deg,#0f8a6f,#15a37f);color:#fff;padding:38px 24px}
+  header.site h1{font-size:2rem}
+  header.site p{opacity:.92;margin-top:6px}
+  .wrap{max-width:760px;margin:-28px auto 50px;background:#fff;border-radius:14px;
+    box-shadow:0 14px 36px rgba(15,138,111,.18);overflow:hidden}
+  .wrap .pad{padding:28px}
+  h2{color:#0f8a6f;margin-bottom:6px;font-size:1.25rem}
+  .hint{color:#6f8f86;font-size:.86rem;margin-bottom:18px}
+  label{display:block;font-weight:bold;margin:14px 0 5px;font-size:.92rem}
+  input,select{width:100%;padding:11px;border:2px solid #cfe6df;border-radius:8px;font-size:.95rem;
+    transition:border-color .2s,box-shadow .2s;background:#fbfffe}
+  input:focus,select:focus{outline:none;border-color:#15a37f;box-shadow:0 0 0 3px rgba(21,163,127,.16)}
+  .row{display:flex;gap:16px;flex-wrap:wrap}
+  .row>div{flex:1;min-width:200px}
+  .err{color:#b4341f;font-size:.8rem;margin-top:4px;min-height:14px;display:block}
+  .summary{background:#e7f6f1;border-radius:10px;padding:18px;margin-top:22px;border-left:5px solid #15a37f}
+  .summary .line{display:flex;justify-content:space-between;padding:5px 0;font-size:.95rem}
+  .summary .total{font-size:1.4rem;font-weight:bold;color:#0f8a6f;border-top:2px dashed #acd9cc;margin-top:8px;padding-top:10px}
+  button.go{margin-top:22px;background:#0f8a6f;color:#fff;border:none;padding:14px 26px;border-radius:9px;
+    font-size:1rem;cursor:pointer;width:100%;transition:background .25s,transform .15s}
+  button.go:hover{background:#0b6e58;transform:translateY(-2px)}
+  .ok-msg{display:none;background:#0f8a6f;color:#fff;padding:16px;border-radius:9px;margin-top:18px;animation:pop .4s ease}
+  @keyframes pop{from{opacity:0;transform:scale(.96)}to{opacity:1;transform:none}}
+  footer.site{text-align:center;color:#557d72;padding:24px;font-size:.85rem}
+  @media(max-width:520px){header.site h1{font-size:1.5rem}}
+</style>
+</head>
+<body>
+<header class="site">
+  <h1>Annual Youth Arts Showcase</h1>
+  <p>Reservation and Sponsor Intake &nbsp;|&nbsp; Great Lakes Discovery Center &nbsp;|&nbsp; Saturday, November 14, 2026</p>
+</header>
+<div class="wrap">
+  <div class="pad">
+    <h2>Reserve Your Seats</h2>
+    <p class="hint">Tickets are 75 USD each and support more than four hundred young artists across Detroit. Sponsor tiers are added to your total.</p>
+    <form id="form" novalidate>
+      <div class="row">
+        <div>
+          <label for="nm">Full Name</label>
+          <input id="nm" type="text">
+          <span class="err" id="e-nm"></span>
+        </div>
+        <div>
+          <label for="em">Email</label>
+          <input id="em" type="email">
+          <span class="err" id="e-em"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div>
+          <label for="tk">Number of Tickets</label>
+          <input id="tk" type="number" min="0" max="40" value="2">
+          <span class="err" id="e-tk"></span>
+        </div>
+        <div>
+          <label for="sp">Sponsor Tier</label>
+          <select id="sp">
+            <option value="0">No sponsorship</option>
+            <option value="1000">Friend of the Arts, 1,000 USD</option>
+            <option value="5000">Stage Light, 5,000 USD</option>
+            <option value="10000">Spotlight, 10,000 USD</option>
+            <option value="25000">Headline, 25,000 USD</option>
+          </select>
+        </div>
+      </div>
+      <div class="summary">
+        <div class="line"><span>Tickets</span><span id="sTk">150 USD</span></div>
+        <div class="line"><span>Sponsorship</span><span id="sSp">0 USD</span></div>
+        <div class="line total"><span>Total</span><span id="sTotal">150 USD</span></div>
+      </div>
+      <button class="go" type="submit">Confirm Reservation</button>
+      <div class="ok-msg" id="ok"></div>
+    </form>
+  </div>
+</div>
+<footer class="site">
+  Detroit Youth Arts Alliance &nbsp;|&nbsp; Cass Avenue, Midtown Detroit &nbsp;|&nbsp; Copyright 2026 &nbsp;|&nbsp; andrew.santos@Greenridertech.co
+</footer>
+<script>
+  var tk=document.getElementById('tk'),sp=document.getElementById('sp');
+  function money(n){return n.toLocaleString()+' USD';}
+  function recalc(){
+    var t=Math.max(0,parseInt(tk.value)||0)*75;
+    var s=parseInt(sp.value)||0;
+    document.getElementById('sTk').textContent=money(t);
+    document.getElementById('sSp').textContent=money(s);
+    document.getElementById('sTotal').textContent=money(t+s);
+  }
+  tk.addEventListener('input',recalc);sp.addEventListener('change',recalc);recalc();
+  document.getElementById('form').addEventListener('submit',function(ev){
+    ev.preventDefault();var good=true;
+    var nm=document.getElementById('nm'),em=document.getElementById('em');
+    document.getElementById('e-nm').textContent='';
+    document.getElementById('e-em').textContent='';
+    document.getElementById('e-tk').textContent='';
+    if(!nm.value.trim()){document.getElementById('e-nm').textContent='Please enter your name.';good=false;}
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em.value)){document.getElementById('e-em').textContent='Enter a valid email.';good=false;}
+    var t=parseInt(tk.value);if(isNaN(t)||t<0){document.getElementById('e-tk').textContent='Enter zero or more.';good=false;}
+    if(good){
+      var ok=document.getElementById('ok');
+      ok.style.display='block';
+      ok.textContent='Thank you, '+nm.value.trim()+'. Your reservation total is '+document.getElementById('sTotal').textContent+'. A confirmation will reach '+em.value+' shortly.';
+    }
+  });
+</script>
+</body>
+</html>

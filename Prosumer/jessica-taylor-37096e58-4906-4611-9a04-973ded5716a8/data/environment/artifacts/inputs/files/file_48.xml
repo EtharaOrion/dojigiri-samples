@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addressbook owner="Jessica Taylor">
+  <owner><name>Jessica Marie Taylor</name><city>Los Angeles, Koreatown</city><email>jessica.taylor@Finthesiss.ai</email></owner>
+  <contact>
+    <name>Grace Taylor</name>
+    <relationship>Mother</relationship>
+    <phone>408-555-0123</phone>
+    <email>grace.taylor.sj@gmail.com</email>
+    <age>58</age>
+  </contact>
+  <contact>
+    <name>David Taylor</name>
+    <relationship>Father</relationship>
+    <phone>408-555-0124</phone>
+    <email>david.taylor.engineer@gmail.com</email>
+    <age>61</age>
+  </contact>
+  <contact>
+    <name>Mia Petrov</name>
+    <relationship>Best friend</relationship>
+    <phone>323-555-0267</phone>
+    <email>mia.petrov.la@gmail.com</email>
+    <age>31</age>
+  </contact>
+  <contact>
+    <name>Tomas Varga</name>
+    <relationship>Close friend</relationship>
+    <phone>415-555-0389</phone>
+    <email>tomas.varga.sf@gmail.com</email>
+    <age>30</age>
+  </contact>
+  <contact>
+    <name>Nina Okafor</name>
+    <relationship>Client and friend</relationship>
+    <phone>310-555-0412</phone>
+    <email>nina@bloomskinco.com</email>
+    <age>35</age>
+  </contact>
+  <contact>
+    <name>Ray Mitchell</name>
+    <relationship>Mentor</relationship>
+    <phone>213-555-0534</phone>
+    <email>ray.mitchell.design@gmail.com</email>
+    <age>45</age>
+  </contact>
+  <contact>
+    <name>Dr. Jennifer Moss</name>
+    <relationship>Dentist</relationship>
+    <phone>213-555-0600</phone>
+    <email>frontdesk@wilshiredental.example</email>
+    <age>40</age>
+  </contact>
+  <contact>
+    <name>Verdant Provisions</name>
+    <relationship>Client</relationship>
+    <phone>310-555-0700</phone>
+    <email>hello@verdantprovisions.com</email>
+  </contact>
+  <contact>
+    <name>Pinnacle Collective</name>
+    <relationship>Client</relationship>
+    <phone>213-555-0715</phone>
+    <email>info@pinnaclecollective.com</email>
+  </contact>
+</addressbook>

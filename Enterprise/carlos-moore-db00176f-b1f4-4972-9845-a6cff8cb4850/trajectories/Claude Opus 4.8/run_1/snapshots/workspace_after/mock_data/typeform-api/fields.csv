@@ -1,0 +1,25 @@
+field_id,field_type,form_id,order,ref,required,title,choices,__api__,__table__,__file__,__row_index__
+fld-cfcd208495,short_text,frm-cfcd208495,1,respondent_name,True,Your name,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,0
+fld-c4ca4238a0,email,frm-cfcd208495,2,work_email,True,Work email,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,1
+fld-c81e728d9d,multiple_choice,frm-cfcd208495,3,wellness_interest,False,Which wellness activities interest you most?,"[""Fitness classes"", ""Mental health resources"", ""Nutrition coaching"", ""Health screenings""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,2
+fld-eccbc87e4b,rating,frm-cfcd208495,4,balance_rating,True,How would you rate your current work-life balance?,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,3
+fld-d3d9446802,short_text,frm-c4ca4238a0,1,respondent_name,True,Your name,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,4
+fld-6512bd43d9,email,frm-c4ca4238a0,2,work_email,True,Work email,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,5
+fld-c20ad4d76f,multiple_choice,frm-c4ca4238a0,3,plan_selected,False,Which benefits plan did you select?,"[""PPO"", ""HDHP with HSA"", ""HMO"", ""Waived coverage""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,6
+fld-c51ce410c1,rating,frm-c4ca4238a0,4,clarity_rating,True,How clear was the open enrollment process?,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,7
+fld-98f1370821,short_text,frm-c81e728d9d,1,respondent_name,True,Your name,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,8
+fld-3c59dc048e,email,frm-c81e728d9d,2,work_email,True,Work email,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,9
+fld-b6d767d2f8,multiple_choice,frm-c81e728d9d,3,tenure,False,How long have you been with Bellmark?,"[""Under 1 year"", ""1-3 years"", ""3-5 years"", ""5+ years""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,10
+fld-37693cfc74,rating,frm-c81e728d9d,4,recommend_rating,True,How likely are you to recommend Bellmark as a place to work?,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,11
+fld-34173cb38f,short_text,frm-eccbc87e4b,1,respondent_name,True,Your name,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,12
+fld-c16a5320fa,email,frm-eccbc87e4b,2,work_email,True,Work email,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,13
+fld-6364d3f0f4,multiple_choice,frm-eccbc87e4b,3,department,False,Which department did you join?,"[""Manufacturing"", ""Sales"", ""Corporate"", ""Distribution""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,14
+fld-182be0c5cd,rating,frm-eccbc87e4b,4,onboarding_rating,True,How would you rate your first-week onboarding experience?,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,15
+fld-d645920e39,short_text,frm-a87ff679a2,1,respondent_name,True,Your name,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,16
+fld-3416a75f4c,email,frm-a87ff679a2,2,work_email,True,Work email,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,17
+fld-a1d0c6e83f,multiple_choice,frm-a87ff679a2,3,belonging,False,Do you feel a sense of belonging at Bellmark?,"[""Strongly agree"", ""Agree"", ""Neutral"", ""Disagree""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,18
+fld-17e62166fc,rating,frm-a87ff679a2,4,inclusion_rating,True,How inclusive is your immediate team?,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,19
+fld-c0c7c76d30,short_text,frm-e4da3b7fbb,1,respondent_name,True,Your name,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,20
+fld-2838023a77,email,frm-e4da3b7fbb,2,work_email,True,Work email,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,21
+fld-9a1158154d,multiple_choice,frm-e4da3b7fbb,3,format_pref,False,Which learning format do you prefer?,"[""Live workshops"", ""Online courses"", ""Mentorship"", ""Lunch and learns""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,22
+fld-d82c8d1619,rating,frm-e4da3b7fbb,4,growth_rating,True,How satisfied are you with current growth opportunities?,"[""not applicable (text field)""]",typeform-api,fields,/opt/mocks/typeform-api/fields.json,23

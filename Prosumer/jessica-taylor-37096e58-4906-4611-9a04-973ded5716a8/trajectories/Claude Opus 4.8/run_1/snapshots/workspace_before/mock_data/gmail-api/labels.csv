@@ -1,0 +1,28 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,INBOX,system,148,0,92,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,148,0,92,0
+SENT,SENT,system,62,0,41,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,62,0,41,0
+DRAFT,DRAFT,system,5,0,5,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,5,0,5,0
+SPAM,SPAM,system,12,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,12,0,12,0
+STARRED,STARRED,system,24,0,22,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,24,0,22,0
+Label_clients,Clients,user,220,0,140,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,220,0,140,0
+Label_wellness,Wellness,user,42,0,34,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,42,0,34,0
+Label_finance,Finance + Taxes,user,88,0,62,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,7,88,0,62,0
+Label_family,Family,user,36,0,28,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,8,36,0,28,0
+Label_inspiration,Inspiration + refs,user,58,0,44,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,9,58,0,44,0
+INBOX-v11,INBOX,system,148,0,92,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,10,148,0,92,0
+SENT-v12,SENT,system,62,0,41,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,11,62,0,41,0
+DRAFT-v13,DRAFT,system,5,0,5,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,12,5,0,5,0
+SPAM-v14,SPAM,system,12,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,13,12,0,12,0
+STARRED-v15,STARRED,system,24,0,22,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,14,24,0,22,0
+Label_clients-v16,Clients,user,220,0,140,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,15,220,0,140,0
+Label_wellness-v17,Wellness,user,42,0,34,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,16,42,0,34,0
+Label_finance-v18,Finance + Taxes,user,88,0,62,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,17,88,0,62,0
+Label_family-v19,Family,user,36,0,28,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,18,36,0,28,0
+Label_inspiration-v20,Inspiration + refs,user,58,0,44,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,19,58,0,44,0
+Label_verdant,Verdant Provisions,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,20,24,0,12,0
+Label_pinnacle,Pinnacle Collective,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,21,24,0,12,0
+Label_bloom,Bloom Skin Co,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,22,24,0,12,0
+Label_receipts,Receipts,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,23,24,0,12,0
+Label_friends,Friends,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,24,24,0,12,0
+Label_mentor,Ray Mitchell,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,25,24,0,12,0
+Label_health,Health,user,24,0,12,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,26,24,0,12,0

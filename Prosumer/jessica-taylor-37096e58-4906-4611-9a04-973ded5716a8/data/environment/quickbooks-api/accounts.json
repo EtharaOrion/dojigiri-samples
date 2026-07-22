@@ -1,0 +1,102 @@
+[
+  {
+    "Id": "acct-1000",
+    "Name": "Chase Sapphire Business",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": 2843.55,
+    "Active": true,
+    "Description": "Chase Sapphire Business — Checking",
+    "Classification": "Asset"
+  },
+  {
+    "Id": "acct-1010",
+    "Name": "Ally Business Checking",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": 5240.12,
+    "Active": true,
+    "Description": "Ally Business Checking — Checking",
+    "Classification": "Asset"
+  },
+  {
+    "Id": "acct-1020",
+    "Name": "Ally High-Yield Savings",
+    "AccountType": "Bank",
+    "AccountSubType": "Savings",
+    "CurrentBalance": 5200.0,
+    "Active": true,
+    "Description": "Ally High-Yield Savings — Savings",
+    "Classification": "Asset"
+  },
+  {
+    "Id": "acct-1030",
+    "Name": "Fidelity Roth IRA",
+    "AccountType": "Other Asset",
+    "AccountSubType": "OtherLongTermAssets",
+    "CurrentBalance": 6800.0,
+    "Active": true,
+    "Description": "Fidelity Roth IRA — OtherLongTermAssets",
+    "Classification": "Expense"
+  },
+  {
+    "Id": "acct-4000",
+    "Name": "Design Services Revenue",
+    "AccountType": "Income",
+    "AccountSubType": "ServiceFeeIncome",
+    "CurrentBalance": 0.0,
+    "Active": true,
+    "Description": "Design Services Revenue — ServiceFeeIncome",
+    "Classification": "Revenue"
+  },
+  {
+    "Id": "acct-5000",
+    "Name": "Software & Subscriptions",
+    "AccountType": "Expense",
+    "AccountSubType": "OtherMiscellaneousServiceCost",
+    "CurrentBalance": 0.0,
+    "Active": true,
+    "Description": "Software & Subscriptions — OtherMiscellaneousServiceCost",
+    "Classification": "Expense"
+  },
+  {
+    "Id": "acct-5010",
+    "Name": "Client Meeting Meals",
+    "AccountType": "Expense",
+    "AccountSubType": "TravelMeals",
+    "CurrentBalance": 0.0,
+    "Active": true,
+    "Description": "Client Meeting Meals — TravelMeals",
+    "Classification": "Expense"
+  },
+  {
+    "Id": "acct-5020",
+    "Name": "Office & Home Studio",
+    "AccountType": "Expense",
+    "AccountSubType": "OfficeGeneralAdministrativeExpenses",
+    "CurrentBalance": 0.0,
+    "Active": true,
+    "Description": "Office & Home Studio — OfficeGeneralAdministrativeExpenses",
+    "Classification": "Expense"
+  },
+  {
+    "Id": "acct-5030",
+    "Name": "Estimated Tax Payments",
+    "AccountType": "Expense",
+    "AccountSubType": "TaxesPaid",
+    "CurrentBalance": 0.0,
+    "Active": true,
+    "Description": "Estimated Tax Payments — TaxesPaid",
+    "Classification": "Expense"
+  },
+  {
+    "Id": "acct-5040",
+    "Name": "Print & Production",
+    "AccountType": "Expense",
+    "AccountSubType": "SuppliesMaterials",
+    "CurrentBalance": 0.0,
+    "Active": true,
+    "Description": "Print & Production — SuppliesMaterials",
+    "Classification": "Expense"
+  }
+]

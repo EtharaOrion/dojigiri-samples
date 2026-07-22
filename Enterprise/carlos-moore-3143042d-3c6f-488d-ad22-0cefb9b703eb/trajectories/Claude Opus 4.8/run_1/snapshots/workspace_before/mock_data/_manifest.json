@@ -1,0 +1,232 @@
+{
+  "label": "before_injection",
+  "ts": 1784540792.638762,
+  "ts_iso": "2026-07-20T09:46:32Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 1,
+        "records_tblContacts00001": 22,
+        "records_tblProjects00001": 20,
+        "records_tblTasks00000001": 26,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 6,
+        "sections": 24,
+        "tasks": 29,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "bamboohr-api": {
+      "tables": {
+        "employees": 117,
+        "time_off": 43,
+        "whos_out": 19
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "calendly-api": {
+      "tables": {
+        "availability": 5,
+        "event_types": 3,
+        "invitees": 22,
+        "scheduled_events": 22
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "confluence-api": {
+      "tables": {
+        "comments": 22,
+        "labels": 23,
+        "pages": 22,
+        "spaces": 4
+      },
+      "documents": {}
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 28,
+        "envelopes": 110,
+        "recipients": 30,
+        "templates": 6
+      },
+      "documents": {}
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 1,
+        "events": 52
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "greenhouse-api": {
+      "tables": {
+        "applications": 104,
+        "candidates": 35,
+        "jobs": 25,
+        "scorecards": 35
+      },
+      "documents": {}
+    },
+    "gusto-api": {
+      "tables": {
+        "compensations": 45,
+        "contractors": 4,
+        "employees": 111,
+        "payrolls": 10
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "jira-api": {
+      "tables": {
+        "boards": 2,
+        "issues": 20,
+        "projects": 2,
+        "sprints": 3,
+        "users": 20
+      },
+      "documents": {}
+    },
+    "microsoft-teams-api": {
+      "tables": {
+        "channels": 20,
+        "messages": 30,
+        "teams": 9
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 52,
+        "comments": 22,
+        "databases": 3,
+        "pages": 22,
+        "users": 2
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "okta-api": {
+      "tables": {
+        "app_assignments": 32,
+        "apps": 20,
+        "groups": 10,
+        "memberships": 38,
+        "users": 20
+      },
+      "documents": {}
+    },
+    "outlook-api": {
+      "tables": {
+        "contacts": 22,
+        "events": 53,
+        "messages": 24
+      },
+      "documents": {}
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 3,
+        "transactions": 40
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 25,
+        "bills": 24,
+        "customers": 20,
+        "estimates": 20,
+        "expenses": 20,
+        "invoices": 24,
+        "items": 20,
+        "payments": 16,
+        "vendors": 20
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "servicenow-api": {
+      "tables": {
+        "changes": 20,
+        "incidents": 24,
+        "problems": 20,
+        "users": 24
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 162,
+        "channels": 20,
+        "messages": 27,
+        "users": 20
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 22,
+        "customers": 24,
+        "invoices": 22,
+        "payment_intents": 0,
+        "prices": 24,
+        "products": 24,
+        "refunds": 0,
+        "subscriptions": 24
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "whatsapp-api": {
+      "tables": {
+        "contacts": 22,
+        "conversations": 20,
+        "messages": 52,
+        "templates": 22
+      },
+      "documents": {
+        "business": true
+      }
+    },
+    "zoom-api": {
+      "tables": {
+        "meetings": 29,
+        "recordings": 12,
+        "registrants": 28
+      },
+      "documents": {
+        "user": true
+      }
+    }
+  }
+}

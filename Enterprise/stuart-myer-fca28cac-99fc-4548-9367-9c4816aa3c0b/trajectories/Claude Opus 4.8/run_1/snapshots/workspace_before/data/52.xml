@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Calendar export, Stuart Myer personal and brewery schedule, October to November 2026 window.
+     Generated from Google Calendar via stable-api export. -->
+<calendarExport xmlns="https://calendar.google.com/schema/export" version="2.1">
+  <metadata>
+    <owner email="stuart.myer@voissync.ai" displayName="Stuart Myer"/>
+    <timezone id="America/Los_Angeles" abbreviation="PT"/>
+    <window from="2026-10-01" to="2026-11-30"/>
+    <generated at="2026-10-12T07:02:11-07:00"/>
+  </metadata>
+
+  <calendars>
+    <calendar id="cal_personal" displayName="Personal" color="#5aa8ff"/>
+    <calendar id="cal_brewery" displayName="Driftwood Brewing" color="#d69e2e"/>
+    <calendar id="cal_coalition" displayName="Clean Water Coalition" color="#15a37f"/>
+    <calendar id="cal_family" displayName="Family" color="#ff5a89"/>
+  </calendars>
+
+  <events>
+    <event id="evt_2026_10_03_oktoberfest" calendarRef="cal_brewery">
+      <summary>Oktoberfest Amber Lager release night</summary>
+      <location>Driftwood Brewing Company, 2233 E Burnside St, Portland OR 97214</location>
+      <start>2026-10-03T15:00:00-07:00</start>
+      <end>2026-10-03T23:00:00-07:00</end>
+      <attendees>
+        <attendee email="jake.callahan@gmail.com" name="Jake Callahan" role="organizer"/>
+        <attendee email="megan.hale.m@gmail.com" name="Megan Hale" role="floor lead"/>
+      </attendees>
+      <description>Festival release night. Brat and pretzel pop up. Casey and Renata bar.</description>
+    </event>
+
+    <event id="evt_2026_10_07_coalition_board" calendarRef="cal_coalition">
+      <summary>Coalition board meeting</summary>
+      <location>Evergreen Club, 1100 SW Salmon St, Portland OR 97205</location>
+      <start>2026-10-07T19:00:00-07:00</start>
+      <end>2026-10-07T20:30:00-07:00</end>
+      <attendees>
+        <attendee email="david.cortez.cwc@gmail.com" name="David Cortez" role="chair"/>
+        <attendee email="stuart.myer@voissync.ai" name="Stuart Myer" role="water quality lead"/>
+      </attendees>
+      <description>Monthly board meeting. Water data review, CAFO hearing strategy, annual report status.</description>
+    </event>
+
+    <event id="evt_2026_10_10_cleanup" calendarRef="cal_coalition">
+      <summary>Watershed cleanup, October sampling round</summary>
+      <location>Johnson Creek, Milwaukie confluence</location>
+      <start>2026-10-10T08:00:00-07:00</start>
+      <end>2026-10-10T13:00:00-07:00</end>
+      <description>Volunteer cleanup and sample collection for Round 3, 2026.</description>
+    </event>
+
+    <event id="evt_2026_10_15_dryhop" calendarRef="cal_brewery">
+      <summary>Wild Ale dry-hop addition</summary>
+      <location>Driftwood Brewing Company, cellar</location>
+      <start>2026-10-15T06:30:00-07:00</start>
+      <end>2026-10-15T08:30:00-07:00</end>
+      <description>Cascade and Mosaic dry hop addition for anniversary release.</description>
+    </event>
+
+    <event id="evt_2026_10_17_festival" calendarRef="cal_brewery">
+      <summary>Pacific Craft Beer Festival, vendor pour</summary>
+      <location>Tom McCall Waterfront Park, Portland OR</location>
+      <start>2026-10-17T11:00:00-07:00</start>
+      <end>2026-10-17T20:00:00-07:00</end>
+      <attendees>
+        <attendee email="megan.hale.m@gmail.com" name="Megan Hale"/>
+      </attendees>
+    </event>
+
+    <event id="evt_2026_10_20_review" calendarRef="cal_coalition">
+      <summary>David testimony review</summary>
+      <location>Phone with David Cortez</location>
+      <start>2026-10-20T17:30:00-07:00</start>
+      <end>2026-10-20T18:00:00-07:00</end>
+      <description>Final read of written testimony before submission.</description>
+    </event>
+
+    <event id="evt_2026_10_21_portal" calendarRef="cal_coalition">
+      <summary>Submit testimony to county portal</summary>
+      <location>Online, ServiceNow MULTCO portal</location>
+      <start>2026-10-21T14:00:00-07:00</start>
+      <end>2026-10-21T16:30:00-07:00</end>
+      <description>Hard deadline 5 PM. Written statement only, raw data withheld unless cleared.</description>
+      <reminder minutes="120" method="email"/>
+    </event>
+
+    <event id="evt_2026_10_22_hearing" calendarRef="cal_coalition">
+      <summary>CAFO permit hearing, oral testimony</summary>
+      <location>Multnomah Building, 501 SE Hawthorne Blvd</location>
+      <start>2026-10-22T09:30:00-07:00</start>
+      <end>2026-10-22T11:00:00-07:00</end>
+      <description>Three minutes oral. Confirmation MULTCO-HRG-2026-22-0091. Position opposed.</description>
+      <reminder minutes="60" method="popup"/>
+    </event>
+
+    <event id="evt_2026_10_31_anniversary" calendarRef="cal_brewery">
+      <summary>Anniversary Wild Ale, foeder release</summary>
+      <location>Driftwood Brewing Company taproom</location>
+      <start>2026-10-31T16:00:00-07:00</start>
+      <end>2026-10-31T23:00:00-07:00</end>
+      <description>Bottle release plus single night draft pour.</description>
+    </event>
+
+    <event id="evt_2026_11_07_wedding" calendarRef="cal_personal">
+      <summary>Jake and Rachel wedding, best man</summary>
+      <location>Riverdale Botanical Gardens, Portland OR</location>
+      <start>2026-11-07T16:00:00-08:00</start>
+      <end>2026-11-07T22:00:00-08:00</end>
+      <reminder minutes="1440" method="email"/>
+    </event>
+
+    <event id="evt_2026_11_15_familydinner" calendarRef="cal_family">
+      <summary>Sunday family dinner, Bubbe and Deb</summary>
+      <location>Greenfield Hawthorne</location>
+      <start>2026-11-15T17:30:00-08:00</start>
+      <end>2026-11-15T20:00:00-08:00</end>
+    </event>
+  </events>
+
+  <recurringRules>
+    <rule id="rec_brew_tue" calendarRef="cal_brewery" recurs="weekly" days="TU" startTime="05:30" durationHours="6">
+      <summary>Brew day, Tuesday</summary>
+    </rule>
+    <rule id="rec_brew_thu" calendarRef="cal_brewery" recurs="weekly" days="TH" startTime="05:30" durationHours="6">
+      <summary>Brew day, Thursday</summary>
+    </rule>
+    <rule id="rec_finance" calendarRef="cal_personal" recurs="monthly" daysOfMonth="1,15" startTime="20:00" durationHours="1">
+      <summary>Finance review with Jake</summary>
+    </rule>
+  </recurringRules>
+</calendarExport>

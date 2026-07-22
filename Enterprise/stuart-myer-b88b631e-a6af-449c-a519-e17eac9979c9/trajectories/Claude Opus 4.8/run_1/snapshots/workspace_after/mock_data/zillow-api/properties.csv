@@ -1,0 +1,26 @@
+address,bathrooms,bedrooms,city,days_on_zillow,home_type,latitude,list_price,listing_agent_id,living_area_sqft,longitude,lot_size_sqft,rent_zestimate,state,status,year_built,zestimate,zipcode,zpid,__api__,__table__,__file__,__row_index__
+437 Birch St,2.0,2,Portland,64,SINGLE_FAMILY,45.509297,966071,agent-1000,1699,-122.683682,4109,2766,OR,SOLD,1977,990545,97201,3434526,zillow-api,properties,/opt/mocks/zillow-api/properties.json,0
+974 Oak St,3.0,2,Portland,19,CONDO,45.537118,1004135,agent-1001,1870,-122.691447,3657,2908,OR,FOR_SALE,1953,988729,97201,8055395,zillow-api,properties,/opt/mocks/zillow-api/properties.json,1
+479 Birch Ave,2.0,2,Portland,59,TOWNHOUSE,45.479358,906342,agent-1002,1690,-122.724521,5584,3136,OR,FOR_SALE,1946,933806,97201,5216192,zillow-api,properties,/opt/mocks/zillow-api/properties.json,2
+1422 Elm Rd,2.0,5,Portland,51,MULTI_FAMILY,45.53738,1122494,agent-1000,2709,-122.718036,7510,3985,OR,FOR_SALE,1956,1150525,97201,1749645,zillow-api,properties,/opt/mocks/zillow-api/properties.json,3
+763 Elm Ln,2.5,4,Portland,33,APARTMENT,45.546449,1050039,agent-1001,2417,-122.647403,4745,3338,OR,SOLD,1964,1087617,97201,7452281,zillow-api,properties,/opt/mocks/zillow-api/properties.json,4
+1437 Birch Ave,1.5,3,Portland,118,SINGLE_FAMILY,45.521787,793787,agent-1002,2050,-122.67679,6622,2210,OR,FOR_SALE,1971,810374,97201,3665970,zillow-api,properties,/opt/mocks/zillow-api/properties.json,5
+290 Birch Ln,1.0,5,Portland,56,CONDO,45.533952,1422760,agent-1000,2957,-122.689817,4745,4253,OR,FOR_SALE,1957,1485852,97201,3569270,zillow-api,properties,/opt/mocks/zillow-api/properties.json,6
+1471 Ash Rd,1.5,3,Portland,36,TOWNHOUSE,45.538765,906419,agent-1001,2331,-122.636716,5062,3236,OR,FOR_SALE,1980,911857,97201,8043493,zillow-api,properties,/opt/mocks/zillow-api/properties.json,7
+677 Willow St,1.5,5,Portland,113,MULTI_FAMILY,45.491924,1336214,agent-1002,2893,-122.695039,6510,4450,OR,SOLD,1956,1318900,97201,1867449,zillow-api,properties,/opt/mocks/zillow-api/properties.json,8
+63 Birch Ln,2.5,2,Portland,72,APARTMENT,45.546114,720422,agent-1000,1701,-122.649927,6306,2388,OR,FOR_SALE,1970,730181,97201,2168541,zillow-api,properties,/opt/mocks/zillow-api/properties.json,9
+486 Chestnut St,2.5,3,Portland,78,SINGLE_FAMILY,45.46998,1013410,agent-1001,1992,-122.711416,6239,3255,OR,FOR_SALE,2010,990113,97201,5209007,zillow-api,properties,/opt/mocks/zillow-api/properties.json,10
+106 Elm Rd,2.0,4,Portland,24,CONDO,45.481747,890016,agent-1002,2677,-122.69885,4886,2789,OR,FOR_SALE,1972,916161,97201,2535560,zillow-api,properties,/opt/mocks/zillow-api/properties.json,11
+123 Elm Rd,1.5,2,Portland,45,TOWNHOUSE,45.542517,751296,agent-1000,1603,-122.664421,7216,2247,OR,SOLD,1993,785025,97201,6552716,zillow-api,properties,/opt/mocks/zillow-api/properties.json,12
+527 Cedar Ave,2.0,4,Portland,116,MULTI_FAMILY,45.538465,1185465,agent-1001,2320,-122.639453,4806,4196,OR,FOR_SALE,1983,1243527,97201,2512966,zillow-api,properties,/opt/mocks/zillow-api/properties.json,13
+754 Pine Ln,1.0,5,Portland,7,APARTMENT,45.470263,1494631,agent-1002,2962,-122.679177,8057,4871,OR,FOR_SALE,1939,1489459,97201,6445209,zillow-api,properties,/opt/mocks/zillow-api/properties.json,14
+315 Walnut Pl,1.5,2,Portland,80,SINGLE_FAMILY,45.476721,909138,agent-1000,1780,-122.69752,7758,2992,OR,FOR_SALE,1997,947508,97201,6178202,zillow-api,properties,/opt/mocks/zillow-api/properties.json,15
+1392 Cedar Pl,1.0,3,Portland,100,CONDO,45.523678,1037283,agent-1001,1979,-122.716785,5999,3472,OR,SOLD,1958,1075895,97201,1735549,zillow-api,properties,/opt/mocks/zillow-api/properties.json,16
+697 Ash Ave,2.0,4,Portland,93,TOWNHOUSE,45.564505,1095206,agent-1002,2679,-122.635991,7362,3411,OR,FOR_SALE,1967,1114098,97201,5084939,zillow-api,properties,/opt/mocks/zillow-api/properties.json,17
+302 Chestnut Blvd,3.0,4,Portland,68,MULTI_FAMILY,45.551581,811484,agent-1000,2337,-122.637602,6960,2446,OR,FOR_SALE,2005,794772,97201,2918242,zillow-api,properties,/opt/mocks/zillow-api/properties.json,18
+624 Birch Ave,2.0,3,Portland,91,APARTMENT,45.548069,922005,agent-1001,2059,-122.639468,7684,3058,OR,FOR_SALE,1963,936758,97201,2295691,zillow-api,properties,/opt/mocks/zillow-api/properties.json,19
+609 Pine Ave,2.0,5,Portland,43,SINGLE_FAMILY,45.54267,1314794,agent-1002,2859,-122.639275,4751,3889,OR,SOLD,1961,1316303,97201,2027539,zillow-api,properties,/opt/mocks/zillow-api/properties.json,20
+268 Birch Ave,1.5,5,Portland,8,CONDO,45.469805,1258458,agent-1000,2842,-122.630595,5982,3786,OR,FOR_SALE,1949,1283072,97201,5703425,zillow-api,properties,/opt/mocks/zillow-api/properties.json,21
+430 Cedar St,2.5,3,Portland,15,TOWNHOUSE,45.501217,1209831,agent-1001,2247,-122.642942,3207,3719,OR,FOR_SALE,1929,1217388,97201,4600370,zillow-api,properties,/opt/mocks/zillow-api/properties.json,22
+1004 Pine Pl,2.5,3,Portland,64,MULTI_FAMILY,45.511077,996973,agent-1002,2007,-122.638681,3354,2895,OR,FOR_SALE,1956,1019382,97201,8959719,zillow-api,properties,/opt/mocks/zillow-api/properties.json,23
+1308 Willow Rd,2.0,2,Portland,100,APARTMENT,45.539412,945455,agent-1000,1974,-122.656936,3186,3136,OR,SOLD,2000,974466,97201,1568100,zillow-api,properties,/opt/mocks/zillow-api/properties.json,24

@@ -1,0 +1,16 @@
+address_from,address_to,created_time,object_id,parcel,status,__api__,__table__,__file__,__row_index__
+addr-3d88def86959,addr-88390fdd8067,2026-03-27T00:00:00Z,ship-a877643f75da,parcel-202785a881fb,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,0
+addr-3d88def86959,addr-3fb2ee0de6ca,2026-03-24T00:00:00Z,ship-d245fbe374bf,parcel-3aef5c0626a4,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,1
+addr-3d88def86959,addr-1df96a58f2d6,2026-03-21T00:00:00Z,ship-bc92fb006bfa,parcel-8f410e122eb0,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,2
+addr-3d88def86959,addr-e2010fbc90f2,2026-03-18T00:00:00Z,ship-53604ac4ce57,parcel-6c6f3d87a07c,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,3
+addr-3d88def86959,addr-11bbab4d05cc,2026-03-15T00:00:00Z,ship-f60553a816fb,parcel-202785a881fb,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,4
+addr-3d88def86959,addr-844ec4a2ec70,2026-03-12T00:00:00Z,ship-c2ed24ec0744,parcel-3aef5c0626a4,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,5
+addr-3d88def86959,addr-88390fdd8067,2026-03-09T00:00:00Z,ship-3d37d8075501,parcel-8f410e122eb0,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,6
+addr-3d88def86959,addr-3fb2ee0de6ca,2026-03-06T00:00:00Z,ship-2f3b4933d2d8,parcel-6c6f3d87a07c,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,7
+addr-3d88def86959,addr-1df96a58f2d6,2026-03-03T00:00:00Z,ship-6dc833610a4d,parcel-202785a881fb,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,8
+addr-3d88def86959,addr-e2010fbc90f2,2026-02-28T00:00:00Z,ship-15b77103c4fc,parcel-3aef5c0626a4,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,9
+addr-3d88def86959,addr-11bbab4d05cc,2026-02-28T00:00:00Z,ship-8955fc5f63b7,parcel-8f410e122eb0,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,10
+addr-3d88def86959,addr-844ec4a2ec70,2026-02-25T00:00:00Z,ship-2baea74adef3,parcel-6c6f3d87a07c,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,11
+addr-3d88def86959,addr-88390fdd8067,2026-02-22T00:00:00Z,ship-f83e79171670,parcel-202785a881fb,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,12
+addr-3d88def86959,addr-3fb2ee0de6ca,2026-02-19T00:00:00Z,ship-2936720ace75,parcel-3aef5c0626a4,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,13
+addr-3d88def86959,addr-1df96a58f2d6,2026-02-16T00:00:00Z,ship-b5d726f4c922,parcel-8f410e122eb0,SUCCESS,shippo-api,shipments,/opt/mocks/shippo-api/shipments.json,14

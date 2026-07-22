@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Stuart Myer",
+    "PreparedDate": "2026-02-15",
+    "Context": "Back-of-napkin with Jake before the fall lease renewal, to see how much wholesale we need on top of the taproom to cover fixed costs.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 60,
+          "Rate": 25,
+          "Total": 1500
+        },
+        "DropIns": {
+          "AvgMonthly": 18200
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 1100
+        },
+        "TotalMonthlyRevenue": 28700
+      },
+      "MonthlyExpenses": {
+        "Rent": 4200,
+        "Utilities": {
+          "Electric": 540,
+          "Water": 240,
+          "Total": 960
+        },
+        "Insurance": {
+          "Quarterly": 2280,
+          "Monthly": 760
+        },
+        "InstructorPay_Raj": 9800,
+        "Cleaning": {
+          "BiWeekly": 175,
+          "Monthly": 350
+        },
+        "Supplies": {
+          "AvgMonthly": 3420
+        },
+        "Marketing": {
+          "AvgMonthly": 350
+        },
+        "TotalMonthlyExpenses": 22700
+      },
+      "MonthlyNetIncome": 6000,
+      "AaronDrawFromNet": 3000,
+      "RetainedForReserves": 2000,
+      "Note": "Rough estimate only. Revisit with the accountant once the 2026 books close."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Rent increases to $4,500/mo at fall lease renewal",
+        "NewRent": 4500,
+        "RentIncrease": 300,
+        "NewTotalExpenses": 23000,
+        "NewNetIncome": 5700,
+        "BreakEvenMembers": 10,
+        "BreakEvenCalculation": "Fixed costs covered by taproom leave ~$4,500 gap; at ~$470/wholesale account, need ~10 accounts to break even. We run 20.",
+        "Impact": "Minimal. Comfortable headroom at 20 wholesale accounts."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case - deep winter taproom dip plus rent bump",
+        "NewRent": 4700,
+        "RentIncrease": 500,
+        "NewTotalExpenses": 23200,
+        "NewNetIncome": 1150,
+        "BreakEvenMembers": 19,
+        "Impact": "Tight but positive. Lean on can releases and the holiday party to bridge the winter low."
+      }
+    },
+    "KeyInsight": "Break-even is ~10 wholesale accounts on top of a normal taproom month. At 20 accounts we have real headroom; a deep winter taproom dip is the thing to watch.",
+    "ActionItems": [
+      "Confirm renewal rent with Burnside Industrial before the October lease deadline",
+      "Revisit after year-end with the accountant for proper 2026 modeling"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+AccountID,Code,Name,Type,TaxType,Status,Description,EnablePaymentsToAccount
+fcfe0721-9f4f-69bd-49d5-f43edca38fd5,200,Sales,REVENUE,OUTPUT2,ACTIVE,Standard sales revenue,False
+7f2f13ad-b4b4-e888-4da6-8f095f84fcdc,260,Other Revenue,REVENUE,OUTPUT2,ACTIVE,Other income,False
+8ae2dbc2-3c19-2085-4c9a-975131283cd9,310,Cost of Goods Sold,EXPENSE,INPUT2,ACTIVE,COGS,False
+11f157cf-08f4-4c9b-4b70-9ec5a3e661a5,400,Advertising,EXPENSE,INPUT2,ACTIVE,Marketing spend,False
+d197f79b-c7bf-69b9-4991-2b87c0af4021,404,Bank Fees,EXPENSE,INPUT2,ACTIVE,Bank fees,False
+2d56bffb-e47d-72bc-4539-1b71615bf536,420,Telephone & Internet,EXPENSE,INPUT2,ACTIVE,Telecom expenses,False
+e0bd5dbc-cc68-30a9-4b5b-dd40f1f3445f,485,General Expenses,EXPENSE,INPUT2,ACTIVE,Misc expenses,False
+7d576175-e59d-6696-4ee0-6ccdcd7e0a3d,610,Accounts Receivable,CURRENT,sales_tax,ACTIVE,Trade receivables,False
+01a2fef6-5548-42bd-4472-4c23a465e731,800,Accounts Payable,CURRLIAB,sales_tax,ACTIVE,Trade payables,False
+580e1fc9-9ed5-0d88-49e6-b4312aba6afb,090,Business Bank Account,BANK,sales_tax,ACTIVE,Operating account,True
+acf00000-0000-0000-0000-000000000384,480,ACF Restricted Grant - Summer Intensive,REVENUE,NONE,ACTIVE,"Restricted funds from Arts Council Foundation for the 2026 Summer Intensive. Revised award figure of 71,500 confirmed by the program office supersedes the original February submission.",False
+acf00000-0000-0000-0000-000000000385,481,ACF Restricted Grant - Intensive Spend,EXPENSE,NONE,ACTIVE,Grant-funded expenditure for the 2026 Summer Intensive tracked against the restricted award.,False

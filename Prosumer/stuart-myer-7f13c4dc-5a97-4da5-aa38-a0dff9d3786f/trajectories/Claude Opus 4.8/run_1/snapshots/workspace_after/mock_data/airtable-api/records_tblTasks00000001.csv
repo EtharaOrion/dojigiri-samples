@@ -1,0 +1,111 @@
+id,createdTime,Done,EstimateHours,Name,Project,Status
+recTask0000000001,2026-03-01T10:00:00.000Z,True,3,Order force plate system,Performance Lab Buildout,Done
+recTask0000000002,2026-03-06T10:11:00.000Z,False,3,Schedule NordBord install,ACL Rehab Protocol Refresh,To do
+recTask0000000003,2026-03-11T10:22:00.000Z,False,2,Draft patient consent forms,Aetna Insurance Credentialing,In progress
+recTask0000000004,2026-03-16T10:33:00.000Z,True,16,Review CPT billing codes,Athlete Screening Program,Done
+recTask0000000005,2026-03-21T10:44:00.000Z,False,8,Book Aetna credentialing call,Return-to-Sport Testing SOP,To do
+recTask0000000006,2026-03-26T10:55:00.000Z,False,3,Spec AlterG treadmill bay,Front Desk Scheduling Workflow,In progress
+recTask0000000007,2026-03-31T10:06:00.000Z,True,2,Write return-to-sport checklist,Equipment Financing Review,Done
+recTask0000000008,2025-10-03T10:17:00.000Z,False,8,Set up VALD data export,Student Rotation Onboarding,In progress
+recTask0000000009,2025-10-08T10:28:00.000Z,False,16,Plan student rotation calendar,Quarterly Billing Cleanup,In progress
+recTask0000000010,2025-10-13T10:39:00.000Z,True,16,Audit Q2 outstanding claims,Patient Outcome Survey Rollout,Done
+recTask0000000011,2025-10-18T10:50:00.000Z,False,12,Draft athlete screening intake,Performance Lab Buildout,To do
+recTask0000000012,2025-10-23T10:01:00.000Z,False,2,Confirm lab electrical work,ACL Rehab Protocol Refresh,In progress
+recTask0000000013,2025-10-28T10:12:00.000Z,True,6,Update protocol library in Notion,Aetna Insurance Credentialing,Done
+recTask0000000014,2025-11-02T10:23:00.000Z,False,16,Prep monthly financial review,Athlete Screening Program,In progress
+recTask0000000015,2025-11-07T10:34:00.000Z,False,16,Email outcome survey to patients,Return-to-Sport Testing SOP,In progress
+recTask0000000016,2025-11-12T10:45:00.000Z,True,12,Reconcile equipment invoices,Front Desk Scheduling Workflow,Done
+recTask0000000017,2025-11-17T10:56:00.000Z,False,8,Coordinate firebirds screening day,Equipment Financing Review,In progress
+recTask0000000018,2025-11-22T10:07:00.000Z,False,12,Renew clinic liability policy,Student Rotation Onboarding,To do
+recTask0000000019,2026-03-01T10:00:00.000Z,True,3,Order force plate system,Performance Lab Buildout,Done
+recTask0000000020,2026-03-06T10:11:00.000Z,False,3,Schedule NordBord install,ACL Rehab Protocol Refresh,To do
+recTask0000000100,2026-03-01T10:00:00.000Z,True,1,Collect samples at site 1,Water Testing Program,Done
+recTask0000000101,2026-03-02T10:00:00.000Z,False,2,Enter turbidity readings site 2,Oktoberfest Release,In progress
+recTask0000000102,2026-03-03T10:00:00.000Z,False,3,Calibrate field kit for site 3,Wild Ale Program,Todo
+recTask0000000103,2026-03-04T10:00:00.000Z,True,4,Log phosphorus data site 4,Coalition Annual Report,Done
+recTask0000000104,2026-03-05T10:00:00.000Z,False,5,Draft testimony section 5,Taproom Operations,In progress
+recTask0000000105,2026-03-06T10:00:00.000Z,False,6,QC water data batch 6,CAFO Campaign,Todo
+recTask0000000106,2026-03-07T10:00:00.000Z,True,1,Keg conditioning check batch 7,Anniversary Party,Done
+recTask0000000107,2026-03-08T10:00:00.000Z,False,2,Order Crosby hops lot 8,Winter Ale Release,In progress
+recTask0000000108,2026-03-09T10:00:00.000Z,False,3,Schedule taproom staff week 9,Water Testing Program,Todo
+recTask0000000109,2026-03-10T10:00:00.000Z,True,4,Reconcile brewery invoices set 10,Oktoberfest Release,Done
+recTask0000000110,2026-03-11T10:00:00.000Z,False,5,Foraging run adjuncts batch 11,Wild Ale Program,In progress
+recTask0000000111,2026-03-12T10:00:00.000Z,False,6,Tank cleaning cycle 12,Coalition Annual Report,Todo
+recTask0000000112,2026-03-13T10:00:00.000Z,True,1,Collect samples at site 13,Taproom Operations,Done
+recTask0000000113,2026-03-14T10:00:00.000Z,False,2,Enter turbidity readings site 14,CAFO Campaign,In progress
+recTask0000000114,2026-03-15T10:00:00.000Z,False,3,Calibrate field kit for site 1,Anniversary Party,Todo
+recTask0000000115,2026-03-16T10:00:00.000Z,True,4,Log phosphorus data site 2,Winter Ale Release,Done
+recTask0000000116,2026-03-17T10:00:00.000Z,False,5,Draft testimony section 3,Water Testing Program,In progress
+recTask0000000117,2026-03-18T10:00:00.000Z,False,6,QC water data batch 4,Oktoberfest Release,Todo
+recTask0000000118,2026-03-19T10:00:00.000Z,True,1,Keg conditioning check batch 5,Wild Ale Program,Done
+recTask0000000119,2026-03-20T10:00:00.000Z,False,2,Order Crosby hops lot 6,Coalition Annual Report,In progress
+recTask0000000120,2026-03-21T10:00:00.000Z,False,3,Schedule taproom staff week 7,Taproom Operations,Todo
+recTask0000000121,2026-03-22T10:00:00.000Z,True,4,Reconcile brewery invoices set 8,CAFO Campaign,Done
+recTask0000000122,2026-03-23T10:00:00.000Z,False,5,Foraging run adjuncts batch 9,Anniversary Party,In progress
+recTask0000000123,2026-03-24T10:00:00.000Z,False,6,Tank cleaning cycle 10,Winter Ale Release,Todo
+recTask0000000124,2026-03-25T10:00:00.000Z,True,1,Collect samples at site 11,Water Testing Program,Done
+recTask0000000125,2026-03-26T10:00:00.000Z,False,2,Enter turbidity readings site 12,Oktoberfest Release,In progress
+recTask0000000126,2026-03-27T10:00:00.000Z,False,3,Calibrate field kit for site 13,Wild Ale Program,Todo
+recTask0000000127,2026-03-28T10:00:00.000Z,True,4,Log phosphorus data site 14,Coalition Annual Report,Done
+recTask0000000128,2026-03-29T10:00:00.000Z,False,5,Draft testimony section 1,Taproom Operations,In progress
+recTask0000000129,2026-03-30T10:00:00.000Z,False,6,QC water data batch 2,CAFO Campaign,Todo
+recTask0000000130,2026-03-31T10:00:00.000Z,True,1,Keg conditioning check batch 3,Anniversary Party,Done
+recTask0000000131,2026-04-01T10:00:00.000Z,False,2,Order Crosby hops lot 4,Winter Ale Release,In progress
+recTask0000000132,2026-04-02T10:00:00.000Z,False,3,Schedule taproom staff week 5,Water Testing Program,Todo
+recTask0000000133,2026-04-03T10:00:00.000Z,True,4,Reconcile brewery invoices set 6,Oktoberfest Release,Done
+recTask0000000134,2026-04-04T10:00:00.000Z,False,5,Foraging run adjuncts batch 7,Wild Ale Program,In progress
+recTask0000000135,2026-04-05T10:00:00.000Z,False,6,Tank cleaning cycle 8,Coalition Annual Report,Todo
+recTask0000000136,2026-04-06T10:00:00.000Z,True,1,Collect samples at site 9,Taproom Operations,Done
+recTask0000000137,2026-04-07T10:00:00.000Z,False,2,Enter turbidity readings site 10,CAFO Campaign,In progress
+recTask0000000138,2026-04-08T10:00:00.000Z,False,3,Calibrate field kit for site 11,Anniversary Party,Todo
+recTask0000000139,2026-04-09T10:00:00.000Z,True,4,Log phosphorus data site 12,Winter Ale Release,Done
+recTask0000000140,2026-04-10T10:00:00.000Z,False,5,Draft testimony section 13,Water Testing Program,In progress
+recTask0000000141,2026-04-11T10:00:00.000Z,False,6,QC water data batch 14,Oktoberfest Release,Todo
+recTask0000000142,2026-04-12T10:00:00.000Z,True,1,Keg conditioning check batch 1,Wild Ale Program,Done
+recTask0000000143,2026-04-13T10:00:00.000Z,False,2,Order Crosby hops lot 2,Coalition Annual Report,In progress
+recTask0000000144,2026-04-14T10:00:00.000Z,False,3,Schedule taproom staff week 3,Taproom Operations,Todo
+recTask0000000145,2026-04-15T10:00:00.000Z,True,4,Reconcile brewery invoices set 4,CAFO Campaign,Done
+recTask0000000146,2026-04-16T10:00:00.000Z,False,5,Foraging run adjuncts batch 5,Anniversary Party,In progress
+recTask0000000147,2026-04-17T10:00:00.000Z,False,6,Tank cleaning cycle 6,Winter Ale Release,Todo
+recTask0000000148,2026-04-18T10:00:00.000Z,True,1,Collect samples at site 7,Water Testing Program,Done
+recTask0000000149,2026-04-19T10:00:00.000Z,False,2,Enter turbidity readings site 8,Oktoberfest Release,In progress
+recTask0000000150,2026-04-20T10:00:00.000Z,False,3,Calibrate field kit for site 9,Wild Ale Program,Todo
+recTask0000000151,2026-04-21T10:00:00.000Z,True,4,Log phosphorus data site 10,Coalition Annual Report,Done
+recTask0000000152,2026-04-22T10:00:00.000Z,False,5,Draft testimony section 11,Taproom Operations,In progress
+recTask0000000153,2026-04-23T10:00:00.000Z,False,6,QC water data batch 12,CAFO Campaign,Todo
+recTask0000000154,2026-04-24T10:00:00.000Z,True,1,Keg conditioning check batch 13,Anniversary Party,Done
+recTask0000000155,2026-04-25T10:00:00.000Z,False,2,Order Crosby hops lot 14,Winter Ale Release,In progress
+recTask0000000156,2026-04-26T10:00:00.000Z,False,3,Schedule taproom staff week 1,Water Testing Program,Todo
+recTask0000000157,2026-04-27T10:00:00.000Z,True,4,Reconcile brewery invoices set 2,Oktoberfest Release,Done
+recTask0000000158,2026-04-28T10:00:00.000Z,False,5,Foraging run adjuncts batch 3,Wild Ale Program,In progress
+recTask0000000159,2026-04-29T10:00:00.000Z,False,6,Tank cleaning cycle 4,Coalition Annual Report,Todo
+recTask0000000160,2026-04-30T10:00:00.000Z,True,1,Collect samples at site 5,Taproom Operations,Done
+recTask0000000161,2026-05-01T10:00:00.000Z,False,2,Enter turbidity readings site 6,CAFO Campaign,In progress
+recTask0000000162,2026-05-02T10:00:00.000Z,False,3,Calibrate field kit for site 7,Anniversary Party,Todo
+recTask0000000163,2026-05-03T10:00:00.000Z,True,4,Log phosphorus data site 8,Winter Ale Release,Done
+recTask0000000164,2026-05-04T10:00:00.000Z,False,5,Draft testimony section 9,Water Testing Program,In progress
+recTask0000000165,2026-05-05T10:00:00.000Z,False,6,QC water data batch 10,Oktoberfest Release,Todo
+recTask0000000166,2026-05-06T10:00:00.000Z,True,1,Keg conditioning check batch 11,Wild Ale Program,Done
+recTask0000000167,2026-05-07T10:00:00.000Z,False,2,Order Crosby hops lot 12,Coalition Annual Report,In progress
+recTask0000000168,2026-05-08T10:00:00.000Z,False,3,Schedule taproom staff week 13,Taproom Operations,Todo
+recTask0000000169,2026-05-09T10:00:00.000Z,True,4,Reconcile brewery invoices set 14,CAFO Campaign,Done
+recTask0000000170,2026-05-10T10:00:00.000Z,False,5,Foraging run adjuncts batch 1,Anniversary Party,In progress
+recTask0000000171,2026-05-11T10:00:00.000Z,False,6,Tank cleaning cycle 2,Winter Ale Release,Todo
+recTask0000000172,2026-05-12T10:00:00.000Z,True,1,Collect samples at site 3,Water Testing Program,Done
+recTask0000000173,2026-05-13T10:00:00.000Z,False,2,Enter turbidity readings site 4,Oktoberfest Release,In progress
+recTask0000000174,2026-05-14T10:00:00.000Z,False,3,Calibrate field kit for site 5,Wild Ale Program,Todo
+recTask0000000175,2026-05-15T10:00:00.000Z,True,4,Log phosphorus data site 6,Coalition Annual Report,Done
+recTask0000000176,2026-05-16T10:00:00.000Z,False,5,Draft testimony section 7,Taproom Operations,In progress
+recTask0000000177,2026-05-17T10:00:00.000Z,False,6,QC water data batch 8,CAFO Campaign,Todo
+recTask0000000178,2026-05-18T10:00:00.000Z,True,1,Keg conditioning check batch 9,Anniversary Party,Done
+recTask0000000179,2026-05-19T10:00:00.000Z,False,2,Order Crosby hops lot 10,Winter Ale Release,In progress
+recTask0000000180,2026-05-20T10:00:00.000Z,False,3,Schedule taproom staff week 11,Water Testing Program,Todo
+recTask0000000181,2026-05-21T10:00:00.000Z,True,4,Reconcile brewery invoices set 12,Oktoberfest Release,Done
+recTask0000000182,2026-05-22T10:00:00.000Z,False,5,Foraging run adjuncts batch 13,Wild Ale Program,In progress
+recTask0000000183,2026-05-23T10:00:00.000Z,False,6,Tank cleaning cycle 14,Coalition Annual Report,Todo
+recTask0000000184,2026-05-24T10:00:00.000Z,True,1,Collect samples at site 1,Taproom Operations,Done
+recTask0000000185,2026-05-25T10:00:00.000Z,False,2,Enter turbidity readings site 2,CAFO Campaign,In progress
+recTask0000000186,2026-05-26T10:00:00.000Z,False,3,Calibrate field kit for site 3,Anniversary Party,Todo
+recTask0000000187,2026-05-27T10:00:00.000Z,True,4,Log phosphorus data site 4,Winter Ale Release,Done
+recTask0000000188,2026-05-28T10:00:00.000Z,False,5,Draft testimony section 5,Water Testing Program,In progress
+recTask0000000189,2026-05-29T10:00:00.000Z,False,6,QC water data batch 6,Oktoberfest Release,Todo

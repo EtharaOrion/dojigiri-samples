@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "rev-000001",
+    "business_id": "yelp-apple.store-d817",
+    "rating": "5",
+    "text": "Solid local spot \u2014 friendly staff, came back twice this week.",
+    "time_created": "2026-02-04 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "id": "rev-000002",
+    "business_id": "yelp-apple.store-d817",
+    "rating": "3",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-03-16 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "id": "rev-000003",
+    "business_id": "yelp-apple.store-d817",
+    "rating": "4",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-01-06 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "id": "rev-000004",
+    "business_id": "yelp-microsoft.store-f603",
+    "rating": "5",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-02-11 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "id": "rev-000005",
+    "business_id": "yelp-barnes.noble-cc6b",
+    "rating": "3",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-01-05 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "id": "rev-000006",
+    "business_id": "yelp-petsmart-df9d",
+    "rating": "4",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-03-25 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "id": "rev-000007",
+    "business_id": "yelp-petsmart-df9d",
+    "rating": "4",
+    "text": "Cozy, clean, and the prices are fair.",
+    "time_created": "2026-02-23 00:00:00",
+    "user_name": "Sasha B."
+  },
+  {
+    "id": "rev-000008",
+    "business_id": "yelp-petco-42bd",
+    "rating": "4",
+    "text": "Best in the neighborhood, no notes.",
+    "time_created": "2026-02-18 00:00:00",
+    "user_name": "Rin O."
+  },
+  {
+    "id": "rev-000009",
+    "business_id": "yelp-staples-55af",
+    "rating": "4",
+    "text": "Quick stop on the way home \u2014 exactly what I needed.",
+    "time_created": "2026-02-14 00:00:00",
+    "user_name": "Dani V."
+  },
+  {
+    "id": "rev-00000a",
+    "business_id": "yelp-shell-31f7",
+    "rating": "4",
+    "text": "Recommend the daily special; the regulars know what's up.",
+    "time_created": "2026-01-10 00:00:00",
+    "user_name": "Quinn S."
+  },
+  {
+    "id": "rev-00000b",
+    "business_id": "yelp-shell-31f7",
+    "rating": "4",
+    "text": "Solid local spot \u2014 friendly staff, came back twice this week.",
+    "time_created": "2026-03-05 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "id": "rev-00000c",
+    "business_id": "yelp-shell-31f7",
+    "rating": "4",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-03-29 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "id": "rev-00000d",
+    "business_id": "yelp-chevron-8696",
+    "rating": "4",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-01-07 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "id": "rev-00000e",
+    "business_id": "yelp-exxonmobil-753e",
+    "rating": "5",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-03-06 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "id": "rev-00000f",
+    "business_id": "yelp-costco.gas-7433",
+    "rating": "4",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-02-19 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "id": "rev-000010",
+    "business_id": "yelp-wawa-6439",
+    "rating": "5",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-02-22 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "id": "rev-000011",
+    "business_id": "yelp-wawa-6439",
+    "rating": "3",
+    "text": "Cozy, clean, and the prices are fair.",
+    "time_created": "2026-01-16 00:00:00",
+    "user_name": "Sasha B."
+  },
+  {
+    "id": "rev-000012",
+    "business_id": "yelp-sheetz-3aec",
+    "rating": "4",
+    "text": "Best in the neighborhood, no notes.",
+    "time_created": "2026-03-13 00:00:00",
+    "user_name": "Rin O."
+  },
+  {
+    "id": "rev-000013",
+    "business_id": "yelp-sheetz-3aec",
+    "rating": "4",
+    "text": "Quick stop on the way home \u2014 exactly what I needed.",
+    "time_created": "2026-02-06 00:00:00",
+    "user_name": "Dani V."
+  },
+  {
+    "id": "rev-000014",
+    "business_id": "yelp-sheetz-3aec",
+    "rating": "5",
+    "text": "Recommend the daily special; the regulars know what's up.",
+    "time_created": "2026-01-05 00:00:00",
+    "user_name": "Quinn S."
+  },
+  {
+    "id": "rev-000015",
+    "business_id": "yelp-7.eleven-c582",
+    "rating": "4",
+    "text": "Solid local spot \u2014 friendly staff, came back twice this week.",
+    "time_created": "2026-01-12 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "id": "rev-000016",
+    "business_id": "yelp-7.eleven-c582",
+    "rating": "4",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-01-21 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "id": "rev-000017",
+    "business_id": "yelp-7.eleven-c582",
+    "rating": "4",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-02-07 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "id": "rev-000018",
+    "business_id": "yelp-chase.bank-efba",
+    "rating": "5",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-02-02 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "id": "rev-000019",
+    "business_id": "yelp-chase.bank-efba",
+    "rating": "3",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-03-13 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "id": "rev-00001a",
+    "business_id": "yelp-bank.of.america-80c3",
+    "rating": "5",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-01-13 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "id": "rev-00001b",
+    "business_id": "yelp-wells.fargo-5bd1",
+    "rating": "3",
+    "text": "Cozy, clean, and the prices are fair.",
+    "time_created": "2026-01-30 00:00:00",
+    "user_name": "Sasha B."
+  },
+  {
+    "id": "rev-00001c",
+    "business_id": "yelp-equinox-ec52",
+    "rating": "3",
+    "text": "Best in the neighborhood, no notes.",
+    "time_created": "2026-01-23 00:00:00",
+    "user_name": "Rin O."
+  },
+  {
+    "id": "rev-00001d",
+    "business_id": "yelp-equinox-ec52",
+    "rating": "4",
+    "text": "Quick stop on the way home \u2014 exactly what I needed.",
+    "time_created": "2026-01-19 00:00:00",
+    "user_name": "Dani V."
+  },
+  {
+    "id": "rev-00001e",
+    "business_id": "yelp-equinox-ec52",
+    "rating": "5",
+    "text": "Recommend the daily special; the regulars know what's up.",
+    "time_created": "2026-03-28 00:00:00",
+    "user_name": "Quinn S."
+  },
+  {
+    "id": "rev-00001f",
+    "business_id": "yelp-planet.fitness-1bb8",
+    "rating": "4",
+    "text": "Solid local spot \u2014 friendly staff, came back twice this week.",
+    "time_created": "2026-03-26 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "id": "rev-000020",
+    "business_id": "yelp-la.fitness-e818",
+    "rating": "5",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-03-14 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "id": "rev-000021",
+    "business_id": "yelp-soulcycle-1e46",
+    "rating": "3",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-02-06 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "id": "rev-000022",
+    "business_id": "yelp-the.cheesecake.factory-4fea",
+    "rating": "4",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-02-17 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "id": "rev-000023",
+    "business_id": "yelp-the.cheesecake.factory-4fea",
+    "rating": "4",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-02-12 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "id": "rev-000024",
+    "business_id": "yelp-the.cheesecake.factory-4fea",
+    "rating": "3",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-03-16 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "id": "rev-000025",
+    "business_id": "yelp-olive.garden-b841",
+    "rating": "3",
+    "text": "Cozy, clean, and the prices are fair.",
+    "time_created": "2026-01-12 00:00:00",
+    "user_name": "Sasha B."
+  },
+  {
+    "id": "rev-000026",
+    "business_id": "yelp-olive.garden-b841",
+    "rating": "3",
+    "text": "Best in the neighborhood, no notes.",
+    "time_created": "2026-03-05 00:00:00",
+    "user_name": "Rin O."
+  },
+  {
+    "id": "rev-000027",
+    "business_id": "yelp-olive.garden-b841",
+    "rating": "5",
+    "text": "Quick stop on the way home \u2014 exactly what I needed.",
+    "time_created": "2026-03-11 00:00:00",
+    "user_name": "Dani V."
+  },
+  {
+    "id": "rev-000028",
+    "business_id": "yelp-p.f.changs-75de",
+    "rating": "5",
+    "text": "Recommend the daily special; the regulars know what's up.",
+    "time_created": "2026-03-27 00:00:00",
+    "user_name": "Quinn S."
+  },
+  {
+    "id": "rev-000029",
+    "business_id": "yelp-p.f.changs-75de",
+    "rating": "3",
+    "text": "Solid local spot \u2014 friendly staff, came back twice this week.",
+    "time_created": "2026-03-19 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "id": "rev-00002a",
+    "business_id": "yelp-chick.fil.a-c8ba",
+    "rating": "3",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-01-23 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "id": "rev-00002b",
+    "business_id": "yelp-chick.fil.a-c8ba",
+    "rating": "5",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-03-20 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "id": "rev-00002c",
+    "business_id": "yelp-chick.fil.a-c8ba",
+    "rating": "3",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-02-23 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "id": "rev-00002d",
+    "business_id": "yelp-wendys-a488",
+    "rating": "5",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-02-10 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "id": "rev-00002e",
+    "business_id": "yelp-wendys-a488",
+    "rating": "3",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-03-28 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "id": "rev-001000",
+    "business_id": "olive-ivy-scottsdale",
+    "rating": "5",
+    "text": "Client lunch spot in Old Town \u2014 patio, quiet, wine list.",
+    "time_created": "2026-10-01 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001001",
+    "business_id": "olive-ivy-scottsdale",
+    "rating": "4",
+    "text": "Great salads, service was a bit slow on a Tuesday.",
+    "time_created": "2026-10-02 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001002",
+    "business_id": "mastros-scottsdale",
+    "rating": "5",
+    "text": "Anniversary dinner \u2014 flawless, as always.",
+    "time_created": "2026-10-03 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001003",
+    "business_id": "mastros-scottsdale",
+    "rating": "5",
+    "text": "Kevin's birthday \u2014 steak butter cake, perfect.",
+    "time_created": "2026-10-04 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001004",
+    "business_id": "joes-pizza-scottsdale",
+    "rating": "4",
+    "text": "Friday family pizza night MVP.",
+    "time_created": "2026-10-05 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001005",
+    "business_id": "joes-pizza-scottsdale",
+    "rating": "5",
+    "text": "Kids devoured the margherita, garlic knots on point.",
+    "time_created": "2026-10-06 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001006",
+    "business_id": "stumptown-scottsdale",
+    "rating": "5",
+    "text": "Studio ritual \u2014 three doubles, no milk.",
+    "time_created": "2026-10-07 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001007",
+    "business_id": "stumptown-scottsdale",
+    "rating": "5",
+    "text": "Best cold brew in town, hands down.",
+    "time_created": "2026-10-08 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001008",
+    "business_id": "aja-fine-foods",
+    "rating": "5",
+    "text": "Weekly grocery, cheese counter is worth it.",
+    "time_created": "2026-10-09 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001009",
+    "business_id": "aja-fine-foods",
+    "rating": "4",
+    "text": "Wine selection expanded, love the Duckhorn shelf.",
+    "time_created": "2026-10-10 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001010",
+    "business_id": "aria-stone-gallery",
+    "rating": "5",
+    "text": "Where I sourced the Calacatta Viola for the Hendricks master bath.",
+    "time_created": "2026-10-11 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001011",
+    "business_id": "restoration-hardware",
+    "rating": "4",
+    "text": "Trade access is stellar. Retail floor sometimes cramped.",
+    "time_created": "2026-10-12 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001012",
+    "business_id": "dwr-scottsdale",
+    "rating": "5",
+    "text": "Go-to for Eames and Noguchi authenticity.",
+    "time_created": "2026-10-13 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001013",
+    "business_id": "circa-lighting",
+    "rating": "5",
+    "text": "Bardot sconces = the Hendricks hallway moment.",
+    "time_created": "2026-10-14 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001014",
+    "business_id": "scottsdale-arts",
+    "rating": "5",
+    "text": "Monthly gallery walk anchor. New show worth the trip.",
+    "time_created": "2026-10-15 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001015",
+    "business_id": "saguaro-hotel-scott",
+    "rating": "4",
+    "text": "Weekend brunch with Sarah \u2014 the pool patio delivers.",
+    "time_created": "2026-10-16 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001016",
+    "business_id": "olive-mill-queen-creek",
+    "rating": "5",
+    "text": "Best olive oil in AZ \u2014 mainstay of my Mediterranean pantry.",
+    "time_created": "2026-10-17 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001017",
+    "business_id": "greenharvest-scott",
+    "rating": "5",
+    "text": "Monday delivery, herbs bundle changed the game.",
+    "time_created": "2026-10-18 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001018",
+    "business_id": "scottsdale-ranch-park",
+    "rating": "5",
+    "text": "Doubles rotation morning \u2014 courts always clean.",
+    "time_created": "2026-10-19 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001019",
+    "business_id": "saguaro-ridge",
+    "rating": "5",
+    "text": "Emma is thriving here. Art faculty is top.",
+    "time_created": "2026-10-20 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001020",
+    "business_id": "grayhawk-golf-club",
+    "rating": "4",
+    "text": "Kevin's Sunday group loves it. Guest passes are hard to get.",
+    "time_created": "2026-10-21 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001021",
+    "business_id": "carlos-mendez-builders",
+    "rating": "5",
+    "text": "Carlos has run every project I've done. Reliable, skilled, on schedule.",
+    "time_created": "2026-10-22 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001022",
+    "business_id": "aria-stone-gallery",
+    "rating": "5",
+    "text": "Second review \u2014 I keep coming back for the marble selection.",
+    "time_created": "2026-10-23 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001023",
+    "business_id": "holly-hunt-scottsdale",
+    "rating": "5",
+    "text": "Trade access is unmatched. Fabric library is a designer's dream.",
+    "time_created": "2026-10-24 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001024",
+    "business_id": "lawson-fenning-la",
+    "rating": "5",
+    "text": "Vintage brass floor lamp was a Palm Springs pop-up score.",
+    "time_created": "2026-10-25 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001025",
+    "business_id": "roman-thomas-ny",
+    "rating": "5",
+    "text": "Custom walnut wine cellar shelving \u2014 worth every penny.",
+    "time_created": "2026-10-26 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001026",
+    "business_id": "serena-lily-scottsdale",
+    "rating": "4",
+    "text": "Raffia pieces are consistently well-made.",
+    "time_created": "2026-10-27 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001027",
+    "business_id": "rejuvenation-scottsdale",
+    "rating": "4",
+    "text": "Lighting delivery on time. Trade discount decent.",
+    "time_created": "2026-10-28 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001028",
+    "business_id": "desert-pool-pros",
+    "rating": "5",
+    "text": "Filter replacement quick and clean. $180/mo maintenance.",
+    "time_created": "2026-10-01 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001029",
+    "business_id": "green-harvest-market",
+    "rating": "5",
+    "text": "Monday delivery MVP. Herbs bundle is a permanent add-on.",
+    "time_created": "2026-10-02 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001030",
+    "business_id": "duckhorn-wine-scott",
+    "rating": "5",
+    "text": "Wine club shipments are the highlight of my quarter.",
+    "time_created": "2026-10-03 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001031",
+    "business_id": "scottsdale-primary-care",
+    "rating": "5",
+    "text": "Dr. reviews everything thoroughly. Appreciate the low-key vibe.",
+    "time_created": "2026-10-04 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001032",
+    "business_id": "scottsdale-skin",
+    "rating": "5",
+    "text": "Winter dermatology check is a must in AZ.",
+    "time_created": "2026-10-05 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001033",
+    "business_id": "saguaro-ridge-peds",
+    "rating": "5",
+    "text": "Emma's dance physicals are booked here yearly.",
+    "time_created": "2026-10-06 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001034",
+    "business_id": "smoca-cafe",
+    "rating": "4",
+    "text": "Coffee is fine, art talks are worth the walk.",
+    "time_created": "2026-10-07 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001035",
+    "business_id": "collins-cafe",
+    "rating": "5",
+    "text": "Sarah's spot \u2014 sourdough is legendary.",
+    "time_created": "2026-10-08 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001036",
+    "business_id": "scottsdale-arts-center",
+    "rating": "5",
+    "text": "Norah Jones concert 11/22 \u2014 seats OC row K.",
+    "time_created": "2026-10-09 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001037",
+    "business_id": "nordstrom-scott",
+    "rating": "5",
+    "text": "Personal shopper delivered. Emma's dance leos on point.",
+    "time_created": "2026-10-10 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001038",
+    "business_id": "neiman-marcus-scott",
+    "rating": "4",
+    "text": "Handbag selection strong, service variable.",
+    "time_created": "2026-10-11 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001039",
+    "business_id": "aria-stone-gallery",
+    "rating": "5",
+    "text": "Third review \u2014 the trade team is exceptional.",
+    "time_created": "2026-10-12 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001040",
+    "business_id": "rejuvenation-scottsdale",
+    "rating": "5",
+    "text": "Second review \u2014 trade discount just improved.",
+    "time_created": "2026-10-13 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001041",
+    "business_id": "circa-lighting",
+    "rating": "5",
+    "text": "Second review \u2014 Bardot sconce inventory always deep.",
+    "time_created": "2026-10-14 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001042",
+    "business_id": "carlos-mendez-builders",
+    "rating": "5",
+    "text": "Carlos crew handled the Hendricks marble install flawlessly.",
+    "time_created": "2026-10-15 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001043",
+    "business_id": "desert-pool-pros",
+    "rating": "5",
+    "text": "Second review \u2014 filter service round two, flawless.",
+    "time_created": "2026-10-16 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001044",
+    "business_id": "scottsdale-ranch-park",
+    "rating": "5",
+    "text": "Second review \u2014 court 4 is my usual, always available at 7 AM.",
+    "time_created": "2026-10-17 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001045",
+    "business_id": "olive-ivy-scottsdale",
+    "rating": "5",
+    "text": "Third review \u2014 Sarah Collins pitch lunch went great here.",
+    "time_created": "2026-10-18 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001046",
+    "business_id": "mastros-scottsdale",
+    "rating": "5",
+    "text": "Third review \u2014 the wine list is a wonderland.",
+    "time_created": "2026-10-19 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001047",
+    "business_id": "stumptown-scottsdale",
+    "rating": "5",
+    "text": "Third review \u2014 Hair Bender espresso is the studio backbone.",
+    "time_created": "2026-10-20 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001048",
+    "business_id": "stumptown-scottsdale",
+    "rating": "5",
+    "text": "Fourth review \u2014 Kevin came in for his first Stumptown, converted.",
+    "time_created": "2026-10-21 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001049",
+    "business_id": "aja-fine-foods",
+    "rating": "5",
+    "text": "Third review \u2014 cheese counter added Cypress Grove goat.",
+    "time_created": "2026-10-22 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001050",
+    "business_id": "green-harvest-market",
+    "rating": "5",
+    "text": "Second review \u2014 heirloom tomato bundle for the fall dinner party.",
+    "time_created": "2026-10-23 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001051",
+    "business_id": "duckhorn-wine-scott",
+    "rating": "5",
+    "text": "Second review \u2014 2019 Napa Cab shipment landed perfectly.",
+    "time_created": "2026-10-24 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001052",
+    "business_id": "grayhawk-golf-club",
+    "rating": "5",
+    "text": "Second review \u2014 Kevin's Sunday group played Raptor Course.",
+    "time_created": "2026-10-25 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001053",
+    "business_id": "saguaro-hotel-scott",
+    "rating": "5",
+    "text": "Second review \u2014 Sarah brought Sadie for pool afternoon.",
+    "time_created": "2026-10-26 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001054",
+    "business_id": "smoca-cafe",
+    "rating": "5",
+    "text": "Second review \u2014 attended a lecture on Southwestern architecture.",
+    "time_created": "2026-10-27 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001055",
+    "business_id": "scottsdale-arts",
+    "rating": "5",
+    "text": "Second review \u2014 Deborah Meyer's exhibit opening was inspiring.",
+    "time_created": "2026-10-28 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001056",
+    "business_id": "olive-ivy-scottsdale",
+    "rating": "5",
+    "text": "Fourth review \u2014 Rebecca Hendricks lunch went here, deal advanced.",
+    "time_created": "2026-10-01 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001057",
+    "business_id": "mastros-scottsdale",
+    "rating": "5",
+    "text": "Fourth review \u2014 Kevin's spec home listing celebration dinner.",
+    "time_created": "2026-10-02 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001058",
+    "business_id": "dwr-scottsdale",
+    "rating": "5",
+    "text": "Second review \u2014 trade showroom cocktails 11/19.",
+    "time_created": "2026-10-03 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001059",
+    "business_id": "holly-hunt-scottsdale",
+    "rating": "5",
+    "text": "Second review \u2014 Kevin joined for Holly Hunt cocktails.",
+    "time_created": "2026-10-04 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001060",
+    "business_id": "nordstrom-scott",
+    "rating": "5",
+    "text": "Second review \u2014 Emma's third pair of dance leos ordered.",
+    "time_created": "2026-10-01 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001061",
+    "business_id": "saguaro-ridge",
+    "rating": "5",
+    "text": "Second review \u2014 Emma's ceramics teacher is exceptional.",
+    "time_created": "2026-10-02 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001062",
+    "business_id": "scottsdale-primary-care",
+    "rating": "5",
+    "text": "Second review \u2014 annual physical scheduled 2/12/27.",
+    "time_created": "2026-10-03 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001063",
+    "business_id": "scottsdale-skin",
+    "rating": "5",
+    "text": "Second review \u2014 winter check booked for 1/15/27.",
+    "time_created": "2026-10-04 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001064",
+    "business_id": "collins-cafe",
+    "rating": "5",
+    "text": "Second review \u2014 Sarah's cafe refresh proposal is ready.",
+    "time_created": "2026-10-05 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001065",
+    "business_id": "scottsdale-arts-center",
+    "rating": "5",
+    "text": "Second review \u2014 season subscription would be worth it.",
+    "time_created": "2026-10-06 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001066",
+    "business_id": "aria-stone-gallery",
+    "rating": "5",
+    "text": "Fourth review \u2014 Belgian bluestone earmarked for Sarah's cafe.",
+    "time_created": "2026-10-07 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001067",
+    "business_id": "carlos-mendez-builders",
+    "rating": "5",
+    "text": "Fourth review \u2014 Desert Vista install kickoff went smooth.",
+    "time_created": "2026-10-08 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001068",
+    "business_id": "mendez-builders",
+    "rating": "5",
+    "text": "Fifth review \u2014 Carlos scheduled Christmas break well.",
+    "time_created": "2026-10-09 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001069",
+    "business_id": "neiman-marcus-scott",
+    "rating": "5",
+    "text": "Second review \u2014 client holiday gift wrapping station.",
+    "time_created": "2026-10-10 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001070",
+    "business_id": "saguaro-ridge-peds",
+    "rating": "5",
+    "text": "Second review \u2014 Emma's dance physical went smooth.",
+    "time_created": "2026-10-11 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001071",
+    "business_id": "green-harvest-market",
+    "rating": "5",
+    "text": "Third review \u2014 Thanksgiving bundle is worth the sub.",
+    "time_created": "2026-10-12 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001072",
+    "business_id": "aja-fine-foods",
+    "rating": "5",
+    "text": "Fourth review \u2014 Christmas ham order landed clean.",
+    "time_created": "2026-10-13 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001073",
+    "business_id": "desert-pool-pros",
+    "rating": "5",
+    "text": "Third review \u2014 Ring notified me of arrival, on time.",
+    "time_created": "2026-10-14 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001074",
+    "business_id": "saguaro-hotel-scott",
+    "rating": "5",
+    "text": "Third review \u2014 brunch with Sarah C after tennis.",
+    "time_created": "2026-10-15 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001075",
+    "business_id": "duckhorn-wine-scott",
+    "rating": "5",
+    "text": "Third review \u2014 dinner party wine pairing consult.",
+    "time_created": "2026-10-16 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001076",
+    "business_id": "holly-hunt-scottsdale",
+    "rating": "5",
+    "text": "Third review \u2014 Boucl\u00e9 texture new arrival is my favorite.",
+    "time_created": "2026-10-17 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001077",
+    "business_id": "dwr-scottsdale",
+    "rating": "5",
+    "text": "Third review \u2014 Eames LCW replica, but retail so trade elsewhere.",
+    "time_created": "2026-10-18 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001078",
+    "business_id": "circa-lighting",
+    "rating": "5",
+    "text": "Third review \u2014 Bardot sconces re-order for Model B.",
+    "time_created": "2026-10-19 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001079",
+    "business_id": "rejuvenation-scottsdale",
+    "rating": "5",
+    "text": "Third review \u2014 Rejuvenation Q4 delivery on time.",
+    "time_created": "2026-10-20 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001080",
+    "business_id": "stumptown-scottsdale",
+    "rating": "5",
+    "text": "Fifth review \u2014 Duke's espresso blend added, obsessed.",
+    "time_created": "2026-10-21 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001081",
+    "business_id": "olive-ivy-scottsdale",
+    "rating": "5",
+    "text": "Fifth review \u2014 Sunday brunch with the kids finally.",
+    "time_created": "2026-10-22 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001082",
+    "business_id": "mastros-scottsdale",
+    "rating": "5",
+    "text": "Fifth review \u2014 Kevin's spec home first offer celebration.",
+    "time_created": "2026-10-23 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001083",
+    "business_id": "joes-pizza-scottsdale",
+    "rating": "5",
+    "text": "Second review \u2014 Emma finally tried the artichoke slice.",
+    "time_created": "2026-10-24 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001084",
+    "business_id": "nordstrom-scott",
+    "rating": "5",
+    "text": "Third review \u2014 my Vince silk blouse restocked.",
+    "time_created": "2026-10-25 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001085",
+    "business_id": "scottsdale-ranch-park",
+    "rating": "5",
+    "text": "Third review \u2014 winter tennis is glorious in AZ.",
+    "time_created": "2026-10-26 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001086",
+    "business_id": "grayhawk-golf-club",
+    "rating": "5",
+    "text": "Third review \u2014 Kevin joined guest day with developer friends.",
+    "time_created": "2026-10-27 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001087",
+    "business_id": "green-harvest-market",
+    "rating": "5",
+    "text": "Fourth review \u2014 Christmas herb bundle nailed the pot roast.",
+    "time_created": "2026-10-28 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001088",
+    "business_id": "duckhorn-wine-scott",
+    "rating": "5",
+    "text": "Fourth review \u2014 Sauv Blanc Sunday additions worth it.",
+    "time_created": "2026-10-01 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001089",
+    "business_id": "smoca-cafe",
+    "rating": "5",
+    "text": "Third review \u2014 Southwestern glass art talk was excellent.",
+    "time_created": "2026-10-02 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001090",
+    "business_id": "aria-stone-gallery",
+    "rating": "5",
+    "text": "Fifth review \u2014 the trade rep Tina is unmatched.",
+    "time_created": "2026-10-03 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001091",
+    "business_id": "saguaro-ridge",
+    "rating": "5",
+    "text": "Third review \u2014 Tyler's transition to middle school smooth.",
+    "time_created": "2026-10-04 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001092",
+    "business_id": "carlos-mendez-builders",
+    "rating": "5",
+    "text": "Sixth review \u2014 spec home wine wall install was art.",
+    "time_created": "2026-10-05 00:00:00",
+    "user_name": "Jessica S."
+  },
+  {
+    "id": "rev-001093",
+    "business_id": "desert-pool-pros",
+    "rating": "5",
+    "text": "Fourth review \u2014 filter cartridge stocked ahead of summer.",
+    "time_created": "2026-10-06 00:00:00",
+    "user_name": "Jessica S."
+  }
+]

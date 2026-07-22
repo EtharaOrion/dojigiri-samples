@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Driftwood Brewing Company, Releases and Taproom News</title>
+    <link>https://driftwoodbrewingpdx.com/</link>
+    <description>Release announcements, cellar pours, taproom events, and brewery news from a small farmhouse and lager brewery on East Burnside in Portland, Oregon.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2026 09:14:00 -0700</lastBuildDate>
+    <managingEditor>jake.callahan@gmail.com (Jake Callahan)</managingEditor>
+    <webMaster>jake.callahan@gmail.com (Jake Callahan)</webMaster>
+    <category>Beer</category>
+    <category>Portland</category>
+    <category>Independent Brewery</category>
+    <atom:link href="https://driftwoodbrewingpdx.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://driftwoodbrewingpdx.com/img/logo.png</url>
+      <title>Driftwood Brewing Company</title>
+      <link>https://driftwoodbrewingpdx.com/</link>
+    </image>
+
+    <item>
+      <title>Anniversary Wild Ale, foeder release Saturday October 31</title>
+      <link>https://driftwoodbrewingpdx.com/blog/2026-10-anniversary-wild-ale</link>
+      <guid isPermaLink="true">https://driftwoodbrewingpdx.com/blog/2026-10-anniversary-wild-ale</guid>
+      <pubDate>Sun, 11 Oct 2026 17:30:00 -0700</pubDate>
+      <category>Release</category>
+      <author>stuart.myer@voissync.ai (Stuart Myer)</author>
+      <description>Twenty months in the foeder for our anniversary wild ale. Bottle pre-sale opens Wednesday, single night draft pour Halloween in the taproom.</description>
+      <content:encoded><![CDATA[
+        <p>Our anniversary wild ale comes out of the foeder on Saturday, October 31. Twenty months
+        of aging on the house mixed culture; soft acid, light funk, lemon zest, and a long
+        finish. 250 bottles in 500 ml format, plus draft for one night only.</p>
+        <ul>
+          <li>ABV 6.56%</li>
+          <li>Bottle pre-sale opens Wednesday October 28 at noon</li>
+          <li>One bottle per guest in the taproom, two bottles for mailing list members</li>
+          <li>Draft pour starts at 4 PM, last pour at 10 PM or until kegs are empty</li>
+        </ul>
+      ]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Oktoberfest release night, October 3</title>
+      <link>https://driftwoodbrewingpdx.com/blog/2026-10-oktoberfest-release</link>
+      <guid isPermaLink="true">https://driftwoodbrewingpdx.com/blog/2026-10-oktoberfest-release</guid>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 -0700</pubDate>
+      <category>Release</category>
+      <category>Taproom</category>
+      <author>jake.callahan@gmail.com (Jake Callahan)</author>
+      <description>Our Oktoberfest amber lager hits the taps Saturday October 3, with a brat and pretzel pop-up from a friend of the brewery.</description>
+    </item>
+
+    <item>
+      <title>Pouring at the Pacific Craft Beer Festival, Waterfront Park</title>
+      <link>https://driftwoodbrewingpdx.com/blog/2026-10-pacific-craft-fest</link>
+      <guid isPermaLink="true">https://driftwoodbrewingpdx.com/blog/2026-10-pacific-craft-fest</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 -0700</pubDate>
+      <category>Festival</category>
+      <author>jake.callahan@gmail.com (Jake Callahan)</author>
+      <description>Find us at booth Row C 14 on Saturday October 17 at Tom McCall Waterfront Park, pouring Oktoberfest, the Holiday Saison preview, and Czech Pilsner.</description>
+    </item>
+
+    <item>
+      <title>Cellar Wednesday, the wild ale blending program</title>
+      <link>https://driftwoodbrewingpdx.com/blog/2026-10-cellar-wednesday</link>
+      <guid isPermaLink="true">https://driftwoodbrewingpdx.com/blog/2026-10-cellar-wednesday</guid>
+      <pubDate>Fri, 02 Oct 2026 11:45:00 -0700</pubDate>
+      <category>Cellar</category>
+      <author>stuart.myer@voissync.ai (Stuart Myer)</author>
+      <description>Stuart walks taproom guests through how blending decisions are made for the foeder program; cellar pours every other Wednesday through December.</description>
+    </item>
+
+    <item>
+      <title>Holiday release, Winter Ale Base Brew, December 19</title>
+      <link>https://driftwoodbrewingpdx.com/blog/2026-12-winter-ale</link>
+      <guid isPermaLink="true">https://driftwoodbrewingpdx.com/blog/2026-12-winter-ale</guid>
+      <pubDate>Sun, 11 Oct 2026 18:10:00 -0700</pubDate>
+      <category>Release</category>
+      <author>jake.callahan@gmail.com (Jake Callahan)</author>
+      <description>Our Winter Ale Base Brew is fermenting now and releases Saturday December 19 with a small bourbon barrel aged variant on the same night.</description>
+    </item>
+
+    <item>
+      <title>Munich Dunkel, a Q4 trial run on the taps</title>
+      <link>https://driftwoodbrewingpdx.com/blog/2026-10-munich-dunkel</link>
+      <guid isPermaLink="true">https://driftwoodbrewingpdx.com/blog/2026-10-munich-dunkel</guid>
+      <pubDate>Wed, 14 Oct 2026 08:30:00 -0700</pubDate>
+      <category>Trial</category>
+      <author>stuart.myer@voissync.ai (Stuart Myer)</author>
+      <description>A Munich malt forward trial batch; if guests vote with their glasses we will add it to the regular rotation in 2027.</description>
+    </item>
+  </channel>
+</rss>

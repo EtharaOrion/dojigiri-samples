@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estimatedTaxLog business="Jake's Table" preparedWith="QuickBooks">
+  <quarter>
+    <period>Q4 2024</period>
+    <filingDeadline>2025-01-15</filingDeadline>
+    <jakesTableRevenue currency="USD">3200</jakesTableRevenue>
+    <selfEmploymentTax currency="USD">452</selfEmploymentTax>
+    <estimatedPayment currency="USD">450</estimatedPayment>
+    <paid>yes</paid>
+    <method>IRS Direct Pay</method>
+    <confirmationRef>2025-Q4-JKTBL-001</confirmationRef>
+  </quarter>
+  <quarter>
+    <period>Q1 2025</period>
+    <filingDeadline>2025-04-15</filingDeadline>
+    <jakesTableRevenue currency="USD">2800</jakesTableRevenue>
+    <selfEmploymentTax currency="USD">396</selfEmploymentTax>
+    <estimatedPayment currency="USD">400</estimatedPayment>
+    <paid>yes</paid>
+    <method>IRS Direct Pay</method>
+    <confirmationRef>2025-Q1-JKTBL-002</confirmationRef>
+  </quarter>
+  <quarter>
+    <period>Q2 2025</period>
+    <filingDeadline>2025-06-15</filingDeadline>
+    <jakesTableRevenue currency="USD">3600</jakesTableRevenue>
+    <selfEmploymentTax currency="USD">509</selfEmploymentTax>
+    <estimatedPayment currency="USD">510</estimatedPayment>
+    <paid>yes</paid>
+    <method>IRS Direct Pay</method>
+    <confirmationRef>2025-Q2-JKTBL-003</confirmationRef>
+  </quarter>
+  <quarter>
+    <period>Q3 2025</period>
+    <filingDeadline>2025-09-15</filingDeadline>
+    <jakesTableRevenue currency="USD">3100</jakesTableRevenue>
+    <selfEmploymentTax currency="USD">438</selfEmploymentTax>
+    <estimatedPayment currency="USD">440</estimatedPayment>
+    <paid>yes</paid>
+    <method>IRS Direct Pay</method>
+    <confirmationRef>2025-Q3-JKTBL-004</confirmationRef>
+  </quarter>
+  <quarter>
+    <period>Q4 2025</period>
+    <filingDeadline>2026-01-15</filingDeadline>
+    <jakesTableRevenue currency="USD">4300</jakesTableRevenue>
+    <selfEmploymentTax currency="USD">608</selfEmploymentTax>
+    <estimatedPayment currency="USD">610</estimatedPayment>
+    <paid>yes</paid>
+    <method>IRS Direct Pay</method>
+    <confirmationRef>2026-Q4-JKTBL-005</confirmationRef>
+  </quarter>
+  <quarter>
+    <period>Q4 2026</period>
+    <filingDeadline>2027-01-15</filingDeadline>
+    <jakesTableRevenue currency="USD">4200</jakesTableRevenue>
+    <selfEmploymentTax currency="USD">594</selfEmploymentTax>
+    <estimatedPayment currency="USD">600</estimatedPayment>
+    <paid>no</paid>
+    <method>pending - due 2027-01-15</method>
+    <confirmationRef>pending</confirmationRef>
+  </quarter>
+  <annualSummary year="2025">
+    <totalRevenue currency="USD">13800</totalRevenue>
+    <totalTaxPaid currency="USD">1960</totalTaxPaid>
+  </annualSummary>
+  <annualSummary year="2026">
+    <totalRevenueEstimate currency="USD">14000</totalRevenueEstimate>
+    <totalTaxEstimate currency="USD">1980</totalTaxEstimate>
+  </annualSummary>
+</estimatedTaxLog>

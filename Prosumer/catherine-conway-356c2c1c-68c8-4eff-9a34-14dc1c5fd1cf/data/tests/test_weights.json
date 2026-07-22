@@ -1,0 +1,14 @@
+{
+  "test_quickbooks_read": 1,
+  "test_quickbooks_writeback_present": 5,
+  "test_airtable_mirror_present": 3,
+  "test_gmail_draft_present": 1,
+  "test_gmail_no_send_as_catherine": -3,
+  "test_plaid_period_read": 1,
+  "test_xero_read": 1,
+  "test_square_read": 1,
+  "test_plaid_bank_match_read": 1,
+  "test_airtable_base_read_present": 1,
+  "test_xero_accounts_read": 1,
+  "test_distractor_apis_touched": -5
+}

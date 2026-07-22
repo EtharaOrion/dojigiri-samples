@@ -1,0 +1,36 @@
+{
+  "input_tokens": 6822600,
+  "output_tokens": 57846,
+  "cache_read_tokens": 5600404,
+  "cache_write_tokens": 1058506,
+  "total_tokens": 6880446,
+  "request_count": 73,
+  "cost_usd": 10.762735,
+  "sources": {
+    "agent": {
+      "input_tokens": 6659054,
+      "output_tokens": 53846,
+      "cache_read_tokens": 5600404,
+      "cache_write_tokens": 1058506,
+      "total_tokens": 6712900,
+      "audio_seconds": 0.0,
+      "cost_usd": 10.762735,
+      "request_count": 72,
+      "usage_source": "litellm",
+      "elapsed_time": 958.62
+    },
+    "judge": {
+      "input_tokens": 163546,
+      "output_tokens": 4000,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "total_tokens": 167546,
+      "request_count": 1,
+      "cost_usd": 0.0,
+      "headroom": {}
+    }
+  },
+  "audio_seconds": 0.0,
+  "usage_source": "litellm",
+  "elapsed_time": 958.62
+}

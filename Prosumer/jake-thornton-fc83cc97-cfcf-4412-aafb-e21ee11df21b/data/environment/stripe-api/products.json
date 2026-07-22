@@ -1,0 +1,30 @@
+[
+  {
+    "id": "prod_Starter",
+    "name": "Home Cooking Class Seat",
+    "description": "Three-hour Southern-fusion class in the East Lake kitchen. Capacity eight.",
+    "active": "true",
+    "created": "1705823882"
+  },
+  {
+    "id": "prod_Pro",
+    "name": "Venue Cooking Class Seat",
+    "description": "Three-hour pop-up class at a community venue.",
+    "active": "true",
+    "created": "1715962047"
+  },
+  {
+    "id": "prod_Enterprise",
+    "name": "Private Group Class",
+    "description": "Private booking for up to eight guests, menu chosen with Jake.",
+    "active": "true",
+    "created": "1715037999"
+  },
+  {
+    "id": "prod_POS",
+    "name": "Jake's Table Gift Card",
+    "description": "Prepaid gift card redeemable against any class seat.",
+    "active": "true",
+    "created": "1707743215"
+  }
+]

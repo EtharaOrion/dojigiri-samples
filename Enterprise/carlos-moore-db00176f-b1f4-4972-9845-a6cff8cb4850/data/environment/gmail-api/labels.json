@@ -1,0 +1,65 @@
+[
+  {
+    "id": "INBOX",
+    "messages_total": 23,
+    "messages_unread": 17,
+    "name": "INBOX",
+    "threads_total": 22,
+    "threads_unread": 17,
+    "type": "system"
+  },
+  {
+    "id": "SENT",
+    "messages_total": 11,
+    "messages_unread": 0,
+    "name": "SENT",
+    "threads_total": 11,
+    "threads_unread": 0,
+    "type": "system"
+  },
+  {
+    "id": "DRAFTS",
+    "messages_total": 6,
+    "messages_unread": 0,
+    "name": "DRAFT",
+    "threads_total": 6,
+    "threads_unread": 0,
+    "type": "system"
+  },
+  {
+    "id": "TRASH",
+    "messages_total": 6,
+    "messages_unread": 0,
+    "name": "TRASH",
+    "threads_total": 6,
+    "threads_unread": 0,
+    "type": "system"
+  },
+  {
+    "id": "SPAM",
+    "messages_total": 9,
+    "messages_unread": 4,
+    "name": "SPAM",
+    "threads_total": 9,
+    "threads_unread": 4,
+    "type": "system"
+  },
+  {
+    "id": "Label_1",
+    "messages_total": 11,
+    "messages_unread": 3,
+    "name": "Bellmark Industries",
+    "threads_total": 9,
+    "threads_unread": 3,
+    "type": "user"
+  },
+  {
+    "id": "Label_2",
+    "messages_total": 5,
+    "messages_unread": 2,
+    "name": "Follow up",
+    "threads_total": 5,
+    "threads_unread": 2,
+    "type": "user"
+  }
+]

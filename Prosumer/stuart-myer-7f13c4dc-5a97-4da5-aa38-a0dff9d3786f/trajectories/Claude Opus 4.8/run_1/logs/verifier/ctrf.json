@@ -1,0 +1,103 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 17,
+      "passed": 5,
+      "failed": 12,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_agent_deleted_a_record",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_agent_queried_plaid_operating_account",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_agent_queried_quickbooks",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_agent_queried_square_taproom_sales",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_agent_read_quickbooks_invoices_and_payments",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_agent_sent_outbound_email",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_agent_touched_distractor_services",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_margin_brief_carries_decoy_oktoberfest_cost",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_margin_brief_deliverable_exists",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_margin_brief_flags_a_fermenting_batch",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_margin_brief_names_oktoberfest_batch",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_margin_brief_uses_winning_oktoberfest_cost",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_margin_brief_uses_winning_pacific_malt_cost",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_reconciliation_carries_decoy_malt_carryover",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_reconciliation_deliverable_exists",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_reconciliation_references_ar_summary_figure",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_reconciliation_reports_operating_balance",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

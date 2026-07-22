@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule owner="Catherine Conway" zone="America/Los_Angeles" exported="2026-02-12">
+  <rules>
+    <protected>Nothing is booked over Sunday Mass, Friday Adoration, or clinic hours.</protected>
+    <approval>Any booking at or above 250 US dollars needs sign off before it is confirmed.</approval>
+  </rules>
+  <recurring>
+    <event category="faith"><title>Morning prayer and Scripture</title><cadence>daily</cadence><time>05:30</time></event>
+    <event category="faith"><title>Sunday Mass, St. Brendan's</title><cadence>weekly</cadence><day>Sunday</day><time>09:30</time></event>
+    <event category="faith"><title>Friday Adoration</title><cadence>weekly</cadence><day>Friday</day><time>12:15</time></event>
+    <event category="wellness"><title>Yoga, Greenleaf Wellness Studio</title><cadence>weekly</cadence><day>Tuesday and Thursday</day><time>06:30</time></event>
+    <event category="family"><title>FaceTime with Bridget in Dublin</title><cadence>weekly</cadence><day>varies</day></event>
+    <event category="finance"><title>Review practice financials and 529 contribution</title><cadence>monthly</cadence><day>1st</day></event>
+    <event category="parish"><title>Parish council meeting</title><cadence>monthly</cadence><day>first Sunday</day><time>11:30</time></event>
+  </recurring>
+  <upcoming>
+    <event category="family" date="2026-10-11"><title>Family dinner in Lake Oswego</title><with>Patrick and Eileen Conway</with></event>
+    <event category="parish" date="2026-10-17"><title>Botanical watercolour workshop</title><place>St. Brendan's Fellowship Hall</place><time>10:00 to 13:00</time></event>
+    <event category="travel" date="2026-10-18" endDate="2026-10-27"><title>Scotland route, Edinburgh to Skye</title><status>draft, nothing booked</status></event>
+    <event category="health" date="2026-10-20"><title>Routine dental cleaning</title></event>
+    <event category="commission" date="2026-11-07"><title>Sweet pea wedding print due</title><ref>CC-2026-002</ref></event>
+    <event category="culture" date="2026-11-13"><title>Debussy and Chopin, evening concert in Portland</title><time>19:30</time></event>
+    <event category="health" date="2026-11-18"><title>Screening mammogram, Greenleaf Women's Health</title></event>
+    <event category="family" date="2026-11-26"><title>Thanksgiving, clinic closed</title></event>
+    <event category="commission" date="2026-12-11"><title>Fellowship hall native wildflower series installed</title><ref>CC-2026-003</ref></event>
+    <event category="exhibition" date="2027-01-09"><title>Wild Botanica opening reception</title><place>Ashvale Arts Center, 1450 NW Vaughn Street, Portland</place><time>18:00</time></event>
+    <event category="health" date="2027-02-04"><title>Next annual physical, Ridgemont Internal Medicine</title></event>
+  </upcoming>
+</schedule>

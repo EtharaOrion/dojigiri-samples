@@ -1,0 +1,23 @@
+id,name,real_name,email,is_admin,is_bot,tz,status_text,presence,__api__,__table__,__file__,__row_index__
+U001PERSONA,jessica,Jessica Spencer,jessica.spencer@Finthesiss.ai,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,0
+U002NATALI,natalie,Natalie Reeves,natalie@spencerinteriors.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,1
+U003SOPHIE,sophie,Sophie Chen,sophie@spencerinteriors.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,2
+U004CARLOS,carlos,Carlos Mendez,carlos@mendezbuilders.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,3
+U005TOM,tom,Tom Hendricks,tom.hendricks@gmail.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,4
+U006REBECC,rebecca,Rebecca Hendricks,rebecca.hendricks@gmail.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,5
+U007SARAH,sarah,Sarah Martin,smartin@techcorp.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,6
+U008BRIAN,brian,Brian Torres,btorres@acaciahomes.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,7
+U009DESERT,desert,Desert Pool Pros,service@desertpoolpros.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,8
+U010ANTONI,antonio,Antonio Ricci,antonio.ricci@ariastonegallery.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,9
+U011DEVON,devon,Devon Walsh,devon.walsh@rh.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,10
+U012RENATA,renata,Renata Cruz,renata.cruz@gmail.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,11
+U001PERSONA-v1,jessica,Jessica Spencer,jessica.spencer@Finthesiss.ai,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,12
+U002NATALI-v2,natalie,Natalie Reeves,natalie@spencerinteriors.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,13
+U003SOPHIE-v3,sophie,Sophie Chen,sophie@spencerinteriors.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,14
+U004CARLOS-v4,carlos,Carlos Mendez,carlos@mendezbuilders.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,15
+U005TOM-v5,tom,Tom Hendricks,tom.hendricks@gmail.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,16
+U006REBECC-v6,rebecca,Rebecca Hendricks,rebecca.hendricks@gmail.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,17
+U007SARAH-v7,sarah,Sarah Martin,smartin@techcorp.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,18
+U008BRIAN-v8,brian,Brian Torres,btorres@acaciahomes.com,True,True,America/Phoenix,Spencer Interiors: material sourcing update logged for this cycle.,active,slack-api,users,/opt/mocks/slack-api/users.json,19
+U002NATALIE,natalie,Natalie Reeves,natalie@spencerinteriors.com,False,False,America/Phoenix,,active,slack-api,users,/opt/mocks/slack-api/users.json,20
+U004JANET,janet,Janet Liu,janet.liu.books@gmail.com,False,False,America/Phoenix,,active,slack-api,users,/opt/mocks/slack-api/users.json,21

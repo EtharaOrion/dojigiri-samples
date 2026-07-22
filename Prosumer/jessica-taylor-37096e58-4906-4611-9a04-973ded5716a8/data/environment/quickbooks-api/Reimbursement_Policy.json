@@ -1,0 +1,127 @@
+{
+  "context": "Sole proprietor — home office + client meeting expenses",
+  "policy_name": "Taylor Visual Studio Reimbursement Policy",
+  "validation_rules": [
+    {
+      "rule": "Alcohol",
+      "requirement": "Alcohol-heavy charges",
+      "action": "Manual Review",
+      "notes": "Client meals only"
+    },
+    {
+      "rule": "Duplicates",
+      "requirement": "Duplicate uploads",
+      "action": "Reject",
+      "notes": "Only one valid receipt allowed"
+    },
+    {
+      "rule": "Reprints",
+      "requirement": "Reprint receipts",
+      "action": "Review",
+      "notes": "Need bank match"
+    },
+    {
+      "rule": "Missing Total",
+      "requirement": "Unreadable totals",
+      "action": "Reject",
+      "notes": "Low OCR confidence"
+    },
+    {
+      "rule": "Late Submission",
+      "requirement": "After 30 days",
+      "action": "Reject",
+      "notes": "Policy violation"
+    },
+    {
+      "rule": "Software Subscription",
+      "requirement": "Design software renewals",
+      "action": "Auto-approve",
+      "notes": "Adobe CC, Figma, tokens plugins covered"
+    },
+    {
+      "rule": "Client Meal",
+      "requirement": "Meal with client on record",
+      "action": "Auto-approve",
+      "notes": "Must name client in memo (Nina, Verdant, Pinnacle)"
+    },
+    {
+      "rule": "Coworking",
+      "requirement": "Day pass or monthly seat",
+      "action": "Auto-approve",
+      "notes": "Kindred, Neuehouse; capped $250/month"
+    },
+    {
+      "rule": "Print Vendor",
+      "requirement": "Proofs, samples, packaging runs",
+      "action": "Auto-approve",
+      "notes": "Attach vendor invoice PDF"
+    },
+    {
+      "rule": "Shipping",
+      "requirement": "Client-bound deliverables",
+      "action": "Auto-approve",
+      "notes": "UPS/FedEx/USPS with tracking number"
+    },
+    {
+      "rule": "Continuing Education",
+      "requirement": "Design conference, course, book",
+      "action": "Manual Review",
+      "notes": "Cap $1,200 per calendar year"
+    },
+    {
+      "rule": "Hardware",
+      "requirement": "Studio hardware purchase",
+      "action": "Manual Review",
+      "notes": "Any single item over $500 requires quote"
+    },
+    {
+      "rule": "Travel — Domestic",
+      "requirement": "Client-related travel",
+      "action": "Manual Review",
+      "notes": "Coach only; pre-approval for over $600"
+    },
+    {
+      "rule": "Travel — International",
+      "requirement": "Foreign client meetings",
+      "action": "Manual Review",
+      "notes": "Requires written client contract terms"
+    },
+    {
+      "rule": "Mileage",
+      "requirement": "Personal vehicle for client work",
+      "action": "Auto-approve",
+      "notes": "$0.67/mile IRS standard 2026"
+    },
+    {
+      "rule": "Rideshare",
+      "requirement": "Lyft/Uber to client meetings",
+      "action": "Auto-approve",
+      "notes": "Log destination and client purpose"
+    },
+    {
+      "rule": "Museum Admission",
+      "requirement": "Research/inspiration visits",
+      "action": "Manual Review",
+      "notes": "LACMA membership is a business expense; single tickets reviewed"
+    },
+    {
+      "rule": "Charitable Contribution",
+      "requirement": "Design donated to nonprofit",
+      "action": "Manual Review",
+      "notes": "Requires 501(c)(3) letter for pro bono value"
+    },
+    {
+      "rule": "Personal Charge",
+      "requirement": "Non-business purchase on business card",
+      "action": "Reject",
+      "notes": "Repay from personal account within 15 days"
+    },
+    {
+      "rule": "Foreign Currency",
+      "requirement": "Non-USD receipt",
+      "action": "Manual Review",
+      "notes": "Attach FX rate as of transaction date"
+    }
+  ],
+  "version": "2026.10"
+}

@@ -1,0 +1,23 @@
+board_id,column_id,position,title,type,_pk
+board-1,status,0,Status,status,board-1@status
+board-1,owner,1,Owner,person,board-1@owner
+board-1,date,2,Date,date,board-1@date
+board-1,notes,3,Notes,long-text,board-1@notes
+board-2,status,0,Status,status,board-2@status
+board-2,owner,1,Owner,person,board-2@owner
+board-2,date,2,Date,date,board-2@date
+board-2,notes,3,Notes,long-text,board-2@notes
+board-3,status,0,Status,status,board-3@status
+board-3,owner,1,Owner,person,board-3@owner
+board-3,date,2,Date,date,board-3@date
+board-3,notes,3,Notes,long-text,board-3@notes
+board-8001,0yqn,2,Year-end appeal copy review,date,board-8001@0yqn
+board-9970,2wqtq,3,Greenfield Year 2 milestone draft,long-text,board-9970@2wqtq
+board-1704,h3mtq,3,Showcase sponsor confirmation,long-text,board-1704@h3mtq
+board-2441,nznkvr,0,Board pre-read for finance committee,status,board-2441@nznkvr
+board-468,lp67y7,0,Asana sprint check-in,status,board-468@lp67y7
+board-5761,tgn6o,1,Livernois grand opening — punch list,person,board-5761@tgn6o
+board-2337,tf0xp,1,Showcase production lead,person,board-2337@tf0xp
+board-8736,x67a,2,Beacon renewal one-pager,date,board-8736@x67a
+board-1383,4waiaf,0,Diego basketball pickup logistics,status,board-1383@4waiaf
+board-1915,5u5l,2,Hartwell site visit logistics,date,board-1915@5u5l

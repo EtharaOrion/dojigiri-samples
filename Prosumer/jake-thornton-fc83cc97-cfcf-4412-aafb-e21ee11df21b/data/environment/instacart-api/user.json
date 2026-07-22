@@ -1,0 +1,15 @@
+{
+  "user_id": "user-jakethornton",
+  "name": "Jake Thornton",
+  "email": "jake.thornton@greenrider.co",
+  "default_zip": "30303",
+  "membership": "INSTACART_PLUS",
+  "default_address": {
+    "line1": "245 Folsom St",
+    "line2": "Apt 3",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "94110"
+  },
+  "default_payment_method_id": "pm-visa-1234"
+}

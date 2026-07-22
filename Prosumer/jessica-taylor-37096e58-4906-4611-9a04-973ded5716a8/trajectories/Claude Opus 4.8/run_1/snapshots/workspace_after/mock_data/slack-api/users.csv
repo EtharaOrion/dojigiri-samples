@@ -1,0 +1,29 @@
+id,name,real_name,email,is_admin,is_bot,tz,status_text,presence,__api__,__table__,__file__,__row_index__
+U01AMELIA,Jessica Marie Taylor,Jessica Marie Taylor,jessica.taylor@Finthesiss.ai,True,False,America/Los_Angeles,heads-down on auth v2,active,slack-api,users,/opt/mocks/slack-api/users.json,0
+U01JONAS,David Taylor,David Taylor,david.taylor.engineer@gmail.com,False,False,America/Los_Angeles,status_text-37499,active,slack-api,users,/opt/mocks/slack-api/users.json,1
+U01HELENA,Mia Petrov,Mia Petrov,mia.petrov.la@gmail.com,False,False,America/Los_Angeles,reviewing PRs,active,slack-api,users,/opt/mocks/slack-api/users.json,2
+U01ROHIT,Tomas Varga,Tomas Varga,tomas.varga.sf@gmail.com,False,False,America/Los_Angeles,status_text-25679,away,slack-api,users,/opt/mocks/slack-api/users.json,3
+U01NOOR,Nina Okafor,Nina Okafor,nina@bloomskinco.com,False,False,America/Los_Angeles,onboarding,active,slack-api,users,/opt/mocks/slack-api/users.json,4
+U01BOT,Ray Mitchell,Ray Mitchell,ray.mitchell.design@gmail.com,False,True,America/Los_Angeles,status_text-93925,active,slack-api,users,/opt/mocks/slack-api/users.json,5
+U01AMELIA-v7,Marcus Reeves,Marcus Reeves,front.desk@pinnaclecollective.com,True,False,America/Los_Angeles,heads-down on auth v2,active,slack-api,users,/opt/mocks/slack-api/users.json,6
+U01JONAS-v8,Aria Chen,Aria Chen,david.taylor.engineer@gmail.com,False,False,America/Los_Angeles,status_text-86220,active,slack-api,users,/opt/mocks/slack-api/users.json,7
+U01HELENA-v9,Verdant Provisions,Verdant Provisions,hello@verdantprovisions.com,False,False,America/Los_Angeles,reviewing PRs,active,slack-api,users,/opt/mocks/slack-api/users.json,8
+U01ROHIT-v10,Pinnacle Collective,Pinnacle Collective,tomas.varga.sf@gmail.com,False,False,America/Los_Angeles,status_text-90211,away,slack-api,users,/opt/mocks/slack-api/users.json,9
+U01NOOR-v11,Grace Taylor,Grace Taylor,nina@bloomskinco.com,False,False,America/Los_Angeles,onboarding,active,slack-api,users,/opt/mocks/slack-api/users.json,10
+U01BOT-v12,David Taylor,David Taylor,ray.mitchell.design@gmail.com,False,True,America/Los_Angeles,status_text-37175,active,slack-api,users,/opt/mocks/slack-api/users.json,11
+U01AMELIA-v13,Mia Petrov,Mia Petrov,mia.petrov.la@gmail.com,True,False,America/Los_Angeles,heads-down on auth v2,active,slack-api,users,/opt/mocks/slack-api/users.json,12
+U01JONAS-v14,Tomas Varga,Tomas Varga,david.taylor.engineer@gmail.com,False,False,America/Los_Angeles,status_text-44498,active,slack-api,users,/opt/mocks/slack-api/users.json,13
+U01HELENA-v15,Nina Okafor,Nina Okafor,nina@bloomskinco.com,False,False,America/Los_Angeles,reviewing PRs,active,slack-api,users,/opt/mocks/slack-api/users.json,14
+U01ROHIT-v16,Ray Mitchell,Ray Mitchell,tomas.varga.sf@gmail.com,False,False,America/Los_Angeles,status_text-42075,away,slack-api,users,/opt/mocks/slack-api/users.json,15
+U01NOOR-v17,Marcus Reeves,Marcus Reeves,nina@bloomskinco.com,False,False,America/Los_Angeles,onboarding,active,slack-api,users,/opt/mocks/slack-api/users.json,16
+U01BOT-v18,Aria Chen,Aria Chen,ray.mitchell.design@gmail.com,False,True,America/Los_Angeles,status_text-99408,active,slack-api,users,/opt/mocks/slack-api/users.json,17
+U01AMELIA-v19,Verdant Provisions,Verdant Provisions,hello@verdantprovisions.com,True,False,America/Los_Angeles,heads-down on auth v2,active,slack-api,users,/opt/mocks/slack-api/users.json,18
+U01JONAS-v20,Pinnacle Collective,Pinnacle Collective,david.taylor.engineer@gmail.com,False,False,America/Los_Angeles,status_text-44750,active,slack-api,users,/opt/mocks/slack-api/users.json,19
+U_JESSICA,jessica,Jessica Taylor,jessica@taylorvisualstudio.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,20
+U_MIA,mia,Mia Petrov,mia.petrov.la@gmail.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,21
+U_TOMAS,tomas,Tomas Varga,tomas.varga.sf@gmail.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,22
+U_NINA,nina.okafor,Nina Okafor,nina@bloomskinco.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,23
+U_RAY,ray.mitchell,Ray Mitchell,ray.mitchell.design@gmail.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,24
+U_PINNACLE,pinnacle.ops,Pinnacle Ops,info@pinnaclecollective.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,25
+U_AURORA,aurora.owner,Aurora Owner,hello@aurorabistro.com,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,26
+U_COASTWISE,coastwise.ed,Coastwise ED,team@coastwise.org,False,False,America/Los_Angeles,,active,slack-api,users,/opt/mocks/slack-api/users.json,27

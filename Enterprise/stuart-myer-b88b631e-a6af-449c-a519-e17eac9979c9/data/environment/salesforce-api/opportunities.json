@@ -1,0 +1,202 @@
+[
+  {
+    "AccountId": "001Ax000009B9036B0",
+    "Amount": 565000,
+    "CloseDate": "2026-01-11T22:38:17+00:00",
+    "Id": "006Ax000009B9036B0",
+    "Name": "Greenfield's Deli — Enterprise expansion",
+    "Probability": 20,
+    "StageName": "Prospecting",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B1",
+    "Amount": 670000,
+    "CloseDate": "2026-01-23T19:59:36+00:00",
+    "Id": "006Ax000009B9036D5",
+    "Name": "Driftwood Brewing Company — Annual renewal",
+    "Probability": 40,
+    "StageName": "Qualification",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B3",
+    "Amount": 775000,
+    "CloseDate": "2026-02-08T17:04:09+00:00",
+    "Id": "006Ax000009B9036FA",
+    "Name": "Cascade Analytics — Multi-seat upgrade",
+    "Probability": 60,
+    "StageName": "Proposal/Price Quote",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B5",
+    "Amount": 880000,
+    "CloseDate": "2026-01-24T11:10:17+00:00",
+    "Id": "006Ax000009B90371F",
+    "Name": "Greenfield Accounting — Pilot program",
+    "Probability": 75,
+    "StageName": "Negotiation/Review",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B7",
+    "Amount": 110000,
+    "CloseDate": "2026-03-04T06:15:51+00:00",
+    "Id": "006Ax000009B903744",
+    "Name": "Multnomah County Clean Water Coalition — Department rollout",
+    "Probability": 100,
+    "StageName": "Closed Won",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A4",
+    "Amount": 215000,
+    "CloseDate": "2026-03-01T11:46:58+00:00",
+    "Id": "006Ax000009B903769",
+    "Name": "Portland Holdings 05 — Migration from legacy vendor",
+    "Probability": 0,
+    "StageName": "Closed Lost",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A5",
+    "Amount": 320000,
+    "CloseDate": "2026-10-28T00:35:11+00:00",
+    "Id": "006Ax000009B90378E",
+    "Name": "Portland Holdings 06 — Renewal at risk",
+    "Probability": 20,
+    "StageName": "Prospecting",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A6",
+    "Amount": 425000,
+    "CloseDate": "2026-01-16T05:35:38+00:00",
+    "Id": "006Ax000009B9037B3",
+    "Name": "Portland Holdings 07 — New logo — design partner",
+    "Probability": 40,
+    "StageName": "Qualification",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A7",
+    "Amount": 530000,
+    "CloseDate": "2026-12-02T03:35:42+00:00",
+    "Id": "006Ax000009B9037D8",
+    "Name": "Portland Holdings 08 — Enterprise expansion",
+    "Probability": 60,
+    "StageName": "Proposal/Price Quote",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A8",
+    "Amount": 635000,
+    "CloseDate": "2026-03-27T13:21:42+00:00",
+    "Id": "006Ax000009B9037FD",
+    "Name": "Portland Holdings 09 — Annual renewal",
+    "Probability": 75,
+    "StageName": "Negotiation/Review",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A9",
+    "Amount": 740000,
+    "CloseDate": "2027-01-07T06:44:55+00:00",
+    "Id": "006Ax000009B903822",
+    "Name": "Portland Holdings 10 — Multi-seat upgrade",
+    "Probability": 100,
+    "StageName": "Closed Won",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5AA",
+    "Amount": 845000,
+    "CloseDate": "2025-12-30T23:38:24+00:00",
+    "Id": "006Ax000009B903847",
+    "Name": "Portland Holdings 11 — Pilot program",
+    "Probability": 0,
+    "StageName": "Closed Lost",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B0",
+    "Amount": 565000,
+    "CloseDate": "2026-01-11T22:38:17+00:00",
+    "Id": "006Ax000009B9036B1",
+    "Name": "Greenfield's Deli — Enterprise expansion",
+    "Probability": 20,
+    "StageName": "Prospecting",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B1",
+    "Amount": 670000,
+    "CloseDate": "2026-01-23T19:59:36+00:00",
+    "Id": "006Ax000009B9036D6",
+    "Name": "Driftwood Brewing Company — Annual renewal",
+    "Probability": 40,
+    "StageName": "Qualification",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B3",
+    "Amount": 775000,
+    "CloseDate": "2026-02-08T17:04:09+00:00",
+    "Id": "006Ax000009B9036FA-17",
+    "Name": "Cascade Analytics — Multi-seat upgrade",
+    "Probability": 60,
+    "StageName": "Proposal/Price Quote",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B5",
+    "Amount": 880000,
+    "CloseDate": "2026-01-24T11:10:17+00:00",
+    "Id": "006Ax000009B90371F-19",
+    "Name": "Greenfield Accounting — Pilot program",
+    "Probability": 75,
+    "StageName": "Negotiation/Review",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B9036B7",
+    "Amount": 110000,
+    "CloseDate": "2026-03-04T06:15:51+00:00",
+    "Id": "006Ax000009B903745",
+    "Name": "Multnomah County Clean Water Coalition — Department rollout",
+    "Probability": 100,
+    "StageName": "Closed Won",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A4",
+    "Amount": 215000,
+    "CloseDate": "2026-03-01T11:46:58+00:00",
+    "Id": "006Ax000009B903770",
+    "Name": "Portland Holdings 05 — Migration from legacy vendor",
+    "Probability": 0,
+    "StageName": "Closed Lost",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A5",
+    "Amount": 320000,
+    "CloseDate": "2026-10-28T00:35:11+00:00",
+    "Id": "006Ax000009B90378E-25",
+    "Name": "Portland Holdings 06 — Renewal at risk",
+    "Probability": 20,
+    "StageName": "Prospecting",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax000009B90F5A6",
+    "Amount": 425000,
+    "CloseDate": "2026-01-16T05:35:38+00:00",
+    "Id": "006Ax000009B9037B4",
+    "Name": "Portland Holdings 07 — New logo — design partner",
+    "Probability": 40,
+    "StageName": "Qualification",
+    "Type": "Existing Business"
+  }
+]

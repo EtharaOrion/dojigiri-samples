@@ -1,0 +1,23 @@
+[
+  {
+    "baseId": "appTVS0jessica01",
+    "id": "tblContacts00001",
+    "name": "Contacts",
+    "primaryFieldId": "fldContactName01",
+    "records_csv": "records_contacts.json"
+  },
+  {
+    "baseId": "appTVS0jessica01",
+    "id": "tblProjects0000",
+    "name": "Projects",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.json"
+  },
+  {
+    "baseId": "appTVS0jessica01",
+    "id": "tblTasks0000000",
+    "name": "Task",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.json"
+  }
+]

@@ -1,0 +1,7 @@
+id,customer,price,status,quantity,current_period_start,current_period_end,cancel_at_period_end,created,__api__,__table__,__file__,__row_index__,object
+sub_umnnrnthexw44l,cus_vtblzku5vz3cus,price_pzv42gq7m9fz9c,active,1,1772323200,1774828800,False,1704240000,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,0,subscription
+sub_s3mlbu8uo6q8k3,cus_pydnl8eohg10uy,price_v48mx6l3pmszow,active,1,1772323200,1774828800,False,1706918400,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,1,subscription
+sub_ze005r0yh7wcib,cus_sfwaufk7ymj162,price_agksgcbiwhukbo,active,1,1736380800,1767916800,False,1736380800,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,2,subscription
+sub_kuuxk5tyrn6g71,cus_lre07jaleqc0c6,price_evfi5njex4sz0y,past_due,1,1772323200,1774828800,False,1709596800,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,3,subscription
+sub_tuihcxj9psbm6v,cus_gmh6f1d7hcb4v2,price_pzv42gq7m9fz9c,canceled,1,1701388800,1703980800,True,1698796800,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,4,subscription
+sub_afe7ap28ycs3a9,cus_i7e8ladn8ooqbo,price_evfi5njex4sz0y,active,1,1772323200,1774828800,False,1711929600,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,5,subscription

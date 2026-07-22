@@ -1,0 +1,254 @@
+{
+  "label": "after_injection",
+  "ts": 1784455827.579259,
+  "ts_iso": "2026-07-19T10:10:27Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 1,
+        "records_tblContacts07301": 20,
+        "records_tblProjects07301": 20,
+        "records_tblTasks00007301": 20,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "calendly-api": {
+      "tables": {
+        "availability": 7,
+        "event_types": 5,
+        "invitees": 144,
+        "scheduled_events": 45
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "contentful-api": {
+      "tables": {
+        "assets": 20,
+        "content_types": 3,
+        "entries": 81
+      },
+      "documents": {
+        "space": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 20,
+        "envelopes": 21,
+        "recipients": 20,
+        "templates": 4
+      },
+      "documents": {}
+    },
+    "eventbrite-api": {
+      "tables": {
+        "attendees": 116,
+        "events": 20,
+        "organizations": 2,
+        "ticket_classes": 28,
+        "venues": 3
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 1,
+        "labels": 7,
+        "messages": 135
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 4,
+        "events": 48
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 1
+      },
+      "documents": {}
+    },
+    "instagram-api": {
+      "tables": {
+        "carousel_children": 20,
+        "comments": 20,
+        "hashtags": 20,
+        "media": 98,
+        "media_insights": 20,
+        "mentions": 20,
+        "stories": 20,
+        "users": 5
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 21,
+        "lists": 5,
+        "members": 106,
+        "reports": 4
+      },
+      "documents": {}
+    },
+    "monday-api": {
+      "tables": {
+        "boards": 3,
+        "column_values": 35,
+        "columns": 4,
+        "groups": 4,
+        "items": 26,
+        "users": 20,
+        "workspaces": 1
+      },
+      "documents": {}
+    },
+    "pagerduty-api": {
+      "tables": {
+        "incidents": 20,
+        "policies": 1,
+        "schedules": 1,
+        "services": 20,
+        "users": 20
+      },
+      "documents": {}
+    },
+    "paypal-api": {
+      "tables": {
+        "captures": 29,
+        "invoices": 20,
+        "orders": 20,
+        "payouts": 20,
+        "refunds": 20
+      },
+      "documents": {}
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 4,
+        "transactions": 31
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 25,
+        "bills": 20,
+        "customers": 76,
+        "estimates": 20,
+        "expenses": 20,
+        "invoices": 106,
+        "items": 20,
+        "payments": 20,
+        "vendors": 22
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "sendgrid-api": {
+      "tables": {
+        "contacts": 20,
+        "lists": 20,
+        "sent_log": 20,
+        "stats": 20,
+        "templates": 5
+      },
+      "documents": {}
+    },
+    "square-api": {
+      "tables": {
+        "catalog": 20,
+        "customers": 20,
+        "inventory": 20,
+        "orders": 30,
+        "payments": 30,
+        "refunds": 0
+      },
+      "documents": {
+        "merchant": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 106,
+        "customers": 20,
+        "invoices": 20,
+        "payment_intents": 0,
+        "prices": 5,
+        "products": 4,
+        "refunds": 0,
+        "subscriptions": 20
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "trello-api": {
+      "tables": {
+        "boards": 3,
+        "cards": 104,
+        "checklists": 20,
+        "lists": 20,
+        "members": 20
+      },
+      "documents": {}
+    },
+    "twilio-api": {
+      "tables": {
+        "calls": 20,
+        "messages": 112,
+        "phone_numbers": 2
+      },
+      "documents": {
+        "account": true
+      }
+    },
+    "typeform-api": {
+      "tables": {
+        "answers": 20,
+        "fields": 4,
+        "forms": 20,
+        "responses": 20
+      },
+      "documents": {}
+    },
+    "wordpress-api": {
+      "tables": {
+        "categories": 5,
+        "comments": 3,
+        "media": 20,
+        "pages": 3,
+        "posts": 104,
+        "tags": 5,
+        "users": 3
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 20,
+        "contacts": 20,
+        "invoices": 32
+      },
+      "documents": {}
+    }
+  }
+}

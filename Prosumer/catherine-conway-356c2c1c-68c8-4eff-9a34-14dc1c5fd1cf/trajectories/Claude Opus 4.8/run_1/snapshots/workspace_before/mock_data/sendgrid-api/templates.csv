@@ -1,0 +1,6 @@
+active,generation,html_content,id,name,subject,updated_at,__api__,__table__,__file__,__row_index__
+True,dynamic,<h1>Welcome {{first_name}}</h1><p>Glad to have you at Conway Dermatology Associates.</p>,d-00000000000004,welcome,"Welcome to Conway Dermatology Associates, {{first_name}}!",2026-02-03T02:02:00+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,0
+True,dynamic,<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>,d-00000000000008,password-reset,Reset your Conway Dermatology Associates password,2026-02-18T21:31:57+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,1
+True,dynamic,<h2>{{month}} Newsletter</h2><p>{{body}}</p>,d-0000000000000d,monthly-news,Conway Dermatology Associates — {{month}} highlights,2026-02-24T11:24:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,2
+True,dynamic,<p>Thanks for your payment of {{amount}}.</p>,d-00000000000011,invoice,Your receipt for invoice {{invoice_id}},2026-03-09T22:40:31+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,3
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-00000000000015,trial-end,Your trial ends in {{days}} days,2026-03-13T03:48:51+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,4

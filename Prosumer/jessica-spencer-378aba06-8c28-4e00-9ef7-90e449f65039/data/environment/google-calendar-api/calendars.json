@@ -1,0 +1,182 @@
+[
+  {
+    "id": "jessica.spencer@Finthesiss.ai",
+    "summary": "Jessica Spencer",
+    "description": "Primary calendar",
+    "time_zone": "America/Phoenix",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "spencer-interiors_studio@group.calendar.google.com",
+    "summary": "Spencer Interiors Studio",
+    "description": "Studio-wide events, deadlines, deliveries",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "spencer-interiors_projects@group.calendar.google.com",
+    "summary": "Active Projects",
+    "description": "Hendricks, Martin, Desert Vista, Spec Home schedules",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "3"
+  },
+  {
+    "id": "spencer-interiors_vendors@group.calendar.google.com",
+    "summary": "Vendor Deliveries",
+    "description": "Vendor delivery windows and trade appointments",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "4"
+  },
+  {
+    "id": "jessica.personal@gmail.com",
+    "summary": "Personal",
+    "description": "Family, tennis, gallery walks, dinner parties",
+    "time_zone": "America/Phoenix",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "family_spencer@group.calendar.google.com",
+    "summary": "Family (Spencer)",
+    "description": "Kevin, Emma, Tyler, Diane logistics",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "6"
+  },
+  {
+    "id": "kids_activities@group.calendar.google.com",
+    "summary": "Kids Activities",
+    "description": "Emma dance, Tyler soccer, art club, school events",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "7"
+  },
+  {
+    "id": "scottsdale_events@group.calendar.google.com",
+    "summary": "Scottsdale Events",
+    "description": "Local trade shows, gallery walks, ASID chapter",
+    "time_zone": "America/Phoenix",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "holidays_us@group.calendar.google.com",
+    "summary": "US Holidays",
+    "description": "United States public holidays",
+    "time_zone": "America/Phoenix",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "9"
+  },
+  {
+    "id": "jessica.spencer-2@Finthesiss.ai",
+    "summary": "Jessica Spencer",
+    "description": "Primary calendar",
+    "time_zone": "America/Phoenix",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "jessica.spencer-3@Finthesiss.ai",
+    "summary": "Jessica Spencer",
+    "description": "Primary calendar",
+    "time_zone": "America/Phoenix",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "spencer-interiors_studio-2@group.calendar.google.com",
+    "summary": "Spencer Interiors Studio",
+    "description": "Studio-wide events, deadlines, deliveries",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "spencer-interiors_projects-2@group.calendar.google.com",
+    "summary": "Active Projects",
+    "description": "Hendricks, Martin, Desert Vista, Spec Home schedules",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "3"
+  },
+  {
+    "id": "spencer-interiors_vendors-2@group.calendar.google.com",
+    "summary": "Vendor Deliveries",
+    "description": "Vendor delivery windows and trade appointments",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "4"
+  },
+  {
+    "id": "jessica.personal-2@gmail.com",
+    "summary": "Personal",
+    "description": "Family, tennis, gallery walks, dinner parties",
+    "time_zone": "America/Phoenix",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "family_spencer-2@group.calendar.google.com",
+    "summary": "Family (Spencer)",
+    "description": "Kevin, Emma, Tyler, Diane logistics",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "6"
+  },
+  {
+    "id": "kids_activities-2@group.calendar.google.com",
+    "summary": "Kids Activities",
+    "description": "Emma dance, Tyler soccer, art club, school events",
+    "time_zone": "America/Phoenix",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "7"
+  },
+  {
+    "id": "scottsdale_events-2@group.calendar.google.com",
+    "summary": "Scottsdale Events",
+    "description": "Local trade shows, gallery walks, ASID chapter",
+    "time_zone": "America/Phoenix",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "holidays_us-2@group.calendar.google.com",
+    "summary": "US Holidays",
+    "description": "United States public holidays",
+    "time_zone": "America/Phoenix",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "9"
+  },
+  {
+    "id": "jessica.spencer-4@Finthesiss.ai",
+    "summary": "Jessica Spencer",
+    "description": "Primary calendar",
+    "time_zone": "America/Phoenix",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  }
+]

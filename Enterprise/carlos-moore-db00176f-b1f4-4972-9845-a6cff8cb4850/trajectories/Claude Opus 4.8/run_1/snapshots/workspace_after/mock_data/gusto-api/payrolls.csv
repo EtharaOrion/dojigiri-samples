@@ -1,0 +1,11 @@
+check_date,company_id,employee_count,gross_pay,id,net_pay,pay_period_end,pay_period_start,processed,__api__,__table__,__file__,__row_index__
+2026-06-18,co-0000f7b97211,111,229640.18,pay-704ce7f3,171082.55,2026-06-15,2026-06-01,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,0
+2026-07-01,co-0000f7b97211,111,231518.44,pay-c6e747ae,168994.27,2026-06-28,2026-06-16,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,1
+2026-05-18,co-0000f7b97211,111,231518.44,pay-e762dc10,168994.27,2026-05-15,2026-05-01,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,2
+2026-05-31,co-0000f7b97211,111,231518.44,pay-cdc13827,168994.27,2026-05-28,2026-05-16,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,3
+2026-01-18,co-0000f7b97211,111,238469.99,pay-48eca98d,143072.59,2026-01-15,2026-01-01,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,4
+2026-02-17,co-0000f7b97211,111,245264.3,pay-174de8f5,165943.01,2026-02-14,2026-01-31,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,5
+2026-03-19,co-0000f7b97211,111,243340.41,pay-971d4977,178093.97,2026-03-16,2026-03-02,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,6
+2026-04-18,co-0000f7b97211,111,233239.13,pay-200b065e,188494.81,2026-04-15,2026-04-01,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,7
+2026-05-18,co-0000f7b97211,111,259321.27,pay-6fba21d5,138570.21,2026-05-15,2026-05-01,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,8
+2026-06-17,co-0000f7b97211,111,215581.57,pay-4915dbd5,165325.53,2026-06-14,2026-05-31,True,gusto-api,payrolls,/opt/mocks/gusto-api/payrolls.json,9

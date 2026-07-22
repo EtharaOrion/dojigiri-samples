@@ -1,0 +1,47 @@
+[
+  {
+    "id": "price_Starter_M",
+    "product": "prod_Starter",
+    "unit_amount": "7500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Home class seat"
+  },
+  {
+    "id": "price_Pro_M",
+    "product": "prod_Pro",
+    "unit_amount": "6500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Venue class seat"
+  },
+  {
+    "id": "price_Pro_Y",
+    "product": "prod_Pro",
+    "unit_amount": "65000",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Venue class seat — annual series"
+  },
+  {
+    "id": "price_Ent_M",
+    "product": "prod_Enterprise",
+    "unit_amount": "25000",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Private group class"
+  },
+  {
+    "id": "price_POS",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Gift card"
+  }
+]

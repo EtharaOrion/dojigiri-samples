@@ -1,0 +1,26 @@
+id,number,customer_id,status,currency,total,subtotal,total_tax,payment_method,payment_method_title,billing_first_name,billing_last_name,billing_email,date_created
+7701,401,7501,processing,USD,50.46,47.6,2.86,stripe,Credit card (Stripe),Marcus,Johnson,marcus.d.johnson@gmail.com,2026-12-29T00:00:00
+7702,402,7502,completed,USD,61.48,58.0,3.48,stripe,Credit card (Stripe),Linda,Thornton,linda.thornton@gmail.com,2026-12-26T00:00:00
+7703,403,7503,completed,USD,25.44,24.0,1.44,stripe,Credit card (Stripe),Katie,Thornton,katie.thornton@gmail.com,2026-12-23T00:00:00
+7704,404,7504,on-hold,USD,39.64,37.4,2.24,stripe,Credit card (Stripe),Gloria,Johnson,gloria.johnson@gmail.com,2026-12-20T00:00:00
+7705,405,7505,completed,USD,29.68,28.0,1.68,stripe,Credit card (Stripe),Dave,Thornton,dave.thornton@gmail.com,2026-12-17T00:00:00
+7706,406,7506,processing,USD,82.68,78.0,4.68,stripe,Credit card (Stripe),Priya,Johnson,priya.raman@gmail.com,2026-12-14T00:00:00
+7707,407,7507,completed,USD,48.65,45.9,2.75,stripe,Credit card (Stripe),Andre,Johnson,andre.bishop@gmail.com,2026-12-11T00:00:00
+7708,408,7508,completed,USD,19.08,18.0,1.08,stripe,Credit card (Stripe),Dr.,Keisha Williams,keisha.williams@gmail.com,2026-12-08T00:00:00
+7709,409,7509,on-hold,USD,26.5,25.0,1.5,stripe,Credit card (Stripe),Nene,Barry,nene.barry@gmail.com,2026-12-05T00:00:00
+7710,410,7510,completed,USD,90.1,85.0,5.1,stripe,Credit card (Stripe),Dr.,Rashida Moore,dr.rashida.moore@gmail.com,2026-12-02T00:00:00
+7711,411,7511,processing,USD,25.23,23.8,1.43,stripe,Credit card (Stripe),Dr.,Tanya Brooks,dr.tanya.brooks@gmail.com,2026-11-30T00:00:00
+7712,412,7512,completed,USD,122.96,116.0,6.96,stripe,Credit card (Stripe),Tasha,Williams,tasha.williams@gmail.com,2026-11-27T00:00:00
+7713,413,7513,completed,USD,25.44,24.0,1.44,stripe,Credit card (Stripe),Aisha,Patel,aisha.patel@gmail.com,2026-11-24T00:00:00
+7714,414,7514,on-hold,USD,19.82,18.7,1.12,stripe,Credit card (Stripe),Erin,Boyd,erin.boyd@gmail.com,2026-11-21T00:00:00
+7715,415,7515,completed,USD,44.52,42.0,2.52,stripe,Credit card (Stripe),Whitney,Sims,whitney.sims@gmail.com,2026-11-18T00:00:00
+7716,416,7516,processing,USD,27.56,26.0,1.56,stripe,Credit card (Stripe),Maya,Roberts,maya.roberts@gmail.com,2026-11-15T00:00:00
+7717,417,7517,completed,USD,16.22,15.3,0.92,stripe,Credit card (Stripe),Devon,Ellis,devon.ellis@gmail.com,2026-11-12T00:00:00
+7718,418,7518,completed,USD,19.08,18.0,1.08,stripe,Credit card (Stripe),Priya,Anand,priya.anand@gmail.com,2026-11-09T00:00:00
+7719,419,7519,on-hold,USD,79.5,75.0,4.5,stripe,Credit card (Stripe),Dr.,Sofia Ramirez,sofia.ramirez@gmail.com,2026-11-06T00:00:00
+7720,420,7520,completed,USD,90.1,85.0,5.1,stripe,Credit card (Stripe),Brianna,Cole,brianna.cole@gmail.com,2026-11-03T00:00:00
+7721,421,7501,processing,USD,75.68,71.4,4.28,stripe,Credit card (Stripe),Marcus,Johnson,marcus.d.johnson@gmail.com,2026-10-30T00:00:00
+7722,422,7502,completed,USD,61.48,58.0,3.48,stripe,Credit card (Stripe),Linda,Thornton,linda.thornton@gmail.com,2026-10-27T00:00:00
+7723,423,7503,completed,USD,25.44,24.0,1.44,stripe,Credit card (Stripe),Katie,Thornton,katie.thornton@gmail.com,2026-10-24T00:00:00
+7724,424,7504,on-hold,USD,19.82,18.7,1.12,stripe,Credit card (Stripe),Gloria,Johnson,gloria.johnson@gmail.com,2026-10-21T00:00:00
+7725,425,7505,completed,USD,14.84,14.0,0.84,stripe,Credit card (Stripe),Dave,Thornton,dave.thornton@gmail.com,2026-10-18T00:00:00

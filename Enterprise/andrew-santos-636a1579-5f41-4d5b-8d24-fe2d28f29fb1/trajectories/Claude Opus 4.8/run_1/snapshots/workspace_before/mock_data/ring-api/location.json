@@ -1,0 +1,29 @@
+{
+  "address": {
+    "city": "Detroit",
+    "country": "US",
+    "state": "MI",
+    "street1": "19340 Gloucester Dr",
+    "street2": "Palmer Woods",
+    "zip": "48221"
+  },
+  "created_at": "2024-12-29T00:00:00Z",
+  "latitude": 42.4314,
+  "location_id": "loc_6e700b951a72",
+  "longitude": -83.1402,
+  "mode": "home",
+  "name": "Andrew's Home",
+  "owner": {
+    "email": "andrew.santos@Greenridertech.co",
+    "first_name": "Andrew",
+    "id": 77476712,
+    "last_name": "Santos"
+  },
+  "subscription": {
+    "plan": "ring_protect_plus",
+    "status": "active",
+    "video_history_days": 60
+  },
+  "time_zone": "America/Detroit",
+  "updated_at": "2026-03-24T00:00:00Z"
+}

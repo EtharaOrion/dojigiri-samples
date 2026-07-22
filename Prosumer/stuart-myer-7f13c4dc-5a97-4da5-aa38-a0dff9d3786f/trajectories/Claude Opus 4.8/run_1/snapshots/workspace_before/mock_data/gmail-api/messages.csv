@@ -1,0 +1,594 @@
+body,cc_addr,date,from_addr,id,internal_date,is_starred,is_unread,labels,size_estimate,snippet,subject,thread_id,to_addr,__api__,__table__,__file__,__row_index__
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-26T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10000,1766707200000,True,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Supplier invoice,thr-100,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,0
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-26T04:00:00+00:00,stuart.myer@voissync.ai,msg-10001,1766721600000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Supplier invoice,thr-100,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,1
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Priya",stuart.myer@voissync.ai,2025-12-24T00:00:00+00:00,priya.nair.env@gmail.com,msg-10100,1766534400000,False,True,"[""INBOX"", ""Label_voissync""]",210,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Staffing schedule,thr-101,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,2
+"Hi Priya,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-24T04:00:00+00:00,stuart.myer@voissync.ai,msg-10101,1766548800000,False,False,"[""SENT"", ""Label_voissync""]",190,"Hi Priya,\n\nThanks for reaching out. I'll take a look later today and circle ba...",Re: Staffing schedule,thr-101,priya.nair.env@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,3
+"Sounds good, no rush.
+
+— Priya",stuart.myer@voissync.ai,2025-12-24T08:00:00+00:00,priya.nair.env@gmail.com,msg-10102,1766563200000,False,False,"[""INBOX"", ""Label_voissync""]",64,"Sounds good, no rush.\n\n— Priya",Re: Staffing schedule,thr-101,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,4
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-22T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10200,1766361600000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Quarterly tax estimate,thr-102,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,5
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-22T04:00:00+00:00,stuart.myer@voissync.ai,msg-10201,1766376000000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Quarterly tax estimate,thr-102,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,6
+"Sounds good, no rush.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-22T08:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10202,1766390400000,False,False,"[""INBOX""]",68,"Sounds good, no rush.\n\n— Deborah",Re: Quarterly tax estimate,thr-102,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,7
+"Following up here — anything else I can help with?
+
+— Stuart",stuart.myer@voissync.ai,2025-12-22T12:00:00+00:00,stuart.myer@voissync.ai,msg-10203,1766404800000,False,False,"[""SENT""]",124,Following up here — anything else I can help with?\n\n— Stuart,Re: Quarterly tax estimate,thr-102,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,8
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Priya",stuart.myer@voissync.ai,2025-12-20T00:00:00+00:00,priya.nair.env@gmail.com,msg-10300,1766188800000,False,True,"[""INBOX"", ""Label_voissync""]",210,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Customer review reply,thr-103,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,9
+"Hi Priya,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-20T04:00:00+00:00,stuart.myer@voissync.ai,msg-10301,1766203200000,False,False,"[""SENT"", ""Label_voissync""]",190,"Hi Priya,\n\nThanks for reaching out. I'll take a look later today and circle ba...",Re: Customer review reply,thr-103,priya.nair.env@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,10
+"Sounds good, no rush.
+
+— Priya",stuart.myer@voissync.ai,2025-12-20T08:00:00+00:00,priya.nair.env@gmail.com,msg-10302,1766217600000,False,False,"[""INBOX"", ""Label_voissync""]",64,"Sounds good, no rush.\n\n— Priya",Re: Customer review reply,thr-103,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,11
+"Following up here — anything else I can help with?
+
+— Stuart",stuart.myer@voissync.ai,2025-12-20T12:00:00+00:00,stuart.myer@voissync.ai,msg-10303,1766232000000,False,False,"[""SENT"", ""Label_voissync""]",124,Following up here — anything else I can help with?\n\n— Stuart,Re: Customer review reply,thr-103,priya.nair.env@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,12
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Lauren",stuart.myer@voissync.ai,2025-12-18T00:00:00+00:00,lauren.pratt@gmail.com,msg-10400,1766016000000,False,True,"[""INBOX""]",212,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Lunch this week?,thr-104,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,13
+"Hi Lauren,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-18T04:00:00+00:00,stuart.myer@voissync.ai,msg-10401,1766030400000,False,False,"[""SENT""]",192,"Hi Lauren,\n\nThanks for reaching out. I'll take a look later today and circle b...",Re: Lunch this week?,thr-104,lauren.pratt@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,14
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Lauren",stuart.myer@voissync.ai,2025-12-16T00:00:00+00:00,lauren.pratt@gmail.com,msg-10500,1765843200000,False,True,"[""INBOX""]",212,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Coffee next Tuesday?,thr-105,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,15
+"Hi Lauren,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-16T04:00:00+00:00,stuart.myer@voissync.ai,msg-10501,1765857600000,False,False,"[""SENT""]",192,"Hi Lauren,\n\nThanks for reaching out. I'll take a look later today and circle b...",Re: Coffee next Tuesday?,thr-105,lauren.pratt@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,16
+"Sounds good, no rush.
+
+— Lauren",stuart.myer@voissync.ai,2025-12-16T08:00:00+00:00,lauren.pratt@gmail.com,msg-10502,1765872000000,False,False,"[""INBOX""]",66,"Sounds good, no rush.\n\n— Lauren",Re: Coffee next Tuesday?,thr-105,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,17
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Lauren",stuart.myer@voissync.ai,2025-12-14T00:00:00+00:00,lauren.pratt@gmail.com,msg-10600,1765670400000,False,True,"[""INBOX""]",212,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Birthday brunch plans,thr-106,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,18
+"Hi Lauren,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-14T04:00:00+00:00,stuart.myer@voissync.ai,msg-10601,1765684800000,False,False,"[""SENT""]",192,"Hi Lauren,\n\nThanks for reaching out. I'll take a look later today and circle b...",Re: Birthday brunch plans,thr-106,lauren.pratt@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,19
+"Sounds good, no rush.
+
+— Lauren",stuart.myer@voissync.ai,2025-12-14T08:00:00+00:00,lauren.pratt@gmail.com,msg-10602,1765699200000,False,False,"[""INBOX""]",66,"Sounds good, no rush.\n\n— Lauren",Re: Birthday brunch plans,thr-106,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,20
+"Following up here — anything else I can help with?
+
+— Stuart",stuart.myer@voissync.ai,2025-12-14T12:00:00+00:00,stuart.myer@voissync.ai,msg-10603,1765713600000,False,False,"[""SENT""]",124,Following up here — anything else I can help with?\n\n— Stuart,Re: Birthday brunch plans,thr-106,lauren.pratt@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,21
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-12T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10700,1765497600000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Renewal options,thr-107,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,22
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-12T04:00:00+00:00,stuart.myer@voissync.ai,msg-10701,1765512000000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Renewal options,thr-107,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,23
+"Sounds good, no rush.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-12T08:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10702,1765526400000,False,False,"[""INBOX""]",68,"Sounds good, no rush.\n\n— Deborah",Re: Renewal options,thr-107,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,24
+"Following up here — anything else I can help with?
+
+— Stuart",stuart.myer@voissync.ai,2025-12-12T12:00:00+00:00,stuart.myer@voissync.ai,msg-10703,1765540800000,False,False,"[""SENT""]",124,Following up here — anything else I can help with?\n\n— Stuart,Re: Renewal options,thr-107,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,25
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-10T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10800,1765324800000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Vendor invoice question,thr-108,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,26
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-10T04:00:00+00:00,stuart.myer@voissync.ai,msg-10801,1765339200000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Vendor invoice question,thr-108,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,27
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-08T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10900,1765152000000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Apartment lease renewal,thr-109,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,28
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-08T04:00:00+00:00,stuart.myer@voissync.ai,msg-10901,1765166400000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Apartment lease renewal,thr-109,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,29
+"Sounds good, no rush.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-08T08:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-10902,1765180800000,False,False,"[""INBOX""]",68,"Sounds good, no rush.\n\n— Deborah",Re: Apartment lease renewal,thr-109,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,30
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-06T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11000,1764979200000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Newsletter — this week's reads,thr-110,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,31
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-06T04:00:00+00:00,stuart.myer@voissync.ai,msg-11001,1764993600000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Newsletter — this week's reads,thr-110,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,32
+"Sounds good, no rush.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-06T08:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11002,1765008000000,False,False,"[""INBOX""]",68,"Sounds good, no rush.\n\n— Deborah",Re: Newsletter — this week's reads,thr-110,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,33
+"Following up here — anything else I can help with?
+
+— Stuart",stuart.myer@voissync.ai,2025-12-06T12:00:00+00:00,stuart.myer@voissync.ai,msg-11003,1765022400000,False,False,"[""SENT""]",124,Following up here — anything else I can help with?\n\n— Stuart,Re: Newsletter — this week's reads,thr-110,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,34
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-04T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11100,1764806400000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Schedule check — kids pickup,thr-111,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,35
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-04T04:00:00+00:00,stuart.myer@voissync.ai,msg-11101,1764820800000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Schedule check — kids pickup,thr-111,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,36
+"Sounds good, no rush.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-04T08:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11102,1764835200000,False,False,"[""INBOX""]",68,"Sounds good, no rush.\n\n— Deborah",Re: Schedule check — kids pickup,thr-111,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,37
+"Following up here — anything else I can help with?
+
+— Stuart",stuart.myer@voissync.ai,2025-12-04T12:00:00+00:00,stuart.myer@voissync.ai,msg-11103,1764849600000,False,False,"[""SENT""]",124,Following up here — anything else I can help with?\n\n— Stuart,Re: Schedule check — kids pickup,thr-111,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,38
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-12-02T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11200,1764633600000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Family vacation planning,thr-112,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,39
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-12-02T04:00:00+00:00,stuart.myer@voissync.ai,msg-11201,1764648000000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Family vacation planning,thr-112,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,40
+"Hi Stuart,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Deborah",stuart.myer@voissync.ai,2025-11-30T00:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11300,1764460800000,False,True,"[""INBOX""]",214,"Hi Stuart,\n\nWanted to check in about this. Let me know your thoughts when you ...",Weekend plans,thr-113,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,41
+"Hi Deborah,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Stuart",stuart.myer@voissync.ai,2025-11-30T04:00:00+00:00,stuart.myer@voissync.ai,msg-11301,1764475200000,False,False,"[""SENT""]",194,"Hi Deborah,\n\nThanks for reaching out. I'll take a look later today and circle ...",Re: Weekend plans,thr-113,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,42
+"Sounds good, no rush.
+
+— Deborah",stuart.myer@voissync.ai,2025-11-30T08:00:00+00:00,deb.greenfield.pdx@gmail.com,msg-11302,1764489600000,False,False,"[""INBOX""]",68,"Sounds good, no rush.\n\n— Deborah",Re: Weekend plans,thr-113,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,43
+"Jake,
+
+Confirming the 800 lbs of Pilsner malt and 200 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-06T08:00:00+00:00,jake.callahan@gmail.com,msg-20000,1775462400000,True,True,"[""INBOX""]",366,"Jake,  Confirming the 800 lbs of Pilsner malt and 200 lbs of Munich for the Okto ...",Pacific Malt order — April,thr-200,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,44
+"David,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-04-07T09:00:00+00:00,stuart.myer@voissync.ai,msg-20001,1775552400000,False,False,"[""SENT""]",364,"David,  American amber lager kegs are conditioning well. Targeting the October 3 ...",Oktoberfest release logistics,thr-201,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,45
+"Megan,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-04-08T10:00:00+00:00,megan.hale.m@gmail.com,msg-20002,1775642400000,False,False,"[""INBOX""]",357,"Megan,  Draft 3 of the public comment is attached. Phosphorus numbers from the s ...",CAFO permit testimony — draft 3,thr-202,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,46
+"Deborah,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-09T11:00:00+00:00,stuart.myer@voissync.ai,msg-20003,1775732400000,False,False,"[""SENT""]",362,"Deborah,  Field data from all 14 river sites entered. Two sites trending up on n ...",Water testing data — April,thr-203,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,47
+"Lauren,
+
+Ran the April numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",jake.callahan@gmail.com,2026-04-10T12:00:00+00:00,lauren.pratt@gmail.com,msg-20004,1775822400000,True,False,"[""INBOX""]",350,"Lauren,  Ran the April numbers. Revenue tracking to the ~$380K projection, expen ...",Brewery P&L — April review,thr-204,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,48
+"Dr.,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-04-11T13:00:00+00:00,stuart.myer@voissync.ai,msg-20005,1775912400000,False,False,"[""SENT""]",346,"Dr.,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 ne ...",Taproom schedule — week of 2026-04-11,thr-205,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,49
+"Nick,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-12T14:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20006,1776002400000,False,True,"[""INBOX""]",365,"Nick,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles bre ...",Fall watershed cleanup,thr-206,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,50
+"Uncle,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-04-13T15:00:00+00:00,stuart.myer@voissync.ai,msg-20007,1776092400000,False,False,"[""SENT""]",353,"Uncle,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the am ...",Pacific Craft Beer Festival,thr-207,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,51
+"Jake,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-04-14T16:00:00+00:00,jake.callahan@gmail.com,msg-20008,1776182400000,True,False,"[""INBOX""]",337,"Jake,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keep ...",Best man speech — Jake's wedding,thr-208,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,52
+"David,
+
+Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her arthritis is worse this month; watching the trajectory.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-15T17:00:00+00:00,stuart.myer@voissync.ai,msg-20009,1776272400000,False,False,"[""SENT""]",347,"David,  Sunday Bubbe/Deb visit at 10, then writing the water quality section. He ...",Bubbe visit + annual report,thr-209,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,53
+"Megan,
+
+Landlord paperwork due October 1. Jake submits while I run Thursday brew. Rent holds at the same rate, no issues.
+
+— Stuart",jake.callahan@gmail.com,2026-04-16T08:00:00+00:00,megan.hale.m@gmail.com,msg-20010,1776326400000,False,False,"[""INBOX""]",331,"Megan,  Landlord paperwork due October 1. Jake submits while I run Thursday brew ...",Lease renewal paperwork,thr-210,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,54
+"Deborah,
+
+Columbia Gorge trail this weekend if the weather holds. Bringing extra bags for brewing adjuncts. You in?
+
+— Stuart",nick.farrell.pdx@gmail.com,2026-04-17T09:00:00+00:00,stuart.myer@voissync.ai,msg-20011,1776416400000,False,False,"[""SENT""]",325,"Deborah,  Columbia Gorge trail this weekend if the weather holds. Bringing extra ...",Foraging run — ramps and morels,thr-211,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,55
+"Lauren,
+
+Confirming the 900 lbs of Pilsner malt and 250 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-18T10:00:00+00:00,lauren.pratt@gmail.com,msg-20012,1776506400000,True,True,"[""INBOX""]",368,"Lauren,  Confirming the 900 lbs of Pilsner malt and 250 lbs of Munich for the Ok ...",Pacific Malt order — April,thr-212,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,56
+"Dr.,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-04-19T11:00:00+00:00,stuart.myer@voissync.ai,msg-20013,1776596400000,False,False,"[""SENT""]",362,"Dr.,  American amber lager kegs are conditioning well. Targeting the October 3 r ...",Oktoberfest release logistics,thr-213,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,57
+"Nick,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-04-20T12:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20014,1776686400000,False,False,"[""INBOX""]",356,"Nick,  Draft 3 of the public comment is attached. Phosphorus numbers from the sp ...",CAFO permit testimony — draft 3,thr-214,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,58
+"Uncle,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-21T13:00:00+00:00,stuart.myer@voissync.ai,msg-20015,1776776400000,False,False,"[""SENT""]",360,"Uncle,  Field data from all 14 river sites entered. Two sites trending up on nit ...",Water testing data — April,thr-215,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,59
+"Jake,
+
+Ran the April numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",howard.greenfield.ct@gmail.com,2026-04-22T14:00:00+00:00,jake.callahan@gmail.com,msg-20016,1776866400000,True,False,"[""INBOX""]",348,"Jake,  Ran the April numbers. Revenue tracking to the ~$380K projection, expense ...",Brewery P&L — April review,thr-216,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,60
+"David,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-04-23T15:00:00+00:00,stuart.myer@voissync.ai,msg-20017,1776956400000,False,False,"[""SENT""]",348,"David,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31  ...",Taproom schedule — week of 2026-04-23,thr-217,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,61
+"Megan,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-24T16:00:00+00:00,megan.hale.m@gmail.com,msg-20018,1777046400000,False,True,"[""INBOX""]",366,"Megan,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles br ...",Fall watershed cleanup,thr-218,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,62
+"Deborah,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-04-25T17:00:00+00:00,stuart.myer@voissync.ai,msg-20019,1777136400000,False,False,"[""SENT""]",355,"Deborah,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the  ...",Pacific Craft Beer Festival,thr-219,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,63
+"Lauren,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-04-26T08:00:00+00:00,lauren.pratt@gmail.com,msg-20020,1777190400000,True,False,"[""INBOX""]",339,"Lauren,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Ke ...",Best man speech — Jake's wedding,thr-220,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,64
+"Dr.,
+
+Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her arthritis is worse this month; watching the trajectory.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-27T09:00:00+00:00,stuart.myer@voissync.ai,msg-20021,1777280400000,False,False,"[""SENT""]",345,"Dr.,  Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her  ...",Bubbe visit + annual report,thr-221,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,65
+"Nick,
+
+Landlord paperwork due October 1. Jake submits while I run Thursday brew. Rent holds at the same rate, no issues.
+
+— Stuart",jake.callahan@gmail.com,2026-04-28T10:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20022,1777370400000,False,False,"[""INBOX""]",330,"Nick,  Landlord paperwork due October 1. Jake submits while I run Thursday brew. ...",Lease renewal paperwork,thr-222,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,66
+"Uncle,
+
+Columbia Gorge trail this weekend if the weather holds. Bringing extra bags for brewing adjuncts. You in?
+
+— Stuart",nick.farrell.pdx@gmail.com,2026-04-29T11:00:00+00:00,stuart.myer@voissync.ai,msg-20023,1777460400000,False,False,"[""SENT""]",323,"Uncle,  Columbia Gorge trail this weekend if the weather holds. Bringing extra b ...",Foraging run — ramps and morels,thr-223,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,67
+"Jake,
+
+Confirming the 1000 lbs of Pilsner malt and 300 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-04-30T12:00:00+00:00,jake.callahan@gmail.com,msg-20024,1777550400000,True,True,"[""INBOX""]",367,"Jake,  Confirming the 1000 lbs of Pilsner malt and 300 lbs of Munich for the Okt ...",Pacific Malt order — April,thr-224,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,68
+"David,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-01T13:00:00+00:00,stuart.myer@voissync.ai,msg-20025,1777640400000,False,False,"[""SENT""]",364,"David,  American amber lager kegs are conditioning well. Targeting the October 3 ...",Oktoberfest release logistics,thr-225,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,69
+"Megan,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-05-02T14:00:00+00:00,megan.hale.m@gmail.com,msg-20026,1777730400000,False,False,"[""INBOX""]",357,"Megan,  Draft 3 of the public comment is attached. Phosphorus numbers from the s ...",CAFO permit testimony — draft 3,thr-226,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,70
+"Deborah,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-03T15:00:00+00:00,stuart.myer@voissync.ai,msg-20027,1777820400000,False,False,"[""SENT""]",362,"Deborah,  Field data from all 14 river sites entered. Two sites trending up on n ...",Water testing data — May,thr-227,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,71
+"Lauren,
+
+Ran the May numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",jake.callahan@gmail.com,2026-05-04T16:00:00+00:00,lauren.pratt@gmail.com,msg-20028,1777910400000,True,False,"[""INBOX""]",348,"Lauren,  Ran the May numbers. Revenue tracking to the ~$380K projection, expense ...",Brewery P&L — May review,thr-228,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,72
+"Dr.,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-05-05T17:00:00+00:00,stuart.myer@voissync.ai,msg-20029,1778000400000,False,False,"[""SENT""]",346,"Dr.,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 ne ...",Taproom schedule — week of 2026-05-05,thr-229,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,73
+"Nick,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-06T08:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20030,1778054400000,False,True,"[""INBOX""]",365,"Nick,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles bre ...",Fall watershed cleanup,thr-230,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,74
+"Uncle,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-07T09:00:00+00:00,stuart.myer@voissync.ai,msg-20031,1778144400000,False,False,"[""SENT""]",353,"Uncle,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the am ...",Pacific Craft Beer Festival,thr-231,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,75
+"Jake,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-08T10:00:00+00:00,jake.callahan@gmail.com,msg-20032,1778234400000,True,False,"[""INBOX""]",337,"Jake,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keep ...",Best man speech — Jake's wedding,thr-232,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,76
+"David,
+
+Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her arthritis is worse this month; watching the trajectory.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-09T11:00:00+00:00,stuart.myer@voissync.ai,msg-20033,1778324400000,False,False,"[""SENT""]",347,"David,  Sunday Bubbe/Deb visit at 10, then writing the water quality section. He ...",Bubbe visit + annual report,thr-233,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,77
+"Megan,
+
+Landlord paperwork due October 1. Jake submits while I run Thursday brew. Rent holds at the same rate, no issues.
+
+— Stuart",jake.callahan@gmail.com,2026-05-10T12:00:00+00:00,megan.hale.m@gmail.com,msg-20034,1778414400000,False,False,"[""INBOX""]",331,"Megan,  Landlord paperwork due October 1. Jake submits while I run Thursday brew ...",Lease renewal paperwork,thr-234,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,78
+"Deborah,
+
+Columbia Gorge trail this weekend if the weather holds. Bringing extra bags for brewing adjuncts. You in?
+
+— Stuart",nick.farrell.pdx@gmail.com,2026-05-11T13:00:00+00:00,stuart.myer@voissync.ai,msg-20035,1778504400000,False,False,"[""SENT""]",325,"Deborah,  Columbia Gorge trail this weekend if the weather holds. Bringing extra ...",Foraging run — ramps and morels,thr-235,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,79
+"Lauren,
+
+Confirming the 1100 lbs of Pilsner malt and 225 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-12T14:00:00+00:00,lauren.pratt@gmail.com,msg-20036,1778594400000,True,True,"[""INBOX""]",369,"Lauren,  Confirming the 1100 lbs of Pilsner malt and 225 lbs of Munich for the O ...",Pacific Malt order — May,thr-236,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,80
+"Dr.,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-13T15:00:00+00:00,stuart.myer@voissync.ai,msg-20037,1778684400000,False,False,"[""SENT""]",362,"Dr.,  American amber lager kegs are conditioning well. Targeting the October 3 r ...",Oktoberfest release logistics,thr-237,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,81
+"Nick,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-05-14T16:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20038,1778774400000,False,False,"[""INBOX""]",356,"Nick,  Draft 3 of the public comment is attached. Phosphorus numbers from the sp ...",CAFO permit testimony — draft 3,thr-238,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,82
+"Uncle,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-15T17:00:00+00:00,stuart.myer@voissync.ai,msg-20039,1778864400000,False,False,"[""SENT""]",360,"Uncle,  Field data from all 14 river sites entered. Two sites trending up on nit ...",Water testing data — May,thr-239,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,83
+"Jake,
+
+Ran the May numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",howard.greenfield.ct@gmail.com,2026-05-16T08:00:00+00:00,jake.callahan@gmail.com,msg-20040,1778918400000,True,False,"[""INBOX""]",346,"Jake,  Ran the May numbers. Revenue tracking to the ~$380K projection, expenses  ...",Brewery P&L — May review,thr-240,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,84
+"David,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-05-17T09:00:00+00:00,stuart.myer@voissync.ai,msg-20041,1779008400000,False,False,"[""SENT""]",348,"David,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31  ...",Taproom schedule — week of 2026-05-17,thr-241,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,85
+"Megan,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-18T10:00:00+00:00,megan.hale.m@gmail.com,msg-20042,1779098400000,False,True,"[""INBOX""]",366,"Megan,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles br ...",Fall watershed cleanup,thr-242,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,86
+"Deborah,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-19T11:00:00+00:00,stuart.myer@voissync.ai,msg-20043,1779188400000,False,False,"[""SENT""]",355,"Deborah,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the  ...",Pacific Craft Beer Festival,thr-243,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,87
+"Lauren,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-20T12:00:00+00:00,lauren.pratt@gmail.com,msg-20044,1779278400000,True,False,"[""INBOX""]",339,"Lauren,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Ke ...",Best man speech — Jake's wedding,thr-244,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,88
+"Dr.,
+
+Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her arthritis is worse this month; watching the trajectory.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-21T13:00:00+00:00,stuart.myer@voissync.ai,msg-20045,1779368400000,False,False,"[""SENT""]",345,"Dr.,  Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her  ...",Bubbe visit + annual report,thr-245,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,89
+"Nick,
+
+Landlord paperwork due October 1. Jake submits while I run Thursday brew. Rent holds at the same rate, no issues.
+
+— Stuart",jake.callahan@gmail.com,2026-05-22T14:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20046,1779458400000,False,False,"[""INBOX""]",330,"Nick,  Landlord paperwork due October 1. Jake submits while I run Thursday brew. ...",Lease renewal paperwork,thr-246,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,90
+"Uncle,
+
+Columbia Gorge trail this weekend if the weather holds. Bringing extra bags for brewing adjuncts. You in?
+
+— Stuart",nick.farrell.pdx@gmail.com,2026-05-23T15:00:00+00:00,stuart.myer@voissync.ai,msg-20047,1779548400000,False,False,"[""SENT""]",323,"Uncle,  Columbia Gorge trail this weekend if the weather holds. Bringing extra b ...",Foraging run — ramps and morels,thr-247,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,91
+"Jake,
+
+Confirming the 1200 lbs of Pilsner malt and 275 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-24T16:00:00+00:00,jake.callahan@gmail.com,msg-20048,1779638400000,True,True,"[""INBOX""]",367,"Jake,  Confirming the 1200 lbs of Pilsner malt and 275 lbs of Munich for the Okt ...",Pacific Malt order — May,thr-248,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,92
+"David,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-25T17:00:00+00:00,stuart.myer@voissync.ai,msg-20049,1779728400000,False,False,"[""SENT""]",364,"David,  American amber lager kegs are conditioning well. Targeting the October 3 ...",Oktoberfest release logistics,thr-249,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,93
+"Megan,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-05-26T08:00:00+00:00,megan.hale.m@gmail.com,msg-20050,1779782400000,False,False,"[""INBOX""]",357,"Megan,  Draft 3 of the public comment is attached. Phosphorus numbers from the s ...",CAFO permit testimony — draft 3,thr-250,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,94
+"Deborah,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-27T09:00:00+00:00,stuart.myer@voissync.ai,msg-20051,1779872400000,False,False,"[""SENT""]",362,"Deborah,  Field data from all 14 river sites entered. Two sites trending up on n ...",Water testing data — May,thr-251,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,95
+"Lauren,
+
+Ran the May numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",jake.callahan@gmail.com,2026-05-28T10:00:00+00:00,lauren.pratt@gmail.com,msg-20052,1779962400000,True,False,"[""INBOX""]",348,"Lauren,  Ran the May numbers. Revenue tracking to the ~$380K projection, expense ...",Brewery P&L — May review,thr-252,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,96
+"Dr.,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-05-29T11:00:00+00:00,stuart.myer@voissync.ai,msg-20053,1780052400000,False,False,"[""SENT""]",346,"Dr.,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 ne ...",Taproom schedule — week of 2026-05-29,thr-253,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,97
+"Nick,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-05-30T12:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20054,1780142400000,False,True,"[""INBOX""]",365,"Nick,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles bre ...",Fall watershed cleanup,thr-254,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,98
+"Uncle,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-05-31T13:00:00+00:00,stuart.myer@voissync.ai,msg-20055,1780232400000,False,False,"[""SENT""]",353,"Uncle,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the am ...",Pacific Craft Beer Festival,thr-255,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,99
+"Jake,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-01T14:00:00+00:00,jake.callahan@gmail.com,msg-20056,1780322400000,True,False,"[""INBOX""]",337,"Jake,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keep ...",Best man speech — Jake's wedding,thr-256,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,100
+"David,
+
+Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her arthritis is worse this month; watching the trajectory.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-02T15:00:00+00:00,stuart.myer@voissync.ai,msg-20057,1780412400000,False,False,"[""SENT""]",347,"David,  Sunday Bubbe/Deb visit at 10, then writing the water quality section. He ...",Bubbe visit + annual report,thr-257,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,101
+"Megan,
+
+Landlord paperwork due October 1. Jake submits while I run Thursday brew. Rent holds at the same rate, no issues.
+
+— Stuart",jake.callahan@gmail.com,2026-06-03T16:00:00+00:00,megan.hale.m@gmail.com,msg-20058,1780502400000,False,False,"[""INBOX""]",331,"Megan,  Landlord paperwork due October 1. Jake submits while I run Thursday brew ...",Lease renewal paperwork,thr-258,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,102
+"Deborah,
+
+Columbia Gorge trail this weekend if the weather holds. Bringing extra bags for brewing adjuncts. You in?
+
+— Stuart",nick.farrell.pdx@gmail.com,2026-06-04T17:00:00+00:00,stuart.myer@voissync.ai,msg-20059,1780592400000,False,False,"[""SENT""]",325,"Deborah,  Columbia Gorge trail this weekend if the weather holds. Bringing extra ...",Foraging run — ramps and morels,thr-259,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,103
+"Lauren,
+
+Confirming the 800 lbs of Pilsner malt and 200 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-05T08:00:00+00:00,lauren.pratt@gmail.com,msg-20060,1780646400000,True,True,"[""INBOX""]",368,"Lauren,  Confirming the 800 lbs of Pilsner malt and 200 lbs of Munich for the Ok ...",Pacific Malt order — June,thr-260,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,104
+"Dr.,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-06T09:00:00+00:00,stuart.myer@voissync.ai,msg-20061,1780736400000,False,False,"[""SENT""]",362,"Dr.,  American amber lager kegs are conditioning well. Targeting the October 3 r ...",Oktoberfest release logistics,thr-261,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,105
+"Nick,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-06-07T10:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20062,1780826400000,False,False,"[""INBOX""]",356,"Nick,  Draft 3 of the public comment is attached. Phosphorus numbers from the sp ...",CAFO permit testimony — draft 3,thr-262,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,106
+"Uncle,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-08T11:00:00+00:00,stuart.myer@voissync.ai,msg-20063,1780916400000,False,False,"[""SENT""]",360,"Uncle,  Field data from all 14 river sites entered. Two sites trending up on nit ...",Water testing data — June,thr-263,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,107
+"Jake,
+
+Ran the June numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",howard.greenfield.ct@gmail.com,2026-06-09T12:00:00+00:00,jake.callahan@gmail.com,msg-20064,1781006400000,True,False,"[""INBOX""]",347,"Jake,  Ran the June numbers. Revenue tracking to the ~$380K projection, expenses ...",Brewery P&L — June review,thr-264,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,108
+"David,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-06-10T13:00:00+00:00,stuart.myer@voissync.ai,msg-20065,1781096400000,False,False,"[""SENT""]",348,"David,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31  ...",Taproom schedule — week of 2026-06-10,thr-265,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,109
+"Megan,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-11T14:00:00+00:00,megan.hale.m@gmail.com,msg-20066,1781186400000,False,True,"[""INBOX""]",366,"Megan,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles br ...",Fall watershed cleanup,thr-266,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,110
+"Deborah,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-12T15:00:00+00:00,stuart.myer@voissync.ai,msg-20067,1781276400000,False,False,"[""SENT""]",355,"Deborah,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the  ...",Pacific Craft Beer Festival,thr-267,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,111
+"Lauren,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-13T16:00:00+00:00,lauren.pratt@gmail.com,msg-20068,1781366400000,True,False,"[""INBOX""]",339,"Lauren,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Ke ...",Best man speech — Jake's wedding,thr-268,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,112
+"Dr.,
+
+Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her arthritis is worse this month; watching the trajectory.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-14T17:00:00+00:00,stuart.myer@voissync.ai,msg-20069,1781456400000,False,False,"[""SENT""]",345,"Dr.,  Sunday Bubbe/Deb visit at 10, then writing the water quality section. Her  ...",Bubbe visit + annual report,thr-269,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,113
+"Nick,
+
+Landlord paperwork due October 1. Jake submits while I run Thursday brew. Rent holds at the same rate, no issues.
+
+— Stuart",jake.callahan@gmail.com,2026-06-15T08:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20070,1781510400000,False,False,"[""INBOX""]",330,"Nick,  Landlord paperwork due October 1. Jake submits while I run Thursday brew. ...",Lease renewal paperwork,thr-270,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,114
+"Uncle,
+
+Columbia Gorge trail this weekend if the weather holds. Bringing extra bags for brewing adjuncts. You in?
+
+— Stuart",nick.farrell.pdx@gmail.com,2026-06-16T09:00:00+00:00,stuart.myer@voissync.ai,msg-20071,1781600400000,False,False,"[""SENT""]",323,"Uncle,  Columbia Gorge trail this weekend if the weather holds. Bringing extra b ...",Foraging run — ramps and morels,thr-271,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,115
+"Jake,
+
+Confirming the 900 lbs of Pilsner malt and 250 lbs of Munich for the Oktoberfest run. Crosby hops PO goes out same day. Need it before Thursday brew.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-17T10:00:00+00:00,jake.callahan@gmail.com,msg-20072,1781690400000,True,True,"[""INBOX""]",366,"Jake,  Confirming the 900 lbs of Pilsner malt and 250 lbs of Munich for the Okto ...",Pacific Malt order — June,thr-272,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,116
+"David,
+
+American amber lager kegs are conditioning well. Targeting the October 3 release. Megan leads the floor; I'll handle production and tasting notes.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-18T11:00:00+00:00,stuart.myer@voissync.ai,msg-20073,1781780400000,False,False,"[""SENT""]",364,"David,  American amber lager kegs are conditioning well. Targeting the October 3 ...",Oktoberfest release logistics,thr-273,david.cortez.cwc@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,117
+"Megan,
+
+Draft 3 of the public comment is attached. Phosphorus numbers from the spring run: 11 of 14 sites over target. Board hearing is October 22.
+
+— Stuart",david.cortez.cwc@gmail.com,2026-06-19T12:00:00+00:00,megan.hale.m@gmail.com,msg-20074,1781870400000,False,False,"[""INBOX""]",357,"Megan,  Draft 3 of the public comment is attached. Phosphorus numbers from the s ...",CAFO permit testimony — draft 3,thr-274,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,118
+"Deborah,
+
+Field data from all 14 river sites entered. Two sites trending up on nitrates. Folding into the coalition annual report water quality section.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-20T13:00:00+00:00,stuart.myer@voissync.ai,msg-20075,1781960400000,False,False,"[""SENT""]",362,"Deborah,  Field data from all 14 river sites entered. Two sites trending up on n ...",Water testing data — June,thr-275,deb.greenfield.pdx@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,119
+"Lauren,
+
+Ran the June numbers. Revenue tracking to the ~$380K projection, expenses holding near $340K. Taproom traffic strong on Saturdays.
+
+— Stuart",jake.callahan@gmail.com,2026-06-21T14:00:00+00:00,lauren.pratt@gmail.com,msg-20076,1782050400000,True,False,"[""INBOX""]",349,"Lauren,  Ran the June numbers. Revenue tracking to the ~$380K projection, expens ...",Brewery P&L — June review,thr-276,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,120
+"Dr.,
+
+Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 needs extra bar coverage. Can you confirm the part-timers?
+
+— Stuart",megan.hale.m@gmail.com,2026-06-22T15:00:00+00:00,stuart.myer@voissync.ai,msg-20077,1782140400000,False,False,"[""SENT""]",346,"Dr.,  Wed-Thu open 4 PM, Fri 3 PM, Sat-Sun noon. Anniversary party October 31 ne ...",Taproom schedule — week of 2026-06-22,thr-277,tom.beckley@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,121
+"Nick,
+
+October 10, 9 AM. Skipping farmers' market that morning. Jake handles brewery opening prep, Megan opens the taproom. Bring extra gloves and buckets.
+
+— Stuart",stuart.myer@voissync.ai,2026-06-23T16:00:00+00:00,nick.farrell.pdx@gmail.com,msg-20078,1782230400000,False,True,"[""INBOX""]",365,"Nick,  October 10, 9 AM. Skipping farmers' market that morning. Jake handles bre ...",Fall watershed cleanup,thr-278,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,122
+"Uncle,
+
+October 17 at Waterfront Park. Driftwood pouring the wild ale and the amber. Need two jockey boxes and a backup CO2 tank loaded Friday.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-24T17:00:00+00:00,stuart.myer@voissync.ai,msg-20079,1782320400000,False,False,"[""SENT""]",353,"Uncle,  October 17 at Waterfront Park. Driftwood pouring the wild ale and the am ...",Pacific Craft Beer Festival,thr-279,howard.greenfield.ct@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,123
+"Jake,
+
+November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keeping it dry and warm, no roast that lands wrong.
+
+— Stuart",megan.hale.m@gmail.com,2026-06-25T08:00:00+00:00,jake.callahan@gmail.com,msg-20080,1782374400000,True,False,"[""INBOX""]",337,"Jake,  November 7 at Riverdale Botanical Gardens. Speech draft in progress. Keep ...",Best man speech — Jake's wedding,thr-280,stuart.myer@voissync.ai,gmail-api,messages,/opt/mocks/gmail-api/messages.json,124

@@ -1,0 +1,8 @@
+{
+  "test_airtable_tracker_read": 3,
+  "test_airtable_tracker_writeback": 5,
+  "test_outlook_send_not_triggered": -5,
+  "test_gmail_send_not_triggered": -5,
+  "test_quickbooks_invoice_issued": -5,
+  "test_distractor_apis_touched": -5
+}

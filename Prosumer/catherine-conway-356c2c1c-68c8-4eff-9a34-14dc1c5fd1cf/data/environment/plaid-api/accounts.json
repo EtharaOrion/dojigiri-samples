@@ -1,0 +1,38 @@
+[
+  {
+    "account_id": "Rb7kJ9wQ3xVnLpBzYe2MoNc",
+    "name": "Personal Checking",
+    "official_name": "Catherine Conway Personal Checking",
+    "mask": "9757",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "8420.55",
+    "current": "8520.55",
+    "limit": "0.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "gP4rZ1sfEbDKtHXc9NoWeYzB",
+    "name": "Household Savings",
+    "official_name": "Catherine Conway High-Yield Savings",
+    "mask": "8260",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "24180.00",
+    "current": "24180.00",
+    "limit": "0.00",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "Xa8dNvC2qLbZ6eKrPGyoWfV3",
+    "name": "Conway Dermatology Operating",
+    "official_name": "Conway Dermatology Associates Operating Checking",
+    "mask": "2109",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "42180.10",
+    "current": "44210.10",
+    "limit": "0.00",
+    "iso_currency_code": "USD"
+  }
+]

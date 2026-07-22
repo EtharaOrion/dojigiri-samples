@@ -1,0 +1,2522 @@
+[
+  {
+    "Id": "5001",
+    "DocNumber": "DBC-INV-1000",
+    "TxnDate": "2026-01-03",
+    "DueDate": "2026-01-18",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "DBC-INV-1001",
+    "TxnDate": "2026-02-04",
+    "DueDate": "2026-02-19",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 585.0,
+        "Description": "3 x Czech-Style Pilsner - 1/2 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 585.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "DBC-INV-1002",
+    "TxnDate": "2026-03-05",
+    "DueDate": "2026-03-20",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 384.0,
+        "Description": "4 x Farmhouse Saison - case 24x16oz — wholesale order for Burnside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 384.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5004",
+    "DocNumber": "DBC-INV-1003",
+    "TxnDate": "2025-10-04",
+    "DueDate": "2025-10-19",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 840.0,
+        "Description": "5 x Anniversary Wild Ale - case 12x500ml — wholesale order for Laurelhurst Public House",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 840.0,
+    "Balance": 840.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5005",
+    "DocNumber": "DBC-INV-1004",
+    "TxnDate": "2025-11-04",
+    "DueDate": "2025-11-19",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 1050.0,
+        "Description": "6 x West Coast IPA - 1/6 bbl keg — wholesale order for Sellwood Tap & Table",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1050.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5006",
+    "DocNumber": "DBC-INV-1005",
+    "TxnDate": "2025-12-06",
+    "DueDate": "2025-12-21",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 756.0,
+        "Description": "7 x Winter Ale - case 24x16oz — wholesale order for North Mississippi Alehouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 756.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5007",
+    "DocNumber": "DBC-INV-1006",
+    "TxnDate": "2026-01-06",
+    "DueDate": "2026-01-21",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Division Street Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5008",
+    "DocNumber": "DBC-INV-1007",
+    "TxnDate": "2026-02-07",
+    "DueDate": "2026-02-22",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 585.0,
+        "Description": "3 x Czech-Style Pilsner - 1/2 bbl keg — wholesale order for Alberta Street Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 585.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5009",
+    "DocNumber": "DBC-INV-1008",
+    "TxnDate": "2026-03-11",
+    "DueDate": "2026-03-26",
+    "CustomerRef": {
+      "value": "1009",
+      "name": "St. Johns Beer Porch"
+    },
+    "Line": [
+      {
+        "Amount": 384.0,
+        "Description": "4 x Farmhouse Saison - case 24x16oz — wholesale order for St. Johns Beer Porch",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 384.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5010",
+    "DocNumber": "DBC-INV-1009",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1010",
+      "name": "Hawthorne Fermentary"
+    },
+    "Line": [
+      {
+        "Amount": 840.0,
+        "Description": "5 x Anniversary Wild Ale - case 12x500ml — wholesale order for Hawthorne Fermentary",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 840.0,
+    "Balance": 840.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5011",
+    "DocNumber": "DBC-INV-1010",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1011",
+      "name": "Foster Road Taphouse"
+    },
+    "Line": [
+      {
+        "Amount": 1050.0,
+        "Description": "6 x West Coast IPA - 1/6 bbl keg — wholesale order for Foster Road Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1050.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5012",
+    "DocNumber": "DBC-INV-1011",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2025-07-18",
+    "CustomerRef": {
+      "value": "1012",
+      "name": "Belmont Station Bar"
+    },
+    "Line": [
+      {
+        "Amount": 756.0,
+        "Description": "7 x Winter Ale - case 24x16oz — wholesale order for Belmont Station Bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 756.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5013",
+    "DocNumber": "DBC-INV-1012",
+    "TxnDate": "2026-01-15",
+    "DueDate": "2026-02-02",
+    "CustomerRef": {
+      "value": "1013",
+      "name": "Kenton Club & Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Kenton Club & Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5014",
+    "DocNumber": "DBC-INV-1013",
+    "TxnDate": "2026-02-16",
+    "DueDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "1014",
+      "name": "Montavilla Brew Cafe"
+    },
+    "Line": [
+      {
+        "Amount": 585.0,
+        "Description": "3 x Czech-Style Pilsner - 1/2 bbl keg — wholesale order for Montavilla Brew Cafe",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 585.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5015",
+    "DocNumber": "DBC-INV-1014",
+    "TxnDate": "2026-03-17",
+    "DueDate": "2025-10-02",
+    "CustomerRef": {
+      "value": "1015",
+      "name": "Woodstock Wine & Beer"
+    },
+    "Line": [
+      {
+        "Amount": 384.0,
+        "Description": "4 x Farmhouse Saison - case 24x16oz — wholesale order for Woodstock Wine & Beer",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 384.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5016",
+    "DocNumber": "DBC-INV-1015",
+    "TxnDate": "2025-10-16",
+    "DueDate": "2025-11-02",
+    "CustomerRef": {
+      "value": "1016",
+      "name": "Pearl District Gastropub"
+    },
+    "Line": [
+      {
+        "Amount": 840.0,
+        "Description": "5 x Anniversary Wild Ale - case 12x500ml — wholesale order for Pearl District Gastropub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 840.0,
+    "Balance": 840.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5017",
+    "DocNumber": "DBC-INV-1016",
+    "TxnDate": "2025-11-16",
+    "DueDate": "2025-12-04",
+    "CustomerRef": {
+      "value": "1017",
+      "name": "Slabtown Growler Fill"
+    },
+    "Line": [
+      {
+        "Amount": 1050.0,
+        "Description": "6 x West Coast IPA - 1/6 bbl keg — wholesale order for Slabtown Growler Fill",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1050.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5018",
+    "DocNumber": "DBC-INV-1017",
+    "TxnDate": "2025-12-18",
+    "DueDate": "2026-01-04",
+    "CustomerRef": {
+      "value": "1018",
+      "name": "Multnomah Village Pub"
+    },
+    "Line": [
+      {
+        "Amount": 756.0,
+        "Description": "7 x Winter Ale - case 24x16oz — wholesale order for Multnomah Village Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 756.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5019",
+    "DocNumber": "DBC-INV-1018",
+    "TxnDate": "2026-01-18",
+    "DueDate": "2026-02-05",
+    "CustomerRef": {
+      "value": "1019",
+      "name": "Lents Corner Bar"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Lents Corner Bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5020",
+    "DocNumber": "DBC-INV-1019",
+    "TxnDate": "2026-02-19",
+    "DueDate": "2026-03-09",
+    "CustomerRef": {
+      "value": "1020",
+      "name": "Overlook Tavern"
+    },
+    "Line": [
+      {
+        "Amount": 585.0,
+        "Description": "3 x Czech-Style Pilsner - 1/2 bbl keg — wholesale order for Overlook Tavern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 585.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5021",
+    "DocNumber": "DBC-INV-1020",
+    "TxnDate": "2026-03-23",
+    "DueDate": "2026-10-10",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 384.0,
+        "Description": "4 x Farmhouse Saison - case 24x16oz — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 384.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5022",
+    "DocNumber": "DBC-INV-1021",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-18",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 840.0,
+        "Description": "5 x Anniversary Wild Ale - case 12x500ml — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 840.0,
+    "Balance": 840.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5023",
+    "DocNumber": "DBC-INV-1022",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 1050.0,
+        "Description": "6 x West Coast IPA - 1/6 bbl keg — wholesale order for Burnside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1050.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5024",
+    "DocNumber": "DBC-INV-1023",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 756.0,
+        "Description": "7 x Winter Ale - case 24x16oz — wholesale order for Laurelhurst Public House",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 756.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5025",
+    "DocNumber": "DBC-INV-1024",
+    "TxnDate": "2026-01-05",
+    "DueDate": "2026-01-20",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Sellwood Tap & Table",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5026",
+    "DocNumber": "DBC-INV-1025",
+    "TxnDate": "2026-02-06",
+    "DueDate": "2026-02-21",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 585.0,
+        "Description": "3 x Czech-Style Pilsner - 1/2 bbl keg — wholesale order for North Mississippi Alehouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 585.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5027",
+    "DocNumber": "DBC-INV-1026",
+    "TxnDate": "2026-03-07",
+    "DueDate": "2026-03-22",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 384.0,
+        "Description": "4 x Farmhouse Saison - case 24x16oz — wholesale order for Division Street Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 384.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5028",
+    "DocNumber": "DBC-INV-1027",
+    "TxnDate": "2025-10-06",
+    "DueDate": "2025-10-21",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 840.0,
+        "Description": "5 x Anniversary Wild Ale - case 12x500ml — wholesale order for Alberta Street Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 840.0,
+    "Balance": 840.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5029",
+    "DocNumber": "DBC-INV-1028",
+    "TxnDate": "2025-11-06",
+    "DueDate": "2025-11-21",
+    "CustomerRef": {
+      "value": "1009",
+      "name": "St. Johns Beer Porch"
+    },
+    "Line": [
+      {
+        "Amount": 1050.0,
+        "Description": "6 x West Coast IPA - 1/6 bbl keg — wholesale order for St. Johns Beer Porch",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1050.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5030",
+    "DocNumber": "DBC-INV-1029",
+    "TxnDate": "2025-12-08",
+    "DueDate": "2025-12-23",
+    "CustomerRef": {
+      "value": "1010",
+      "name": "Hawthorne Fermentary"
+    },
+    "Line": [
+      {
+        "Amount": 756.0,
+        "Description": "7 x Winter Ale - case 24x16oz — wholesale order for Hawthorne Fermentary",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 756.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5031",
+    "DocNumber": "DBC-INV-1030",
+    "TxnDate": "2026-01-08",
+    "DueDate": "2026-01-23",
+    "CustomerRef": {
+      "value": "1011",
+      "name": "Foster Road Taphouse"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Foster Road Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5032",
+    "DocNumber": "DBC-INV-1031",
+    "TxnDate": "2026-02-09",
+    "DueDate": "2026-02-24",
+    "CustomerRef": {
+      "value": "1012",
+      "name": "Belmont Station Bar"
+    },
+    "Line": [
+      {
+        "Amount": 585.0,
+        "Description": "3 x Czech-Style Pilsner - 1/2 bbl keg — wholesale order for Belmont Station Bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech-Style Pilsner - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 585.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5033",
+    "DocNumber": "DBC-INV-1032",
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-03-28",
+    "CustomerRef": {
+      "value": "1013",
+      "name": "Kenton Club & Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 384.0,
+        "Description": "4 x Farmhouse Saison - case 24x16oz — wholesale order for Kenton Club & Kitchen",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 384.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5034",
+    "DocNumber": "DBC-INV-1033",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-18",
+    "CustomerRef": {
+      "value": "1014",
+      "name": "Montavilla Brew Cafe"
+    },
+    "Line": [
+      {
+        "Amount": 840.0,
+        "Description": "5 x Anniversary Wild Ale - case 12x500ml — wholesale order for Montavilla Brew Cafe",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Anniversary Wild Ale - case 12x500ml"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 840.0,
+    "Balance": 840.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5035",
+    "DocNumber": "DBC-INV-1034",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-17",
+    "CustomerRef": {
+      "value": "1015",
+      "name": "Woodstock Wine & Beer"
+    },
+    "Line": [
+      {
+        "Amount": 1050.0,
+        "Description": "6 x West Coast IPA - 1/6 bbl keg — wholesale order for Woodstock Wine & Beer",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1050.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5036",
+    "DocNumber": "DBC-INV-1035",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2025-07-18",
+    "CustomerRef": {
+      "value": "1016",
+      "name": "Pearl District Gastropub"
+    },
+    "Line": [
+      {
+        "Amount": 756.0,
+        "Description": "7 x Winter Ale - case 24x16oz — wholesale order for Pearl District Gastropub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - case 24x16oz"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 756.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5100",
+    "DocNumber": "DBC-INV-1100",
+    "TxnDate": "2026-01-03",
+    "DueDate": "2026-01-18",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5101",
+    "DocNumber": "DBC-INV-1101",
+    "TxnDate": "2026-01-06",
+    "DueDate": "2026-01-21",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5102",
+    "DocNumber": "DBC-INV-1102",
+    "TxnDate": "2026-01-09",
+    "DueDate": "2026-01-24",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5103",
+    "DocNumber": "DBC-INV-1103",
+    "TxnDate": "2026-01-12",
+    "DueDate": "2026-01-27",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5104",
+    "DocNumber": "DBC-INV-1104",
+    "TxnDate": "2026-01-15",
+    "DueDate": "2026-01-30",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5105",
+    "DocNumber": "DBC-INV-1105",
+    "TxnDate": "2026-01-18",
+    "DueDate": "2026-02-02",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5106",
+    "DocNumber": "DBC-INV-1106",
+    "TxnDate": "2026-01-21",
+    "DueDate": "2026-02-05",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5107",
+    "DocNumber": "DBC-INV-1107",
+    "TxnDate": "2026-01-24",
+    "DueDate": "2026-02-08",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5108",
+    "DocNumber": "DBC-INV-1108",
+    "TxnDate": "2026-01-27",
+    "DueDate": "2026-02-11",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5109",
+    "DocNumber": "DBC-INV-1109",
+    "TxnDate": "2026-01-30",
+    "DueDate": "2026-02-14",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5110",
+    "DocNumber": "DBC-INV-1110",
+    "TxnDate": "2026-02-02",
+    "DueDate": "2026-02-17",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5111",
+    "DocNumber": "DBC-INV-1111",
+    "TxnDate": "2026-02-05",
+    "DueDate": "2026-02-20",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5112",
+    "DocNumber": "DBC-INV-1112",
+    "TxnDate": "2026-02-08",
+    "DueDate": "2026-02-23",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5113",
+    "DocNumber": "DBC-INV-1113",
+    "TxnDate": "2026-02-11",
+    "DueDate": "2026-02-26",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5114",
+    "DocNumber": "DBC-INV-1114",
+    "TxnDate": "2026-02-14",
+    "DueDate": "2026-03-01",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5115",
+    "DocNumber": "DBC-INV-1115",
+    "TxnDate": "2026-02-17",
+    "DueDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5116",
+    "DocNumber": "DBC-INV-1116",
+    "TxnDate": "2026-02-20",
+    "DueDate": "2026-03-07",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5117",
+    "DocNumber": "DBC-INV-1117",
+    "TxnDate": "2026-02-23",
+    "DueDate": "2026-03-10",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5118",
+    "DocNumber": "DBC-INV-1118",
+    "TxnDate": "2026-02-26",
+    "DueDate": "2026-03-13",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5119",
+    "DocNumber": "DBC-INV-1119",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-16",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5120",
+    "DocNumber": "DBC-INV-1120",
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5121",
+    "DocNumber": "DBC-INV-1121",
+    "TxnDate": "2026-03-07",
+    "DueDate": "2026-03-22",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5122",
+    "DocNumber": "DBC-INV-1122",
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-25",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5123",
+    "DocNumber": "DBC-INV-1123",
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-03-28",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5124",
+    "DocNumber": "DBC-INV-1124",
+    "TxnDate": "2026-03-16",
+    "DueDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5125",
+    "DocNumber": "DBC-INV-1125",
+    "TxnDate": "2026-03-19",
+    "DueDate": "2026-04-03",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5126",
+    "DocNumber": "DBC-INV-1126",
+    "TxnDate": "2026-03-22",
+    "DueDate": "2026-04-06",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5127",
+    "DocNumber": "DBC-INV-1127",
+    "TxnDate": "2026-03-25",
+    "DueDate": "2026-04-09",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5128",
+    "DocNumber": "DBC-INV-1128",
+    "TxnDate": "2026-03-28",
+    "DueDate": "2026-04-12",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5129",
+    "DocNumber": "DBC-INV-1129",
+    "TxnDate": "2026-03-31",
+    "DueDate": "2026-04-15",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5130",
+    "DocNumber": "DBC-INV-1130",
+    "TxnDate": "2026-04-03",
+    "DueDate": "2026-04-18",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5131",
+    "DocNumber": "DBC-INV-1131",
+    "TxnDate": "2026-04-06",
+    "DueDate": "2026-04-21",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5132",
+    "DocNumber": "DBC-INV-1132",
+    "TxnDate": "2026-04-09",
+    "DueDate": "2026-04-24",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5133",
+    "DocNumber": "DBC-INV-1133",
+    "TxnDate": "2026-04-12",
+    "DueDate": "2026-04-27",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5134",
+    "DocNumber": "DBC-INV-1134",
+    "TxnDate": "2026-04-15",
+    "DueDate": "2026-04-30",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5135",
+    "DocNumber": "DBC-INV-1135",
+    "TxnDate": "2026-04-18",
+    "DueDate": "2026-05-03",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5136",
+    "DocNumber": "DBC-INV-1136",
+    "TxnDate": "2026-04-21",
+    "DueDate": "2026-05-06",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5137",
+    "DocNumber": "DBC-INV-1137",
+    "TxnDate": "2026-04-24",
+    "DueDate": "2026-05-09",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5138",
+    "DocNumber": "DBC-INV-1138",
+    "TxnDate": "2026-04-27",
+    "DueDate": "2026-05-12",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5139",
+    "DocNumber": "DBC-INV-1139",
+    "TxnDate": "2026-04-30",
+    "DueDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5140",
+    "DocNumber": "DBC-INV-1140",
+    "TxnDate": "2026-05-03",
+    "DueDate": "2026-05-18",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5141",
+    "DocNumber": "DBC-INV-1141",
+    "TxnDate": "2026-05-06",
+    "DueDate": "2026-05-21",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5142",
+    "DocNumber": "DBC-INV-1142",
+    "TxnDate": "2026-05-09",
+    "DueDate": "2026-05-24",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5143",
+    "DocNumber": "DBC-INV-1143",
+    "TxnDate": "2026-05-12",
+    "DueDate": "2026-05-27",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5144",
+    "DocNumber": "DBC-INV-1144",
+    "TxnDate": "2026-05-15",
+    "DueDate": "2026-05-30",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5145",
+    "DocNumber": "DBC-INV-1145",
+    "TxnDate": "2026-05-18",
+    "DueDate": "2026-06-02",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5146",
+    "DocNumber": "DBC-INV-1146",
+    "TxnDate": "2026-05-21",
+    "DueDate": "2026-06-05",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5147",
+    "DocNumber": "DBC-INV-1147",
+    "TxnDate": "2026-05-24",
+    "DueDate": "2026-06-08",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5148",
+    "DocNumber": "DBC-INV-1148",
+    "TxnDate": "2026-05-27",
+    "DueDate": "2026-06-11",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5149",
+    "DocNumber": "DBC-INV-1149",
+    "TxnDate": "2026-05-30",
+    "DueDate": "2026-06-14",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5150",
+    "DocNumber": "DBC-INV-1150",
+    "TxnDate": "2026-06-02",
+    "DueDate": "2026-06-17",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5151",
+    "DocNumber": "DBC-INV-1151",
+    "TxnDate": "2026-06-05",
+    "DueDate": "2026-06-20",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5152",
+    "DocNumber": "DBC-INV-1152",
+    "TxnDate": "2026-06-08",
+    "DueDate": "2026-06-23",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5153",
+    "DocNumber": "DBC-INV-1153",
+    "TxnDate": "2026-06-11",
+    "DueDate": "2026-06-26",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5154",
+    "DocNumber": "DBC-INV-1154",
+    "TxnDate": "2026-06-14",
+    "DueDate": "2026-06-29",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5155",
+    "DocNumber": "DBC-INV-1155",
+    "TxnDate": "2026-06-17",
+    "DueDate": "2026-07-02",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5156",
+    "DocNumber": "DBC-INV-1156",
+    "TxnDate": "2026-06-20",
+    "DueDate": "2026-07-05",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5157",
+    "DocNumber": "DBC-INV-1157",
+    "TxnDate": "2026-06-23",
+    "DueDate": "2026-07-08",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5158",
+    "DocNumber": "DBC-INV-1158",
+    "TxnDate": "2026-06-26",
+    "DueDate": "2026-07-11",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5159",
+    "DocNumber": "DBC-INV-1159",
+    "TxnDate": "2026-06-29",
+    "DueDate": "2026-07-14",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5160",
+    "DocNumber": "DBC-INV-1160",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5161",
+    "DocNumber": "DBC-INV-1161",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1006",
+      "name": "North Mississippi Alehouse"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Cascade Growlers",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5162",
+    "DocNumber": "DBC-INV-1162",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1007",
+      "name": "Division Street Kitchen"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Hawthorne Market",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5163",
+    "DocNumber": "DBC-INV-1163",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1008",
+      "name": "Alberta Street Pub"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "5 x Czech Pilsner - 1/6 bbl keg — wholesale order for Portland Beer Collective",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Czech Pilsner - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5164",
+    "DocNumber": "DBC-INV-1164",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1001",
+      "name": "Greenfield's Deli"
+    },
+    "Line": [
+      {
+        "Amount": 1440.0,
+        "Description": "6 x Wild Ale - case (12x750ml) — wholesale order for Greenfield's Deli",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Wild Ale - case (12x750ml)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1440.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5165",
+    "DocNumber": "DBC-INV-1165",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1002",
+      "name": "The Hop Lantern"
+    },
+    "Line": [
+      {
+        "Amount": 1190.0,
+        "Description": "7 x Winter Ale - 1/6 bbl keg — wholesale order for The Hop Lantern",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Winter Ale - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1190.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5166",
+    "DocNumber": "DBC-INV-1166",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1003",
+      "name": "Burnside Bottle Shop"
+    },
+    "Line": [
+      {
+        "Amount": 330.0,
+        "Description": "2 x Oktoberfest Amber Lager - 1/6 bbl keg — wholesale order for Burnside Taphouse",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Oktoberfest Amber Lager - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 330.0,
+    "Balance": 330.0,
+    "Status": "Open"
+  },
+  {
+    "Id": "5167",
+    "DocNumber": "DBC-INV-1167",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1004",
+      "name": "Laurelhurst Public House"
+    },
+    "Line": [
+      {
+        "Amount": 525.0,
+        "Description": "3 x West Coast IPA - 1/6 bbl keg — wholesale order for Eastside Bottle Shop",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "West Coast IPA - 1/6 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 525.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "5168",
+    "DocNumber": "DBC-INV-1168",
+    "TxnDate": "2026-06-30",
+    "DueDate": "2026-07-15",
+    "CustomerRef": {
+      "value": "1005",
+      "name": "Sellwood Tap & Table"
+    },
+    "Line": [
+      {
+        "Amount": 880.0,
+        "Description": "4 x Farmhouse Saison - 1/2 bbl keg — wholesale order for Riverfront Pub",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Farmhouse Saison - 1/2 bbl keg"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 880.0,
+    "Balance": 0,
+    "Status": "Paid"
+  }
+]

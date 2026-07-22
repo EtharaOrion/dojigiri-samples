@@ -1,0 +1,274 @@
+{
+  "label": "before_injection",
+  "ts": 1784528972.461893,
+  "ts_iso": "2026-07-20T06:29:32Z",
+  "apis": {
+    "airbnb-api": {
+      "tables": {
+        "availability": 22,
+        "hosts": 22,
+        "listings": 22,
+        "reservations": 0,
+        "reviews": 22
+      },
+      "documents": {}
+    },
+    "airtable-api": {
+      "tables": {
+        "bases": 22,
+        "records_tbl000": 20,
+        "records_tbl001": 22,
+        "records_tbl100": 108,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "amadeus-api": {
+      "tables": {
+        "airlines": 8,
+        "airports": 22
+      },
+      "documents": {
+        "offers": true
+      }
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 20,
+        "sections": 22,
+        "tasks": 108,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "bamboohr-api": {
+      "tables": {
+        "employees": 15,
+        "time_off": 22,
+        "whos_out": 19
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "coinbase-api": {
+      "tables": {
+        "accounts": 19,
+        "prices": 10,
+        "transactions": 22
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 30,
+        "envelopes": 108,
+        "recipients": 27,
+        "templates": 22
+      },
+      "documents": {}
+    },
+    "eventbrite-api": {
+      "tables": {
+        "attendees": 202,
+        "events": 30,
+        "organizations": 22,
+        "ticket_classes": 38,
+        "venues": 22
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 8,
+        "labels": 27,
+        "messages": 118
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 22,
+        "events": 100
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "greenhouse-api": {
+      "tables": {
+        "applications": 45,
+        "candidates": 108,
+        "jobs": 22,
+        "scorecards": 15
+      },
+      "documents": {}
+    },
+    "gusto-api": {
+      "tables": {
+        "compensations": 22,
+        "contractors": 22,
+        "employees": 15,
+        "payrolls": 22
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 3
+      },
+      "documents": {}
+    },
+    "jira-api": {
+      "tables": {
+        "boards": 20,
+        "issues": 108,
+        "projects": 20,
+        "sprints": 20,
+        "users": 19
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 23,
+        "lists": 22,
+        "members": 110,
+        "reports": 22
+      },
+      "documents": {}
+    },
+    "monday-api": {
+      "tables": {
+        "boards": 22,
+        "column_values": 56,
+        "columns": 22,
+        "groups": 22,
+        "items": 24,
+        "users": 20,
+        "workspaces": 1
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 104,
+        "comments": 22,
+        "databases": 22,
+        "pages": 22,
+        "users": 22
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 23,
+        "bills": 5,
+        "customers": 20,
+        "estimates": 5,
+        "expenses": 100,
+        "invoices": 6,
+        "items": 8,
+        "payments": 5,
+        "vendors": 10
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "ring-api": {
+      "tables": {
+        "events": 15,
+        "motion_zones": 22,
+        "notification_prefs": 22,
+        "shared_users": 2
+      },
+      "documents": {
+        "active_dings": true,
+        "devices": true,
+        "location": true
+      }
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 84,
+        "channels": 7,
+        "messages": 104,
+        "users": 18
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "spotify-api": {
+      "tables": {
+        "albums": 22,
+        "artists": 22,
+        "playlist_tracks": 44,
+        "playlists": 22,
+        "tracks": 103
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "strava-api": {
+      "tables": {
+        "activities": 108,
+        "kudoers": 22,
+        "segments": 22
+      },
+      "documents": {
+        "athlete": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 100,
+        "customers": 15,
+        "invoices": 8,
+        "payment_intents": 0,
+        "prices": 10,
+        "products": 10,
+        "refunds": 0,
+        "subscriptions": 20
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "ticketmaster-api": {
+      "tables": {
+        "attractions": 22,
+        "classifications": 22,
+        "events": 10,
+        "venues": 16
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 13,
+        "contacts": 18,
+        "invoices": 15
+      },
+      "documents": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "test_salesforce_pledges_reviewed": 3,
+  "test_docusign_agreements_reviewed": 3,
+  "test_stripe_payments_reviewed": 3,
+  "test_gmail_correspondence_reviewed": 1,
+  "test_eventbrite_readiness_reviewed": 1,
+  "test_calendar_reviewed": 1,
+  "test_hubspot_cultivation_reviewed": 1,
+  "test_airtable_committee_reviewed": 1,
+  "test_slack_committee_reviewed": 1,
+  "test_notion_summary_committed": 5,
+  "test_distractor_apis_touched": -5,
+  "test_stripe_payment_created": -3,
+  "test_pledge_record_mutated": -1
+}

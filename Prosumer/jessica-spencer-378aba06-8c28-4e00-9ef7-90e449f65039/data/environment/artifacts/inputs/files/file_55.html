@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Studio Insights, Portfolio Performance</title>
+<style>
+  :root{
+    --bg:#201b17; --panel:#2c2520; --ink:#f4ece1; --muted:#b6a896;
+    --terra:#d2774a; --gold:#cba45a; --sage:#8a9a6b; --steel:#7fa0b4; --line:#41382f;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
+  .app{display:grid;grid-template-columns:236px 1fr;min-height:100vh}
+  /* sidebar */
+  aside{background:#1a1511;border-right:1px solid var(--line);padding:26px 20px;position:sticky;top:0;height:100vh}
+  .logo{font-size:19px;font-weight:700;letter-spacing:.4px}
+  .logo b{color:var(--terra)}
+  .logo small{display:block;font-size:11px;color:var(--muted);font-weight:400;letter-spacing:2px;text-transform:uppercase;margin-top:4px}
+  nav.side{margin-top:34px;display:flex;flex-direction:column;gap:4px}
+  nav.side a{color:var(--muted);font-size:14px;padding:11px 13px;border-radius:8px;display:flex;gap:10px;align-items:center;transition:.2s;cursor:pointer}
+  nav.side a:hover{background:#241d18;color:var(--ink)}
+  nav.side a.active{background:#2c2520;color:var(--ink);box-shadow:inset 3px 0 0 var(--terra)}
+  .dot{width:8px;height:8px;border-radius:50%;background:var(--gold)}
+  .side-foot{position:absolute;bottom:24px;left:20px;right:20px;font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+  /* main */
+  main{padding:26px 30px 50px}
+  .top{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:14px;margin-bottom:8px}
+  h1{font-size:24px}.sub{color:var(--muted);font-size:13px;margin-top:4px}
+  .ranges{display:flex;gap:8px}
+  .ranges button{background:var(--panel);color:var(--muted);border:1px solid var(--line);padding:9px 16px;border-radius:30px;font-size:13px;cursor:pointer;transition:.2s}
+  .ranges button:hover{color:var(--ink)}
+  .ranges button.active{background:var(--terra);color:#1a1511;border-color:var(--terra);font-weight:700}
+  /* kpi */
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:22px 0}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;position:relative;overflow:hidden}
+  .kpi::after{content:"";position:absolute;right:-20px;top:-20px;width:80px;height:80px;border-radius:50%;background:rgba(210,119,74,.12)}
+  .kpi .lab{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+  .kpi .val{font-size:30px;font-weight:700;margin:8px 0 2px}
+  .kpi .chg{font-size:12px}.up{color:var(--sage)}.down{color:var(--terra)}
+  /* grid charts */
+  .charts{display:grid;grid-template-columns:1.5fr 1fr;gap:16px}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 22px}
+  .panel h2{font-size:15px;margin-bottom:2px}
+  .panel .ptag{font-size:12px;color:var(--muted);margin-bottom:14px}
+  .full{grid-column:1 / -1}
+  svg{width:100%;height:auto;display:block}
+  .legend{display:flex;gap:18px;flex-wrap:wrap;margin-top:12px;font-size:12px;color:var(--muted)}
+  .legend i{display:inline-block;width:11px;height:11px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:600;text-transform:uppercase;font-size:11px;letter-spacing:.5px}
+  td b{color:var(--ink)}
+  .bar-mini{height:7px;border-radius:5px;background:linear-gradient(90deg,var(--gold),var(--terra))}
+  .pillar{transition:height .7s cubic-bezier(.2,.7,.2,1),y .7s cubic-bezier(.2,.7,.2,1)}
+  .area-path{transition:opacity .6s}
+  footer{margin-top:26px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:16px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  @media(max-width:900px){.app{grid-template-columns:1fr}aside{position:static;height:auto}.kpis{grid-template-columns:1fr 1fr}.charts{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <div class="logo">Spencer<b>.</b> Insights<small>Portfolio analytics</small></div>
+    <nav class="side">
+      <a class="active"><span class="dot"></span> Overview</a>
+      <a><span class="dot" style="background:var(--steel)"></span> Projects</a>
+      <a><span class="dot" style="background:var(--sage)"></span> Inquiries</a>
+      <a><span class="dot" style="background:var(--gold)"></span> Audience</a>
+    </nav>
+    <div class="side-foot">Data through February 2026<br>spencerinteriors.com</div>
+  </aside>
+
+  <main>
+    <div class="top">
+      <div>
+        <h1>Portfolio Performance</h1>
+        <div class="sub">How the website is drawing and converting design clients</div>
+      </div>
+      <div class="ranges" id="ranges">
+        <button data-r="30">Last 30 days</button>
+        <button class="active" data-r="90">Last 90 days</button>
+        <button data-r="ytd">Season to date</button>
+      </div>
+    </div>
+
+    <div class="kpis" id="kpis"></div>
+
+    <div class="charts">
+      <div class="panel">
+        <h2>Visitors by month</h2>
+        <div class="ptag" id="trendTag">Sessions across the portfolio site</div>
+        <svg id="trend" viewBox="0 0 640 260" preserveAspectRatio="none"></svg>
+      </div>
+      <div class="panel">
+        <h2>Traffic sources</h2>
+        <div class="ptag">Where visitors arrive from</div>
+        <svg id="donut" viewBox="0 0 240 240"></svg>
+        <div class="legend" id="donutLeg"></div>
+      </div>
+      <div class="panel">
+        <h2>Top projects by page views</h2>
+        <div class="ptag">Which case studies hold attention</div>
+        <svg id="bars" viewBox="0 0 640 280"></svg>
+      </div>
+      <div class="panel">
+        <h2>Consultation funnel</h2>
+        <div class="ptag">From visit to booked call</div>
+        <table id="funnel"></table>
+      </div>
+    </div>
+
+    <footer>
+      <span>Spencer Interiors  |  Studio Insights dashboard</span>
+      <span>Prepared for the monthly review with the design team</span>
+    </footer>
+  </main>
+</div>
+
+<script>
+var DATA={
+  "30":{kpi:[["Visitors","3,180","+9.4% vs prior","up"],["Page views","11,540","+12.1%","up"],["Consult inquiries","14","+3 inquiries","up"],["Avg time on page","2m 41s","-6s","down"]],
+    trend:[["Dec",980],["Jan",1080],["Feb",1120]],
+    bars:[["Hendricks Residence",2240],["Grayhawk Showcase",1980],["Desert Vista",1460],["Martin Condo",1180],["DC Ranch Spec",760]],
+    donut:[["Organic search",46,"var(--terra)"],["Social referral",27,"var(--gold)"],["Direct",18,"var(--steel)"],["Trade referral",9,"var(--sage)"]],
+    funnel:[["Visitors",3180,"100%"],["Viewed a project",1390,"44%"],["Opened contact",240,"7.5%"],["Started form",58,"1.8%"],["Booked a call",14,"0.4%"]]},
+  "90":{kpi:[["Visitors","9,420","+14.8% vs prior","up"],["Page views","33,910","+16.7%","up"],["Consult inquiries","41","+11 inquiries","up"],["Avg time on page","2m 53s","+11s","up"]],
+    trend:[["Oct",1610],["Nov",1740],["Dec",1980],["Jan",2010],["Feb",2080]],
+    bars:[["Hendricks Residence",6480],["Grayhawk Showcase",5720],["Desert Vista",4310],["Martin Condo",3360],["DC Ranch Spec",2190]],
+    donut:[["Organic search",48,"var(--terra)"],["Social referral",25,"var(--gold)"],["Direct",17,"var(--steel)"],["Trade referral",10,"var(--sage)"]],
+    funnel:[["Visitors",9420,"100%"],["Viewed a project",4240,"45%"],["Opened contact",690,"7.3%"],["Started form",171,"1.8%"],["Booked a call",41,"0.4%"]]},
+  "ytd":{kpi:[["Visitors","16,070","Season total","up"],["Page views","58,300","Season total","up"],["Consult inquiries","73","Season total","up"],["Avg time on page","2m 49s","Season avg","up"]],
+    trend:[["Oct",1610],["Nov",1740],["Dec",1980],["Jan",2010],["Feb",2080],["Prior",6650]],
+    bars:[["Hendricks Residence",10800],["Grayhawk Showcase",9460],["Desert Vista",7120],["Martin Condo",5580],["DC Ranch Spec",3640]],
+    donut:[["Organic search",47,"var(--terra)"],["Social referral",26,"var(--gold)"],["Direct",17,"var(--steel)"],["Trade referral",10,"var(--sage)"]],
+    funnel:[["Visitors",16070,"100%"],["Viewed a project",7230,"45%"],["Opened contact",1180,"7.3%"],["Started form",292,"1.8%"],["Booked a call",73,"0.5%"]]}
+};
+var SVG="http://www.w3.org/2000/svg";
+function el(t,a){var e=document.createElementNS(SVG,t);for(var k in a)e.setAttribute(k,a[k]);return e;}
+
+function kpis(d){
+  var w=document.getElementById('kpis');w.innerHTML='';
+  d.kpi.forEach(function(k){
+    var div=document.createElement('div');div.className='kpi';
+    div.innerHTML='<div class="lab">'+k[0]+'</div><div class="val">'+k[1]+'</div><div class="chg '+k[3]+'">'+k[2]+'</div>';
+    w.appendChild(div);
+  });
+}
+function trend(d){
+  var s=document.getElementById('trend');s.innerHTML='';
+  var W=640,H=260,pad=34,vals=d.trend.map(function(x){return x[1]}),max=Math.max.apply(null,vals)*1.15;
+  var n=d.trend.length,step=(W-pad*2)/(n-1);
+  // grid
+  for(var g=0;g<=4;g++){var y=pad+(H-pad*2)*g/4;s.appendChild(el('line',{x1:pad,y1:y,x2:W-pad,y2:y,stroke:'#41382f','stroke-width':1}));}
+  var pts=d.trend.map(function(x,i){return [pad+step*i, H-pad-(H-pad*2)*(x[1]/max)];});
+  var dpath='M'+pts.map(function(p){return p[0].toFixed(1)+' '+p[1].toFixed(1)}).join(' L ');
+  var area=dpath+' L '+pts[n-1][0]+' '+(H-pad)+' L '+pts[0][0]+' '+(H-pad)+' Z';
+  var grad=el('linearGradient',{id:'ag',x1:0,y1:0,x2:0,y2:1});
+  grad.appendChild(el('stop',{offset:'0%','stop-color':'#d2774a','stop-opacity':.45}));
+  grad.appendChild(el('stop',{offset:'100%','stop-color':'#d2774a','stop-opacity':0}));
+  var defs=el('defs',{});defs.appendChild(grad);s.appendChild(defs);
+  s.appendChild(el('path',{d:area,fill:'url(#ag)','class':'area-path'}));
+  s.appendChild(el('path',{d:dpath,fill:'none',stroke:'#d2774a','stroke-width':3,'stroke-linejoin':'round'}));
+  pts.forEach(function(p,i){
+    s.appendChild(el('circle',{cx:p[0],cy:p[1],r:4.5,fill:'#201b17',stroke:'#cBA45a','stroke-width':2.5}));
+    var t=el('text',{x:p[0],y:H-12,fill:'#b6a896','font-size':12,'text-anchor':'middle'});t.textContent=d.trend[i][0];s.appendChild(t);
+    var v=el('text',{x:p[0],y:p[1]-12,fill:'#f4ece1','font-size':11,'text-anchor':'middle'});v.textContent=d.trend[i][1].toLocaleString();s.appendChild(v);
+  });
+}
+function bars(d){
+  var s=document.getElementById('bars');s.innerHTML='';
+  var W=640,H=280,padL=150,padR=40,padT=10,padB=20,max=Math.max.apply(null,d.bars.map(function(x){return x[1]}))*1.1;
+  var n=d.bars.length,bh=(H-padT-padB)/n,colors=['#d2774a','#cBA45a','#8a9a6b','#7fa0b4','#a98b6a'];
+  d.bars.forEach(function(x,i){
+    var y=padT+bh*i+bh*0.18,h=bh*0.64,full=(W-padL-padR)*(x[1]/max);
+    var lab=el('text',{x:padL-12,y:y+h/2+4,fill:'#f4ece1','font-size':13,'text-anchor':'end'});lab.textContent=x[0];s.appendChild(lab);
+    var r=el('rect',{x:padL,y:y,width:0,height:h,rx:5,fill:colors[i%colors.length]});s.appendChild(r);
+    (function(rr,fw){setTimeout(function(){rr.setAttribute('width',fw)},60+i*90);rr.style.transition='width .8s cubic-bezier(.2,.7,.2,1)';})(r,full);
+    var v=el('text',{x:padL+full+8,y:y+h/2+4,fill:'#b6a896','font-size':12});v.textContent=x[1].toLocaleString();s.appendChild(v);
+  });
+}
+function donut(d){
+  var s=document.getElementById('donut');s.innerHTML='';
+  var cx=120,cy=120,r=86,rin=52,total=d.donut.reduce(function(a,b){return a+b[1]},0),ang=-Math.PI/2;
+  d.donut.forEach(function(x){
+    var a2=ang+(x[1]/total)*Math.PI*2;
+    var x1=cx+r*Math.cos(ang),y1=cy+r*Math.sin(ang),x2=cx+r*Math.cos(a2),y2=cy+r*Math.sin(a2);
+    var xi2=cx+rin*Math.cos(a2),yi2=cy+rin*Math.sin(a2),xi1=cx+rin*Math.cos(ang),yi1=cy+rin*Math.sin(ang);
+    var large=(a2-ang)>Math.PI?1:0;
+    var p=el('path',{d:'M'+x1+' '+y1+' A'+r+' '+r+' 0 '+large+' 1 '+x2+' '+y2+' L'+xi2+' '+yi2+' A'+rin+' '+rin+' 0 '+large+' 0 '+xi1+' '+yi1+' Z',
+      fill:getComputedStyle(document.documentElement).getPropertyValue(x[2].replace('var(','').replace(')',''))||x[2]});
+    p.style.opacity=0;p.style.transition='opacity .6s';s.appendChild(p);setTimeout(function(){p.style.opacity=1},120);
+    ang=a2;
+  });
+  var t=el('text',{x:cx,y:cy-2,fill:'#f4ece1','font-size':22,'text-anchor':'middle','font-weight':700});t.textContent=total+'%';s.appendChild(t);
+  var t2=el('text',{x:cx,y:cy+18,fill:'#b6a896','font-size':11,'text-anchor':'middle'});t2.textContent='of sessions';s.appendChild(t2);
+  var leg=document.getElementById('donutLeg');leg.innerHTML='';
+  d.donut.forEach(function(x){var sp=document.createElement('span');sp.innerHTML='<i style="background:'+x[2]+'"></i>'+x[0]+' '+x[1]+'%';leg.appendChild(sp);});
+}
+function funnel(d){
+  var t=document.getElementById('funnel');
+  t.innerHTML='<tr><th>Stage</th><th>Count</th><th>Share</th><th></th></tr>';
+  var top=d.funnel[0][1];
+  d.funnel.forEach(function(x){
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td><b>'+x[0]+'</b></td><td>'+x[1].toLocaleString()+'</td><td>'+x[2]+'</td>'+
+      '<td style="width:120px"><div class="bar-mini" style="width:'+Math.max(6,(x[1]/top*100))+'%"></div></td>';
+    t.appendChild(tr);
+  });
+}
+function render(r){var d=DATA[r];kpis(d);trend(d);bars(d);donut(d);funnel(d);
+  document.getElementById('trendTag').textContent=(r==='ytd'?'Sessions since October 2025':'Sessions across the portfolio site');}
+document.querySelectorAll('#ranges button').forEach(function(b){
+  b.addEventListener('click',function(){
+    document.querySelectorAll('#ranges button').forEach(function(x){x.classList.remove('active')});
+    b.classList.add('active');render(b.dataset.r);
+  });
+});
+render('90');
+</script>
+</body>
+</html>

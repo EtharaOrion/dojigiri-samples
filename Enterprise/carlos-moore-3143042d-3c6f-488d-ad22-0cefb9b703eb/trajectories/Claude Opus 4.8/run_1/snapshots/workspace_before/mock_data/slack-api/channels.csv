@@ -1,0 +1,21 @@
+created,creator,id,is_archived,is_private,name,num_members,purpose,topic,__api__,__table__,__file__,__row_index__
+1704124800,U04B3M8XT1,C04GN1A7QP,False,False,general,20,Company-wide announcements and general chatter,All-staff updates for Bellmark Industries,slack-api,channels,/opt/mocks/slack-api/channels.json,0
+1704211200,U04A7KQ2P9,C04HR2B8KT,False,True,hr-team,12,Core HR team coordination and daily work,"HR team home base — Carlos, Wanda and direct reports",slack-api,channels,/opt/mocks/slack-api/channels.json,1
+1706716800,U05D2Q7L6B,C05BF3C9RH,False,False,benefits-2026,6,2026 benefits and open enrollment planning,"Open enrollment window Oct 12-26, effective Jan 1",slack-api,channels,/opt/mocks/slack-api/channels.json,2
+1707321600,U08J1R3H7C,C05DE4D2LB,False,False,dei-committee,6,"Diversity, equity and inclusion committee","DEI committee — surveys, readouts, initiatives",slack-api,channels,/opt/mocks/slack-api/channels.json,3
+1709913600,U12T9P3M7K,C06WL5E8MV,False,False,wellness-program,5,Employee wellness program launch (Jan 2027),"Wellness launch — screenings, walking challenge",slack-api,channels,/opt/mocks/slack-api/channels.json,4
+1705507200,U09M5P1L2R,C06ON6F3BS,False,False,onboarding,5,New-hire onboarding and orientation,"Onboarding logistics — I-9, Workday, day-one setup",slack-api,channels,/opt/mocks/slack-api/channels.json,5
+1704297600,U04A7KQ2P9,C07SM7G5KN,False,False,staff-meetings,6,Weekly Monday 9am staff meeting agendas,Monday 9am staff meeting — agendas and follow-ups,slack-api,channels,/opt/mocks/slack-api/channels.json,6
+1704384000,U11R1V7J9M,C07KU8H4VP,False,False,kudos,20,Recognition and shout-outs across the team,Give a shout-out to a teammate,slack-api,channels,/opt/mocks/slack-api/channels.json,7
+1705075200,U06E8X4M1V,C08RC9J1HC,False,False,recruiting,4,Open requisitions and candidate pipeline,"Recruiting — reqs, offers, background checks",slack-api,channels,/opt/mocks/slack-api/channels.json,8
+1705680000,U13V4R8B1E,C08PU2K6NB,False,True,policy-updates,4,Policy and handbook change coordination,Policy updates — legal review and rollout,slack-api,channels,/opt/mocks/slack-api/channels.json,9
+1705248000,U07H4J6V9P,C09PC3L8RA,False,True,payroll-comp,5,Payroll cycles and compensation matters,Payroll cutoffs and comp bands — confidential,slack-api,channels,/opt/mocks/slack-api/channels.json,10
+1704470400,U07G5W8K2N,C09RN4M1PR,False,False,random,20,Off-topic and social conversation,"Non-work chatter, recipes, weekend plans",slack-api,channels,/opt/mocks/slack-api/channels.json,11
+1704556800,U04B3M8XT1,C10AN5N7DG,False,False,announcements,20,Official company announcements,Read-only company announcements,slack-api,channels,/opt/mocks/slack-api/channels.json,12
+1706025600,U07G5W8K2N,C10TD6P2XQ,False,False,training-dev,4,Training and professional development,"L&D sessions, SHRM certs, manager training",slack-api,channels,/opt/mocks/slack-api/channels.json,13
+1706284800,U08K6M2N5B,C11ER7Q5RD,False,True,employee-relations,4,Employee relations cases and escalations,Employee relations — confidential coordination,slack-api,channels,/opt/mocks/slack-api/channels.json,14
+1705852800,U06F3B7D5S,C11HW8R1JM,False,False,hris-workday,4,Workday HRIS administration and tickets,"Workday configuration, access, data fixes",slack-api,channels,/opt/mocks/slack-api/channels.json,15
+1704643200,U04B3M8XT1,C12LD9S6HN,False,True,leadership,3,HR leadership planning and strategy,"Leadership — Carlos, Wanda, DeShawn",slack-api,channels,/opt/mocks/slack-api/channels.json,16
+1706457600,U11R1V7J9M,C12ES1T3MK,False,False,events-social,5,"Team events, birthdays and social planning","Events — birthdays, outings, holiday planning",slack-api,channels,/opt/mocks/slack-api/channels.json,17
+1706889600,U11Q8B5R3D,C13SC2V8BE,False,False,safety-compliance,4,Workplace safety and compliance,"Safety, OSHA compliance, facilities",slack-api,channels,/opt/mocks/slack-api/channels.json,18
+1704729600,U13V4R8B1E,C13HB3W5NJ,True,True,handbook-revamp,5,2026 employee handbook revision project,Handbook revamp — completed and archived,slack-api,channels,/opt/mocks/slack-api/channels.json,19

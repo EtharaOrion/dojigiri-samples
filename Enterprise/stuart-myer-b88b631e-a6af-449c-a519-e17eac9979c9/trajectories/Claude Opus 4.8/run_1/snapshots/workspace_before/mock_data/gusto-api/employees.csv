@@ -1,0 +1,32 @@
+company_id,department,email,first_name,flsa_status,id,job_title,last_name,payment_unit,rate,start_date,terminated,__api__,__table__,__file__,__row_index__
+co-0000f7b97211,Brewing,stuart.myer@voissync.ai,Stuart,Exempt,emp-9db1b05f,Head Brewer & Co-Owner,Myer,Year,72000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,0
+co-0000f7b97211,Taproom,deb.greenfield.pdx@gmail.com,Deborah,Nonexempt,emp-3219fe72,Bartender,Greenfield-Myer,Year,96000.0,2023-09-18,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,1
+co-0000f7b97211,Cellar,richard.myer.or@gmail.com,Richard,Nonexempt,emp-e9e15fcb,Cellar Assistant,Myer,Year,128000.0,2024-01-15,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,2
+co-0000f7b97211,Operations,jake.callahan@gmail.com,Jake,Exempt,emp-10e7420c,Co-Owner & Operations Manager,Callahan,Year,158000.0,2024-06-03,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,3
+co-0000f7b97211,Packaging,lauren.pratt@gmail.com,Lauren,Nonexempt,emp-2286b15c,Packaging Technician,Pratt,Year,195000.0,2024-11-12,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,4
+co-0000f7b97211,Taproom,ruth.greenfield.pdx@gmail.com,Ruth,Nonexempt,emp-a20539b8,Server,Greenfield,Year,240000.0,2025-03-24,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,5
+co-0000f7b97211,Taproom,howard.greenfield.ct@gmail.com,Howard,Nonexempt,emp-11efe83a,Bartender,Greenfield,Year,72000.0,2025-08-05,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,6
+co-0000f7b97211,Cellar,carol.myer@gmail.com,Carol,Nonexempt,emp-979e0af2,Cellar Assistant,Myer,Year,96000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,7
+co-0000f7b97211,Packaging,david.cortez.cwc@gmail.com,David,Nonexempt,emp-8bcb5761,Packaging Technician,Cortez,Year,128000.0,2023-09-18,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,8
+co-0000f7b97211,Taproom,megan.hale.m@gmail.com,Megan,Exempt,emp-476cff32,Taproom Manager,Hale,Year,158000.0,2024-01-15,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,9
+co-0000f7b97211,Cellar,jordan.avery@voissync.ai,Jordan,Nonexempt,emp-a1f5e177,Cellar Assistant,Avery,Year,96000.0,2024-06-03,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,10
+co-0000f7b97211,Brewing,stuart.myer@voissync.ai,Stuart,Exempt,emp-9db1b05f-v1,Head Brewer & Co-Owner,Myer,Year,72000.0,2024-11-12,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,11
+co-0000f7b97211,Taproom,deb.greenfield.pdx@gmail.com,Deborah,Nonexempt,emp-3219fe72-v2,Server,Greenfield-Myer,Year,96000.0,2025-03-24,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,12
+co-0000f7b97211,Taproom,richard.myer.or@gmail.com,Richard,Nonexempt,emp-e9e15fcb-v3,Bartender,Myer,Year,128000.0,2025-08-05,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,13
+co-0000f7b97211,Operations,jake.callahan@gmail.com,Jake,Exempt,emp-10e7420c-v4,Co-Owner & Operations Manager,Callahan,Year,158000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,14
+co-0000f7b97211,Cellar,lauren.pratt@gmail.com,Lauren,Nonexempt,emp-2286b15c-v5,Cellar Assistant,Pratt,Year,195000.0,2023-09-18,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,15
+co-0000f7b97211,Packaging,ruth.greenfield.pdx@gmail.com,Ruth,Nonexempt,emp-a20539b8-v6,Packaging Technician,Greenfield,Year,240000.0,2024-01-15,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,16
+co-0000f7b97211,Taproom,howard.greenfield.ct@gmail.com,Howard,Nonexempt,emp-11efe83a-v7,Server,Greenfield,Year,72000.0,2024-06-03,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,17
+co-0000f7b97211,Taproom,carol.myer@gmail.com,Carol,Nonexempt,emp-979e0af2-v8,Bartender,Myer,Year,96000.0,2024-11-12,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,18
+co-0000f7b97211,Cellar,david.cortez.cwc@gmail.com,David,Nonexempt,emp-8bcb5761-v9,Cellar Assistant,Cortez,Year,128000.0,2025-03-24,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,19
+co-0000f7b97211,Brewing,stuart.myer@voissync.ai,Stuart,Exempt,emp-9db1b05f-v1-2,Head Brewer & Co-Owner,Myer,Year,72000.0,2025-08-05,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,20
+co-0000f7b97211,Packaging,deb.greenfield.pdx@gmail.com,Deborah,Nonexempt,emp-3219fe72-v2-2,Packaging Technician,Greenfield-Myer,Year,96000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,21
+co-0000f7b97211,Taproom,richard.myer.or@gmail.com,Richard,Nonexempt,emp-e9e15fcb-v3-2,Server,Myer,Year,128000.0,2023-09-18,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,22
+co-0000f7b97211,Operations,jake.callahan@gmail.com,Jake,Exempt,emp-10e7420c-v4-2,Co-Owner & Operations Manager,Callahan,Year,158000.0,2024-01-15,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,23
+co-0000f7b97211,Taproom,lauren.pratt@gmail.com,Lauren,Nonexempt,emp-2286b15c-v5-2,Bartender,Pratt,Year,195000.0,2024-06-03,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,24
+co-0000f7b97211,Cellar,ruth.greenfield.pdx@gmail.com,Ruth,Nonexempt,emp-a20539b8-v6-2,Cellar Assistant,Greenfield,Year,240000.0,2024-11-12,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,25
+co-0000f7b97211,Packaging,howard.greenfield.ct@gmail.com,Howard,Nonexempt,emp-11efe83a-v7-2,Packaging Technician,Greenfield,Year,72000.0,2025-03-24,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,26
+co-0000f7b97211,Taproom,carol.myer@gmail.com,Carol,Nonexempt,emp-979e0af2-v8-2,Server,Myer,Year,96000.0,2025-08-05,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,27
+co-0000f7b97211,Taproom,david.cortez.cwc@gmail.com,David,Nonexempt,emp-8bcb5761-v9-2,Bartender,Cortez,Year,128000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,28
+co-0000f7b97211,Taproom,megan.hale.m@gmail.com,Megan,Exempt,emp-476cff32-v10,Taproom Manager,Hale,Year,158000.0,2023-09-18,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,29
+co-0000f7b97211,Cellar,jordan.avery@voissync.ai,Jordan,Nonexempt,emp-a1f5e177-v11,Cellar Assistant,Avery,Year,96000.0,2024-01-15,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,30

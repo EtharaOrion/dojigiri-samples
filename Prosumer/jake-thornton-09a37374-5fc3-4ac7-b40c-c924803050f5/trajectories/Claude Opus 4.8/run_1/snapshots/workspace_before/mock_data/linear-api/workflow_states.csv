@@ -1,0 +1,7 @@
+id,name,type,color,description,position,teamId,__api__,__table__,__file__,__row_index__
+ydpd95vi3k32juuisfkez8,Backlog,backlog,#777777,Backlog workflow state,0,vpf9j647cj8sa,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,0
+bwuguzmssvc2stspf8g,Todo,unstarted,#777777,Todo workflow state,1,vpf9j647cj8sa,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,1
+9gmg92ddwcrtntn6oijagz14xf,In Progress,started,#777777,In Progress workflow state,2,vpf9j647cj8sa,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,2
+t8ch2zrrhoyugtleemx9g,In Review,started,#777777,In Review workflow state,3,vpf9j647cj8sa,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,3
+1ctz7tf6a1l5znahezk,Done,completed,#777777,Done workflow state,4,vpf9j647cj8sa,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,4
+n1wiph5dzewyfdhjcisxjjp,Canceled,canceled,#777777,Canceled workflow state,5,vpf9j647cj8sa,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,5

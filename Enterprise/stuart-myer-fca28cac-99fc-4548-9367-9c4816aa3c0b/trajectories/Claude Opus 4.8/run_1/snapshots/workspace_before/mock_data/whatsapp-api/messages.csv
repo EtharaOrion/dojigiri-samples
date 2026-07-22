@@ -1,0 +1,125 @@
+conversation_id,direction,from_wa_id,message_id,sent_at,status,template_name,text,to_wa_id,type
+conv-001,inbound,15035550142,msg-001-01,2025-12-24T10:52:21+00:00,delivered,,Hi — quick question about my shipping question.,14717331847,text
+conv-001,outbound,14717331847,msg-001-02,2025-12-20T10:00:37+00:00,delivered,,"Hi Deborah, happy to help. Could you share your order number?",15035550142,text
+conv-001,inbound,15035550142,msg-001-03,2025-12-24T10:05:18+00:00,read,,"Sure, it's #SF-220. Thanks!",14717331847,text
+conv-002,inbound,15035550143,msg-002-01,2025-12-25T18:53:59+00:00,delivered,,Hi — quick question about my return request.,14717331847,text
+conv-002,outbound,14717331847,msg-002-02,2025-12-26T20:35:06+00:00,delivered,,"Hi Richard, happy to help. Could you share your order number?",15035550143,text
+conv-002,inbound,15035550143,msg-002-03,2025-12-13T02:29:49+00:00,read,,"Sure, it's #SF-220. Thanks!",14717331847,text
+conv-003,inbound,15035550187,msg-003-01,2025-12-24T16:59:24+00:00,delivered,,Hi — quick question about my appointment confirmation.,14717331847,text
+conv-003,outbound,14717331847,msg-003-02,2025-12-15T16:08:01+00:00,delivered,,"Hi Jake, happy to help. Could you share your order number?",15035550187,text
+conv-003,inbound,15035550187,msg-003-03,2025-12-18T00:24:01+00:00,read,,"Sure, it's #SF-220. Thanks!",14717331847,text
+conv-004,inbound,15035550144,msg-004-01,2025-12-18T11:05:05+00:00,delivered,,Hi — quick question about my store hours inquiry.,14717331847,text
+conv-004,outbound,14717331847,msg-004-02,2025-12-14T15:24:05+00:00,delivered,,"Hi Ruth, happy to help. Could you share your order number?",15035550144,text
+conv-004,inbound,15035550144,msg-004-03,2025-12-24T08:51:48+00:00,read,,"Sure, it's #SF-220. Thanks!",14717331847,text
+conv-005,inbound,18605557930,msg-005-01,2025-12-13T13:26:52+00:00,delivered,,Hi — quick question about my product availability.,14717331847,text
+conv-005,outbound,14717331847,msg-005-02,2025-12-26T04:16:21+00:00,delivered,,"Hi Howard, happy to help. Could you share your order number?",18605557930,text
+conv-005,inbound,18605557930,msg-005-03,2025-12-13T09:37:45+00:00,read,,"Sure, it's #SF-220. Thanks!",14717331847,text
+conv-006,inbound,15415550161,msg-006-01,2025-12-25T23:21:14+00:00,delivered,,Hi — quick question about my payment receipt clarification.,14717331847,text
+conv-006,outbound,14717331847,msg-006-02,2025-12-21T06:16:24+00:00,delivered,,"Hi Carol, happy to help. Could you share your order number?",15415550161,text
+conv-006,inbound,15415550161,msg-006-03,2025-12-15T17:01:09+00:00,read,,"Sure, it's #SF-220. Thanks!",14717331847,text
+conv-001,inbound,15035550142,msg-001-04,2025-12-24T10:52:21+00:00,delivered,,Hi — quick question about my shipping question.,14717331847,text
+conv-001,outbound,14717331847,msg-001-05,2025-12-20T10:00:37+00:00,delivered,,"Hi Deborah, happy to help. Could you share your order number?",15035550142,text
+conv-001,inbound,15035550187,msg-ws-0000,2026-04-01T07:00:00+00:00,read,,"tank 3 hit terminal gravity, ready to crash cool. (Apr 01)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0001,2026-04-01T08:00:00+00:00,read,,"on it — crashing tonight, diacetyl rest looked clean. (Apr 01)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0002,2026-04-02T09:00:00+00:00,read,,brisket for Thanksgiving — you're doing the fusion menu again? (Apr 02),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0003,2026-04-02T10:00:00+00:00,read,,"copy, thanks for handling it. (Apr 02)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0004,2026-04-03T11:00:00+00:00,read,,"Costco run tomorrow for taproom supplies, need anything? (Apr 03)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0005,2026-04-03T12:00:00+00:00,read,,"yes, grab CO2 and gloves if they have the nitrile ones. (Apr 03)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0006,2026-04-04T13:00:00+00:00,read,,"the deli's slammed, but I'm proud of what you built at that brewery. (Apr 04)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0007,2026-04-04T14:00:00+00:00,read,,"confirmed, I'll block it. (Apr 04)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0008,2026-04-05T15:00:00+00:00,read,,"Oktoberfest kegs moving fast, might tap the backup Saturday. (Apr 05)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0009,2026-04-05T16:00:00+00:00,read,,"sounds good, see you then. (Apr 05)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0010,2026-04-06T17:00:00+00:00,read,,Bubbe had a confused morning but she's okay now. (Apr 06),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0011,2026-04-06T07:00:00+00:00,read,,"leading with the 11-of-14 number, good call. (Apr 06)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0012,2026-04-07T08:00:00+00:00,read,,"P&L looks solid, summer traffic carried us. (Apr 07)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0013,2026-04-07T09:00:00+00:00,read,,"Sunday works, 10 at the deli. (Apr 07)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0014,2026-04-08T10:00:00+00:00,read,,"settle down one of these days, that's all I'll say. (Apr 08)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0015,2026-04-08T11:00:00+00:00,read,,"I'll come by, save me soup. (Apr 08)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0016,2026-04-09T12:00:00+00:00,read,,"grain delivery slipped a day, adjusting the schedule. (Apr 09)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0017,2026-04-09T13:00:00+00:00,read,,miss you too. Friday after close. (Apr 09),15035550219,text
+conv-003,inbound,15035550142,msg-ws-0018,2026-04-10T14:00:00+00:00,read,,"call your grandmother, she counts the days. (Apr 10)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0019,2026-04-10T15:00:00+00:00,read,,tell Bubbe I'll be there Sunday. (Apr 10),15035550271,text
+conv-001,inbound,15035550187,msg-ws-0020,2026-04-11T16:00:00+00:00,read,,"tank 3 hit terminal gravity, ready to crash cool. (Apr 11)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0021,2026-04-11T17:00:00+00:00,read,,"on it — crashing tonight, diacetyl rest looked clean. (Apr 11)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0022,2026-04-12T07:00:00+00:00,read,,brisket for Thanksgiving — you're doing the fusion menu again? (Apr 12),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0023,2026-04-12T08:00:00+00:00,read,,"copy, thanks for handling it. (Apr 12)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0024,2026-04-13T09:00:00+00:00,read,,"Costco run tomorrow for taproom supplies, need anything? (Apr 13)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0025,2026-04-13T10:00:00+00:00,read,,"yes, grab CO2 and gloves if they have the nitrile ones. (Apr 13)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0026,2026-04-14T11:00:00+00:00,read,,"the deli's slammed, but I'm proud of what you built at that brewery. (Apr 14)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0027,2026-04-14T12:00:00+00:00,read,,"confirmed, I'll block it. (Apr 14)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0028,2026-04-15T13:00:00+00:00,read,,"Oktoberfest kegs moving fast, might tap the backup Saturday. (Apr 15)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0029,2026-04-15T14:00:00+00:00,read,,"sounds good, see you then. (Apr 15)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0030,2026-04-16T15:00:00+00:00,read,,Bubbe had a confused morning but she's okay now. (Apr 16),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0031,2026-04-16T16:00:00+00:00,read,,"leading with the 11-of-14 number, good call. (Apr 16)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0032,2026-04-17T17:00:00+00:00,read,,"P&L looks solid, summer traffic carried us. (Apr 17)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0033,2026-04-17T07:00:00+00:00,read,,"Sunday works, 10 at the deli. (Apr 17)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0034,2026-04-18T08:00:00+00:00,read,,"settle down one of these days, that's all I'll say. (Apr 18)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0035,2026-04-18T09:00:00+00:00,read,,"I'll come by, save me soup. (Apr 18)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0036,2026-04-19T10:00:00+00:00,read,,"grain delivery slipped a day, adjusting the schedule. (Apr 19)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0037,2026-04-19T11:00:00+00:00,read,,miss you too. Friday after close. (Apr 19),15035550219,text
+conv-003,inbound,15035550142,msg-ws-0038,2026-04-20T12:00:00+00:00,read,,"call your grandmother, she counts the days. (Apr 20)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0039,2026-04-20T13:00:00+00:00,read,,tell Bubbe I'll be there Sunday. (Apr 20),15035550271,text
+conv-001,inbound,15035550187,msg-ws-0040,2026-04-21T14:00:00+00:00,read,,"tank 3 hit terminal gravity, ready to crash cool. (Apr 21)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0041,2026-04-21T15:00:00+00:00,read,,"on it — crashing tonight, diacetyl rest looked clean. (Apr 21)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0042,2026-04-22T16:00:00+00:00,read,,brisket for Thanksgiving — you're doing the fusion menu again? (Apr 22),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0043,2026-04-22T17:00:00+00:00,read,,"copy, thanks for handling it. (Apr 22)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0044,2026-04-23T07:00:00+00:00,read,,"Costco run tomorrow for taproom supplies, need anything? (Apr 23)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0045,2026-04-23T08:00:00+00:00,read,,"yes, grab CO2 and gloves if they have the nitrile ones. (Apr 23)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0046,2026-04-24T09:00:00+00:00,read,,"the deli's slammed, but I'm proud of what you built at that brewery. (Apr 24)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0047,2026-04-24T10:00:00+00:00,read,,"confirmed, I'll block it. (Apr 24)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0048,2026-04-25T11:00:00+00:00,read,,"Oktoberfest kegs moving fast, might tap the backup Saturday. (Apr 25)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0049,2026-04-25T12:00:00+00:00,read,,"sounds good, see you then. (Apr 25)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0050,2026-04-26T13:00:00+00:00,read,,Bubbe had a confused morning but she's okay now. (Apr 26),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0051,2026-04-26T14:00:00+00:00,read,,"leading with the 11-of-14 number, good call. (Apr 26)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0052,2026-04-27T15:00:00+00:00,read,,"P&L looks solid, summer traffic carried us. (Apr 27)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0053,2026-04-27T16:00:00+00:00,read,,"Sunday works, 10 at the deli. (Apr 27)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0054,2026-04-28T17:00:00+00:00,read,,"settle down one of these days, that's all I'll say. (Apr 28)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0055,2026-04-28T07:00:00+00:00,read,,"I'll come by, save me soup. (Apr 28)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0056,2026-04-29T08:00:00+00:00,read,,"grain delivery slipped a day, adjusting the schedule. (Apr 29)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0057,2026-04-29T09:00:00+00:00,read,,miss you too. Friday after close. (Apr 29),15035550219,text
+conv-003,inbound,15035550142,msg-ws-0058,2026-04-30T10:00:00+00:00,read,,"call your grandmother, she counts the days. (Apr 30)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0059,2026-04-30T11:00:00+00:00,read,,tell Bubbe I'll be there Sunday. (Apr 30),15035550271,text
+conv-001,inbound,15035550187,msg-ws-0060,2026-05-01T12:00:00+00:00,read,,"tank 3 hit terminal gravity, ready to crash cool. (May 01)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0061,2026-05-01T13:00:00+00:00,read,,"on it — crashing tonight, diacetyl rest looked clean. (May 01)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0062,2026-05-02T14:00:00+00:00,read,,brisket for Thanksgiving — you're doing the fusion menu again? (May 02),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0063,2026-05-02T15:00:00+00:00,read,,"copy, thanks for handling it. (May 02)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0064,2026-05-03T16:00:00+00:00,read,,"Costco run tomorrow for taproom supplies, need anything? (May 03)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0065,2026-05-03T17:00:00+00:00,read,,"yes, grab CO2 and gloves if they have the nitrile ones. (May 03)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0066,2026-05-04T07:00:00+00:00,read,,"the deli's slammed, but I'm proud of what you built at that brewery. (May 04)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0067,2026-05-04T08:00:00+00:00,read,,"confirmed, I'll block it. (May 04)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0068,2026-05-05T09:00:00+00:00,read,,"Oktoberfest kegs moving fast, might tap the backup Saturday. (May 05)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0069,2026-05-05T10:00:00+00:00,read,,"sounds good, see you then. (May 05)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0070,2026-05-06T11:00:00+00:00,read,,Bubbe had a confused morning but she's okay now. (May 06),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0071,2026-05-06T12:00:00+00:00,read,,"leading with the 11-of-14 number, good call. (May 06)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0072,2026-05-07T13:00:00+00:00,read,,"P&L looks solid, summer traffic carried us. (May 07)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0073,2026-05-07T14:00:00+00:00,read,,"Sunday works, 10 at the deli. (May 07)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0074,2026-05-08T15:00:00+00:00,read,,"settle down one of these days, that's all I'll say. (May 08)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0075,2026-05-08T16:00:00+00:00,read,,"I'll come by, save me soup. (May 08)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0076,2026-05-09T17:00:00+00:00,read,,"grain delivery slipped a day, adjusting the schedule. (May 09)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0077,2026-05-09T07:00:00+00:00,read,,miss you too. Friday after close. (May 09),15035550219,text
+conv-003,inbound,15035550142,msg-ws-0078,2026-05-10T08:00:00+00:00,read,,"call your grandmother, she counts the days. (May 10)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0079,2026-05-10T09:00:00+00:00,read,,tell Bubbe I'll be there Sunday. (May 10),15035550271,text
+conv-001,inbound,15035550187,msg-ws-0080,2026-05-11T10:00:00+00:00,read,,"tank 3 hit terminal gravity, ready to crash cool. (May 11)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0081,2026-05-11T11:00:00+00:00,read,,"on it — crashing tonight, diacetyl rest looked clean. (May 11)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0082,2026-05-12T12:00:00+00:00,read,,brisket for Thanksgiving — you're doing the fusion menu again? (May 12),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0083,2026-05-12T13:00:00+00:00,read,,"copy, thanks for handling it. (May 12)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0084,2026-05-13T14:00:00+00:00,read,,"Costco run tomorrow for taproom supplies, need anything? (May 13)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0085,2026-05-13T15:00:00+00:00,read,,"yes, grab CO2 and gloves if they have the nitrile ones. (May 13)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0086,2026-05-14T16:00:00+00:00,read,,"the deli's slammed, but I'm proud of what you built at that brewery. (May 14)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0087,2026-05-14T17:00:00+00:00,read,,"confirmed, I'll block it. (May 14)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0088,2026-05-15T07:00:00+00:00,read,,"Oktoberfest kegs moving fast, might tap the backup Saturday. (May 15)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0089,2026-05-15T08:00:00+00:00,read,,"sounds good, see you then. (May 15)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0090,2026-05-16T09:00:00+00:00,read,,Bubbe had a confused morning but she's okay now. (May 16),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0091,2026-05-16T10:00:00+00:00,read,,"leading with the 11-of-14 number, good call. (May 16)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0092,2026-05-17T11:00:00+00:00,read,,"P&L looks solid, summer traffic carried us. (May 17)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0093,2026-05-17T12:00:00+00:00,read,,"Sunday works, 10 at the deli. (May 17)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0094,2026-05-18T13:00:00+00:00,read,,"settle down one of these days, that's all I'll say. (May 18)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0095,2026-05-18T14:00:00+00:00,read,,"I'll come by, save me soup. (May 18)",15035550271,text
+conv-001,inbound,15035550187,msg-ws-0096,2026-05-19T15:00:00+00:00,read,,"grain delivery slipped a day, adjusting the schedule. (May 19)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0097,2026-05-19T16:00:00+00:00,read,,miss you too. Friday after close. (May 19),15035550219,text
+conv-003,inbound,15035550142,msg-ws-0098,2026-05-20T17:00:00+00:00,read,,"call your grandmother, she counts the days. (May 20)",14717331847,text
+conv-004,outbound,14717331847,msg-ws-0099,2026-05-20T07:00:00+00:00,read,,tell Bubbe I'll be there Sunday. (May 20),15035550271,text
+conv-001,inbound,15035550187,msg-ws-0100,2026-05-21T08:00:00+00:00,read,,"tank 3 hit terminal gravity, ready to crash cool. (May 21)",14717331847,text
+conv-002,outbound,14717331847,msg-ws-0101,2026-05-21T09:00:00+00:00,read,,"on it — crashing tonight, diacetyl rest looked clean. (May 21)",15035550219,text
+conv-003,inbound,15035550142,msg-ws-0102,2026-05-22T10:00:00+00:00,read,,brisket for Thanksgiving — you're doing the fusion menu again? (May 22),14717331847,text
+conv-004,outbound,14717331847,msg-ws-0103,2026-05-22T11:00:00+00:00,read,,"copy, thanks for handling it. (May 22)",15035550271,text

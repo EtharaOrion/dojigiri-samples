@@ -1,0 +1,32 @@
+file_key,project_id,name,thumbnail_url,last_modified,version,role,editor_type,__api__,__table__,__file__,__row_index__
+FK001abcdefg,proj-201,Jessica Marie Taylor,https://figma-thumbs.gmail.com/FK001.png,2026-11-22T14:30:00Z,4920183,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,0
+FK002hijklmn,proj-201,David Taylor,https://figma-thumbs.gmail.com/FK002.png,2026-11-24T09:12:00Z,4920455,editor,figma,figma-api,files,/opt/mocks/figma-api/files.json,1
+FK003opqrstu,proj-202,Mia Petrov,https://figma-thumbs.gmail.com/FK003.png,2026-11-20T18:45:00Z,4918002,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,2
+FK004vwxyz12,proj-203,Tomas Varga,https://figma-thumbs.gmail.com/FK004.png,2026-11-25T11:05:00Z,4921330,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,3
+FK001abcdefg-2,proj-201,Nina Okafor,https://figma-thumbs.gmail.com/FK001.png,2026-11-22T14:30:00Z,4920183,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,4
+FK002hijklmn-2,proj-201,Ray Mitchell,https://figma-thumbs.gmail.com/FK002.png,2026-11-24T09:12:00Z,4920455,editor,figma,figma-api,files,/opt/mocks/figma-api/files.json,5
+FK003opqrstu-2,proj-202,Marcus Reeves,https://figma-thumbs.gmail.com/FK003.png,2026-11-20T18:45:00Z,4918002,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,6
+FK004vwxyz12-2,proj-203,Aria Chen,https://figma-thumbs.gmail.com/FK004.png,2026-11-25T11:05:00Z,4921330,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,7
+FK001abcdefg-3,proj-201,Verdant Provisions,https://figma-thumbs.gmail.com/FK001.png,2026-11-22T14:30:00Z,4920183,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,8
+FK002hijklmn-3,proj-201,Pinnacle Collective,https://figma-thumbs.gmail.com/FK002.png,2026-11-24T09:12:00Z,4920455,editor,figma,figma-api,files,/opt/mocks/figma-api/files.json,9
+FK003opqrstu-3,proj-202,Grace Taylor,https://figma-thumbs.gmail.com/FK003.png,2026-11-20T18:45:00Z,4918002,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,10
+FK004vwxyz12-3,proj-203,David Taylor,https://figma-thumbs.gmail.com/FK004.png,2026-11-25T11:05:00Z,4921330,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,11
+FK001abcdefg-4,proj-201,Mia Petrov,https://figma-thumbs.gmail.com/FK001.png,2026-11-22T14:30:00Z,4920183,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,12
+FK002hijklmn-4,proj-201,Tomas Varga,https://figma-thumbs.gmail.com/FK002.png,2026-11-24T09:12:00Z,4920455,editor,figma,figma-api,files,/opt/mocks/figma-api/files.json,13
+FK003opqrstu-4,proj-202,Nina Okafor,https://figma-thumbs.gmail.com/FK003.png,2026-11-20T18:45:00Z,4918002,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,14
+FK004vwxyz12-4,proj-203,Ray Mitchell,https://figma-thumbs.gmail.com/FK004.png,2026-11-25T11:05:00Z,4921330,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,15
+FK001abcdefg-5,proj-201,Marcus Reeves,https://figma-thumbs.gmail.com/FK001.png,2026-11-22T14:30:00Z,4920183,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,16
+FK002hijklmn-5,proj-201,Aria Chen,https://figma-thumbs.gmail.com/FK002.png,2026-11-24T09:12:00Z,4920455,editor,figma,figma-api,files,/opt/mocks/figma-api/files.json,17
+FK003opqrstu-5,proj-202,Verdant Provisions,https://figma-thumbs.gmail.com/FK003.png,2026-11-20T18:45:00Z,4918002,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,18
+FK004vwxyz12-5,proj-203,Pinnacle Collective,https://figma-thumbs.gmail.com/FK004.png,2026-11-25T11:05:00Z,4921330,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,19
+FKseed1097aba7ce,proj-verdant,Verdant — Brand system Figma,https://figma-thumbs.gmail.com/FKseed1097aba7ce.png,2026-12-01T00:00:00Z,4920200,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,20
+FKseed114222f4e3,proj-verdant,Verdant — Packaging layouts,https://figma-thumbs.gmail.com/FKseed114222f4e3.png,2026-12-05T00:00:00Z,4920201,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,21
+FKseed12aea263b5,proj-verdant,Verdant — Web microsite,https://figma-thumbs.gmail.com/FKseed12aea263b5.png,2026-12-09T00:00:00Z,4920202,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,22
+FKseed1395dcf18f,proj-pinnacle,Pinnacle — Logo suite,https://figma-thumbs.gmail.com/FKseed1395dcf18f.png,2026-12-13T00:00:00Z,4920203,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,23
+FKseed1444cc3bb4,proj-pinnacle,Pinnacle — Signage system,https://figma-thumbs.gmail.com/FKseed1444cc3bb4.png,2026-12-17T00:00:00Z,4920204,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,24
+FKseed152b966165,proj-pinnacle,Pinnacle — Brand book,https://figma-thumbs.gmail.com/FKseed152b966165.png,2026-12-21T00:00:00Z,4920205,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,25
+FKseed16cba6a072,proj-bloom,Bloom — Q1 packaging labels,https://figma-thumbs.gmail.com/FKseed16cba6a072.png,2026-12-25T00:00:00Z,4920206,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,26
+FKseed1734d74e70,proj-bloom,Bloom — DTC landing page,https://figma-thumbs.gmail.com/FKseed1734d74e70.png,2026-12-29T00:00:00Z,4920207,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,27
+FKseed188a85aac4,proj-bloom,Bloom — Trade show booth,https://figma-thumbs.gmail.com/FKseed188a85aac4.png,2027-01-02T00:00:00Z,4920208,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,28
+FKseed19b6a283a4,proj-tvs,Taylor Visual Studio — Portfolio site,https://figma-thumbs.gmail.com/FKseed19b6a283a4.png,2027-01-06T00:00:00Z,4920209,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,29
+FKseed20ba69ba57,proj-tvs,Rate card + proposal templates,https://figma-thumbs.gmail.com/FKseed20ba69ba57.png,2027-01-10T00:00:00Z,4920210,owner,figma,figma-api,files,/opt/mocks/figma-api/files.json,30

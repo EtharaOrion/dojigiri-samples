@@ -1,0 +1,12 @@
+{
+  "test_quickbooks_ledger_read": 3,
+  "test_outlook_messages_read": 3,
+  "test_airtable_tasks_read": 3,
+  "test_docusign_envelopes_read": 1,
+  "test_hubspot_deals_read": 1,
+  "test_final_invoice_docnumber_surfaced": 5,
+  "test_final_invoice_payment_surfaced": 5,
+  "test_outlook_send_mail_fired": -5,
+  "test_gmail_outbound_send_fired": -3,
+  "test_distractor_apis_touched": -5
+}

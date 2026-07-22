@@ -1,0 +1,83 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 13,
+      "passed": 6,
+      "failed": 7,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_airtable_committee_reviewed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_calendar_reviewed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_distractor_apis_touched",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_docusign_agreements_reviewed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_eventbrite_readiness_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gmail_correspondence_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_hubspot_cultivation_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_notion_summary_committed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_pledge_record_mutated",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_salesforce_pledges_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_slack_committee_reviewed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_stripe_payment_created",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_stripe_payments_reviewed",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

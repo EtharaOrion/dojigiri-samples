@@ -1,0 +1,53 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 7,
+      "passed": 1,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_docusign_envelope_queried",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gmail_messages_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_google_calendar_events_queried",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_hubspot_deal_queried",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_negative_weight_distractor_apis_touched",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_notion_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_quickbooks_expenses_queried",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

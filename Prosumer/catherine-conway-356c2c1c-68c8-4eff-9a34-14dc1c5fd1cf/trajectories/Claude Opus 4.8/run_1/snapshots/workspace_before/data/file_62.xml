@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<garden owner="Catherine Conway" location="Beaverton, Oregon" updated="2026-02-06">
+  <description>The backyard rose garden and herb bed, a morning meditation spot and a tie to my mother's garden in Lake Oswego.</description>
+  <roseBeds count="17">
+    <bed name="Center bed" aspect="full sun">
+      <rose variety="Gertrude Jekyll" colour="rich pink" type="English shrub" planted="2015" fragrance="strong rose" note="best fragrance in the garden"/>
+      <rose variety="Graham Thomas" colour="soft yellow" type="English shrub" planted="2015" fragrance="tea" note="tall, needs support"/>
+      <rose variety="Olivia Rose Austin" colour="clear pink" type="English shrub" planted="2017" fragrance="fruity" note="very disease resistant"/>
+      <rose variety="Vanessa Bell" colour="light yellow" type="English shrub" planted="2019" fragrance="lemon and green tea" note="repeat bloomer"/>
+      <rose variety="Tranquillity" colour="white" type="English shrub" planted="2021" fragrance="light apple" note="neat rosette form"/>
+    </bed>
+    <bed name="Back bed east" aspect="morning sun">
+      <rose variety="Munstead Wood" colour="deep crimson" type="English shrub" planted="2016" fragrance="strong old rose" note="darkest bloom"/>
+      <rose variety="Lady of Shalott" colour="apricot orange" type="English shrub" planted="2016" fragrance="warm spiced tea" note="very hardy, repeat bloom"/>
+      <rose variety="Desdemona" colour="white blush" type="English shrub" planted="2020" fragrance="myrrh" note="cool weather blusher"/>
+    </bed>
+    <bed name="Back bed west" aspect="afternoon sun">
+      <rose variety="Boscobel" colour="salmon coral" type="English shrub" planted="2017" fragrance="myrrh" note="upright, healthy"/>
+      <rose variety="Roald Dahl" colour="peach orange" type="English shrub" planted="2019" fragrance="fruity tea" note="continuous bloom"/>
+    </bed>
+    <bed name="Front border" aspect="full sun">
+      <rose variety="Darcey Bussell" colour="deep red" type="English shrub" planted="2018" fragrance="old rose" note="compact"/>
+      <rose variety="Princess Anne" colour="deep pink" type="English shrub" planted="2018" fragrance="light tea" note="glossy foliage"/>
+      <rose variety="Queen of Sweden" colour="soft pink" type="English shrub" planted="2020" fragrance="light myrrh" note="upright habit"/>
+      <rose variety="Eustacia Vye" colour="apricot pink" type="English shrub" planted="2022" fragrance="fruity" note="newest addition"/>
+    </bed>
+    <bed name="Climbers" aspect="trained on supports">
+      <rose variety="The Generous Gardener" colour="pale pink" type="climber" planted="2015" support="north fence" note="trained on trellis"/>
+      <rose variety="Claire Austin" colour="creamy white" type="climber" planted="2016" support="north fence" note="strong climber"/>
+      <rose variety="Wollerton Old Hall" colour="cream apricot" type="climber" planted="2017" support="south arbor" fragrance="tea and myrrh"/>
+    </bed>
+  </roseBeds>
+  <herbBed name="Kitchen herbs" aspect="south facing">
+    <herb name="Mint" use="tea and lamb with mint sauce" habit="contained in a sunken pot"/>
+    <herb name="Thyme" use="roasts and stews" habit="low spreading"/>
+    <herb name="Rosemary" use="lamb and soda bread" habit="woody shrub, evergreen"/>
+  </herbBed>
+  <careCalendar>
+    <task month="February" job="Hard prune the shrub roses and feed with slow release granules"/>
+    <task month="October" job="Mulch the beds and cut back climbers after the last flush"/>
+    <task season="summer" job="Deadhead weekly and water at the roots in the early morning"/>
+    <task season="spring" job="Watch for blackspot, remove affected leaves promptly"/>
+  </careCalendar>
+</garden>

@@ -1,0 +1,470 @@
+{
+  "evt-001": [
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Marie Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    },
+    {
+      "email": "david.taylor.engineer@gmail.com",
+      "displayName": "David Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002": [
+    {
+      "email": "mia.petrov.la@gmail.com",
+      "displayName": "Mia Petrov",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "tomas.varga.sf@gmail.com",
+      "displayName": "Tomas Varga",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Nina Okafor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "ray.mitchell.design@gmail.com",
+      "displayName": "Ray Mitchell",
+      "responseStatus": "tentative",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-003": [
+    {
+      "email": "front.desk@wilshiredentalgroup.com",
+      "displayName": "Jennifer Moss",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "scheduling@bettertherapyla.com",
+      "displayName": "Helen Brooks",
+      "responseStatus": "needsAction",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant Provisions",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-004": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle Collective",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "grace.taylor.sj@gmail.com",
+      "displayName": "Grace Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "david.taylor.engineer@gmail.com",
+      "displayName": "David Taylor",
+      "responseStatus": "accepted",
+      "optional": true,
+      "organizer": false
+    }
+  ],
+  "evt-001-v13": [
+    {
+      "email": "mia.petrov.la@gmail.com",
+      "displayName": "Mia Petrov",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-001-v14": [
+    {
+      "email": "david.taylor.engineer@gmail.com",
+      "displayName": "Tomas Varga",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v15": [
+    {
+      "email": "mia.petrov.la@gmail.com",
+      "displayName": "Nina Okafor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v16": [
+    {
+      "email": "ray.mitchell.design@gmail.com",
+      "displayName": "Ray Mitchell",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v17": [
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Jennifer Moss",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v18": [
+    {
+      "email": "ray.mitchell.design@gmail.com",
+      "displayName": "Helen Brooks",
+      "responseStatus": "tentative",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-003-v19": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant Provisions",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-003-v20": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle Collective",
+      "responseStatus": "needsAction",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-work-cust-verdant-2026-10-17": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-work-cust-pinnacle-2026-11-14": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-work-cust-bloomskin-2026-12-12": [
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Bloom",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-pinnacle-2026-11-13": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-ef32579d72": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-55c7cdbb9e": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-6ea1453668": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-a011d0af3a": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-678945721b": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-128b41874e": [
+    {
+      "email": "hello@verdantprovisions.com",
+      "displayName": "Verdant",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-95c7670b5e": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-988957979a": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-aa7ea0267e": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-1a4d412d4b": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-a10008dab1": [
+    {
+      "email": "info@pinnaclecollective.com",
+      "displayName": "Pinnacle",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-e594243945": [
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Bloom",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-ee01290b8d": [
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Bloom",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-38b3269eb5": [
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Bloom",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-seed-027f385570": [
+    {
+      "email": "nina@bloomskinco.com",
+      "displayName": "Bloom",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "jessica.taylor@Finthesiss.ai",
+      "displayName": "Jessica Taylor",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ]
+}

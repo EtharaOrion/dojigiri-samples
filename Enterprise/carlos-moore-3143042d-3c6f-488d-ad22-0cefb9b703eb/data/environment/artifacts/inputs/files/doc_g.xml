@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personalCalendar owner="Carlos Moore" timezone="America/Chicago" generated="2026-02-01">
+  <recurring>
+    <event cadence="daily" time="06:00">
+      <title>Morning medication and breakfast</title>
+      <detail>Take blood pressure medication with breakfast, log a reading on measurement days</detail>
+    </event>
+    <event cadence="weekly" day="Monday" time="07:30">
+      <title>Weekly calendar review</title>
+      <detail>Review the week for conflicts, prepare for the nine o'clock staff meeting</detail>
+    </event>
+    <event cadence="weekly" day="Wednesday" time="19:00">
+      <title>Choir rehearsal at Calvary Hill</title>
+      <detail>Leave by 6:30, rehearsal runs seven to eight thirty, baritone section lead</detail>
+    </event>
+    <event cadence="biweekly" day="Friday">
+      <title>Date night with Maria</title>
+      <detail>Dinner at a Nashville restaurant, confirm the reservation earlier in the day</detail>
+    </event>
+    <event cadence="weekly" day="Saturday" time="09:00">
+      <title>Check on Dorothy</title>
+      <detail>Call or visit the bungalow in East Nashville, errands and house projects</detail>
+    </event>
+    <event cadence="weekly" day="Sunday" time="17:00">
+      <title>Weekly call with Jalen</title>
+      <detail>Church in the morning, week prep in the evening</detail>
+    </event>
+    <event cadence="monthly" day="1">
+      <title>Savings and budget review</title>
+      <detail>Track the high yield savings balance and the monthly budget</detail>
+    </event>
+  </recurring>
+  <upcoming>
+    <event date="2026-10-13" through="2026-10-31">
+      <title>Annual benefits enrollment opens at Bellmark</title>
+      <category>work</category>
+    </event>
+    <event date="2026-11-18">
+      <title>Annual physical with Dr. Sharon Pryce</title>
+      <category>health</category>
+      <location>Riverbend Internal Medicine</location>
+    </event>
+    <event date="2026-12-10">
+      <title>Regional HR conference</title>
+      <category>work</category>
+      <location>Memphis, TN</location>
+      <detail>Confirm travel and lodging, recertification credit sessions</detail>
+    </event>
+    <event date="2027-01-15">
+      <title>Employee wellness program launch at Bellmark</title>
+      <category>work</category>
+      <detail>Flagship project, hold the target and track vendor readiness</detail>
+    </event>
+    <event date="2027-02-21">
+      <title>Calvary Hill spring fundraiser</title>
+      <category>church</category>
+      <location>Calvary Hill Fellowship Hall</location>
+    </event>
+  </upcoming>
+  <annualBirthdays>
+    <birthday name="Tanya Mitchell" relationship="Best friend" date="2026-10-22"/>
+    <birthday name="Jalen Moore" relationship="Son" date="2026-10-28"/>
+    <birthday name="Raymond Calhoun" relationship="Brother" date="2026-11-03"/>
+    <birthday name="Carlos Moore" relationship="Self" date="2026-12-12"/>
+    <birthday name="Imani Moore" relationship="Daughter" date="2027-01-05"/>
+    <birthday name="Keith Calhoun" relationship="Brother" date="2027-01-17"/>
+    <birthday name="Denise Calhoun-Webb" relationship="Sister" date="2027-02-08"/>
+    <birthday name="Maria Moore" relationship="Wife" date="2027-02-14"/>
+    <birthday name="Dorothy Calhoun" relationship="Mother" date="2027-03-20"/>
+  </annualBirthdays>
+</personalCalendar>

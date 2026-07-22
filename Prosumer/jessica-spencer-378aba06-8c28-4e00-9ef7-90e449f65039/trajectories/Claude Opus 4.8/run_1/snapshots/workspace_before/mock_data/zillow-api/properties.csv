@@ -1,0 +1,26 @@
+zpid,address,city,state,zipcode,latitude,longitude,status,home_type,bedrooms,bathrooms,living_area_sqft,lot_size_sqft,year_built,list_price,zestimate,rent_zestimate,days_on_zillow,listing_agent_id,__api__,__table__,__file__,__row_index__
+4498444,437 Birch St,Scottsdale,NY,10001,40.706897,-74.011282,SOLD,SINGLE_FAMILY,2,2.0,1699,4109,1977,966071,990545,2766,64,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,0
+6280381,974 Oak St,Scottsdale,NY,10001,40.734718,-74.019047,FOR_SALE,CONDO,2,3.0,1870,3657,1953,1004135,988729,2908,19,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,1
+2372998,479 Birch Ave,Scottsdale,NY,10001,40.676958,-74.052121,FOR_SALE,TOWNHOUSE,2,2.0,1690,5584,1946,906342,933806,3136,59,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,2
+3620111,1422 Elm Rd,Scottsdale,NY,10001,40.73498,-74.045636,FOR_SALE,MULTI_FAMILY,5,2.0,2709,7510,1956,1122494,1150525,3985,51,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,3
+7221930,763 Elm Ln,Scottsdale,NY,10001,40.744049,-73.975003,SOLD,APARTMENT,4,2.5,2417,4745,1964,1050039,1087617,3338,33,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,4
+8825668,1437 Birch Ave,Scottsdale,NY,10001,40.719387,-74.00439,FOR_SALE,SINGLE_FAMILY,3,1.5,2050,6622,1971,793787,810374,2210,118,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,5
+8918514,290 Birch Ln,Scottsdale,NY,10001,40.731552,-74.017417,FOR_SALE,CONDO,5,1.0,2957,4745,1957,1422760,1485852,4253,56,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,6
+7474798,1471 Ash Rd,Scottsdale,NY,10001,40.736365,-73.964316,FOR_SALE,TOWNHOUSE,3,1.5,2331,5062,1980,906419,911857,3236,36,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,7
+1641157,677 Willow St,Scottsdale,NY,10001,40.689524,-74.022639,SOLD,MULTI_FAMILY,5,1.5,2893,6510,1956,1336214,1318900,4450,113,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,8
+2074801,63 Birch Ln,Scottsdale,NY,10001,40.743714,-73.977527,FOR_SALE,APARTMENT,2,2.5,1701,6306,1970,720422,730181,2388,72,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,9
+2416179,486 Chestnut St,Scottsdale,NY,10001,40.66758,-74.039016,FOR_SALE,SINGLE_FAMILY,3,2.5,1992,6239,2010,1013410,990113,3255,78,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,10
+7571565,106 Elm Rd,Scottsdale,NY,10001,40.679347,-74.02645,FOR_SALE,CONDO,4,2.0,2677,4886,1972,890016,916161,2789,24,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,11
+2401095,123 Elm Rd,Scottsdale,NY,10001,40.740117,-73.992021,SOLD,TOWNHOUSE,2,1.5,1603,7216,1993,751296,785025,2247,45,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,12
+2656619,527 Cedar Ave,Scottsdale,NY,10001,40.736065,-73.967053,FOR_SALE,MULTI_FAMILY,4,2.0,2320,4806,1983,1185465,1243527,4196,116,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,13
+7647754,754 Pine Ln,Scottsdale,NY,10001,40.667863,-74.006777,FOR_SALE,APARTMENT,5,1.0,2962,8057,1939,1494631,1489459,4871,7,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,14
+3407962,315 Walnut Pl,Scottsdale,NY,10001,40.674321,-74.02512,FOR_SALE,SINGLE_FAMILY,2,1.5,1780,7758,1997,909138,947508,2992,80,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,15
+7838440,1392 Cedar Pl,Scottsdale,NY,10001,40.721278,-74.044385,SOLD,CONDO,3,1.0,1979,5999,1958,1037283,1075895,3472,100,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,16
+5944440,697 Ash Ave,Scottsdale,NY,10001,40.762105,-73.963591,FOR_SALE,TOWNHOUSE,4,2.0,2679,7362,1967,1095206,1114098,3411,93,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,17
+4014140,302 Chestnut Blvd,Scottsdale,NY,10001,40.749181,-73.965202,FOR_SALE,MULTI_FAMILY,4,3.0,2337,6960,2005,811484,794772,2446,68,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,18
+2475081,624 Birch Ave,Scottsdale,NY,10001,40.745669,-73.967068,FOR_SALE,APARTMENT,3,2.0,2059,7684,1963,922005,936758,3058,91,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,19
+6809376,609 Pine Ave,Scottsdale,NY,10001,40.74027,-73.966875,SOLD,SINGLE_FAMILY,5,2.0,2859,4751,1961,1314794,1316303,3889,43,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,20
+6062124,268 Birch Ave,Scottsdale,NY,10001,40.667405,-73.958195,FOR_SALE,CONDO,5,1.5,2842,5982,1949,1258458,1283072,3786,8,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,21
+6264870,430 Cedar St,Scottsdale,NY,10001,40.698817,-73.970542,FOR_SALE,TOWNHOUSE,3,2.5,2247,3207,1929,1209831,1217388,3719,15,agent-1001,zillow-api,properties,/opt/mocks/zillow-api/properties.json,22
+3380233,1004 Pine Pl,Scottsdale,NY,10001,40.708677,-73.966281,FOR_SALE,MULTI_FAMILY,3,2.5,2007,3354,1956,996973,1019382,2895,64,agent-1002,zillow-api,properties,/opt/mocks/zillow-api/properties.json,23
+8809259,1308 Willow Rd,Scottsdale,NY,10001,40.737012,-73.984536,SOLD,APARTMENT,2,2.0,1974,3186,2000,945455,974466,3136,100,agent-1000,zillow-api,properties,/opt/mocks/zillow-api/properties.json,24

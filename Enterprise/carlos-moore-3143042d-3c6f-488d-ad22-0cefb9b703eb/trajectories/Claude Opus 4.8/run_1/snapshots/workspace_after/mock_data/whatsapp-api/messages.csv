@@ -1,0 +1,53 @@
+conversation_id,direction,from_wa_id,message_id,sent_at,status,text,to_wa_id,type,template_name
+conv-001,outbound,16155550110,msg-001-01,2026-02-12T15:10:00+00:00,read,Booked our table at Etch for Friday date night. Wear that blue dress 😊,16155550142,text,not a template
+conv-001,inbound,16155550142,msg-001-02,2026-02-12T15:42:00+00:00,read,Perfect. I'll be ready by 6:30. Can you grab milk on the way home?,16155550110,text,not a template
+conv-001,outbound,16155550110,msg-001-03,2026-02-12T16:05:00+00:00,read,Already on the list. Choir runs late Wednesday so I'll be quiet till after 8:30.,16155550142,text,not a template
+conv-001,inbound,16155550142,msg-001-04,2026-02-13T02:20:00+00:00,read,No worries. Love you.,16155550110,text,not a template
+conv-002,outbound,16155550110,msg-002-01,2026-01-11T20:00:00+00:00,read,Still good for our Sunday call at 5? Want to hear how Atlanta's treating you.,14045550163,text,not a template
+conv-002,inbound,14045550163,msg-002-02,2026-01-11T20:18:00+00:00,read,"Yeah dad, 5 works. Got some news about work to share 🙌",16155550110,text,not a template
+conv-002,outbound,16155550110,msg-002-03,2026-01-11T20:25:00+00:00,read,"Proud of you either way. Talk soon, son.",14045550163,text,not a template
+conv-003,inbound,19015550184,msg-003-01,2026-01-06T22:40:00+00:00,read,Dad I submitted the last grad school application! Fingers crossed 🤞,16155550110,text,not a template
+conv-003,outbound,16155550110,msg-003-02,2026-01-06T23:02:00+00:00,read,That's my girl. Crestwood's lucky to have you. Mom and I are so proud.,19015550184,text,not a template
+conv-003,inbound,19015550184,msg-003-03,2026-01-06T23:15:00+00:00,read,"Thank you 🥰 Coming home for a weekend soon, I miss your cooking.",16155550110,text,not a template
+conv-004,outbound,16155550110,msg-004-01,2026-02-07T14:30:00+00:00,read,"On my way over this morning Mama, bringing your groceries. Need anything from the pharmacy?",16155550205,text,not a template
+conv-004,inbound,16155550205,msg-004-02,2026-02-07T14:48:00+00:00,read,Just my blood pressure pills baby. And maybe some of those pecans.,16155550110,text,not a template
+conv-004,outbound,16155550110,msg-004-03,2026-02-07T15:00:00+00:00,read,Got it. See you in 20 minutes.,16155550205,text,not a template
+conv-005,outbound,16155550110,msg-005-01,2026-02-21T16:00:00+00:00,read,Can you take the Saturday check on Mama next week? I've got the HR conference prep.,14235550226,text,not a template
+conv-005,inbound,14235550226,msg-005-02,2026-02-21T16:35:00+00:00,read,Yeah I'll drive up from Chattanooga. Her knee any better with the brace?,16155550110,text,not a template
+conv-005,outbound,16155550110,msg-005-03,2026-02-21T17:02:00+00:00,read,Much better. Dr. Pryce says keep her walking a little each day.,14235550226,text,not a template
+conv-006,outbound,16155550110,msg-006-01,2026-02-08T15:00:00+00:00,read,"Happy birthday sis! Murfreesboro's not far, come by for Sunday dinner.",16155550247,text,not a template
+conv-006,inbound,16155550247,msg-006-02,2026-02-08T15:20:00+00:00,read,Thank you! I'll bring the kids. You making your mac and cheese? 😋,16155550110,text,not a template
+conv-006,outbound,16155550110,msg-006-03,2026-02-08T15:33:00+00:00,read,"Of course. 5 o'clock, don't be late.",16155550247,text,not a template
+conv-007,outbound,16155550110,msg-007-01,2026-01-17T14:00:00+00:00,read,Happy birthday little brother! Try to make it down from Knoxville this month.,18655550268,text,not a template
+conv-007,inbound,18655550268,msg-007-02,2026-01-17T18:10:00+00:00,read,Appreciate it! Work's been crazy but I'll aim for the last weekend.,16155550110,text,not a template
+conv-007,outbound,16155550110,msg-007-03,2026-01-17T18:40:00+00:00,read,Mama would love to see you. Give her a call too.,18655550268,text,not a template
+conv-008,outbound,16155550110,msg-008-01,2026-03-12T21:00:00+00:00,read,Monthly brunch Saturday? You pick the spot this time.,16155550289,text,not a template
+conv-008,inbound,16155550289,msg-008-02,2026-03-12T21:25:00+00:00,read,Yes! Let's do that place in Germantown. How's the wellness program coming?,16155550110,text,not a template
+conv-008,outbound,16155550110,msg-008-03,2026-03-12T21:40:00+00:00,read,Slow but getting there. Need to vent over coffee lol.,16155550289,text,not a template
+conv-009,inbound,16155550301,msg-009-01,2026-03-03T15:00:00+00:00,read,"Carlos, can the choir run the new arrangement at Wednesday rehearsal, 7pm?",16155550110,text,not a template
+conv-009,outbound,16155550110,msg-009-02,2026-03-03T15:20:00+00:00,read,Absolutely Pastor. I'll have the tenors ready. See you at Calvary Hill.,16155550301,text,not a template
+conv-009,inbound,16155550301,msg-009-03,2026-03-03T15:35:00+00:00,read,Bless you brother. Your voice carries the section.,16155550110,text,not a template
+conv-010,outbound,16155550110,msg-010-01,2026-01-20T13:30:00+00:00,read,"Dr. Pryce, my morning readings on the Withings have been around 128 over 78. Refill on the lisinopril?",16155550322,text,not a template
+conv-010,inbound,16155550322,msg-010-02,2026-01-20T18:05:00+00:00,read,"That's good progress, Carlos. I'll send the 10mg refill to your pharmacy. Keep up the walking.",16155550110,text,not a template
+conv-010,outbound,16155550110,msg-010-03,2026-01-20T18:20:00+00:00,read,Thank you. See you at the annual physical.,16155550322,text,not a template
+conv-011,inbound,16155550343,msg-011-01,2026-03-02T13:00:00+00:00,read,"Carlos, can you present the wellness program timeline at Monday's staff meeting?",16155550110,text,not a template
+conv-011,outbound,16155550110,msg-011-02,2026-03-02T13:18:00+00:00,read,"Will do, Wanda. I'll have the Q1 numbers and the benefits enrollment plan ready.",16155550343,text,not a template
+conv-011,inbound,16155550343,msg-011-03,2026-03-02T13:30:00+00:00,read,Perfect. Let's sync before on the DEI committee update too.,16155550110,text,not a template
+conv-012,inbound,16155550427,msg-012-01,2026-02-24T16:00:00+00:00,read,"Brother Moore, the building fund drive kicks off Sunday. Can the choir open?",16155550110,text,not a template
+conv-012,outbound,16155550110,msg-012-02,2026-02-24T16:22:00+00:00,read,Happy to. We'll do Total Praise before the announcement.,16155550427,text,not a template
+conv-013,outbound,16155550110,msg-013-01,2026-02-17T15:00:00+00:00,read,"Earl, you good to hold the tenor line Wednesday? Pastor added a new piece.",16155550448,text,not a template
+conv-013,inbound,16155550448,msg-013-02,2026-02-17T15:30:00+00:00,read,"I'm there. Bring my folder this time, I left it last week 😄",16155550110,text,not a template
+conv-014,outbound,16155550110,msg-014-01,2026-02-19T15:00:00+00:00,read,"Dr. Okafor, following up on my mother Dorothy Calhoun's echo results.",16155550490,text,not a template
+conv-014,inbound,16155550490,msg-014-02,2026-02-19T19:10:00+00:00,read,"Everything is stable, Mr. Moore. Continue her current medication and the low-sodium diet.",16155550110,text,not a template
+conv-015,outbound,16155550110,msg-015-01,2026-03-10T14:00:00+00:00,read,"Hi Marcus, open enrollment closes March 27. Please complete your benefit elections in the portal.",16155550364,text,benefits_enrollment
+conv-015,inbound,16155550364,msg-015-02,2026-03-10T14:45:00+00:00,read,"Thanks Carlos, submitting mine today.",16155550110,text,not a template
+conv-016,outbound,16155550110,msg-016-01,2026-01-13T14:00:00+00:00,read,"Welcome to the team, DeShawn! Your first day is January 19. We are glad to have you with us.",16155550385,text,onboarding_welcome
+conv-016,inbound,16155550385,msg-016-02,2026-01-13T15:12:00+00:00,read,Thank you! Looking forward to starting on the HR analytics team.,16155550110,text,not a template
+conv-017,outbound,16155550110,msg-017-01,2026-02-02T14:00:00+00:00,read,"Hi Brianna, your required training Harassment Prevention is due by February 16. Please complete it on time.",16155550406,text,training_reminder
+conv-017,inbound,16155550406,msg-017-02,2026-02-02T16:30:00+00:00,read,"Got it, I'll finish it this week.",16155550110,text,not a template
+conv-018,outbound,16155550110,msg-018-01,2026-03-16T14:00:00+00:00,read,"Hi Sandra, your wellness check-in for March is ready. Log your progress today.",16155550532,text,wellness_checkin
+conv-018,inbound,16155550532,msg-018-02,2026-03-16T15:05:00+00:00,read,Done! The step challenge has been great motivation.,16155550110,text,not a template
+conv-019,outbound,16155550110,msg-019-01,2026-02-27T14:00:00+00:00,read,"Hi Marcus, your payslip for February is now available in the employee portal.",16155550553,text,payslip_ready
+conv-019,inbound,16155550553,msg-019-02,2026-02-27T14:20:00+00:00,read,Thanks for the heads up.,16155550110,text,not a template
+conv-020,outbound,16155550110,msg-020-01,2026-03-09T14:00:00+00:00,read,"Hi Lydia, your interview for the HR Coordinator role is scheduled for March 13. Reply YES to confirm.",16155550574,text,interview_invite
+conv-020,inbound,16155550574,msg-020-02,2026-03-09T14:52:00+00:00,read,"YES, confirmed. Thank you!",16155550110,text,not a template

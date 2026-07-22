@@ -1,0 +1,209 @@
+[
+  {
+    "AccountSubType": "Checking",
+    "AccountType": "Bank",
+    "Active": true,
+    "CurrentBalance": "47250.00",
+    "Description": "Operating bank account",
+    "Id": "1",
+    "Name": "Business Checking"
+  },
+  {
+    "AccountSubType": "Savings",
+    "AccountType": "Bank",
+    "Active": true,
+    "CurrentBalance": "15000.00",
+    "Description": "Reserve savings",
+    "Id": "2",
+    "Name": "Business Savings"
+  },
+  {
+    "AccountSubType": "AccountsReceivable",
+    "AccountType": "Accounts Receivable",
+    "Active": true,
+    "CurrentBalance": "8240.00",
+    "Description": "Trade receivables",
+    "Id": "3",
+    "Name": "Accounts Receivable"
+  },
+  {
+    "AccountSubType": "SalesOfProductIncome",
+    "AccountType": "Income",
+    "Active": true,
+    "CurrentBalance": "0.00",
+    "Description": "Standard sales",
+    "Id": "4",
+    "Name": "Sales Revenue"
+  },
+  {
+    "AccountSubType": "SuppliesMaterialsCogs",
+    "AccountType": "Cost of Goods Sold",
+    "Active": true,
+    "CurrentBalance": "0.00",
+    "Description": "COGS",
+    "Id": "5",
+    "Name": "Cost of Goods Sold"
+  },
+  {
+    "AccountSubType": "OfficeGeneralAdminExpenses",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "0.00",
+    "Description": "Office supplies",
+    "Id": "6",
+    "Name": "Office Supplies"
+  },
+  {
+    "AccountSubType": "SuppliesMaterials",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "0.00",
+    "Description": "SaaS spend",
+    "Id": "7",
+    "Name": "Software Subscriptions"
+  },
+  {
+    "AccountSubType": "AccountsPayable",
+    "AccountType": "Accounts Payable",
+    "Active": true,
+    "CurrentBalance": "2480.00",
+    "Description": "Trade payables",
+    "Id": "8",
+    "Name": "Accounts Payable"
+  },
+  {
+    "AccountSubType": "SuppliesMaterials",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "14820.50",
+    "Description": "Art and program supplies for youth workshops",
+    "Id": "9",
+    "Name": "Program Supplies"
+  },
+  {
+    "AccountSubType": "OtherCurrentAssets",
+    "AccountType": "Other Current Asset",
+    "Active": true,
+    "CurrentBalance": "35000.00",
+    "Description": "Awarded grants pending disbursement",
+    "Id": "10",
+    "Name": "Grants Receivable"
+  },
+  {
+    "AccountSubType": "OtherPrimaryIncome",
+    "AccountType": "Income",
+    "Active": true,
+    "CurrentBalance": "27500.00",
+    "Description": "Revenue from fundraising events",
+    "Id": "11",
+    "Name": "Fundraising Events Income"
+  },
+  {
+    "AccountSubType": "PayrollExpenses",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "128400.00",
+    "Description": "Staff wages and payroll",
+    "Id": "12",
+    "Name": "Payroll Expense"
+  },
+  {
+    "AccountSubType": "RentOrLeaseOfBuildings",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "24000.00",
+    "Description": "Studio lease on Cass Avenue",
+    "Id": "13",
+    "Name": "Rent - Cass Avenue"
+  },
+  {
+    "AccountSubType": "RentOrLeaseOfBuildings",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "18000.00",
+    "Description": "Studio lease on Livernois",
+    "Id": "14",
+    "Name": "Rent - Livernois"
+  },
+  {
+    "AccountSubType": "Utilities",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "9360.75",
+    "Description": "Electricity, gas, water and internet",
+    "Id": "15",
+    "Name": "Utilities"
+  },
+  {
+    "AccountSubType": "LegalProfessionalFees",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "12250.00",
+    "Description": "Legal, accounting and consulting fees",
+    "Id": "16",
+    "Name": "Professional Services"
+  },
+  {
+    "AccountSubType": "AdvertisingPromotional",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "6820.40",
+    "Description": "Marketing, printing and promotional materials",
+    "Id": "17",
+    "Name": "Marketing & Printing"
+  },
+  {
+    "AccountSubType": "Insurance",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "4875.00",
+    "Description": "General liability and property insurance",
+    "Id": "18",
+    "Name": "Insurance"
+  },
+  {
+    "AccountSubType": "SuppliesMaterials",
+    "AccountType": "Expense",
+    "Active": true,
+    "CurrentBalance": "3960.25",
+    "Description": "Software subscriptions and technology tools",
+    "Id": "19",
+    "Name": "Technology & Software"
+  },
+  {
+    "AccountSubType": "OtherPrimaryIncome",
+    "AccountType": "Income",
+    "Active": true,
+    "CurrentBalance": "58200.00",
+    "Description": "Contributions from individual donors",
+    "Id": "20",
+    "Name": "Individual Donations Income"
+  },
+  {
+    "AccountSubType": "OtherPrimaryIncome",
+    "AccountType": "Income",
+    "Active": true,
+    "CurrentBalance": "95000.00",
+    "Description": "Grant income restricted to specific programs",
+    "Id": "21",
+    "Name": "Restricted Grant Income"
+  },
+  {
+    "AccountSubType": "ServiceFeeIncome",
+    "AccountType": "Income",
+    "Active": true,
+    "CurrentBalance": "16400.00",
+    "Description": "Tuition and program participation fees",
+    "Id": "22",
+    "Name": "Program Service Fees Income"
+  },
+  {
+    "AccountSubType": "PrepaidExpenses",
+    "AccountType": "Other Current Asset",
+    "Active": true,
+    "CurrentBalance": "5200.00",
+    "Description": "Prepaid insurance and subscriptions",
+    "Id": "23",
+    "Name": "Prepaid Expenses"
+  }
+]

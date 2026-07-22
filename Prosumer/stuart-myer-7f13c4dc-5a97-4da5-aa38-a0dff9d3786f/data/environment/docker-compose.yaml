@@ -1,0 +1,542 @@
+services:
+  main:
+    build:
+      context: .
+    image: harbor-main:local
+    command: ["sleep", "infinity"]
+    depends_on:
+      airtable-api:
+        condition: service_healthy
+      alpaca-api:
+        condition: service_healthy
+      asana-api:
+        condition: service_healthy
+      bamboohr-api:
+        condition: service_healthy
+      confluence-api:
+        condition: service_healthy
+      docusign-api:
+        condition: service_healthy
+      eventbrite-api:
+        condition: service_healthy
+      fedex-api:
+        condition: service_healthy
+      gmail-api:
+        condition: service_healthy
+      gusto-api:
+        condition: service_healthy
+      hubspot-api:
+        condition: service_healthy
+      jira-api:
+        condition: service_healthy
+      notion-api:
+        condition: service_healthy
+      outlook-api:
+        condition: service_healthy
+      paypal-api:
+        condition: service_healthy
+      plaid-api:
+        condition: service_healthy
+      quickbooks-api:
+        condition: service_healthy
+      servicenow-api:
+        condition: service_healthy
+      slack-api:
+        condition: service_healthy
+      square-api:
+        condition: service_healthy
+      trello-api:
+        condition: service_healthy
+      ups-api:
+        condition: service_healthy
+      whatsapp-api:
+        condition: service_healthy
+      xero-api:
+        condition: service_healthy
+    environment:
+      - AIRTABLE_API_URL=http://airtable-api:8032
+      - ALPACA_API_URL=http://alpaca-api:8043
+      - ASANA_API_URL=http://asana-api:8031
+      - BAMBOOHR_API_URL=http://bamboohr-api:8072
+      - CONFLUENCE_API_URL=http://confluence-api:8045
+      - DOCUSIGN_API_URL=http://docusign-api:8053
+      - EVENTBRITE_API_URL=http://eventbrite-api:8020
+      - FEDEX_API_URL=http://fedex-api:8095
+      - GMAIL_API_URL=http://gmail-api:8017
+      - GUSTO_API_URL=http://gusto-api:8074
+      - HUBSPOT_API_URL=http://hubspot-api:8024
+      - JIRA_API_URL=http://jira-api:8029
+      - NOTION_API_URL=http://notion-api:8010
+      - OUTLOOK_API_URL=http://outlook-api:8087
+      - PAYPAL_API_URL=http://paypal-api:8042
+      - PLAID_API_URL=http://plaid-api:8022
+      - QUICKBOOKS_API_URL=http://quickbooks-api:8007
+      - SERVICENOW_API_URL=http://servicenow-api:8071
+      - SLACK_API_URL=http://slack-api:8013
+      - SQUARE_API_URL=http://square-api:8041
+      - TRELLO_API_URL=http://trello-api:8030
+      - UPS_API_URL=http://ups-api:8096
+      - WHATSAPP_API_URL=http://whatsapp-api:8015
+      - XERO_API_URL=http://xero-api:8088
+      - LITELLM_BASE_URL=http://litellm-proxy:4000
+      - OPENAI_API_BASE=http://litellm-proxy:4000/v1
+      - OPENAI_API_KEY=placeholder
+      - TEST_DIR=${TEST_DIR:-/tests}
+    volumes:
+      - ${HOST_VERIFIER_LOGS_PATH:-./logs/verifier}:${ENV_VERIFIER_LOGS_PATH:-/logs/verifier}
+  airtable-api:
+    build:
+      context: ./airtable-api
+    image: harbor-airtable-api:local
+    expose:
+      - "8032"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8032/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  alpaca-api:
+    build:
+      context: ./alpaca-api
+    image: harbor-alpaca-api:local
+    expose:
+      - "8043"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8043/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  asana-api:
+    build:
+      context: ./asana-api
+    image: harbor-asana-api:local
+    expose:
+      - "8031"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8031/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  bamboohr-api:
+    build:
+      context: ./bamboohr-api
+    image: harbor-bamboohr-api:local
+    expose:
+      - "8072"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8072/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  confluence-api:
+    build:
+      context: ./confluence-api
+    image: harbor-confluence-api:local
+    expose:
+      - "8045"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8045/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  docusign-api:
+    build:
+      context: ./docusign-api
+    image: harbor-docusign-api:local
+    expose:
+      - "8053"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8053/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  eventbrite-api:
+    build:
+      context: ./eventbrite-api
+    image: harbor-eventbrite-api:local
+    expose:
+      - "8020"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8020/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  fedex-api:
+    build:
+      context: ./fedex-api
+    image: harbor-fedex-api:local
+    expose:
+      - "8095"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8095/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  gmail-api:
+    build:
+      context: ./gmail-api
+    image: harbor-gmail-api:local
+    expose:
+      - "8017"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8017/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  gusto-api:
+    build:
+      context: ./gusto-api
+    image: harbor-gusto-api:local
+    expose:
+      - "8074"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8074/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  hubspot-api:
+    build:
+      context: ./hubspot-api
+    image: harbor-hubspot-api:local
+    expose:
+      - "8024"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8024/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  jira-api:
+    build:
+      context: ./jira-api
+    image: harbor-jira-api:local
+    expose:
+      - "8029"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8029/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  notion-api:
+    build:
+      context: ./notion-api
+    image: harbor-notion-api:local
+    expose:
+      - "8010"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8010/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  outlook-api:
+    build:
+      context: ./outlook-api
+    image: harbor-outlook-api:local
+    expose:
+      - "8087"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8087/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  paypal-api:
+    build:
+      context: ./paypal-api
+    image: harbor-paypal-api:local
+    expose:
+      - "8042"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8042/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  plaid-api:
+    build:
+      context: ./plaid-api
+    image: harbor-plaid-api:local
+    expose:
+      - "8022"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8022/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  quickbooks-api:
+    build:
+      context: ./quickbooks-api
+    image: harbor-quickbooks-api:local
+    expose:
+      - "8007"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8007/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  servicenow-api:
+    build:
+      context: ./servicenow-api
+    image: harbor-servicenow-api:local
+    expose:
+      - "8071"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8071/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  slack-api:
+    build:
+      context: ./slack-api
+    image: harbor-slack-api:local
+    expose:
+      - "8013"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8013/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  square-api:
+    build:
+      context: ./square-api
+    image: harbor-square-api:local
+    expose:
+      - "8041"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8041/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  trello-api:
+    build:
+      context: ./trello-api
+    image: harbor-trello-api:local
+    expose:
+      - "8030"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8030/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  ups-api:
+    build:
+      context: ./ups-api
+    image: harbor-ups-api:local
+    expose:
+      - "8096"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8096/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  whatsapp-api:
+    build:
+      context: ./whatsapp-api
+    image: harbor-whatsapp-api:local
+    expose:
+      - "8015"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8015/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi
+  xero-api:
+    build:
+      context: ./xero-api
+    image: harbor-xero-api:local
+    expose:
+      - "8088"
+    healthcheck:
+      test:
+        - CMD
+        - sh
+        - -c
+        - python3 -c "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8088/health',timeout=3).status<400 else 1)"
+      interval: 5s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          memory: 256Mi

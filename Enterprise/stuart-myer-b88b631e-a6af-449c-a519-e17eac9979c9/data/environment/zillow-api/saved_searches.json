@@ -1,0 +1,28 @@
+[
+  {
+    "city": "Portland",
+    "created_at": "2025-12-13",
+    "home_type": "SINGLE_FAMILY",
+    "max_price": 1200000,
+    "min_baths": 2.0,
+    "min_beds": 3,
+    "min_price": 500000,
+    "name": "3-bed homes in Portland",
+    "search_id": "search-00000001",
+    "state": "OR",
+    "user_id": "user-stuartdavid.myer"
+  },
+  {
+    "city": "Portland",
+    "created_at": "2025-11-27",
+    "home_type": "CONDO",
+    "max_price": 750000,
+    "min_baths": 1.5,
+    "min_beds": 2,
+    "min_price": 300000,
+    "name": "Condos near downtown Portland",
+    "search_id": "search-00000002",
+    "state": "OR",
+    "user_id": "user-stuartdavid.myer"
+  }
+]

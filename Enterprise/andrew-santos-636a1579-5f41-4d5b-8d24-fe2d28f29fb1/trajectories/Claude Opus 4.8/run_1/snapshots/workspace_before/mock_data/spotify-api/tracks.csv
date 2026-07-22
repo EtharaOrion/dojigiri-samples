@@ -1,0 +1,104 @@
+album_id,artist_id,duration_ms,explicit,name,popularity,track_id,track_number,__api__,__table__,__file__,__row_index__
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,179447,False,Skinny Love,60,x0o3A21G52XkH59WErWNNQ,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,0
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,235117,False,Holocene,58,SjPV4tdlvaHe7pMfOPk4PR,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,1
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,276696,False,Re: Stacks,77,jXslYube4CPn2WzHzBsAlo,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,2
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,325659,False,Calgary,54,t1NGoPkw9iCAJeV5XQpDo4,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,3
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,255472,False,Dreams,41,JXQra3hFVy6IDVcY1SMGHj,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,4
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,294945,False,The Chain,71,GuaEm3T6kpWtNnbHADz0Qw,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,5
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,191717,False,Go Your Own Way,57,tcGbmC5AvopivR6pwJFPGb,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,6
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,278836,False,Landslide,51,ORPWMGWnSax4UrzUCexGhi,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,7
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,154098,False,So What,78,IzLC1YgLMa2CPuHkUvnq6L,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,8
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,235930,False,Blue in Green,62,9mzOOdh66aCXkQxp5O93pE,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,9
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,194163,False,Freddie Freeloader,66,DVmNm4e2lj32BE2TwqGuhe,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,10
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,201507,False,Flamenco Sketches,67,hJ6o4szfgEikl6etxjmByp,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,11
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,237070,False,Paranoid Android,67,Dep0GMnvnBdX2G6WhvNlq7,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,12
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,231688,False,Karma Police,49,lDdno0olnhl9WYjjevBfNz,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,13
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,168767,False,No Surprises,78,mTzRiJNHlnOFm1kuMQYIkb,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,14
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,215932,False,Lucky,64,5qQMOcPVaQyuZPiSW5kTp9,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,15
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,286421,False,Feeling Good,82,CMGdjUtuFp2hqj29QCDzXD,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,16
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,295196,False,Sinnerman,83,POuziGCr80dbrWZAU7vzVy,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,17
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,240904,False,I Put a Spell on You,63,6PSEZndEN155tcEm1k7nfN,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,18
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,307194,False,My Baby Just Cares for Me,45,8ykSoYFhrMb11GK1H5FjGu,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,19
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,227940,False,Kyoto,61,UttX3mHLlCpDuxizfjWb34,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,20
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,277761,False,Garden Song,76,EdmLzKHq0GrbPkDTD3ucbK,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,21
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,299927,False,Punisher,52,vUYRjVCYEQLuirp0xM7fdV,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,22
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,314066,False,I Know the End,58,206onH7yalbK0kuP85RzX6,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,23
+OWyU3LpRalrwkn66Hk9WPg,m79mUdocT2tMgXrnV85uZr,359002,False,Bloodbuzz Ohio,68,cq6NKVCLpjp3mngCl2Hh9r,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,24
+OWyU3LpRalrwkn66Hk9WPg,m79mUdocT2tMgXrnV85uZr,313200,False,Anyone's Ghost,87,vhmYUibUtbLqEjCMGH8KxO,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,25
+OWyU3LpRalrwkn66Hk9WPg,m79mUdocT2tMgXrnV85uZr,245920,False,Sorrow,73,LqDtfwDGlUN1oP3EBCNXQ9,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,26
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,358170,False,Svefn-g-englar,45,jIU97PlnbKMpQ3PwoIm3pi,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,27
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,268935,False,Hoppípolla,49,3YFlSKjzHTj1l4rmyDuDBS,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,28
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,225157,False,Glósóli,53,TB1nR0zwacgMvwefPubL9s,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,29
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,190201,False,Sæglópur,57,CG1HAmaHrIYth3cbSPhNnq,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,30
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,240821,False,A Walk,49,RK4zxrp4J7d1gzBiyODWeu,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,31
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,235532,False,Awake,47,FhHS1poUdhwDFiMNzqiaBl,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,32
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,219425,False,Daydream,60,4L1LP6eL07QV8Do7LvQU53,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,33
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,192359,False,Division,66,VUH7lGMKQgzsAkJS8YjYxa,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,34
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,317555,False,White Gloves,78,mL9EP765VybIlC5J0Doits,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,35
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,274576,False,August Twelve,67,VPnFjrF5ZqE8VjA8ozvAUK,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,36
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,204290,False,Mr. White,72,XhRceCNQgs3D9YQIaWMjf5,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,37
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,167729,False,Friday Morning,40,jMX1k52muZVhWnoGhvdSKE,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,38
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,227496,False,Should Have Known Better,40,hezbQih20IG91AJ3dGYhYY,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,39
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,289712,False,Death With Dignity,71,3aa6aGvOrJgVqeoYKDoYrU,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,40
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,275772,False,Fourth of July,42,bBiWb3kngJv0ag9CBRh3sG,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,41
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,279685,False,Carrie & Lowell,50,ksbbMAA3qRD6twmMVJS2pn,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,42
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,217802,False,Cirrus,62,1277qYbKon9yebDPrVYS36,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,43
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,240335,False,Kerala,82,soJJQGqL2spfUa7tQAH3qF,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,44
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,165919,False,Migration,59,OLxUWKn4XCQNvJQzFzZa0H,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,45
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,262785,False,Bambro Koyo Ganda,60,KGDynLEnyas30iGMV6Qvtv,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,46
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,150000,False,Blue in Green (live),40,r1JLOLFaesgNvOwrMztOjo,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,47
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,153571,False,Naima (take 2),47,MpMRWcyk0uUGWkayveAwet,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,48
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,157142,False,Acknowledgement (remastered),54,Ep9CyxqkfuaEvpotdDsnZc,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,49
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,160713,False,So What (alt),61,0ZbHbouFimYSwImW2RYzTa,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,50
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,164284,False,A Love Supreme (mono),68,dlz6hdNbskbidiX47QZnHF,5,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,51
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,167855,False,Chan Chan (live),75,WieLOl9L33OldUu2NrK15u,6,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,52
+OWyU3LpRalrwkn66Hk9WPg,m79mUdocT2tMgXrnV85uZr,171426,False,Goodbye Pork Pie Hat (take 2),82,74q2AAFiKTWMOliifp6a5u,7,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,53
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,174997,False,Peace Piece (remastered),89,vg43Wi2fIWM8lBgLk8P1HU,8,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,54
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,178568,False,Mercy Mercy Mercy (alt),41,7VmlE8eEA8ejPT7dtqRE12,9,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,55
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,182139,False,Django (mono),48,h8s9A6Sp8y9A54VrKylf0F,10,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,56
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,185710,False,Equinox (live),55,ujrxk0jH1yydIEaeSH8fzx,11,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,57
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,189281,False,Central Park West (take 2),62,G4wTwMSrL6XxHMF6EQJXch,12,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,58
+u4TBsxJ74LLMTi0BehJhGf,u1recuVsZ3crykMNZfXZE1,192852,False,Moon River (remastered),69,tPikI6rX6x4tAahcH0D68s,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,59
+7eqqp9o0E0713Qrsh5kf5C,xJiy7ZDF92RfF3xT7wWX8k,196423,False,Afro Blue (alt),76,fZe8d42DY5twdPgcfdpK2n,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,60
+AFyTDMN3ZssUFADTrHukWi,qI1GdfPFrA8QN0TzqohkBq,199994,False,Lonnie's Lament (mono),83,uLJIQblEMJKlFNIsIEM9uN,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,61
+xDWAW85XSl6OIJbjRF51pA,pt0P2wgJtDTFHcFvFl7dOH,203565,False,In a Sentimental Mood (live),90,unhcfSVaJlLId3YFOkWN7N,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,62
+TEOkMag6BUwNgHr5HneDLp,lafFm979tAhuWzG00tNlkZ,207136,False,My Favorite Things (take 2),42,UttbYNCtuGPfXostEsAzQH,5,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,63
+oOIm7Kb29o54mlajFJ3KBm,3wQLMxOWo6Ix3XDzCgVCUt,210707,False,Giant Steps (remastered),49,kGocLkSBQKZCqlcCgCXkjR,6,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,64
+1puCvIbmmMx7IpNLRszpAj,TkRZFBcP9btQS8T2Vx5igY,214278,False,Blue in Green (alt),56,nGEIKtUJEniT9PfNgUpVwy,7,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,65
+UMFYbEJsIrYQjnaW1GWIXW,EepwODxB7vqtzWQo43GpMM,217849,False,Naima (mono),63,vq3Jhx84qz8blmopbKUYsC,8,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,66
+q5rgBgDgMri123T2KSD6o2,li7kCdIrygOj6q6LLR0FL9,221420,False,Acknowledgement (live),70,AgexEmsmgU1IVUJc9AaVJ6,9,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,67
+pi74tfOV01CJWXjzryxE2T,CK5hIZeeqPJV2dVTxhvGiE,224991,False,So What (take 2),77,17CpY0i78ZKikmFsNHeDfz,10,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,68
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,228562,False,A Love Supreme (remastered),84,OxIkXJGh3OMPyuCCSeoUkv,11,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,69
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,232133,False,Chan Chan (alt),91,dF4iVxf5xoijHD6N902KC7,12,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,70
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,235704,False,Goodbye Pork Pie Hat (mono),43,v3WcnoGgZLMjwgWZ0gjEsg,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,71
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,239275,False,Peace Piece (live),50,mK2w8dUYcn9SJ4tJo9Jf47,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,72
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,242846,False,Mercy Mercy Mercy (take 2),57,aZFy5UbmXmPz4jos7NcOrV,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,73
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,246417,False,Django (remastered),64,uLtMUNJQN4OCVdHahddbSC,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,74
+OWyU3LpRalrwkn66Hk9WPg,m79mUdocT2tMgXrnV85uZr,249988,False,Equinox (alt),71,2vdMMlyXeI3D103teDfDDy,5,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,75
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,253559,False,Central Park West (mono),78,Uv61DlBIjVefhMDt74x4dc,6,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,76
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,257130,False,Moon River (live),85,uH720Boii73thfb24zuZ8C,7,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,77
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,260701,False,Afro Blue (take 2),92,eapznPnskUht6SghMjyjoK,8,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,78
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,264272,False,Lonnie's Lament (remastered),44,35d8SbIOVPCjnkdKz7qdVx,9,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,79
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,267843,False,In a Sentimental Mood (alt),51,xC03YVG5YIVcNY1f7RDCDF,10,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,80
+u4TBsxJ74LLMTi0BehJhGf,u1recuVsZ3crykMNZfXZE1,271414,False,My Favorite Things (mono),58,IQjSmpzbMTyDXWkJvcDeKA,11,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,81
+7eqqp9o0E0713Qrsh5kf5C,xJiy7ZDF92RfF3xT7wWX8k,274985,False,Giant Steps (live),65,ZVcVQwA3g7CGQduhhKEpV0,12,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,82
+AFyTDMN3ZssUFADTrHukWi,qI1GdfPFrA8QN0TzqohkBq,278556,False,Blue in Green (take 2),72,6XutMezaXdgkD53kyftnVe,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,83
+xDWAW85XSl6OIJbjRF51pA,pt0P2wgJtDTFHcFvFl7dOH,282127,False,Naima (remastered),79,3Di7tPOgp6XcZ3TaIof04v,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,84
+TEOkMag6BUwNgHr5HneDLp,lafFm979tAhuWzG00tNlkZ,285698,False,Acknowledgement (alt),86,GRhW2Q6G5Ec1NbErO0CShF,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,85
+oOIm7Kb29o54mlajFJ3KBm,3wQLMxOWo6Ix3XDzCgVCUt,289269,False,So What (mono),93,mbX2c1m8QczF1410xYfCDO,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,86
+1puCvIbmmMx7IpNLRszpAj,TkRZFBcP9btQS8T2Vx5igY,292840,False,A Love Supreme (live),45,3lOqw23hKQyacTlh5PFDti,5,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,87
+UMFYbEJsIrYQjnaW1GWIXW,EepwODxB7vqtzWQo43GpMM,296411,False,Chan Chan (take 2),52,O6hbrmKc6MkYCR0gMnMaNQ,6,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,88
+q5rgBgDgMri123T2KSD6o2,li7kCdIrygOj6q6LLR0FL9,299982,False,Goodbye Pork Pie Hat (remastered),59,NzyOQ78PaedeIxi5lAevPs,7,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,89
+pi74tfOV01CJWXjzryxE2T,CK5hIZeeqPJV2dVTxhvGiE,303553,False,Peace Piece (alt),66,EGfImHe2PV7CDpDKH3bU5R,8,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,90
+3FwZU55PBRcArhmbkRxkgF,T4rMjUBX0BWY1MZrYHJoBY,307124,False,Mercy Mercy Mercy (mono),73,evm8PJ538g8vBTh92N8Sfx,9,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,91
+QG6asNLLxuXPkN6CRPvieG,oVZbeUjDjDsjC78xVoOJv9,310695,False,Django (live),80,1zWQFTWwVgQa2XqF5ZwxYm,10,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,92
+iwRVtML1M280G0UWPQgcRf,tJEGikV37IrPaOvwhUEYdo,314266,False,Equinox (take 2),87,bVOtZww0LVh5q6Udlcmfei,11,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,93
+URdQ5sKYuUOftlgONp1H39,1NjPivbqBp3bGvjYOAbFKf,317837,False,Central Park West (remastered),94,9WckOt8iWfYnj4o0a1oO48,12,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,94
+jbsh71RXv8r1X56IYAOsBb,DQITh6nexYFTh30KAPEkj1,321408,False,Moon River (alt),46,WB7r7hn3Jf9L3Bo42mrcNV,1,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,95
+6zRUOCltr5csOS19MMFqJq,gIoB5QmgNxDuu95iEAImBl,324979,False,Afro Blue (mono),53,bpI9K7gtNMM4qBY8UP7vEe,2,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,96
+OWyU3LpRalrwkn66Hk9WPg,m79mUdocT2tMgXrnV85uZr,328550,False,Lonnie's Lament (live),60,EwC2mxQgjBXwpQ0BA1CRyc,3,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,97
+29xjB3SfzPGbwKz6inbzOI,EGKICsB3du781QMHscmjp7,332121,False,In a Sentimental Mood (take 2),67,Q54cpf8XQvA0e2L5F3EniA,4,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,98
+GnqdKpm7RiN94vzafgJxo8,7zwzLEqcrz41WnVONorvHT,335692,False,My Favorite Things (remastered),74,SBbgYZrnHgVhlXW6ITsfzD,5,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,99
+asmgIYWrf0sDUPtxadZpJ4,Irn3TMRa9mrfXsLde7y7Xg,339263,False,Giant Steps (alt),81,CT6YRncY0fVfrklMP6nX3w,6,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,100
+FrtvYYbPzAKBfZXLQ4kdhR,g7XqqnhUa9DwGsGI8hpjsN,342834,False,Blue in Green (mono),88,nGx6aq30PXglbY4LFLQiWN,7,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,101
+O2lZKYSkObqhJZXKFrNoOx,I3Oytk6C7QM876DDMuJibO,346405,False,Naima (live),40,WhWqncJNHdH2uUyThkpoDd,8,spotify-api,tracks,/opt/mocks/spotify-api/tracks.json,102

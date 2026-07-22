@@ -1,0 +1,122 @@
+[
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjName07301",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjStatus7301",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjOwner7301",
+    "name": "Owner",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjBudget7301",
+    "name": "Budget",
+    "type": "number"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldTaskProject7301",
+    "name": "Project",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00007301",
+    "id": "fldTaskHours7301",
+    "name": "EstimateHours",
+    "type": "number"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldTaskDone07301",
+    "name": "Done",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldContactEml7301",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldContactCo7301",
+    "name": "Company",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldContactRl7301",
+    "name": "Role",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjName07314",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjStatus7327",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjOwner7340",
+    "name": "Owner",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldProjBudget7353",
+    "name": "Budget",
+    "type": "number"
+  },
+  {
+    "tableId": "tblProjects07301",
+    "id": "fldTaskProject7366",
+    "name": "Project",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00007301",
+    "id": "fldTaskHours7379",
+    "name": "EstimateHours",
+    "type": "number"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldTaskDone07392",
+    "name": "Done",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldContactEml7405",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldContactCo7418",
+    "name": "Company",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts07301",
+    "id": "fldContactRl7431",
+    "name": "Role",
+    "type": "singleLineText"
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "label": "after_injection",
+  "ts": 1784533637.054464,
+  "ts_iso": "2026-07-20T07:47:17Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 20,
+        "records_tblContacts00001": 28,
+        "records_tblProjects0000": 30,
+        "records_tblTasks0000000": 115,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "calendly-api": {
+      "tables": {
+        "availability": 20,
+        "event_types": 20,
+        "invitees": 106,
+        "scheduled_events": 106
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 110,
+        "envelopes": 38,
+        "recipients": 56,
+        "templates": 20
+      },
+      "documents": {}
+    },
+    "figma-api": {
+      "tables": {
+        "comments": 110,
+        "components": 41,
+        "files": 31,
+        "projects": 20
+      },
+      "documents": {
+        "file_nodes": true,
+        "team": true
+      }
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 31,
+        "labels": 27,
+        "messages": 112
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 20,
+        "events": 67
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 15
+      },
+      "documents": {}
+    },
+    "klaviyo-api": {
+      "tables": {
+        "campaigns": 20,
+        "lists": 20,
+        "profiles": 20
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 20,
+        "lists": 20,
+        "members": 20,
+        "reports": 20
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 130,
+        "comments": 27,
+        "databases": 20,
+        "pages": 51,
+        "users": 20
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "outlook-api": {
+      "tables": {
+        "contacts": 28,
+        "events": 30,
+        "messages": 108
+      },
+      "documents": {}
+    },
+    "paypal-api": {
+      "tables": {
+        "captures": 20,
+        "invoices": 20,
+        "orders": 20,
+        "payouts": 20,
+        "refunds": 20
+      },
+      "documents": {}
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 20,
+        "transactions": 28
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 20,
+        "bills": 20,
+        "customers": 26,
+        "estimates": 20,
+        "expenses": 60,
+        "invoices": 110,
+        "items": 20,
+        "payments": 70,
+        "vendors": 20
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 20,
+        "Contact": 20,
+        "Lead": 20,
+        "Opportunity": 20
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 25,
+        "channels": 29,
+        "messages": 131,
+        "users": 28
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "square-api": {
+      "tables": {
+        "catalog": 20,
+        "customers": 20,
+        "inventory": 20,
+        "orders": 20,
+        "payments": 20,
+        "refunds": 0
+      },
+      "documents": {
+        "merchant": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 120,
+        "customers": 27,
+        "invoices": 80,
+        "payment_intents": 0,
+        "prices": 20,
+        "products": 20,
+        "refunds": 0,
+        "subscriptions": 20
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "typeform-api": {
+      "tables": {
+        "answers": 21,
+        "fields": 20,
+        "forms": 20,
+        "responses": 20
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 20,
+        "contacts": 20,
+        "invoices": 20
+      },
+      "documents": {}
+    }
+  }
+}

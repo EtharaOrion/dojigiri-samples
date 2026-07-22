@@ -1,0 +1,62 @@
+I have lost the thread on where our money and our readiness actually stand across the four things eating this fall, and I need one picture I can put in front of Patricia and the finance committee without flinching, so before anything else I want the whole showcase fundraising position rebuilt from what is really booked rather than from the numbers I have been carrying in my head, because I know some of those figures are stale from earlier drafting rounds and I have lost confidence they still line up with what has actually come in. Start with the Youth Arts Showcase against the hundred and twenty thousand dollar goal and the forty-five thousand dollar budget, and rebuild the real fundraising total from the ground up, meaning every ticket actually sold at every tier, every sponsorship that is genuinely signed rather than merely talked about, and the donations that have truly landed, and I want the confirmed-versus-committed line drawn honestly so I know how much of that goal is real cash and how much is still hope. The headline sponsor number in particular has been nagging at me, so chase down what we are actually committed to there rather than what I told you months ago, and tell me plainly how many of the three ten-thousand-dollar sponsor slots we still need to fill and which of the prospects in the pipeline are close enough to count on versus the ones that are still just a warm introduction. While that is running, I need the Livernois renovation reconciled against the restricted envelope, because the grand opening is just over a month out now and I cannot walk into a ribbon-cutting with Councilwoman Lawson and the Greenfield program officer standing next to me if that fund is over. Work through every renovation work order, separate what has actually been paid from what is only authorized or still sitting in draft, total the real burn, and tell me whether we are inside the envelope or over it, and if the paid ledger disagrees with the figure I have been quoting internally then I want that gap named out loud, because the number I carry in my head may well be stale. Once the renovation number is settled, turn to whether we can actually open the doors, meaning walk the open Livernois roles and tell me which of them have candidates far enough along to be standing in that building on opening day, and flag anyone we would be counting on who cannot clear the youth-protection certification line, because I will not put an uncertified adult in a room with our kids no matter how short-staffed we are and I do not want that surprise landing on me late. Do not put youth names or family detail into any of this. Keep the roster de-identified and hold anything about specific young people or donors inside the org, because none of that belongs in a board packet or in front of a funder. Then step back to the governance layer, because the Q3 board meeting is only a few weeks away now and Patricia wants a short plain pre-read, so I need the operating side of the house trued up too, the events income, the individual giving, and the restricted grant income squared against what the ledger actually shows, and every one of the active grants stated at its real current status rather than the optimistic shorthand I tend to use, including whether anything is still pending when the award already landed or the reverse. The three-day conference in Chicago the week before that board meeting is the smaller piece but it still has to be handled, so confirm our registration and the panel logistics and surface anything missing, but keep it well away from the money picture and treat it as a footnote rather than a headline. On the two grant portals that we submit through by hand and the banking and college-savings side, remember those are not wired into anything I can see from here, so if something needs to go through one of them tell me plainly that it is a manual step still sitting on me instead of pretending it is done, and never log a submission or a transfer that has not actually happened. When it all comes back, leave me a board-ready brief that Patricia can read in five minutes with the risks up top, the real showcase position and remaining gap to goal, the Livernois renovation standing and opening-day readiness, and the operating-and-grant picture squared for the board with the conference as a footnote, and alongside it a separate reconciliation workpaper for me alone that walks every place two of my sources disagreed, which value you took and why, which one you set aside, and an honest unresolved section naming what is still needed to close each open question. Draft everything for my review and send nothing under my name, because no board or funder communication goes out until I have read it myself.
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/`):
+- a1.mp3
+- a2.mp3
+- file_1.pdf
+- file_10.docx
+- file_11.xlsx
+- file_12.pdf
+- file_13.xlsx
+- file_14.docx
+- file_15.docx
+- file_16.pdf
+- file_17.tsv
+- file_18.pdf
+- file_19.pdf
+- file_2.docx
+- file_20.tsv
+- file_21.xlsx
+- file_22.tsv
+- file_23.docx
+- file_24.xlsx
+- file_26.tsv
+- file_27.docx
+- file_28.docx
+- file_29.pdf
+- file_3.pdf
+- file_30.tsv
+- file_31.tsv
+- file_33.docx
+- file_34.tsv
+- file_35.docx
+- file_36.xlsx
+- file_37.docx
+- file_38.xlsx
+- file_39.tsv
+- file_4.xlsx
+- file_40.html
+- file_41.html
+- file_42.html
+- file_43.html
+- file_44.pptx
+- file_45.pptx
+- file_46.pptx
+- file_47.pptx
+- file_48.xml
+- file_49.xml
+- file_5.pdf
+- file_50.xml
+- file_51.xml
+- file_6.xlsx
+- file_7.tsv
+- file_8.pdf
+- file_9.docx
+- img-1.jpg
+- img-2.jpg
+- img-3.jpg
+- img-4.jpg
+- v1.mp4
+- v2.mp4
+Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it.

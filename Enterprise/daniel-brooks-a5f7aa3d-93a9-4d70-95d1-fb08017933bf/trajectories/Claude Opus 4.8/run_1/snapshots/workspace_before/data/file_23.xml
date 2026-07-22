@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grantLedger organization="Gulf Coast Ballet" fiscalYear="2025 to 2026" currency="USD">
+  <summary>
+    <totalAwarded>855000</totalAwarded>
+    <totalPending>75000</totalPending>
+    <totalBudgetedGrantRevenue>930000</totalBudgetedGrantRevenue>
+    <preparedBy>Claire Nguyen, Company Manager</preparedBy>
+    <ledgerDate>2026-02-05</ledgerDate>
+  </summary>
+
+  <grant id="G1">
+    <funder>Texas Commission on the Arts</funder>
+    <purpose>General operating support</purpose>
+    <amount>250000</amount>
+    <status>Awarded</status>
+    <awardDate>2025-09-01</awardDate>
+    <restricted>false</restricted>
+    <reportDue>2026-11-30</reportDue>
+  </grant>
+
+  <grant id="G2">
+    <funder>City of Houston Cultural Affairs</funder>
+    <purpose>Season programming and access</purpose>
+    <amount>180000</amount>
+    <status>Awarded</status>
+    <awardDate>2025-10-01</awardDate>
+    <restricted>true</restricted>
+    <reportDue>2026-12-15</reportDue>
+  </grant>
+
+  <grant id="G3">
+    <funder>National Endowment Project Fund</funder>
+    <purpose>Production of new choreographic work</purpose>
+    <amount>120000</amount>
+    <status>Awarded</status>
+    <awardDate>2025-07-15</awardDate>
+    <restricted>true</restricted>
+    <reportDue>2027-01-31</reportDue>
+  </grant>
+
+  <grant id="G4">
+    <funder>Hargrove Family Foundation</funder>
+    <purpose>Summer intensive scholarships</purpose>
+    <amount>90000</amount>
+    <status>Awarded</status>
+    <awardDate>2025-11-12</awardDate>
+    <restricted>true</restricted>
+    <reportDue>2026-10-15</reportDue>
+  </grant>
+
+  <grant id="G5">
+    <funder>Webb Energy Group Foundation</funder>
+    <purpose>Production sponsorship, season opener</purpose>
+    <amount>140000</amount>
+    <status>Awarded</status>
+    <awardDate>2026-01-10</awardDate>
+    <restricted>true</restricted>
+    <reportDue>2026-12-31</reportDue>
+  </grant>
+
+  <grant id="G6">
+    <funder>Regional Arts Partners</funder>
+    <purpose>Audience development and marketing</purpose>
+    <amount>75000</amount>
+    <status>Awarded</status>
+    <awardDate>2025-10-20</awardDate>
+    <restricted>false</restricted>
+    <reportDue>2026-11-30</reportDue>
+  </grant>
+
+  <grant id="G7">
+    <funder>Arts and Culture Foundation</funder>
+    <purpose>Commission of an original pas de deux</purpose>
+    <amount>75000</amount>
+    <status>Pending</status>
+    <submittedDate>2026-02-18</submittedDate>
+    <decisionExpected>2026-10-15</decisionExpected>
+    <restricted>true</restricted>
+  </grant>
+
+  <restrictedFunds asOf="2026-02-05">
+    <fund name="New work commission">
+      <opening>120000</opening>
+      <released>48000</released>
+      <balance>72000</balance>
+    </fund>
+    <fund name="Summer intensive scholarships">
+      <opening>90000</opening>
+      <released>30000</released>
+      <balance>60000</balance>
+    </fund>
+    <fund name="Season opener sponsorship">
+      <opening>140000</opening>
+      <released>140000</released>
+      <balance>0</balance>
+    </fund>
+  </restrictedFunds>
+</grantLedger>

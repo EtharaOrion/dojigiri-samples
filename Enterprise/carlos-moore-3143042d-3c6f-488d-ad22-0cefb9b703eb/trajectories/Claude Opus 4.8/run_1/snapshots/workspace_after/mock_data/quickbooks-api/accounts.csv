@@ -1,0 +1,26 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description
+1,Cornerstone Checking,Bank,Checking,8642.55,True,Primary household checking - Cornerstone Online Bank
+2,Cornerstone High-Yield Savings,Bank,Savings,42500.0,True,Emergency fund and savings
+3,Cornerstone Rewards Card,CreditCard,CreditCard,1284.55,True,Rewards card paid in full monthly
+4,Bellmark Salary,Income,OtherPrimaryIncome,33612.0,True,Net payroll from Bellmark Industries YTD
+5,Fundraiser & Committee Income,Income,ServiceFeeIncome,4200.0,True,Calvary Hill fundraiser and committee income YTD
+6,Reimbursement Income,Income,OtherPrimaryIncome,1850.0,True,Reimbursements received YTD
+7,Interest Income,Income,OtherPrimaryIncome,642.18,True,Cornerstone HYSA interest YTD
+8,Mortgage Expense,Expense,OtherBusinessExpenses,4944.6,True,Cornerstone mortgage payments YTD
+9,Utilities Expense,Expense,Utilities,1102.4,True,"Electric, water, and gas YTD"
+10,Groceries Expense,Expense,OtherBusinessExpenses,1486.2,True,Household groceries YTD
+11,Insurance Expense,Expense,Insurance,672.0,True,Home and auto insurance YTD
+12,Auto Loan Expense,Expense,OtherBusinessExpenses,1260.0,True,Toyota Highlander loan payments YTD
+13,Fuel Expense,Expense,Automobile,310.45,True,Gasoline YTD
+14,Dining Expense,Expense,Meals,548.3,True,Restaurants and date nights YTD
+15,Church Tithe Expense,Expense,CharitableContributions,1680.0,True,Calvary Hill Church tithe YTD
+16,Phone & Internet Expense,Expense,Utilities,465.0,True,Volunteer Mobile and BlueRidge Fiber YTD
+17,Medical Expense,Expense,OtherBusinessExpenses,240.0,True,Prescriptions and copays YTD
+18,Streaming & Subscriptions,Expense,OtherBusinessExpenses,184.94,True,Streaming and app subscriptions YTD
+19,Professional Dues,Expense,LegalProfessionalFees,224.0,True,SHRM membership YTD
+20,Home Maintenance,Expense,RepairMaintenance,520.75,True,Home repairs and upkeep YTD
+21,Lawn & Yard,Expense,RepairMaintenance,450.0,True,GreenLeaf lawn care YTD
+22,Charitable Giving,Expense,CharitableContributions,300.0,True,Additional charitable gifts YTD
+23,Travel Expense,Expense,Travel,380.0,True,Conference and family travel YTD
+24,Office Supplies,Expense,OfficeGeneralAdministrativeExpenses,162.4,True,Home office supplies YTD
+25,Software Expense,Expense,OtherBusinessExpenses,143.88,True,LinkedIn Learning and tools YTD

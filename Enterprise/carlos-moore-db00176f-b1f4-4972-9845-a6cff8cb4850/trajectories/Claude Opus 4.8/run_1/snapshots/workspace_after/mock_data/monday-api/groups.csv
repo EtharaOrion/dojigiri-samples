@@ -1,0 +1,13 @@
+board_id,color,group_id,position,title,_pk
+board-1,#A0A0A0,backlog,0,Backlog,board-1@backlog
+board-1,#FDAB3D,in_progress,1,In progress,board-1@in_progress
+board-1,#0086C0,review,2,In review,board-1@review
+board-1,#00C875,done,3,Done,board-1@done
+board-2,#A0A0A0,backlog,0,Backlog,board-2@backlog
+board-2,#FDAB3D,in_progress,1,In progress,board-2@in_progress
+board-2,#0086C0,review,2,In review,board-2@review
+board-2,#00C875,done,3,Done,board-2@done
+board-3,#A0A0A0,backlog,0,Backlog,board-3@backlog
+board-3,#FDAB3D,in_progress,1,In progress,board-3@in_progress
+board-3,#0086C0,review,2,In review,board-3@review
+board-3,#00C875,done,3,Done,board-3@done

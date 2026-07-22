@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Andrew Santos",
+    "PreparedDate": "2025-09-15",
+    "Context": "Quick back-of-napkin on the Livernois satellite monthly nut before the Beacon renewal review.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 60,
+          "Rate": 95,
+          "Total": 5700
+        },
+        "DropIns": {
+          "AvgMonthly": 110
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 75
+        },
+        "TotalMonthlyRevenue": 5885
+      },
+      "MonthlyExpenses": {
+        "Rent": 3200,
+        "Utilities": {
+          "Electric": 240,
+          "Water": 60,
+          "Total": 300
+        },
+        "Insurance": {
+          "Quarterly": 1050,
+          "Monthly": 350
+        },
+        "InstructorPay_Raj": 1600,
+        "Cleaning": {
+          "BiWeekly": 150,
+          "Monthly": 300
+        },
+        "Supplies": {
+          "AvgMonthly": 220
+        },
+        "Marketing": {
+          "AvgMonthly": 180
+        },
+        "TotalMonthlyExpenses": 6150
+      },
+      "MonthlyNetIncome": -265,
+      "AaronDrawFromNet": 0,
+      "RetainedForReserves": 0,
+      "Note": "Rough estimate only. Livernois runs at a small monthly deficit until grant drawdowns land; revisit once Beacon renewal is confirmed."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Enrollment climbs to 75 youth once the site opens",
+        "NewRent": 3200,
+        "RentIncrease": 0,
+        "NewTotalExpenses": 6150,
+        "NewNetIncome": 1160,
+        "BreakEvenMembers": 65,
+        "BreakEvenCalculation": "Fixed costs $6,150. At $95/member, $6,150 / $95 = 64.7 -> 65 members minimum.",
+        "Impact": "Reaches break-even once enrollment passes 65."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case - a slow first quarter holds enrollment at 50",
+        "NewRent": 3200,
+        "RentIncrease": 0,
+        "NewTotalExpenses": 6150,
+        "NewNetIncome": -1400,
+        "BreakEvenMembers": 65,
+        "Impact": "Deficit covered by the Greenfield restricted drawdown while enrollment ramps."
+      }
+    },
+    "KeyInsight": "Break-even is ~65 enrolled youth at the current cost structure. Grant drawdowns cover the ramp; main concern is a slow first quarter after opening.",
+    "ActionItems": [
+      "Confirm Beacon renewal before locking the Livernois operating budget",
+      "Revisit after the grand opening with actual enrollment numbers"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "amount": 1,
+    "created": "2025-12-17",
+    "employeeId": "e201",
+    "end": "2025-12-29",
+    "id": "tor-bbef3b4b",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2025-12-29",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": 2,
+    "created": "2025-12-20",
+    "employeeId": "e202",
+    "end": "2026-01-07",
+    "id": "tor-667e95a0",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-01-06",
+    "status": "requested",
+    "type": "Sick",
+    "unit": "days"
+  },
+  {
+    "amount": 3,
+    "created": "2025-12-19",
+    "employeeId": "e203",
+    "end": "2026-01-17",
+    "id": "tor-755de91d",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-01-15",
+    "status": "denied",
+    "type": "Personal",
+    "unit": "days"
+  },
+  {
+    "amount": 1,
+    "created": "2025-12-17",
+    "employeeId": "e204",
+    "end": "2026-01-20",
+    "id": "tor-6c0779fe",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-01-20",
+    "status": "approved",
+    "type": "Bereavement",
+    "unit": "days"
+  },
+  {
+    "amount": 2,
+    "created": "2025-12-17",
+    "employeeId": "e205",
+    "end": "2026-01-29",
+    "id": "tor-55f624f3",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-01-28",
+    "status": "requested",
+    "type": "Parental",
+    "unit": "days"
+  },
+  {
+    "amount": 3,
+    "created": "2025-12-20",
+    "employeeId": "e206",
+    "end": "2026-02-06",
+    "id": "tor-9b36fef3",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-02-04",
+    "status": "denied",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": 1,
+    "created": "2025-12-21",
+    "employeeId": "e207",
+    "end": "2026-02-08",
+    "id": "tor-c73c3693",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-02-08",
+    "status": "approved",
+    "type": "Sick",
+    "unit": "days"
+  },
+  {
+    "amount": 2,
+    "created": "2025-12-21",
+    "employeeId": "e208",
+    "end": "2026-02-20",
+    "id": "tor-637f9bba",
+    "notes": "Driftwood Brewing staff record.",
+    "start": "2026-02-19",
+    "status": "requested",
+    "type": "Personal",
+    "unit": "days"
+  }
+]

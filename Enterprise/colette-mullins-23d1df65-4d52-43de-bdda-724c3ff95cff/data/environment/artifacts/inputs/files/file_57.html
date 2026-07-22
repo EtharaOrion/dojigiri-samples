@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study Desk | Theology Reading Log</title>
+<style>
+  :root{--bg:#f4f1ea;--card:#fff;--ink:#2b2722;--muted:#6c6358;--burg:#6e2230;--olive:#6b6a2f;--gold:#b58a3c;--line:#e6dfd0;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Iowan Old Style",Georgia,serif;background:var(--bg);color:var(--ink)}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 22px}
+  header{background:#2b2722;color:#f4f1ea;border-bottom:4px solid var(--gold)}
+  .hin{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;padding:24px 0}
+  header h1{font-size:24px;letter-spacing:.4px}
+  header p{color:#c8bda9;font-size:14px;margin-top:3px;font-family:Helvetica,Arial,sans-serif}
+  .clock{font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#d8c79f;border:1px solid #4a4338;border-radius:18px;padding:7px 15px}
+
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:26px 0}
+  .ring{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;text-align:center}
+  .ring svg{transform:rotate(-90deg)}
+  .ring .num{font-size:22px;font-weight:bold;color:var(--burg)}
+  .ring .cap{font-size:13px;color:var(--muted);margin-top:8px;font-family:Helvetica,Arial,sans-serif}
+
+  .bartile{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;margin-bottom:24px}
+  .bartile h2{font-size:17px;color:var(--burg);margin-bottom:14px}
+  .gb{margin:11px 0}
+  .gb .l{display:flex;justify-content:space-between;font-size:13px;font-family:Helvetica,Arial,sans-serif;margin-bottom:4px}
+  .gtrack{height:12px;background:#efe9dc;border-radius:7px;overflow:hidden}
+  .gfill{height:100%;width:0;border-radius:7px;transition:width 1.2s ease}
+
+  .controls{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;margin-bottom:18px}
+  .filters{display:flex;gap:8px;flex-wrap:wrap}
+  .filters button{font-family:Helvetica,Arial,sans-serif;font-size:13px;border:1px solid var(--line);background:#fff;
+    color:var(--muted);padding:9px 16px;border-radius:20px;cursor:pointer;transition:.2s}
+  .filters button:hover{border-color:var(--gold)}
+  .filters button.on{background:var(--burg);color:#fff;border-color:var(--burg)}
+  .search{font-family:Helvetica,Arial,sans-serif;font-size:14px;padding:10px 14px;border:1px solid var(--line);
+    border-radius:22px;width:230px;outline:none;background:#fff}
+  .search:focus{border-color:var(--gold)}
+
+  .shelf{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  .book{background:var(--card);border:1px solid var(--line);border-left:6px solid var(--olive);border-radius:8px;
+    padding:18px 20px;display:flex;gap:16px;transition:.25s;opacity:1}
+  .book:hover{transform:translateY(-4px);box-shadow:0 12px 26px rgba(43,39,34,.10)}
+  .book.hide{display:none}
+  .spine{width:34px;flex:none;border-radius:4px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:bold;font-size:18px}
+  .book h3{font-size:18px;margin-bottom:3px}
+  .book .auth{font-size:14px;color:var(--muted);font-style:italic;margin-bottom:9px}
+  .book .meta{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:var(--muted)}
+  .pill{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.4px;
+    padding:3px 10px;border-radius:12px;margin-top:9px}
+  .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:30px;font-family:Helvetica,Arial,sans-serif}
+
+  footer{background:#2b2722;color:#c8bda9;margin-top:36px;padding:26px 0;font-family:Helvetica,Arial,sans-serif;font-size:13px}
+  footer .fl{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  footer b{color:#fff}
+  @media(max-width:780px){.stats{grid-template-columns:repeat(2,1fr)}.shelf{grid-template-columns:1fr}.search{width:100%}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap hin">
+    <div><h1>The Study Desk</h1><p>A personal theology and reading log</p></div>
+    <div class="clock" id="clock"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="stats">
+    <div class="ring"><svg width="84" height="84"><circle cx="42" cy="42" r="34" fill="none" stroke="#efe9dc" stroke-width="9"></circle><circle id="r1" cx="42" cy="42" r="34" fill="none" stroke="#6e2230" stroke-width="9" stroke-linecap="round" stroke-dasharray="214" stroke-dashoffset="214"></circle></svg><div class="num">10</div><div class="cap">Volumes tracked</div></div>
+    <div class="ring"><svg width="84" height="84"><circle cx="42" cy="42" r="34" fill="none" stroke="#efe9dc" stroke-width="9"></circle><circle id="r2" cx="42" cy="42" r="34" fill="none" stroke="#6b6a2f" stroke-width="9" stroke-linecap="round" stroke-dasharray="214" stroke-dashoffset="214"></circle></svg><div class="num">5</div><div class="cap">Completed</div></div>
+    <div class="ring"><svg width="84" height="84"><circle cx="42" cy="42" r="34" fill="none" stroke="#efe9dc" stroke-width="9"></circle><circle id="r3" cx="42" cy="42" r="34" fill="none" stroke="#b58a3c" stroke-width="9" stroke-linecap="round" stroke-dasharray="214" stroke-dashoffset="214"></circle></svg><div class="num">2</div><div class="cap">In progress</div></div>
+    <div class="ring"><svg width="84" height="84"><circle cx="42" cy="42" r="34" fill="none" stroke="#efe9dc" stroke-width="9"></circle><circle id="r4" cx="42" cy="42" r="34" fill="none" stroke="#8c6b3c" stroke-width="9" stroke-linecap="round" stroke-dasharray="214" stroke-dashoffset="214"></circle></svg><div class="num">3</div><div class="cap">Reference shelf</div></div>
+  </div>
+
+  <div class="bartile">
+    <h2>Reading by tradition</h2>
+    <div class="gb"><div class="l"><span>Systematic theology</span><span>4 volumes</span></div><div class="gtrack"><div class="gfill" data-w="80" style="background:#6e2230"></div></div></div>
+    <div class="gb"><div class="l"><span>Patristic and contemplative</span><span>2 volumes</span></div><div class="gtrack"><div class="gfill" data-w="40" style="background:#6b6a2f"></div></div></div>
+    <div class="gb"><div class="l"><span>Ethics</span><span>2 volumes</span></div><div class="gtrack"><div class="gfill" data-w="40" style="background:#b58a3c"></div></div></div>
+    <div class="gb"><div class="l"><span>Pastoral and other</span><span>2 volumes</span></div><div class="gtrack"><div class="gfill" data-w="40" style="background:#8c6b3c"></div></div></div>
+  </div>
+
+  <div class="controls">
+    <div class="filters">
+      <button class="on" data-f="all">All</button>
+      <button data-f="Reading">Reading</button>
+      <button data-f="Read">Completed</button>
+      <button data-f="Reference">Reference</button>
+    </div>
+    <input class="search" id="search" aria-label="Search by title or author" title="Search by title or author">
+  </div>
+
+  <div class="shelf" id="shelf"></div>
+</main>
+
+<footer>
+  <div class="wrap fl">
+    <div><b>The Study Desk</b> | maintained for personal reading and sermon preparation</div>
+    <div>Cedarwood Books and the parish library remain the favorite haunts.</div>
+  </div>
+</footer>
+
+<script>
+  var books=[
+    ["The Book of Common Prayer","The Episcopal Church","Liturgy","Reading","In Use","#6e2230","Daily office reference, heavily annotated"],
+    ["Words Before Silence","Oren Tal-Levy","Contemplative","Read","Completed","#6b6a2f","Profound on apophatic prayer"],
+    ["The President's Ghost","Ellis Whitfield","Political fiction","Reading","In progress","#b58a3c","Book club selection on the ethics of power"],
+    ["Confessions","Augustine of Hippo","Patristic","Reference","On the shelf","#8c6b3c","Cornerstone text, annotated copy"],
+    ["Systematic Theology, Volumes I to III","Paul Tillich","Systematic","Reference","On the shelf","#6e2230","Essential on the method of correlation"],
+    ["Church Dogmatics, Selections","Karl Barth","Systematic","Reading","In progress","#1f3a63","Read in the daily study partnership"],
+    ["The Nature and Destiny of Man","Reinhold Niebuhr","Ethics","Read","Completed","#6b6a2f","Foundational for social ethics preaching"],
+    ["The Cost of Discipleship","Dietrich Bonhoeffer","Ethics","Read","Completed","#b58a3c","An annual reading during Lent"],
+    ["Introduction to Christianity","Joseph Ratzinger","Systematic","Read","Completed","#8c6b3c","An ecumenical dialogue resource"],
+    ["The Wounded Healer","Henri Nouwen","Pastoral","Reference","On the shelf","#6e2230","Core text for pastoral care work"]
+  ];
+  var shelf=document.getElementById('shelf'),curF='all',curQ='';
+  function statusColor(s){return s==='Read'?'#e7ecda;color:#4d531f':s==='Reading'?'#f6ecd4;color:#8a6312':'#efe6da;color:#6b5535'}
+  function draw(){
+    shelf.innerHTML='';var shown=0;
+    books.forEach(function(b){
+      var matchF=(curF==='all'||b[3]===curF);
+      var matchQ=(b[0]+' '+b[1]).toLowerCase().indexOf(curQ)>-1;
+      if(matchF&&matchQ){
+        shown++;
+        var initials=b[0].replace(/[^A-Za-z ]/g,'').split(' ')[0][0];
+        var d=document.createElement('div');d.className='book';
+        d.innerHTML='<div class="spine" style="background:'+b[5]+'">'+initials+'</div>'+
+          '<div><h3>'+b[0]+'</h3><div class="auth">'+b[1]+'</div>'+
+          '<div class="meta">'+b[2]+'</div>'+
+          '<div class="meta" style="margin-top:6px">'+b[6]+'</div>'+
+          '<span class="pill" style="background:'+statusColor(b[4])+'">'+b[4]+'</span></div>';
+        shelf.appendChild(d);
+      }
+    });
+    if(shown===0)shelf.innerHTML='<div class="empty">No volumes match this view.</div>';
+  }
+  document.querySelectorAll('.filters button').forEach(function(btn){
+    btn.addEventListener('click',function(){document.querySelectorAll('.filters button').forEach(function(b){b.classList.remove('on')});btn.classList.add('on');curF=btn.dataset.f;draw();});
+  });
+  document.getElementById('search').addEventListener('input',function(e){curQ=e.target.value.toLowerCase().trim();draw();});
+
+  // rings + bars on load
+  window.addEventListener('load',function(){
+    var rings=[['r1',214*0],['r2',214*(1-0.5)],['r3',214*(1-0.2)],['r4',214*(1-0.3)]];
+    setTimeout(function(){rings.forEach(function(r){var c=document.getElementById(r[0]);c.style.transition='stroke-dashoffset 1.3s ease';c.setAttribute('stroke-dashoffset',r[1])})},250);
+    setTimeout(function(){document.querySelectorAll('.gfill').forEach(function(f){f.style.width=f.dataset.w+'%'})},350);
+    draw();
+    var d=new Date();
+    document.getElementById('clock').textContent='Morning study, before the day begins';
+  });
+</script>
+</body>
+</html>

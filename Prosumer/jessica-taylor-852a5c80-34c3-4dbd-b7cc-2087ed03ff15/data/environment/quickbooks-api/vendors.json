@@ -1,0 +1,362 @@
+[
+  {
+    "Id": "v-adobe",
+    "DisplayName": "Adobe Creative Cloud",
+    "PrimaryEmailAddr": {
+      "Address": "billing@adobe.com"
+    },
+    "Notes": "$54.99/mo — All Apps subscription",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "345 Park Ave",
+    "BillAddr_City": "San Jose",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "95110",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-figma",
+    "DisplayName": "Figma",
+    "PrimaryEmailAddr": {
+      "Address": "billing@figma.com"
+    },
+    "Notes": "Professional plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "116 New Montgomery St",
+    "BillAddr_City": "San Francisco",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "94105",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-squarespace",
+    "DisplayName": "Squarespace",
+    "PrimaryEmailAddr": {
+      "Address": "billing@squarespace.com"
+    },
+    "Notes": "taylorvisualstudio.com hosting + domain",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "225 Varick St",
+    "BillAddr_City": "New York",
+    "BillAddr_CountrySubDivisionCode": "NY",
+    "BillAddr_PostalCode": "10014",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-google-ws",
+    "DisplayName": "Google Workspace",
+    "PrimaryEmailAddr": {
+      "Address": "workspace-support@google.com"
+    },
+    "Notes": "Business Starter plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "1600 Amphitheatre Pkwy",
+    "BillAddr_City": "Mountain View",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "94043",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-quickbooks",
+    "DisplayName": "Intuit QuickBooks",
+    "PrimaryEmailAddr": {
+      "Address": "billing@intuit.com"
+    },
+    "Notes": "Simple Start plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "560 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90014",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-ally",
+    "DisplayName": "Ally Bank",
+    "PrimaryEmailAddr": {
+      "Address": "customercare@ally.com"
+    },
+    "Notes": "Business checking + high-yield savings",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "575 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90015",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-fidelity",
+    "DisplayName": "Fidelity Investments",
+    "PrimaryEmailAddr": {
+      "Address": "service@fidelity.com"
+    },
+    "Notes": "Roth IRA",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "590 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90016",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-lemonade",
+    "DisplayName": "Lemonade Insurance",
+    "PrimaryEmailAddr": {
+      "Address": "help@lemonade.com"
+    },
+    "Notes": "Renter's insurance",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "605 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90017",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-coveredca",
+    "DisplayName": "Covered California",
+    "PrimaryEmailAddr": {
+      "Address": "support@coveredca.com"
+    },
+    "Notes": "ACA silver plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "620 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90018",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-bh",
+    "DisplayName": "B&H Photo Video",
+    "PrimaryEmailAddr": {
+      "Address": "help@bhphotovideo.com"
+    },
+    "Notes": "Design supplies + hardware",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "635 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90019",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-adobe-dup2",
+    "DisplayName": "Adobe Creative Cloud",
+    "PrimaryEmailAddr": {
+      "Address": "billing@adobe.com"
+    },
+    "Notes": "$54.99/mo — All Apps subscription",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "345 Park Ave",
+    "BillAddr_City": "San Jose",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "95110",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-figma-dup2",
+    "DisplayName": "Figma",
+    "PrimaryEmailAddr": {
+      "Address": "billing@figma.com"
+    },
+    "Notes": "Professional plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "116 New Montgomery St",
+    "BillAddr_City": "San Francisco",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "94105",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-squarespace-dup2",
+    "DisplayName": "Squarespace",
+    "PrimaryEmailAddr": {
+      "Address": "billing@squarespace.com"
+    },
+    "Notes": "taylorvisualstudio.com hosting + domain",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "225 Varick St",
+    "BillAddr_City": "New York",
+    "BillAddr_CountrySubDivisionCode": "NY",
+    "BillAddr_PostalCode": "10014",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-google-ws-dup2",
+    "DisplayName": "Google Workspace",
+    "PrimaryEmailAddr": {
+      "Address": "workspace-support@google.com"
+    },
+    "Notes": "Business Starter plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "1600 Amphitheatre Pkwy",
+    "BillAddr_City": "Mountain View",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "94043",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-quickbooks-dup2",
+    "DisplayName": "Intuit QuickBooks",
+    "PrimaryEmailAddr": {
+      "Address": "billing@intuit.com"
+    },
+    "Notes": "Simple Start plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "710 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90024",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-ally-dup2",
+    "DisplayName": "Ally Bank",
+    "PrimaryEmailAddr": {
+      "Address": "customercare@ally.com"
+    },
+    "Notes": "Business checking + high-yield savings",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "725 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90025",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-fidelity-dup2",
+    "DisplayName": "Fidelity Investments",
+    "PrimaryEmailAddr": {
+      "Address": "service@fidelity.com"
+    },
+    "Notes": "Roth IRA",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "740 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90026",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-lemonade-dup2",
+    "DisplayName": "Lemonade Insurance",
+    "PrimaryEmailAddr": {
+      "Address": "help@lemonade.com"
+    },
+    "Notes": "Renter's insurance",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "755 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90027",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-coveredca-dup2",
+    "DisplayName": "Covered California",
+    "PrimaryEmailAddr": {
+      "Address": "support@coveredca.com"
+    },
+    "Notes": "ACA silver plan",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "770 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90028",
+    "Vendor1099": false
+  },
+  {
+    "Id": "v-bh-dup2",
+    "DisplayName": "B&H Photo Video",
+    "PrimaryEmailAddr": {
+      "Address": "help@bhphotovideo.com"
+    },
+    "Notes": "Design supplies + hardware",
+    "Active": true,
+    "Balance": 0.0,
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002670118"
+    },
+    "BillAddr_Line1": "785 S Grand Ave",
+    "BillAddr_City": "Los Angeles",
+    "BillAddr_CountrySubDivisionCode": "CA",
+    "BillAddr_PostalCode": "90029",
+    "Vendor1099": false
+  }
+]

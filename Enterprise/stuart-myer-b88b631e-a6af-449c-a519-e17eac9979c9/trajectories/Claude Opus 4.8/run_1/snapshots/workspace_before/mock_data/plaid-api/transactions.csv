@@ -1,0 +1,50 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn-payroll-2026-03,acc_chk_001,4333.33,USD,2026-03-31,Payroll — Driftwood Brewing Company,Driftwood Brewing Company,"[""Transfer"", ""Payroll""]",False,online
+txn-payroll-2026-04,acc_chk_001,4333.33,USD,2025-10-28,Payroll — Driftwood Brewing Company,Driftwood Brewing Company,"[""Transfer"", ""Payroll""]",False,online
+txn-payroll-2026-05,acc_chk_001,4333.33,USD,2025-11-26,Payroll — Driftwood Brewing Company,Driftwood Brewing Company,"[""Transfer"", ""Payroll""]",False,online
+txn-payroll-2026-06,acc_chk_001,4333.33,USD,2025-12-24,Payroll — Driftwood Brewing Company,Driftwood Brewing Company,"[""Transfer"", ""Payroll""]",False,online
+txn-rent-2026-03,acc_chk_001,-1100.0,USD,2026-03-01,Rent payment — SE Hawthorne apartment,Hawthorne Ridge Property Management,"[""Payment"", ""Rent""]",False,online
+txn-rent-2026-04,acc_chk_001,-1100.0,USD,2025-09-29,Rent payment — SE Hawthorne apartment,Hawthorne Ridge Property Management,"[""Payment"", ""Rent""]",False,online
+txn-rent-2026-05,acc_chk_001,-1100.0,USD,2025-10-29,Rent payment — SE Hawthorne apartment,Hawthorne Ridge Property Management,"[""Payment"", ""Rent""]",False,online
+txn-rent-2026-06,acc_chk_001,-1100.0,USD,2025-11-29,Rent payment — SE Hawthorne apartment,Hawthorne Ridge Property Management,"[""Payment"", ""Rent""]",False,online
+txn-geico-2026-04,acc_chk_001,-95.0,USD,2025-10-13,GEICO auto insurance,GEICO,"[""Service"", ""Insurance""]",False,online
+txn-geico-2026-05,acc_chk_001,-95.0,USD,2025-11-12,GEICO auto insurance,GEICO,"[""Service"", ""Insurance""]",False,online
+txn-geico-2026-06,acc_chk_001,-95.0,USD,2025-12-13,GEICO auto insurance,GEICO,"[""Service"", ""Insurance""]",False,online
+txn-studentloan-2026-04,acc_chk_001,-260.0,USD,2025-10-08,Student loan payment — Thornfield University,FedLoan Servicing,"[""Payment"", ""Loan""]",False,online
+txn-studentloan-2026-05,acc_chk_001,-260.0,USD,2025-11-07,Student loan payment — Thornfield University,FedLoan Servicing,"[""Payment"", ""Loan""]",False,online
+txn-studentloan-2026-06,acc_chk_001,-260.0,USD,2025-12-08,Student loan payment — Thornfield University,FedLoan Servicing,"[""Payment"", ""Loan""]",False,online
+txn-aca-2026-04,acc_chk_001,-340.0,USD,2025-10-03,ACA Silver health premium,Providence Health Plan,"[""Service"", ""Insurance""]",False,online
+txn-aca-2026-05,acc_chk_001,-340.0,USD,2025-11-02,ACA Silver health premium,Providence Health Plan,"[""Service"", ""Insurance""]",False,online
+txn-aca-2026-06,acc_chk_001,-340.0,USD,2025-12-03,ACA Silver health premium,Providence Health Plan,"[""Service"", ""Insurance""]",False,online
+txn-spotify-2026-06,acc_chk_001,-11.99,USD,2025-11-30,Spotify Premium,Spotify,"[""Service"", ""Subscription""]",False,online
+txn-youtube-2026-06,acc_chk_001,-13.99,USD,2025-11-30,YouTube Premium,YouTube Premium,"[""Service"", ""Subscription""]",False,online
+txn-strava-2026-06,acc_chk_001,-11.99,USD,2025-12-02,Strava Summit subscription,Strava,"[""Service"", ""Subscription""]",False,online
+txn-peoples-coop-2025-12-18,acc_chk_001,-78.42,USD,2025-12-18,Groceries — People's Food Co-op,People's Food Co-op,"[""Food and Drink"", ""Groceries""]",False,in store
+txn-peoples-coop-2025-12-04,acc_chk_001,-64.18,USD,2025-12-04,Groceries — People's Food Co-op,People's Food Co-op,"[""Food and Drink"", ""Groceries""]",False,in store
+txn-farmers-market-2025-12-25,acc_chk_001,-42.5,USD,2025-12-25,Saturday farmers market produce,Portland Farmers Market,"[""Food and Drink"", ""Groceries""]",False,in store
+txn-farmers-market-2025-12-11,acc_chk_001,-38.75,USD,2025-12-11,Saturday farmers market produce,Portland Farmers Market,"[""Food and Drink"", ""Groceries""]",False,in store
+txn-costco-2025-12-06,acc_chk_001,-156.83,USD,2025-12-06,Costco run,Costco Wholesale,"[""Shops"", ""Warehouses and Wholesale Stores""]",False,in store
+txn-stumptown-2025-12-22,acc_chk_001,-6.5,USD,2025-12-22,Stumptown Coffee,Stumptown Coffee Roasters,"[""Food and Drink"", ""Coffee Shop""]",False,in store
+txn-stumptown-2025-12-09,acc_chk_001,-12.75,USD,2025-12-09,Stumptown Coffee — beans,Stumptown Coffee Roasters,"[""Food and Drink"", ""Coffee Shop""]",False,in store
+txn-chevron-2025-12-16,acc_chk_001,-48.1,USD,2025-12-16,Fuel — Chevron,Chevron,"[""Travel"", ""Gas Stations""]",False,in store
+txn-chevron-2025-11-18,acc_chk_001,-51.62,USD,2025-11-18,Fuel — Chevron,Chevron,"[""Travel"", ""Gas Stations""]",False,in store
+txn-river-city-bikes-2025-12-07,acc_chk_001,-64.0,USD,2025-12-07,Bike tune-up — River City Bicycles,River City Bicycles,"[""Shops"", ""Sporting Goods""]",False,in store
+txn-rei-2025-11-19,acc_chk_001,-118.45,USD,2025-11-19,REI — cycling gear,REI,"[""Shops"", ""Sporting Goods""]",False,in store
+txn-sep-ira-2026-06,acc_chk_001,-500.0,USD,2025-12-23,Transfer to SEP-IRA,Alpaca Securities,"[""Transfer"", ""Withdrawal""]",False,online
+txn-savings-transfer-out-2026-06,acc_chk_001,-300.0,USD,2025-12-23,Transfer to emergency savings,First Bank of Portland,"[""Transfer"", ""Withdrawal""]",False,online
+txn-savings-deposit-2026-06,acc_sav_002,300.0,USD,2025-12-23,Transfer from checking — emergency fund,First Bank of Portland,"[""Transfer"", ""Deposit""]",False,online
+txn-savings-deposit-2026-05,acc_sav_002,200.0,USD,2025-11-23,Transfer from checking — emergency fund,First Bank of Portland,"[""Transfer"", ""Deposit""]",False,online
+txn-savings-interest-2026-06,acc_sav_002,6.18,USD,2025-12-28,Savings interest,First Bank of Portland,"[""Interest"", ""Interest Earned""]",False,other
+txn-pacific-malt-2026-06,acc_biz_003,-1845.0,USD,2025-12-10,Grain order — Pacific Malt Company,Pacific Malt Company,"[""Shops"", ""Wholesale""]",False,online
+txn-pacific-malt-2026-05,acc_biz_003,-1620.5,USD,2025-11-11,Grain order — Pacific Malt Company,Pacific Malt Company,"[""Shops"", ""Wholesale""]",False,online
+txn-crosby-hops-2026-06,acc_biz_003,-920.0,USD,2025-12-14,Hops order — Crosby Hops,Crosby Hops,"[""Shops"", ""Wholesale""]",False,online
+txn-sauvie-farms-2026-06,acc_biz_003,-310.0,USD,2025-12-20,Honey & fruit — Sauvie Island Farms,Sauvie Island Farms,"[""Shops"", ""Wholesale""]",False,online
+txn-ball-cans-2026-06,acc_biz_003,-1280.0,USD,2025-12-17,Can supply order — Ball Corporation,Ball Corporation,"[""Shops"", ""Wholesale""]",False,online
+txn-square-deposit-2025-12-26,acc_biz_003,3120.18,USD,2025-12-26,Square taproom deposit,Square,"[""Transfer"", ""Deposit""]",False,online
+txn-square-deposit-2025-12-19,acc_biz_003,2840.55,USD,2025-12-19,Square taproom deposit,Square,"[""Transfer"", ""Deposit""]",False,online
+txn-square-deposit-2025-12-12,acc_biz_003,2675.4,USD,2025-12-12,Square taproom deposit,Square,"[""Transfer"", ""Deposit""]",False,online
+txn-square-deposit-2025-12-05,acc_biz_003,2990.12,USD,2025-12-05,Square taproom deposit,Square,"[""Transfer"", ""Deposit""]",False,online
+txn-ekos-2026-06,acc_biz_003,-149.0,USD,2025-12-03,Ekos brewery management subscription,Ekos,"[""Service"", ""Subscription""]",False,online
+txn-pge-2026-06,acc_biz_003,-612.4,USD,2025-12-08,Brewery electricity — Portland General Electric,Portland General Electric,"[""Service"", ""Utilities""]",False,online
+txn-nw-natural-2026-06,acc_biz_003,-184.25,USD,2025-12-08,Brewery natural gas — NW Natural,NW Natural,"[""Service"", ""Utilities""]",False,online
+txn-brewery-lease-2026-06,acc_biz_003,-2600.0,USD,2025-12-13,Brewery lease — E Burnside,Burnside Commercial Properties,"[""Payment"", ""Rent""]",False,online

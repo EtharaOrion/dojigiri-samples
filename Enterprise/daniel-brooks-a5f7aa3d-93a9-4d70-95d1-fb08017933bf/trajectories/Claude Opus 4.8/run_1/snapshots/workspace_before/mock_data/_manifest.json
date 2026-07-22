@@ -1,0 +1,232 @@
+{
+  "label": "before_injection",
+  "ts": 1784456021.424497,
+  "ts_iso": "2026-07-19T10:13:41Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 1,
+        "records_tblContacts00001": 45,
+        "records_tblProjects00001": 46,
+        "records_tblTasks00000001": 116,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 4,
+        "sections": 16,
+        "tasks": 120,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "coinbase-api": {
+      "tables": {
+        "accounts": 6,
+        "prices": 30,
+        "transactions": 25
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "confluence-api": {
+      "tables": {
+        "comments": 3,
+        "labels": 35,
+        "pages": 11,
+        "spaces": 4
+      },
+      "documents": {}
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 8,
+        "envelopes": 126,
+        "recipients": 34,
+        "templates": 4
+      },
+      "documents": {}
+    },
+    "eventbrite-api": {
+      "tables": {
+        "attendees": 40,
+        "events": 28,
+        "organizations": 1,
+        "ticket_classes": 39,
+        "venues": 1
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 1,
+        "labels": 7,
+        "messages": 169
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 1,
+        "events": 106
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 1
+      },
+      "documents": {}
+    },
+    "instagram-api": {
+      "tables": {
+        "carousel_children": 8,
+        "comments": 115,
+        "hashtags": 1,
+        "media": 23,
+        "media_insights": 8,
+        "mentions": 8,
+        "stories": 6,
+        "users": 21
+      },
+      "documents": {}
+    },
+    "jira-api": {
+      "tables": {
+        "boards": 2,
+        "issues": 116,
+        "projects": 2,
+        "sprints": 2,
+        "users": 34
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 10,
+        "lists": 5,
+        "members": 126,
+        "reports": 7
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 141,
+        "comments": 3,
+        "databases": 3,
+        "pages": 11,
+        "users": 2
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "paypal-api": {
+      "tables": {
+        "captures": 15,
+        "invoices": 15,
+        "orders": 20,
+        "payouts": 8,
+        "refunds": 5
+      },
+      "documents": {}
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 3,
+        "transactions": 48
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 25,
+        "bills": 25,
+        "customers": 41,
+        "estimates": 7,
+        "expenses": 12,
+        "invoices": 40,
+        "items": 9,
+        "payments": 24,
+        "vendors": 5
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 20,
+        "Contact": 122,
+        "Lead": 20,
+        "Opportunity": 10
+      },
+      "documents": {}
+    },
+    "square-api": {
+      "tables": {
+        "catalog": 10,
+        "customers": 12,
+        "inventory": 10,
+        "orders": 30,
+        "payments": 12,
+        "refunds": 0
+      },
+      "documents": {
+        "merchant": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 25,
+        "customers": 25,
+        "invoices": 24,
+        "payment_intents": 0,
+        "prices": 5,
+        "products": 4,
+        "refunds": 0,
+        "subscriptions": 6
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "twitter-api": {
+      "tables": {
+        "follows": 40,
+        "likes": 18,
+        "retweets": 8,
+        "tweets": 18,
+        "users": 21
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 12,
+        "contacts": 30,
+        "invoices": 10
+      },
+      "documents": {}
+    }
+  }
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pipeline studio="Taylor Visual Studio" rate_usd_hr="75">
+  <project id="P001">
+    <name>Brand refresh</name>
+    <client>Verdant Provisions</client>
+    <stage>concepts</stage>
+    <revisions used="0" allowed="2"/>
+    <due>2026-02-20</due>
+    <status>in progress</status>
+  </project>
+  <project id="P002">
+    <name>Logo and signage</name>
+    <client>Pinnacle Collective</client>
+    <stage>revisions</stage>
+    <revisions used="1" allowed="2"/>
+    <due>2026-02-13</due>
+    <status>in progress</status>
+  </project>
+  <project id="P003">
+    <name>Seasonal packaging</name>
+    <client>Bloom Skin Co</client>
+    <stage>final delivery</stage>
+    <revisions used="2" allowed="2"/>
+    <due>2026-02-16</due>
+    <status>delivered</status>
+  </project>
+  <project id="P004">
+    <name>Holiday label set</name>
+    <client>Bloom Skin Co</client>
+    <stage>closed</stage>
+    <revisions used="2" allowed="2"/>
+    <due>2025-12-15</due>
+    <status>closed</status>
+  </project>
+</pipeline>

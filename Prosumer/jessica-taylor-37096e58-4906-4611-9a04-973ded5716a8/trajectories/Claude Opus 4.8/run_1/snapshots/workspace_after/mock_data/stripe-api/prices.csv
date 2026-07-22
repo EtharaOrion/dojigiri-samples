@@ -1,0 +1,21 @@
+id,product,unit_amount,currency,recurring_interval,active,nickname,__api__,__table__,__file__,__row_index__,object,recurring,type
+price_1PxQr5N7fHtLmBvR3nKq,prod_LmR3hVn7pXtKgB,650000,usd,one_time,True,Brand Identity Package,stripe-api,prices,/opt/mocks/stripe-api/prices.json,0,price,"{""interval"": ""one_time""}",recurring
+price_1PxQr8T2vLpHnMbK5jFc,prod_QzT8sPfN4bWjKm,280000,usd,one_time,True,Logo Design Sprint,stripe-api,prices,/opt/mocks/stripe-api/prices.json,1,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrBW6pRjNhTv2LmXd,prod_HwYc6VjB2rLpNx,420000,usd,one_time,True,Packaging Design,stripe-api,prices,/opt/mocks/stripe-api/prices.json,2,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrEH4nKvPbTr7Wjhq,prod_JnKp5MhT9qFvBd,360000,usd,one_time,True,Signage and Wayfinding,stripe-api,prices,/opt/mocks/stripe-api/prices.json,3,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrHZ8kMbYtHp3RcVn,prod_XcRl3NgP7yHkVm,540000,usd,one_time,True,Squarespace Site Design,stripe-api,prices,/opt/mocks/stripe-api/prices.json,4,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrKD5jNhTpLc7MbRq,prod_DbW9jTqZ4rLpMh,380000,usd,one_time,True,Shopify Theme Refresh,stripe-api,prices,/opt/mocks/stripe-api/prices.json,5,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrNF3bLqXtHm5KrJv,prod_NsFy8VbK5pMhLc,350000,usd,one_time,True,Annual Report Design,stripe-api,prices,/opt/mocks/stripe-api/prices.json,6,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrQY7mHtVpNc4LbTf,prod_PmH4rQjTb6VnKw,180000,usd,one_time,True,Print Collateral,stripe-api,prices,/opt/mocks/stripe-api/prices.json,7,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrSK9nRpBhLc2JmVx,prod_ZkTv7LxRb2MhNp,260000,usd,one_time,True,Style Guide Book,stripe-api,prices,/opt/mocks/stripe-api/prices.json,8,price,"{""interval"": ""one_time""}",recurring
+price_1PxQrVT4jLhNbKp7HcRm,prod_YbC9nWjHt5LpQr,220000,usd,month,True,Monthly Retainer,stripe-api,prices,/opt/mocks/stripe-api/prices.json,9,price,"{""interval"": ""month""}",recurring
+price_1PxQrYH6pWjBrLc3MnTk,prod_MfR2sPvLc7NhWk,600000,usd,month,True,Quarterly Retainer Billed Monthly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,10,price,"{""interval"": ""month""}",recurring
+price_1PxQs2N3kLhVbTp8RcJm,prod_KxJp6VnBt4HqLm,19500,usd,one_time,True,Consultation Hourly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,11,price,"{""interval"": ""one_time""}",recurring
+price_1PxQs4M7bRpHtLc5KnJv,prod_QwGn8ZbTr5MpKh,165000,usd,one_time,True,Type and Color Exploration,stripe-api,prices,/opt/mocks/stripe-api/prices.json,12,price,"{""interval"": ""one_time""}",recurring
+price_1PxQs7Y9nMhBrKp4LcTf,prod_LhVc3RpKt7NbFw,140000,usd,one_time,True,Menu Design,stripe-api,prices,/opt/mocks/stripe-api/prices.json,13,price,"{""interval"": ""one_time""}",recurring
+price_1PxQsAJ5kHtNpLc2MbRq,prod_TsBn9MqPr4WjHk,140000,usd,one_time,True,Icon Set,stripe-api,prices,/opt/mocks/stripe-api/prices.json,14,price,"{""interval"": ""one_time""}",recurring
+price_1PxQsCT8pRjBhLm6NkVc,prod_XmR7fQvNt2LpHb,240000,usd,one_time,True,Illustration Package,stripe-api,prices,/opt/mocks/stripe-api/prices.json,15,price,"{""interval"": ""one_time""}",recurring
+price_1PxQsFH4nWjBrLc3MpTk,prod_JbLp5YkTr8WcMh,220000,usd,one_time,True,Trade Show Booth Graphics,stripe-api,prices,/opt/mocks/stripe-api/prices.json,16,price,"{""interval"": ""one_time""}",recurring
+price_1PxQsHM6jLpNhTb7RcKv,prod_HqNc6VpMt3RbKw,340000,usd,one_time,True,Landing Page Design,stripe-api,prices,/opt/mocks/stripe-api/prices.json,17,price,"{""interval"": ""one_time""}",recurring
+price_1PxQsKN9bRpHtLc5KmJv,prod_DcW8pFjBt5LqNh,480000,usd,one_time,True,Microsite Build,stripe-api,prices,/opt/mocks/stripe-api/prices.json,18,price,"{""interval"": ""one_time""}",recurring
+price_1PxQsMY3kHtNpLc2MbRq,prod_VmR2sHnKt7BpLc,290000,usd,one_time,True,Portfolio Print Publication,stripe-api,prices,/opt/mocks/stripe-api/prices.json,19,price,"{""interval"": ""one_time""}",recurring

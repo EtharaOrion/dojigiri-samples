@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Stuart Myer",
+    "PreparedDate": "2025-10-22",
+    "Context": "Quick back-of-napkin after Burnside Industrial mentioned the fall lease renewal might bump our rent. Wanted to sanity-check where break-even sits before Jake and I talk it over.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 8,
+          "Rate": 470,
+          "Total": 3760
+        },
+        "DropIns": {
+          "AvgMonthly": 90
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 60
+        },
+        "TotalMonthlyRevenue": 3910
+      },
+      "MonthlyExpenses": {
+        "Rent": 650,
+        "Utilities": {
+          "Electric": 165,
+          "Water": 55,
+          "Total": 220
+        },
+        "Insurance": {
+          "Quarterly": 840,
+          "Monthly": 280
+        },
+        "InstructorPay_Raj": 1100,
+        "Cleaning": {
+          "BiWeekly": 140,
+          "Monthly": 280
+        },
+        "Supplies": {
+          "AvgMonthly": 100
+        },
+        "Marketing": {
+          "AvgMonthly": 40
+        },
+        "TotalMonthlyExpenses": 2670
+      },
+      "MonthlyNetIncome": 1240,
+      "AaronDrawFromNet": 700,
+      "RetainedForReserves": 540,
+      "Note": "Rough estimate only. Revenue line here is just the wholesale keg side at roughly $470 per account per month; taproom pours are on top of this. Revisit with Jake once Q3 actuals are closed."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Rent increases to $750/mo if the lease renewal passes it through",
+        "NewRent": 750,
+        "RentIncrease": 100,
+        "NewTotalExpenses": 2770,
+        "NewNetIncome": 1140,
+        "BreakEvenMembers": 6,
+        "BreakEvenCalculation": "Fixed costs $2,670 + $100 increase = $2,770. At $470 per wholesale account, $2,770 / $470 = 5.9, so about 6 accounts minimum to cover fixed costs.",
+        "Impact": "Minimal. Well within buffer at 8 wholesale accounts."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case - rent to $850/mo (unlikely per Burnside Industrial)",
+        "NewRent": 850,
+        "RentIncrease": 200,
+        "NewTotalExpenses": 2870,
+        "NewNetIncome": 1040,
+        "BreakEvenMembers": 7,
+        "Impact": "Still fine. Landlord said this was unlikely but wanted to stress test it."
+      }
+    },
+    "KeyInsight": "Break-even is about 6 wholesale accounts on the keg side at current cost structure. At 8 accounts plus taproom pours we have comfortable headroom. Main concern is the winter taproom dip but even then we hold.",
+    "ActionItems": [
+      "Wait for Burnside Industrial to confirm the lease renewal terms",
+      "Revisit after Q3 close with Jake for proper modeling"
+    ]
+  }
+}

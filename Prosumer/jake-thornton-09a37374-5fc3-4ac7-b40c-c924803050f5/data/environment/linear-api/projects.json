@@ -1,0 +1,26 @@
+[
+  {
+    "id": "58e5iz2ahdq",
+    "name": "Recipe blog full launch",
+    "description": "Get all twelve canonical dishes photographed, edited, and published for the March 1 launch.",
+    "state": "started",
+    "leadId": "user-cfcd215795",
+    "teamIds": "vpf9j647cj8sa",
+    "startDate": "2026-11-01",
+    "targetDate": "2027-03-01",
+    "createdAt": "2026-11-01T09:00:00Z",
+    "updatedAt": "2027-01-01T00:00:00Z"
+  },
+  {
+    "id": "ey8tdcroxru907b",
+    "name": "Blog landing and signup",
+    "description": "Landing page copy and Calendly signup wiring for launch.",
+    "state": "planned",
+    "leadId": "user-cfcd215795",
+    "teamIds": "team-platform;team-ops",
+    "startDate": "2026-11-01",
+    "targetDate": "2027-02-15",
+    "createdAt": "2026-10-01T09:00:00Z",
+    "updatedAt": "2027-01-01T00:00:00Z"
+  }
+]

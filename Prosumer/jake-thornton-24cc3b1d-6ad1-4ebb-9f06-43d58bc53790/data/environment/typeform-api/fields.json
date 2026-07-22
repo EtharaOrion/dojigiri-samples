@@ -1,0 +1,42 @@
+[
+  {
+    "field_id": "fld-cfcd215795",
+    "form_id": "frm-cfcd215795",
+    "title": "Your name",
+    "field_type": "short_text",
+    "ref": "name",
+    "required": "true",
+    "choices": "Midwifery|Cooking Classes|Both",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-c4ca4238a7300",
+    "form_id": "frm-cfcd215795",
+    "title": "Work email",
+    "field_type": "email",
+    "ref": "email",
+    "required": "true",
+    "choices": "Midwifery|Cooking Classes|Both",
+    "order": "2"
+  },
+  {
+    "field_id": "shkcvi4rdc0ext",
+    "form_id": "frm-cfcd215795",
+    "title": "What's your role?",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "required": "false",
+    "choices": "Midwifery|Cooking Classes|Front Office|Other",
+    "order": "3"
+  },
+  {
+    "field_id": "h0q0omcb53m6u7",
+    "form_id": "frm-cfcd215795",
+    "title": "How likely are you to recommend us?",
+    "field_type": "rating",
+    "ref": "nps",
+    "required": "true",
+    "choices": "Midwifery|Cooking Classes|Both",
+    "order": "4"
+  }
+]

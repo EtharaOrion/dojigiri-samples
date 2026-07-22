@@ -1,0 +1,182 @@
+[
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": "0",
+    "probability": "0.20",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": "1",
+    "probability": "0.40",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": "2",
+    "probability": "0.60",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": "3",
+    "probability": "0.80",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.00",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.00",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default-v006",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled-v006",
+    "stage_label": "Appointment Scheduled",
+    "display_order": "0",
+    "probability": "0.20",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v007",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy-v007",
+    "stage_label": "Qualified To Buy",
+    "display_order": "1",
+    "probability": "0.40",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v008",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled-v008",
+    "stage_label": "Presentation Scheduled",
+    "display_order": "2",
+    "probability": "0.60",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v009",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin-v009",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": "3",
+    "probability": "0.80",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v010",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon-v010",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.00",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default-v011",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost-v011",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.00",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default-v012",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled-v012",
+    "stage_label": "Appointment Scheduled",
+    "display_order": "0",
+    "probability": "0.20",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v013",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy-v013",
+    "stage_label": "Qualified To Buy",
+    "display_order": "1",
+    "probability": "0.40",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v014",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled-v014",
+    "stage_label": "Presentation Scheduled",
+    "display_order": "2",
+    "probability": "0.60",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v015",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin-v015",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": "3",
+    "probability": "0.80",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v016",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon-v016",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.00",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default-v017",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost-v017",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.00",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default-v018",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled-v018",
+    "stage_label": "Appointment Scheduled",
+    "display_order": "0",
+    "probability": "0.20",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default-v019",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy-v019",
+    "stage_label": "Qualified To Buy",
+    "display_order": "1",
+    "probability": "0.40",
+    "closed": "false"
+  }
+]

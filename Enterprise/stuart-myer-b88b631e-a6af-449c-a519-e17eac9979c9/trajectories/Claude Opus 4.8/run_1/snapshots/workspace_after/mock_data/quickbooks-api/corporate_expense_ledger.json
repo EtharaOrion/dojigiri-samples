@@ -1,0 +1,54 @@
+{
+  "document_name": "Corporate Expense Ledger",
+  "account_id": 6,
+  "entries": [
+    {
+      "date": "10/02/2024",
+      "merchant": "Pacific Malt Company",
+      "employee": "Stuart Myer",
+      "amount": 1860.0
+    },
+    {
+      "date": "10/05/2024",
+      "merchant": "Crosby Hops",
+      "employee": "Stuart Myer",
+      "amount": 1240.0
+    },
+    {
+      "date": "10/07/2024",
+      "merchant": "Cascade Gas & Welding Supply",
+      "employee": "Jake Callahan",
+      "amount": 210.0
+    },
+    {
+      "date": "10/09/2024",
+      "merchant": "Square Processing Fees",
+      "employee": "Megan Hale",
+      "amount": 96.4
+    },
+    {
+      "date": "10/12/2024",
+      "merchant": "BrewPack Container Co",
+      "employee": "Stuart Myer",
+      "amount": 2380.0
+    },
+    {
+      "date": "10/15/2024",
+      "merchant": "Inkwell Label & Print",
+      "employee": "Megan Hale",
+      "amount": 620.0
+    },
+    {
+      "date": "10/18/2024",
+      "merchant": "White Labs",
+      "employee": "Stuart Myer",
+      "amount": 320.0
+    },
+    {
+      "date": "10/21/2024",
+      "merchant": "Sauvie Island Farms",
+      "employee": "Stuart Myer",
+      "amount": 280.0
+    }
+  ]
+}

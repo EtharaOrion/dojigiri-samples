@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designTokens project="Verdant Provisions" studio="Taylor Visual Studio" version="1.2" updated="2026-02-10">
+  <meta>
+    <author>Jessica Taylor</author>
+    <scale ratio="1.25" base="16"/>
+    <note>Locked tokens for the brand refresh. Hand off to the printer and the web build.</note>
+  </meta>
+  <colors>
+    <group name="Primary">
+      <token name="Field Green" hex="2E5B3E" usage="logo, headlines, primary buttons"/>
+      <token name="Sage" hex="8FA98A" usage="secondary, backgrounds, supporting marks"/>
+    </group>
+    <group name="Accent">
+      <token name="Clay" hex="B07A52" usage="seasonal accent, callouts"/>
+      <token name="Oat" hex="E7DFC9" usage="paper, panels, large fills"/>
+    </group>
+    <group name="Neutral">
+      <token name="Ink" hex="2B2B2B" usage="body text"/>
+      <token name="Paper" hex="F4F1E8" usage="page background"/>
+    </group>
+  </colors>
+  <typography>
+    <family role="display" stack="a quiet serif" weights="regular, medium"/>
+    <family role="text" stack="a clean grotesque" weights="regular, bold"/>
+    <step name="display" sizePt="48" lineHeight="1.05"/>
+    <step name="h1" sizePt="32" lineHeight="1.15"/>
+    <step name="h2" sizePt="24" lineHeight="1.2"/>
+    <step name="body" sizePt="11" lineHeight="1.5"/>
+    <step name="caption" sizePt="8" lineHeight="1.4"/>
+  </typography>
+  <spacing unit="pt">
+    <token name="xs" value="4"/>
+    <token name="sm" value="8"/>
+    <token name="md" value="16"/>
+    <token name="lg" value="24"/>
+    <token name="xl" value="40"/>
+  </spacing>
+  <packaging>
+    <rule minLabelWidthIn="1.0" note="logo must stay legible at one inch"/>
+    <sku name="core can" finish="matte" palette="Field Green, Oat"/>
+    <sku name="pouch" finish="kraft" palette="Sage, Clay"/>
+    <sku name="jar label" finish="uncoated" palette="Oat, Ink"/>
+  </packaging>
+</designTokens>

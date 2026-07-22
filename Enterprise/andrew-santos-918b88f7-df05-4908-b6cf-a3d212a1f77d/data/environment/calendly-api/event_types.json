@@ -1,0 +1,80 @@
+[
+  {
+    "active": "true",
+    "color": "#0069ff",
+    "created_at": "2025-10-12T00:00:00Z",
+    "description": "15-minute first conversation for funders, sector peers, or new partners. Pre-call notes welcome.",
+    "duration": 15,
+    "kind": "solo",
+    "name": "Funder / partner intro — 15 min",
+    "owner": "user-AAF3xk9Q",
+    "scheduling_url": "https://calendly.com/andrewsantos-dyaa/funder-intro",
+    "slug": "funder-intro",
+    "uuid": "et-funder-intro-15"
+  },
+  {
+    "active": "true",
+    "color": "#1aa763",
+    "created_at": "2025-10-12T00:00:00Z",
+    "description": "30-minute exploratory conversation for grant prospects and stewardship.",
+    "duration": 30,
+    "kind": "solo",
+    "name": "Grant exploration — 30 min",
+    "owner": "user-AAF3xk9Q",
+    "scheduling_url": "https://calendly.com/andrewsantos-dyaa/grant-exploration",
+    "slug": "grant-exploration",
+    "uuid": "et-grant-exploration-30"
+  },
+  {
+    "active": "true",
+    "color": "#9c27b0",
+    "created_at": "2025-10-12T00:00:00Z",
+    "description": "Mentee check-in: career and strategic decisions, no agenda required.",
+    "duration": 45,
+    "kind": "solo",
+    "name": "Mentee check-in — 45 min",
+    "owner": "user-AAF3xk9Q",
+    "scheduling_url": "https://calendly.com/andrewsantos-dyaa/mentee-checkin",
+    "slug": "mentee-checkin",
+    "uuid": "et-mentee-checkin-45"
+  },
+  {
+    "active": "true",
+    "color": "#ff9800",
+    "created_at": "2025-10-12T00:00:00Z",
+    "description": "20-minute follow-up slot for active grant conversations and committee work.",
+    "duration": 20,
+    "kind": "solo",
+    "name": "Funder follow-up — 20 min",
+    "owner": "user-AAF3xk9Q",
+    "scheduling_url": "https://calendly.com/andrewsantos-dyaa/follow-up",
+    "slug": "follow-up",
+    "uuid": "et-followup-20"
+  },
+  {
+    "active": "true",
+    "color": "#5e6ad2",
+    "created_at": "2025-10-12T00:00:00Z",
+    "description": "60-minute prospective board-member conversation. Andrew + Patricia Chen attend.",
+    "duration": 60,
+    "kind": "group",
+    "name": "Prospective board intro — 60 min",
+    "owner": "user-AAF3xk9Q",
+    "scheduling_url": "https://calendly.com/andrewsantos-dyaa/board-intro",
+    "slug": "board-intro",
+    "uuid": "et-board-intro-60"
+  },
+  {
+    "active": "true",
+    "color": "#26b5ce",
+    "created_at": "2025-10-12T00:00:00Z",
+    "description": "30-minute coffee with a sector peer in arts education or place-based youth work.",
+    "duration": 30,
+    "kind": "solo",
+    "name": "Sector peer coffee — 30 min",
+    "owner": "user-AAF3xk9Q",
+    "scheduling_url": "https://calendly.com/andrewsantos-dyaa/peer-coffee",
+    "slug": "peer-coffee",
+    "uuid": "et-peer-coffee-30"
+  }
+]

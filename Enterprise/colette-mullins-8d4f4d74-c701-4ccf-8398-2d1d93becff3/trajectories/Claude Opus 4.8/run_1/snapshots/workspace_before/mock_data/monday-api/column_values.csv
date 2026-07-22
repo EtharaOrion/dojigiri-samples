@@ -1,0 +1,57 @@
+item_id,column_id,text,value,_pk
+item-0001,status,Backlog,100004,item-0001@status
+item-0001,owner,2026-10-13,100001,item-0001@owner
+item-0001,date,2025-09-15,100005,item-0001@date
+item-0001,notes,Draft Q1 OKRs,100001,item-0001@notes
+item-0002,status-p01,In progress,100001,item-0002@status-p01
+item-0002,owner-p01,Renew SaaS contracts for next year,100003,item-0002@owner-p01
+item-0002,date-p01,2025-09-15-pad01,100001,item-0002@date-p01
+item-0002,notes-p01,Review pricing experiment results,100001,item-0002@notes-p01
+item-0003,status-p02,In review,100001,item-0003@status-p02
+item-0003,owner-p02,Walk through new hire onboarding plan,100004,item-0003@owner-p02
+item-0003,date-p02,2025-09-15-pad02,100006,item-0003@date-p02
+item-0003,notes-p02,Sync on candidate pipeline,100001,item-0003@notes-p02
+item-0004,status-p03,Done,100005,item-0004@status-p03
+item-0004,owner-p03,Prepare for security audit,100001,item-0004@owner-p03
+item-0004,date-p03,2025-09-15-pad03,100005,item-0004@date-p03
+item-0004,notes-p03,Pull together quarterly board update,100001,item-0004@notes-p03
+item-0005,status-p04,Backlog-pad01,100005,item-0005@status-p04
+item-0005,owner-p04,Backlog-pad02,100006,item-0005@owner-p04
+item-0005,date-p04,2025-09-15-pad04,100004,item-0005@date-p04
+item-0005,notes-p04,Triage support backlog,100002,item-0005@notes-p04
+item-0006,status-p05,In progress-pad01,100002,item-0006@status-p05
+item-0006,owner-p05,Schedule design crit for new onboarding,100002,item-0006@owner-p05
+item-0006,date-p05,2025-09-15-pad05,100001,item-0006@date-p05
+item-0006,notes-p05,Schedule design crit for new onboarding-pad01,100005,item-0006@notes-p05
+item-0007,status-p06,In review-pad01,100005,item-0007@status-p06
+item-0007,owner-p06,2026-10-13-pad01,100001,item-0007@owner-p06
+item-0007,date-p06,2025-09-15-pad06,100002,item-0007@date-p06
+item-0007,notes-p06,Send out customer NPS survey,100006,item-0007@notes-p06
+item-0008,status-p07,Done-pad01,100001,item-0008@status-p07
+item-0008,owner-p07,Sync on candidate pipeline-pad01,100004,item-0008@owner-p07
+item-0008,date-p07,2025-09-15-pad07,100001,item-0008@date-p07
+item-0008,notes-p07,Update team handbook,100001,item-0008@notes-p07
+item-0009,status-p08,Backlog-pad03,100005,item-0009@status-p08
+item-0009,owner-p08,In progress-pad02,100005,item-0009@owner-p08
+item-0009,date-p08,2025-09-15-pad08,100005,item-0009@date-p08
+item-0009,notes-p08,Plan team offsite agenda,100002,item-0009@notes-p08
+item-0010,status-p09,In progress-pad03,100004,item-0010@status-p09
+item-0010,owner-p09,Backlog-pad04,100001,item-0010@owner-p09
+item-0010,date-p09,2025-09-15-pad09,100005,item-0010@date-p09
+item-0010,notes-p09,Renew SaaS contracts for next year-pad01,100002,item-0010@notes-p09
+item-0011,status-p10,In review-pad02,100001,item-0011@status-p10
+item-0011,owner-p10,Approve next sprint scope,100002,item-0011@owner-p10
+item-0011,date-p10,2025-09-15-pad10,100001,item-0011@date-p10
+item-0011,notes-p10,Prepare for security audit-pad01,100001,item-0011@notes-p10
+item-0012,status-p11,Done-pad02,100001,item-0012@status-p11
+item-0012,owner-p11,Backlog-pad05,100003,item-0012@owner-p11
+item-0012,date-p11,2025-09-15-pad11,100006,item-0012@date-p11
+item-0012,notes-p11,Approve next sprint scope-pad01,100002,item-0012@notes-p11
+item-0013,status-p12,Backlog-pad06,100004,item-0013@status-p12
+item-0013,owner-p12,Write up postmortem from last incident,100001,item-0013@owner-p12
+item-0013,date-p12,2025-09-15-pad12,100006,item-0013@date-p12
+item-0013,notes-p12,Write up postmortem from last incident-pad01,100001,item-0013@notes-p12
+item-0014,status-p13,In progress-pad04,100001,item-0014@status-p13
+item-0014,owner-p13,Backlog-pad07,100005,item-0014@owner-p13
+item-0014,date-p13,2025-09-15-pad13,100001,item-0014@date-p13
+item-0014,notes-p13,Walk through new hire onboarding plan-pad01,100002,item-0014@notes-p13

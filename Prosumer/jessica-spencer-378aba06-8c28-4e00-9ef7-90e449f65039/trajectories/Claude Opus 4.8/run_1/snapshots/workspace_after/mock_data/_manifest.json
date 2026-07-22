@@ -1,0 +1,205 @@
+{
+  "label": "after_injection",
+  "ts": 1784376375.958803,
+  "ts_iso": "2026-07-18T12:06:15Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 20,
+        "records_tblContacts00001": 20,
+        "records_tblProjects00001": 20,
+        "records_tblTasks00000001": 104,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 25,
+        "sections": 20,
+        "tasks": 115,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "bamboohr-api": {
+      "tables": {
+        "employees": 37,
+        "time_off": 20,
+        "whos_out": 20
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 183,
+        "envelopes": 40,
+        "recipients": 20,
+        "templates": 20
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 27,
+        "labels": 20,
+        "messages": 111
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 20,
+        "events": 128
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "greenhouse-api": {
+      "tables": {
+        "applications": 20,
+        "candidates": 20,
+        "jobs": 20,
+        "scorecards": 20
+      },
+      "documents": {}
+    },
+    "gusto-api": {
+      "tables": {
+        "compensations": 20,
+        "contractors": 20,
+        "employees": 31,
+        "payrolls": 20
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 15
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 112,
+        "comments": 20,
+        "databases": 20,
+        "pages": 20,
+        "users": 20
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "okta-api": {
+      "tables": {
+        "app_assignments": 30,
+        "apps": 20,
+        "groups": 20,
+        "memberships": 26,
+        "users": 20
+      },
+      "documents": {}
+    },
+    "pinterest-api": {
+      "tables": {
+        "ad_accounts": 20,
+        "board_sections": 20,
+        "boards": 20,
+        "campaigns": 20,
+        "pin_analytics": 140,
+        "pins": 20,
+        "user_analytics": 20
+      },
+      "documents": {
+        "user_account_raw": true
+      }
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 20,
+        "transactions": 46
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "reddit-api": {
+      "tables": {
+        "comments": 20,
+        "posts": 20,
+        "subreddits": 20,
+        "users": 25
+      },
+      "documents": {}
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 20,
+        "Contact": 20,
+        "Lead": 20,
+        "Opportunity": 20
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 45,
+        "channels": 23,
+        "messages": 108,
+        "users": 22
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "spotify-api": {
+      "tables": {
+        "albums": 30,
+        "artists": 30,
+        "playlist_tracks": 88,
+        "playlists": 20,
+        "tracks": 150
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 20,
+        "contacts": 20,
+        "invoices": 30
+      },
+      "documents": {}
+    },
+    "yelp-api": {
+      "tables": {
+        "businesses": 25,
+        "categories": 30,
+        "reviews": 140
+      },
+      "documents": {}
+    },
+    "zillow-api": {
+      "tables": {
+        "agents": 20,
+        "price_history": 50,
+        "properties": 25,
+        "saved_searches": 20
+      },
+      "documents": {}
+    }
+  }
+}

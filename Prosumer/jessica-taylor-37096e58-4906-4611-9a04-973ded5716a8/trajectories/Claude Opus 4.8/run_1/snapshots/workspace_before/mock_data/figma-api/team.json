@@ -1,0 +1,32 @@
+{
+  "team": {
+    "id": "team-501",
+    "name": "Jessica Marie Taylor"
+  },
+  "me": {
+    "id": "user-1001",
+    "handle": "Grace Taylor",
+    "email": "jessica.taylor@Finthesiss.ai",
+    "img_url": "https://figma-avatars.gmail.com/user-1001.png"
+  },
+  "users": [
+    {
+      "id": "user-1001",
+      "handle": "Grace Taylor",
+      "email": "jessica.taylor@Finthesiss.ai",
+      "img_url": "https://figma-avatars.gmail.com/user-1001.png"
+    },
+    {
+      "id": "user-1002",
+      "handle": "Tomas Alvarez",
+      "email": "david.taylor.engineer@gmail.com",
+      "img_url": "https://figma-avatars.gmail.com/user-1002.png"
+    },
+    {
+      "id": "user-1003",
+      "handle": "Mara Lindqvist",
+      "email": "mia.petrov.la@gmail.com",
+      "img_url": "https://figma-avatars.gmail.com/user-1003.png"
+    }
+  ]
+}

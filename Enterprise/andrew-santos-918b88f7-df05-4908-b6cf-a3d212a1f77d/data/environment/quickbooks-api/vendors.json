@@ -1,0 +1,132 @@
+[
+  {
+    "Active": true,
+    "Balance": "240.00",
+    "DisplayName": "Stripe Atlas",
+    "Id": "2001",
+    "Notes": "Payment processing — monthly invoices.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@stripe.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13134561264"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "240.00",
+    "DisplayName": "Slack Technologies",
+    "Id": "2002",
+    "Notes": "Internal communications subscription.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@slack.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13135849370"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "0.00",
+    "DisplayName": "Notion Labs",
+    "Id": "2003",
+    "Notes": "Knowledge base subscription.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@notion.so"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13136998223"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "240.00",
+    "DisplayName": "Adobe Creative Cloud",
+    "Id": "2004",
+    "Notes": "Creative suite — annual renewal.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@adobe.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13138958712"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "0.00",
+    "DisplayName": "AWS",
+    "Id": "2005",
+    "Notes": "Infrastructure hosting and storage.",
+    "PrimaryEmailAddr": {
+      "Address": "no-reply@aws.amazon.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13135275750"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "0.00",
+    "DisplayName": "Google Workspace",
+    "Id": "2006",
+    "Notes": "Email, Drive, and calendaring.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@google.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13135726689"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "480.00",
+    "DisplayName": "Zoom Video Communications",
+    "Id": "2007",
+    "Notes": "Video conferencing — Pro plan.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@zoom.us"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13138313873"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "480.00",
+    "DisplayName": "Dropbox Business",
+    "Id": "2008",
+    "Notes": "Document storage subscription.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@dropbox.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13135846425"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "0.00",
+    "DisplayName": "Linear",
+    "Id": "2009",
+    "Notes": "Issue tracker subscription.",
+    "PrimaryEmailAddr": {
+      "Address": "billing@linear.app"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13139284715"
+    }
+  },
+  {
+    "Active": true,
+    "Balance": "0.00",
+    "DisplayName": "Office Depot",
+    "Id": "2010",
+    "Notes": "Office supplies vendor.",
+    "PrimaryEmailAddr": {
+      "Address": "ar@officedepot.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13134826194"
+    }
+  }
+]

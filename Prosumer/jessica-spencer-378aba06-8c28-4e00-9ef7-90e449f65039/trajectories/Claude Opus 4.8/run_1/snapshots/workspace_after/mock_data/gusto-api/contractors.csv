@@ -1,0 +1,21 @@
+id,company_id,first_name,last_name,business_name,type,email,hourly_rate,wage_type,start_date,__api__,__table__,__file__,__row_index__
+con-73ab2723,co-0000f7b97211,Lila,Cohen,Jessica Spencer,Individual,lila.cohen@spencerinteriors.com,75.0,Hourly,2025-02-01,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,0
+con-39f95d82,co-0000f7b97211,Owen,Park,Brightline Design LLC,Business,owen.park@spencerinteriors.com,90.0,Hourly,2025-06-15,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,1
+con-9e51996e,co-0000f7b97211,Sasha,Diaz,Jessica Spencer,Individual,sasha.diaz@spencerinteriors.com,105.0,Hourly,2025-09-10,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,2
+con-86b52384,co-0000f7b97211,Ezra,Klein,Northgate Consulting Group,Business,ezra.klein@spencerinteriors.com,120.0,Hourly,2026-01-20,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,3
+con-73ab2723-v004,co-0000f7b97211-v004,Lila,Cohen,Jessica Spencer,Individual,lila.cohen@spencerinteriors.com,75.0,Hourly,2025-02-13T04:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,4
+con-39f95d82-v005,co-0000f7b97211-v005,Owen,Park,Brightline Design LLC,Business,owen.park@spencerinteriors.com,90.0,Hourly,2025-06-30T11:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,5
+con-9e51996e-v006,co-0000f7b97211-v006,Sasha,Diaz,Jessica Spencer,Individual,sasha.diaz@spencerinteriors.com,105.0,Hourly,2025-09-28T18:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,6
+con-86b52384-v007,co-0000f7b97211-v007,Ezra,Klein,Northgate Consulting Group,Business,ezra.klein@spencerinteriors.com,120.0,Hourly,2026-02-10T01:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,7
+con-73ab2723-v008,co-0000f7b97211-v008,Lila,Cohen,Jessica Spencer,Individual,lila.cohen@spencerinteriors.com,75.0,Hourly,2025-02-25T08:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,8
+con-39f95d82-v009,co-0000f7b97211-v009,Owen,Park,Brightline Design LLC,Business,owen.park@spencerinteriors.com,90.0,Hourly,2025-07-12T15:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,9
+con-9e51996e-v010,co-0000f7b97211-v010,Sasha,Diaz,Jessica Spencer,Individual,sasha.diaz@spencerinteriors.com,105.0,Hourly,2025-10-10T22:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,10
+con-86b52384-v011,co-0000f7b97211-v011,Ezra,Klein,Northgate Consulting Group,Business,ezra.klein@spencerinteriors.com,120.0,Hourly,2026-02-22T05:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,11
+con-73ab2723-v012,co-0000f7b97211-v012,Lila,Cohen,Jessica Spencer,Individual,lila.cohen@spencerinteriors.com,75.0,Hourly,2025-03-09T12:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,12
+con-39f95d82-v013,co-0000f7b97211-v013,Owen,Park,Brightline Design LLC,Business,owen.park@spencerinteriors.com,90.0,Hourly,2025-07-24T19:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,13
+con-9e51996e-v014,co-0000f7b97211-v014,Sasha,Diaz,Jessica Spencer,Individual,sasha.diaz@spencerinteriors.com,105.0,Hourly,2025-10-22T02:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,14
+con-86b52384-v015,co-0000f7b97211-v015,Ezra,Klein,Northgate Consulting Group,Business,ezra.klein@spencerinteriors.com,120.0,Hourly,2026-03-06T09:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,15
+con-73ab2723-v016,co-0000f7b97211-v016,Lila,Cohen,Jessica Spencer,Individual,lila.cohen@spencerinteriors.com,75.0,Hourly,2025-03-21T16:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,16
+con-39f95d82-v017,co-0000f7b97211-v017,Owen,Park,Brightline Design LLC,Business,owen.park@spencerinteriors.com,90.0,Hourly,2025-08-05T23:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,17
+con-9e51996e-v018,co-0000f7b97211-v018,Sasha,Diaz,Jessica Spencer,Individual,sasha.diaz@spencerinteriors.com,105.0,Hourly,2025-11-03T06:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,18
+con-86b52384-v019,co-0000f7b97211-v019,Ezra,Klein,Northgate Consulting Group,Business,ezra.klein@spencerinteriors.com,120.0,Hourly,2026-03-18T13:00:00,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,19

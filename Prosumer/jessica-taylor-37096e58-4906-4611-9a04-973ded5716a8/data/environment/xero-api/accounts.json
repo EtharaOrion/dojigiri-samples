@@ -1,0 +1,202 @@
+[
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Jessica Marie Taylor",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from any normal business activity",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "260",
+    "name": "David Taylor",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Any other income that does not relate to normal business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "400",
+    "name": "Mia Petrov",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Expenses incurred for advertising",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "404",
+    "name": "Tomas Varga",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees charged by your bank",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "090",
+    "name": "Nina Okafor",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Primary operating bank account",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "610",
+    "name": "Ray Mitchell",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding invoices owed to the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "800",
+    "name": "Marcus Reeves",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding bills owed by the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "477",
+    "name": "Aria Chen",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Payment to employees for services",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Verdant Provisions",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from any normal business activity",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "260",
+    "name": "Pinnacle Collective",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Any other income that does not relate to normal business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "400",
+    "name": "Grace Taylor",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Expenses incurred for advertising",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "404",
+    "name": "David Taylor",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees charged by your bank",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "090",
+    "name": "Mia Petrov",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Primary operating bank account",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "610",
+    "name": "Tomas Varga",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding invoices owed to the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "800",
+    "name": "Nina Okafor",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding bills owed by the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "477",
+    "name": "Ray Mitchell",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Payment to employees for services",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Marcus Reeves",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from any normal business activity",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "260",
+    "name": "Aria Chen",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Any other income that does not relate to normal business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "400",
+    "name": "Verdant Provisions",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Expenses incurred for advertising",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "404",
+    "name": "Pinnacle Collective",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees charged by your bank",
+    "enable_payments_to_account": "false"
+  }
+]

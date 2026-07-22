@@ -1,0 +1,36 @@
+{
+  "institution": {
+    "institution_id": "ins_ally",
+    "name": "Ally Bank",
+    "country_codes": [
+      "US"
+    ],
+    "primary_color": "#1a73a8",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "routing_numbers": [
+      "122105155"
+    ],
+    "url": "https://www.ally.com"
+  },
+  "item": {
+    "item_id": "item_ally_jessica",
+    "webhook": "https://taylorvisualstudio.com/plaid/webhook",
+    "available_products": [
+      "balance",
+      "transactions",
+      "identity"
+    ],
+    "billed_products": [
+      "balance",
+      "transactions"
+    ],
+    "consent_expiration_time": "2026-12-28T09:00:00-07:00",
+    "institution_id": "ins_109512",
+    "update_type": "background"
+  }
+}

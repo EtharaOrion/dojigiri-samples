@@ -1,0 +1,262 @@
+{
+  "label": "after_injection",
+  "ts": 1784614463.390096,
+  "ts_iso": "2026-07-21T06:14:23Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 1,
+        "records_tblContacts07301": 20,
+        "records_tblProjects07301": 20,
+        "records_tblTasks00007301": 20,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 4,
+        "sections": 20,
+        "tasks": 106,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "calendly-api": {
+      "tables": {
+        "availability": 7,
+        "event_types": 5,
+        "invitees": 144,
+        "scheduled_events": 45
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "contentful-api": {
+      "tables": {
+        "assets": 20,
+        "content_types": 3,
+        "entries": 81
+      },
+      "documents": {
+        "space": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 20,
+        "envelopes": 20,
+        "recipients": 20,
+        "templates": 4
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 1,
+        "labels": 7,
+        "messages": 134
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-analytics-api": {
+      "tables": {
+        "events": 224,
+        "realtime": 24
+      },
+      "documents": {
+        "property": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 1
+      },
+      "documents": {}
+    },
+    "instagram-api": {
+      "tables": {
+        "carousel_children": 20,
+        "comments": 20,
+        "hashtags": 20,
+        "media": 98,
+        "media_insights": 20,
+        "mentions": 20,
+        "stories": 20,
+        "users": 5
+      },
+      "documents": {}
+    },
+    "klaviyo-api": {
+      "tables": {
+        "campaigns": 20,
+        "lists": 20,
+        "profiles": 22
+      },
+      "documents": {}
+    },
+    "linear-api": {
+      "tables": {
+        "comments": 25,
+        "cycles": 20,
+        "issues": 20,
+        "labels": 20,
+        "projects": 2,
+        "teams": 2,
+        "users": 20,
+        "workflow_states": 6
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 20,
+        "lists": 5,
+        "members": 106,
+        "reports": 4
+      },
+      "documents": {}
+    },
+    "mixpanel-api": {
+      "tables": {
+        "events": 52,
+        "profiles": 20
+      },
+      "documents": {
+        "funnels": true
+      }
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 115,
+        "comments": 3,
+        "databases": 3,
+        "pages": 20,
+        "users": 4
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 4,
+        "transactions": 31
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 25,
+        "bills": 20,
+        "customers": 76,
+        "estimates": 20,
+        "expenses": 20,
+        "invoices": 106,
+        "items": 20,
+        "payments": 20,
+        "vendors": 22
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 82,
+        "Contact": 20,
+        "Lead": 20,
+        "Opportunity": 20
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 1,
+        "channels": 20,
+        "messages": 102,
+        "users": 23
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 106,
+        "customers": 20,
+        "invoices": 20,
+        "payment_intents": 0,
+        "prices": 5,
+        "products": 4,
+        "refunds": 0,
+        "subscriptions": 20
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "twilio-api": {
+      "tables": {
+        "calls": 20,
+        "messages": 112,
+        "phone_numbers": 2
+      },
+      "documents": {
+        "account": true
+      }
+    },
+    "webflow-api": {
+      "tables": {
+        "collections": 3,
+        "items": 46,
+        "sites": 1
+      },
+      "documents": {}
+    },
+    "woocommerce-api": {
+      "tables": {
+        "customers": 20,
+        "orders": 25,
+        "products": 20
+      },
+      "documents": {}
+    },
+    "wordpress-api": {
+      "tables": {
+        "categories": 5,
+        "comments": 3,
+        "media": 20,
+        "pages": 3,
+        "posts": 104,
+        "tags": 5,
+        "users": 3
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 20,
+        "contacts": 20,
+        "invoices": 32
+      },
+      "documents": {}
+    }
+  }
+}

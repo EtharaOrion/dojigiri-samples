@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Jake Thornton",
+    "PreparedDate": "2027-01-18",
+    "Context": "Back-of-napkin for the home cooking class before the recipe blog launch. Preliminary pass, pre-CPA review.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 6,
+          "Rate": 75,
+          "Total": 450
+        },
+        "DropIns": {
+          "AvgMonthly": 150
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 60
+        },
+        "TotalMonthlyRevenue": 660
+      },
+      "MonthlyExpenses": {
+        "Rent": 0,
+        "Utilities": {
+          "Electric": 45,
+          "Water": 20,
+          "Total": 65
+        },
+        "Insurance": {
+          "Quarterly": 0,
+          "Monthly": 0
+        },
+        "InstructorPay_Raj": 0,
+        "Cleaning": {
+          "BiWeekly": 0,
+          "Monthly": 0
+        },
+        "Supplies": {
+          "AvgMonthly": 200
+        },
+        "Marketing": {
+          "AvgMonthly": 40
+        },
+        "TotalMonthlyExpenses": 305
+      },
+      "MonthlyNetIncome": 355,
+      "AaronDrawFromNet": 0,
+      "RetainedForReserves": 355,
+      "Note": "Preliminary Q1 class revenue logged at $3,200. Corrected to $3,470 after a late Calendly settlement cleared. Use the corrected $3,470 figure. Revisit with the CPA once Q1 actuals close."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Home class at $75 a seat against $200 supplies per session",
+        "NewRent": 0,
+        "RentIncrease": 0,
+        "NewTotalExpenses": 200,
+        "NewNetIncome": 400,
+        "BreakEvenMembers": 3,
+        "BreakEvenCalculation": "Supplies $200 per session at $75 a seat = $200 / $75 = 2.67, so 3 seats minimum to clear cost. A full table of 8 clears $75 x 8 - $200 = $400 profit.",
+        "Impact": "Comfortable. Average enrollment of 6 to 8 sits above the 3-seat break-even."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Venue class at $65 a seat (do not conflate with the $75 home tier)",
+        "NewRent": 0,
+        "RentIncrease": 0,
+        "NewTotalExpenses": 260,
+        "NewNetIncome": 130,
+        "BreakEvenMembers": 4,
+        "Impact": "Venue seat is $65 and venue supply cost runs higher, so break-even lands at 4 seats. Keep this tier separate from the home tier in the books."
+      }
+    },
+    "KeyInsight": "Break-even for a home class is about 3 seats at $75 with $200 supplies. At a full table of 8 the session clears $400. Corrected Q1 class revenue is $3,470, not the preliminary $3,200.",
+    "ActionItems": [
+      "Use the corrected $3,470 Q1 figure in any revenue summary",
+      "Revisit with the CPA once Q1 actuals close"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "account_id": "acc_chk_001",
+    "name": "Personal Checking",
+    "official_name": "Stuart Myer Personal Checking",
+    "mask": "2520",
+    "type": "depository",
+    "subtype": "checking",
+    "available": 3147.6,
+    "current": 3247.6,
+    "limit": 500.0,
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_sav_002",
+    "name": "Personal Savings",
+    "official_name": "Stuart Myer Emergency Savings",
+    "mask": "5735",
+    "type": "depository",
+    "subtype": "savings",
+    "available": 8500.0,
+    "current": 8500.0,
+    "limit": 500.0,
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_biz_003",
+    "name": "Driftwood Brewing Operating",
+    "official_name": "Driftwood Brewing Company Operating",
+    "mask": "2374",
+    "type": "depository",
+    "subtype": "checking",
+    "available": 34874.75,
+    "current": 35024.75,
+    "limit": 500.0,
+    "iso_currency_code": "USD"
+  }
+]

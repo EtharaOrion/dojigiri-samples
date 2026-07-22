@@ -1,0 +1,407 @@
+[
+  {
+    "applied_at": "2026-02-13T00:00:00Z",
+    "candidate_id": "cand-001",
+    "current_stage": "Onsite Interview",
+    "id": "app-001",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-22T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-14T00:00:00Z",
+    "candidate_id": "cand-002",
+    "current_stage": "Phone Screen",
+    "id": "app-002",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-03-15T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-15T00:00:00Z",
+    "candidate_id": "cand-003",
+    "current_stage": "Reference Check",
+    "id": "app-003",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-23T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-19T00:00:00Z",
+    "candidate_id": "cand-004",
+    "current_stage": "Application Review",
+    "id": "app-004",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-08T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-23T00:00:00Z",
+    "candidate_id": "cand-005",
+    "current_stage": "Onsite Interview",
+    "id": "app-005",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-03-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-25T00:00:00Z",
+    "candidate_id": "cand-006",
+    "current_stage": "Phone Screen",
+    "id": "app-006",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-03-17T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-26T00:00:00Z",
+    "candidate_id": "cand-007",
+    "current_stage": "Onsite Interview",
+    "id": "app-007",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-03-23T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-01T00:00:00Z",
+    "candidate_id": "cand-008",
+    "current_stage": "Reference Check",
+    "id": "app-008",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-03-24T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-09T00:00:00Z",
+    "candidate_id": "cand-009",
+    "current_stage": "Application Review",
+    "id": "app-009",
+    "job_id": "job-livernois-ta-003",
+    "last_activity_at": "2026-03-19T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-12T00:00:00Z",
+    "candidate_id": "cand-010",
+    "current_stage": "Phone Screen",
+    "id": "app-010",
+    "job_id": "job-livernois-ta-003",
+    "last_activity_at": "2026-03-22T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-10-15T00:00:00Z",
+    "candidate_id": "cand-011",
+    "current_stage": "Hired",
+    "id": "app-011",
+    "job_id": "job-cass-ta-fall-001",
+    "last_activity_at": "2025-12-04T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2025-10-16T00:00:00Z",
+    "candidate_id": "cand-012",
+    "current_stage": "Rejected \u2014 Onsite",
+    "id": "app-012",
+    "job_id": "job-cass-ta-fall-001",
+    "last_activity_at": "2025-11-28T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2025-11-17T00:00:00Z",
+    "candidate_id": "cand-013",
+    "current_stage": "Hired",
+    "id": "app-013",
+    "job_id": "job-fac-coord-001",
+    "last_activity_at": "2026-01-20T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2025-11-20T00:00:00Z",
+    "candidate_id": "cand-014",
+    "current_stage": "Rejected \u2014 Onsite",
+    "id": "app-014",
+    "job_id": "job-fac-coord-001",
+    "last_activity_at": "2026-01-12T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2025-10-22T00:00:00Z",
+    "candidate_id": "cand-015",
+    "current_stage": "Hired",
+    "id": "app-015",
+    "job_id": "job-devassist-001",
+    "last_activity_at": "2025-11-18T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2026-03-01T00:00:00Z",
+    "candidate_id": "cand-079",
+    "current_stage": "Application Review",
+    "id": "app-016",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-11T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-02T00:00:00Z",
+    "candidate_id": "cand-080",
+    "current_stage": "Phone Screen",
+    "id": "app-017",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-03-12T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-03T00:00:00Z",
+    "candidate_id": "cand-081",
+    "current_stage": "Onsite Interview",
+    "id": "app-018",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-03-13T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-04T00:00:00Z",
+    "candidate_id": "cand-082",
+    "current_stage": "Application Review",
+    "id": "app-019",
+    "job_id": "job-cass-ta-fall-001",
+    "last_activity_at": "2026-03-14T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-05T00:00:00Z",
+    "candidate_id": "cand-083",
+    "current_stage": "Phone Screen",
+    "id": "app-020",
+    "job_id": "job-fac-coord-001",
+    "last_activity_at": "2026-03-15T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-06T00:00:00Z",
+    "candidate_id": "cand-084",
+    "current_stage": "Onsite Interview",
+    "id": "app-021",
+    "job_id": "job-livernois-ta-003",
+    "last_activity_at": "2026-03-16T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-07T00:00:00Z",
+    "candidate_id": "cand-085",
+    "current_stage": "Application Review",
+    "id": "app-022",
+    "job_id": "job-devassist-001",
+    "last_activity_at": "2026-03-17T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-08T00:00:00Z",
+    "candidate_id": "cand-086",
+    "current_stage": "Phone Screen",
+    "id": "app-023",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-18T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-09T00:00:00Z",
+    "candidate_id": "cand-087",
+    "current_stage": "Onsite Interview",
+    "id": "app-024",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-03-19T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-10T00:00:00Z",
+    "candidate_id": "cand-088",
+    "current_stage": "Application Review",
+    "id": "app-025",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-03-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-11T00:00:00Z",
+    "candidate_id": "cand-089",
+    "current_stage": "Phone Screen",
+    "id": "app-026",
+    "job_id": "job-cass-ta-fall-001",
+    "last_activity_at": "2026-03-21T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-12T00:00:00Z",
+    "candidate_id": "cand-090",
+    "current_stage": "Onsite Interview",
+    "id": "app-027",
+    "job_id": "job-fac-coord-001",
+    "last_activity_at": "2026-03-22T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-13T00:00:00Z",
+    "candidate_id": "cand-091",
+    "current_stage": "Application Review",
+    "id": "app-028",
+    "job_id": "job-livernois-ta-003",
+    "last_activity_at": "2026-03-23T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-14T00:00:00Z",
+    "candidate_id": "cand-092",
+    "current_stage": "Phone Screen",
+    "id": "app-029",
+    "job_id": "job-devassist-001",
+    "last_activity_at": "2026-03-24T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-15T00:00:00Z",
+    "candidate_id": "cand-093",
+    "current_stage": "Onsite Interview",
+    "id": "app-030",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-16T00:00:00Z",
+    "candidate_id": "cand-094",
+    "current_stage": "Application Review",
+    "id": "app-031",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-03-26T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-17T00:00:00Z",
+    "candidate_id": "cand-095",
+    "current_stage": "Phone Screen",
+    "id": "app-032",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-03-27T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-18T00:00:00Z",
+    "candidate_id": "cand-096",
+    "current_stage": "Onsite Interview",
+    "id": "app-033",
+    "job_id": "job-cass-ta-fall-001",
+    "last_activity_at": "2026-03-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-19T00:00:00Z",
+    "candidate_id": "cand-097",
+    "current_stage": "Application Review",
+    "id": "app-034",
+    "job_id": "job-fac-coord-001",
+    "last_activity_at": "2026-03-29T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-20T00:00:00Z",
+    "candidate_id": "cand-098",
+    "current_stage": "Phone Screen",
+    "id": "app-035",
+    "job_id": "job-livernois-ta-003",
+    "last_activity_at": "2026-03-30T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-21T00:00:00Z",
+    "candidate_id": "cand-099",
+    "current_stage": "Onsite Interview",
+    "id": "app-036",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-03-31T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-22T00:00:00Z",
+    "candidate_id": "cand-100",
+    "current_stage": "Application Review",
+    "id": "app-037",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-04-01T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-23T00:00:00Z",
+    "candidate_id": "cand-101",
+    "current_stage": "Phone Screen",
+    "id": "app-038",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-04-02T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-24T00:00:00Z",
+    "candidate_id": "cand-102",
+    "current_stage": "Onsite Interview",
+    "id": "app-039",
+    "job_id": "job-cass-ta-fall-001",
+    "last_activity_at": "2026-04-03T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-25T00:00:00Z",
+    "candidate_id": "cand-103",
+    "current_stage": "Application Review",
+    "id": "app-040",
+    "job_id": "job-fac-coord-001",
+    "last_activity_at": "2026-04-04T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-26T00:00:00Z",
+    "candidate_id": "cand-104",
+    "current_stage": "Phone Screen",
+    "id": "app-041",
+    "job_id": "job-livernois-ta-003",
+    "last_activity_at": "2026-04-05T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-27T00:00:00Z",
+    "candidate_id": "cand-105",
+    "current_stage": "Onsite Interview",
+    "id": "app-042",
+    "job_id": "job-devassist-001",
+    "last_activity_at": "2026-04-06T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-28T00:00:00Z",
+    "candidate_id": "cand-106",
+    "current_stage": "Application Review",
+    "id": "app-043",
+    "job_id": "job-livernois-ta-001",
+    "last_activity_at": "2026-04-07T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-03-29T00:00:00Z",
+    "candidate_id": "cand-107",
+    "current_stage": "Phone Screen",
+    "id": "app-044",
+    "job_id": "job-livernois-ta-002",
+    "last_activity_at": "2026-04-08T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-03-30T00:00:00Z",
+    "candidate_id": "cand-108",
+    "current_stage": "Onsite Interview",
+    "id": "app-045",
+    "job_id": "job-livernois-coord-001",
+    "last_activity_at": "2026-04-09T00:00:00Z",
+    "status": "active"
+  }
+]

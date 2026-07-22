@@ -1,0 +1,842 @@
+[
+  {
+    "Id": "exp-200",
+    "TxnDate": "2026-12-16",
+    "TotalAmt": 54.99,
+    "Line": [
+      {
+        "Amount": 54.99,
+        "Description": "Adobe Creative Cloud"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-16T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-201",
+    "TxnDate": "2026-12-15",
+    "TotalAmt": 15.0,
+    "Line": [
+      {
+        "Amount": 15.0,
+        "Description": "Figma Professional"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-15T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-202",
+    "TxnDate": "2026-12-14",
+    "TotalAmt": 27.0,
+    "Line": [
+      {
+        "Amount": 27.0,
+        "Description": "Squarespace + domain"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-14T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-203",
+    "TxnDate": "2026-12-13",
+    "TotalAmt": 12.0,
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Google Workspace"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-13T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-204",
+    "TxnDate": "2026-12-12",
+    "TotalAmt": 20.0,
+    "Line": [
+      {
+        "Amount": 20.0,
+        "Description": "QuickBooks Simple Start"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-12T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-205",
+    "TxnDate": "2026-12-11",
+    "TotalAmt": 50.0,
+    "Line": [
+      {
+        "Amount": 50.0,
+        "Description": "Yoga - Kindred Studio"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-11T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-206",
+    "TxnDate": "2026-12-10",
+    "TotalAmt": 24.0,
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "Lemonade renter's insurance"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-10T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-207",
+    "TxnDate": "2026-12-09",
+    "TotalAmt": 380.0,
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "Covered California ACA"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-09T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-208",
+    "TxnDate": "2026-12-08",
+    "TotalAmt": 1650.0,
+    "Line": [
+      {
+        "Amount": 1650.0,
+        "Description": "Rent — Koreatown apartment"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-08T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-209",
+    "TxnDate": "2026-12-07",
+    "TotalAmt": 140.0,
+    "Line": [
+      {
+        "Amount": 140.0,
+        "Description": "Utilities — DWP + gas"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-07T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-210",
+    "TxnDate": "2026-12-06",
+    "TotalAmt": 350.0,
+    "Line": [
+      {
+        "Amount": 350.0,
+        "Description": "Groceries — farmers market + Whole Foods"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-06T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-211",
+    "TxnDate": "2026-12-05",
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "Amount": 60.0,
+        "Description": "Phone — iPhone plan"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-05T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-212",
+    "TxnDate": "2026-12-04",
+    "TotalAmt": 38.0,
+    "Line": [
+      {
+        "Amount": 38.0,
+        "Description": "Netflix + Spotify Premium"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-04T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-213",
+    "TxnDate": "2026-12-03",
+    "TotalAmt": 120.0,
+    "Line": [
+      {
+        "Amount": 120.0,
+        "Description": "Metro + Lyft"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-03T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-214",
+    "TxnDate": "2026-12-02",
+    "TotalAmt": 180.0,
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Dining out"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-02T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-215",
+    "TxnDate": "2026-12-01",
+    "TotalAmt": 280.0,
+    "Line": [
+      {
+        "Amount": 280.0,
+        "Description": "Student loan federal"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-216",
+    "TxnDate": "2026-11-31",
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "Amount": 95.0,
+        "Description": "Business misc — B&H, print curated"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-31T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-217",
+    "TxnDate": "2026-11-30",
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "Amount": 95.0,
+        "Description": "Chase Sapphire annual fee"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-30T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-218",
+    "TxnDate": "2026-11-29",
+    "TotalAmt": 530.0,
+    "Line": [
+      {
+        "Amount": 530.0,
+        "Description": "Estimated federal tax"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-29T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-219",
+    "TxnDate": "2026-11-28",
+    "TotalAmt": 720.0,
+    "Line": [
+      {
+        "Amount": 720.0,
+        "Description": "Estimated self-employment tax"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-28T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp-200-2",
+    "TxnDate": "2026-10-01",
+    "TotalAmt": 54.99,
+    "Line": [
+      {
+        "Amount": 54.99,
+        "Description": "Adobe Creative Cloud subscription"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-01T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-201-2",
+    "TxnDate": "2026-10-02",
+    "TotalAmt": 216.0,
+    "Line": [
+      {
+        "Amount": 216.0,
+        "Description": "Squarespace annual plan"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-02T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-202-2",
+    "TxnDate": "2026-10-03",
+    "TotalAmt": 15.0,
+    "Line": [
+      {
+        "Amount": 15.0,
+        "Description": "Figma Pro seat"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-03T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-203-2",
+    "TxnDate": "2026-10-04",
+    "TotalAmt": 24.0,
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "iPad Air replacement stylus tip"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-04T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-204-2",
+    "TxnDate": "2026-10-05",
+    "TotalAmt": 180.0,
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Kindred Studio yoga package"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-05T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-205-2",
+    "TxnDate": "2026-10-06",
+    "TotalAmt": 62.0,
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Business card reprint"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-06T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-206-2",
+    "TxnDate": "2026-10-07",
+    "TotalAmt": 88.0,
+    "Line": [
+      {
+        "Amount": 88.0,
+        "Description": "Home office printer ink"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-07T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-207-2",
+    "TxnDate": "2026-10-08",
+    "TotalAmt": 42.0,
+    "Line": [
+      {
+        "Amount": 42.0,
+        "Description": "Business insurance"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-08T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-208-2",
+    "TxnDate": "2026-10-09",
+    "TotalAmt": 25.0,
+    "Line": [
+      {
+        "Amount": 25.0,
+        "Description": "Coworking day pass"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-09T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-209-2",
+    "TxnDate": "2026-10-10",
+    "TotalAmt": 62.0,
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Client lunch — Verdant"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-10T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-210-2",
+    "TxnDate": "2026-10-11",
+    "TotalAmt": 88.0,
+    "Line": [
+      {
+        "Amount": 88.0,
+        "Description": "Client lunch — Pinnacle"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-11T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-211-2",
+    "TxnDate": "2026-10-12",
+    "TotalAmt": 22.0,
+    "Line": [
+      {
+        "Amount": 22.0,
+        "Description": "Client coffee — Bloom"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-12T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-212-2",
+    "TxnDate": "2026-10-13",
+    "TotalAmt": 34.0,
+    "Line": [
+      {
+        "Amount": 34.0,
+        "Description": "Client shipping — packaging samples"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-13T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-213-2",
+    "TxnDate": "2026-10-14",
+    "TotalAmt": 14.99,
+    "Line": [
+      {
+        "Amount": 14.99,
+        "Description": "Domain renewal — taylorvisualstudio.com"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-214-2",
+    "TxnDate": "2026-10-15",
+    "TotalAmt": 30.0,
+    "Line": [
+      {
+        "Amount": 30.0,
+        "Description": "QuickBooks subscription"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-15T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-215-2",
+    "TxnDate": "2026-10-16",
+    "TotalAmt": 128.5,
+    "Line": [
+      {
+        "Amount": 128.5,
+        "Description": "Stripe processing fee (monthly)"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-16T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-216-2",
+    "TxnDate": "2026-10-17",
+    "TotalAmt": 240.0,
+    "Line": [
+      {
+        "Amount": 240.0,
+        "Description": "Type license — Klim Foundry"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-17T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-217-2",
+    "TxnDate": "2026-10-18",
+    "TotalAmt": 148.0,
+    "Line": [
+      {
+        "Amount": 148.0,
+        "Description": "Print vendor — proofs"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-18T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-218-2",
+    "TxnDate": "2026-10-19",
+    "TotalAmt": 320.0,
+    "Line": [
+      {
+        "Amount": 320.0,
+        "Description": "Photography rental — product shoot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-19T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-219-2",
+    "TxnDate": "2026-10-20",
+    "TotalAmt": 12.0,
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Coffee shop working session"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-20T00:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-220",
+    "TxnDate": "2026-10-21",
+    "TotalAmt": 54.99,
+    "Line": [
+      {
+        "Amount": 54.99,
+        "Description": "Adobe Creative Cloud subscription"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-21T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-221",
+    "TxnDate": "2026-10-22",
+    "TotalAmt": 216.0,
+    "Line": [
+      {
+        "Amount": 216.0,
+        "Description": "Squarespace annual plan"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-22T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-222",
+    "TxnDate": "2026-10-23",
+    "TotalAmt": 15.0,
+    "Line": [
+      {
+        "Amount": 15.0,
+        "Description": "Figma Pro seat"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-23T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-223",
+    "TxnDate": "2026-10-24",
+    "TotalAmt": 24.0,
+    "Line": [
+      {
+        "Amount": 24.0,
+        "Description": "iPad Air replacement stylus tip"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-24T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-224",
+    "TxnDate": "2026-10-25",
+    "TotalAmt": 180.0,
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Kindred Studio yoga package"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-25T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-225",
+    "TxnDate": "2026-10-26",
+    "TotalAmt": 62.0,
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Business card reprint"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-26T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-226",
+    "TxnDate": "2026-10-27",
+    "TotalAmt": 88.0,
+    "Line": [
+      {
+        "Amount": 88.0,
+        "Description": "Home office printer ink"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-27T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-227",
+    "TxnDate": "2026-10-28",
+    "TotalAmt": 42.0,
+    "Line": [
+      {
+        "Amount": 42.0,
+        "Description": "Business insurance"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-28T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-228",
+    "TxnDate": "2026-10-29",
+    "TotalAmt": 25.0,
+    "Line": [
+      {
+        "Amount": 25.0,
+        "Description": "Coworking day pass"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-29T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-229",
+    "TxnDate": "2026-10-30",
+    "TotalAmt": 62.0,
+    "Line": [
+      {
+        "Amount": 62.0,
+        "Description": "Client lunch — Verdant"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-30T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-230",
+    "TxnDate": "2026-11-01",
+    "TotalAmt": 88.0,
+    "Line": [
+      {
+        "Amount": 88.0,
+        "Description": "Client lunch — Pinnacle"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-01T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-231",
+    "TxnDate": "2026-11-02",
+    "TotalAmt": 22.0,
+    "Line": [
+      {
+        "Amount": 22.0,
+        "Description": "Client coffee — Bloom"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-02T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-232",
+    "TxnDate": "2026-11-03",
+    "TotalAmt": 34.0,
+    "Line": [
+      {
+        "Amount": 34.0,
+        "Description": "Client shipping — packaging samples"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-03T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-233",
+    "TxnDate": "2026-11-04",
+    "TotalAmt": 14.99,
+    "Line": [
+      {
+        "Amount": 14.99,
+        "Description": "Domain renewal — taylorvisualstudio.com"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-04T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-234",
+    "TxnDate": "2026-11-05",
+    "TotalAmt": 30.0,
+    "Line": [
+      {
+        "Amount": 30.0,
+        "Description": "QuickBooks subscription"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-05T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-235",
+    "TxnDate": "2026-11-06",
+    "TotalAmt": 128.5,
+    "Line": [
+      {
+        "Amount": 128.5,
+        "Description": "Stripe processing fee (monthly)"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-06T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-236",
+    "TxnDate": "2026-11-07",
+    "TotalAmt": 240.0,
+    "Line": [
+      {
+        "Amount": 240.0,
+        "Description": "Type license — Klim Foundry"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-07T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-237",
+    "TxnDate": "2026-11-08",
+    "TotalAmt": 148.0,
+    "Line": [
+      {
+        "Amount": 148.0,
+        "Description": "Print vendor — proofs"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-08T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-238",
+    "TxnDate": "2026-11-09",
+    "TotalAmt": 320.0,
+    "Line": [
+      {
+        "Amount": 320.0,
+        "Description": "Photography rental — product shoot"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-09T03:00:00Z"
+    }
+  },
+  {
+    "Id": "exp-239",
+    "TxnDate": "2026-11-10",
+    "TotalAmt": 12.0,
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Coffee shop working session"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-10T03:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "id": "recTask0000000001",
+    "createdTime": "2025-12-03T10:00:00.000Z",
+    "Name": "Order force plate system",
+    "Status": "Done",
+    "Project": "Performance Lab Buildout",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000002",
+    "createdTime": "2025-12-08T10:11:00.000Z",
+    "Name": "Schedule NordBord install",
+    "Status": "To do",
+    "Project": "ACL Rehab Protocol Refresh",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000003",
+    "createdTime": "2025-12-13T10:22:00.000Z",
+    "Name": "Draft patient consent forms",
+    "Status": "In progress",
+    "Project": "Aetna Insurance Credentialing",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000004",
+    "createdTime": "2025-12-18T10:33:00.000Z",
+    "Name": "Review CPT billing codes",
+    "Status": "Done",
+    "Project": "Athlete Screening Program",
+    "EstimateHours": "16",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000005",
+    "createdTime": "2025-12-23T10:44:00.000Z",
+    "Name": "Book Aetna credentialing call",
+    "Status": "To do",
+    "Project": "Return-to-Sport Testing SOP",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000006",
+    "createdTime": "2025-12-28T10:55:00.000Z",
+    "Name": "Spec AlterG treadmill bay",
+    "Status": "In progress",
+    "Project": "Front Desk Scheduling Workflow",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000007",
+    "createdTime": "2026-01-03T10:06:00.000Z",
+    "Name": "Write return-to-sport checklist",
+    "Status": "Done",
+    "Project": "Equipment Financing Review",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000008",
+    "createdTime": "2026-01-08T10:17:00.000Z",
+    "Name": "Set up VALD data export",
+    "Status": "In progress",
+    "Project": "Student Rotation Onboarding",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000009",
+    "createdTime": "2026-01-13T10:28:00.000Z",
+    "Name": "Plan student rotation calendar",
+    "Status": "In progress",
+    "Project": "Quarterly Billing Cleanup",
+    "EstimateHours": "16",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000010",
+    "createdTime": "2026-01-18T10:39:00.000Z",
+    "Name": "Audit Q2 outstanding claims",
+    "Status": "Done",
+    "Project": "Patient Outcome Survey Rollout",
+    "EstimateHours": "16",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000011",
+    "createdTime": "2026-01-23T10:50:00.000Z",
+    "Name": "Draft athlete screening intake",
+    "Status": "To do",
+    "Project": "Performance Lab Buildout",
+    "EstimateHours": "12",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000012",
+    "createdTime": "2026-01-28T10:01:00.000Z",
+    "Name": "Confirm lab electrical work",
+    "Status": "In progress",
+    "Project": "ACL Rehab Protocol Refresh",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000013",
+    "createdTime": "2026-02-02T10:12:00.000Z",
+    "Name": "Update protocol library in Notion",
+    "Status": "Done",
+    "Project": "Aetna Insurance Credentialing",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000014",
+    "createdTime": "2026-02-07T10:23:00.000Z",
+    "Name": "Prep monthly financial review",
+    "Status": "In progress",
+    "Project": "Athlete Screening Program",
+    "EstimateHours": "16",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000015",
+    "createdTime": "2026-02-12T10:34:00.000Z",
+    "Name": "Email outcome survey to patients",
+    "Status": "In progress",
+    "Project": "Return-to-Sport Testing SOP",
+    "EstimateHours": "16",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000016",
+    "createdTime": "2026-02-17T10:45:00.000Z",
+    "Name": "Reconcile equipment invoices",
+    "Status": "Done",
+    "Project": "Front Desk Scheduling Workflow",
+    "EstimateHours": "12",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000017",
+    "createdTime": "2026-02-22T10:56:00.000Z",
+    "Name": "Coordinate firebirds screening day",
+    "Status": "In progress",
+    "Project": "Equipment Financing Review",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000018",
+    "createdTime": "2026-02-27T10:07:00.000Z",
+    "Name": "Renew clinic liability policy",
+    "Status": "To do",
+    "Project": "Student Rotation Onboarding",
+    "EstimateHours": "12",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000100",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Order Calacatta Viola slab",
+    "Status": "Done",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000101",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Book Carlos crew \u2014 master bath",
+    "Status": "Done",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000102",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Confirm Circa Bardot pair",
+    "Status": "In progress",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000103",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Walnut wine cellar specs",
+    "Status": "In progress",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000104",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Primary bedroom drapery specs",
+    "Status": "Planning",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000105",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Kitchen island limestone order",
+    "Status": "Done",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000106",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Great room styling shoot 11/12",
+    "Status": "Planning",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000107",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Powder room reveal 11/9",
+    "Status": "Planning",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000108",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Master closet cerused oak",
+    "Status": "In progress",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000109",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Hallway sconce placement",
+    "Status": "Planning",
+    "Project": "Hendricks Residence",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000110",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Circa Bardot approval \u2014 Martin",
+    "Status": "Done",
+    "Project": "Martin Condo",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000111",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Grasscloth selection powder room",
+    "Status": "In progress",
+    "Project": "Martin Condo",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000112",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Drywall + paint touch-ups 10/29",
+    "Status": "Planning",
+    "Project": "Martin Condo",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000113",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Final punch list walk 11/19",
+    "Status": "Planning",
+    "Project": "Martin Condo",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000114",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Vintage brass floor lamp",
+    "Status": "Done",
+    "Project": "Martin Condo",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000115",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Walnut console delivery 11/2",
+    "Status": "In progress",
+    "Project": "Martin Condo",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000116",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Change order 3 DocuSign",
+    "Status": "Done",
+    "Project": "Martin Condo",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000117",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Custom mirror install",
+    "Status": "Done",
+    "Project": "Martin Condo",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000118",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Custom Roman shades \u2014 living room",
+    "Status": "Planning",
+    "Project": "Martin Condo",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000119",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Accessories install 11/18",
+    "Status": "Planning",
+    "Project": "Martin Condo",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000120",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Desert Vista install kickoff 10/24",
+    "Status": "Planning",
+    "Project": "Desert Vista",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000121",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Fabric memo binder \u2014 3 models",
+    "Status": "Done",
+    "Project": "Desert Vista",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000122",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Staging photos 11/6",
+    "Status": "Planning",
+    "Project": "Desert Vista",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000123",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Model A walnut console order",
+    "Status": "In progress",
+    "Project": "Desert Vista",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000124",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Model B Persian rug order",
+    "Status": "Done",
+    "Project": "Desert Vista",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000125",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Model C sconce replacements",
+    "Status": "In progress",
+    "Project": "Desert Vista",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000126",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Acacia Homes final invoice",
+    "Status": "Planning",
+    "Project": "Desert Vista",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000127",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Spec home wine wall install 11/30",
+    "Status": "Planning",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000128",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Spec home listing photos 12/5",
+    "Status": "Planning",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000129",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Reclaimed teak console entry",
+    "Status": "In progress",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000130",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Boucle chairs living room",
+    "Status": "Done",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000131",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Master bedroom accessories",
+    "Status": "In progress",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000132",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Outdoor kitchen string lights",
+    "Status": "Planning",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000133",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Listing agent walkthrough 12/1",
+    "Status": "Planning",
+    "Project": "Spencer Spec Home",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000134",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Q4 vendor thank-you cards batch",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000135",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Fall newsletter draft \u2014 Mailchimp",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000136",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "ASID membership renewal",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000137",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Business insurance renewal",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000138",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Duckhorn holiday order \u2014 clients",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000139",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Book Rob C. for close-out shoots",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000140",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Update HubSpot with 4 new leads",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000141",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "QB Q3 close verification",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000142",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Junior Designer role interviews",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000143",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Vendor Airtable \u2014 Circa terms update",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000144",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Vendor Airtable \u2014 Aria Stone update",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000145",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Sample library organization",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000146",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Fall dinner party menu",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000147",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Diane's guest room refresh",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000148",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Emma's dance physical 10/14",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000149",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Emma's Nordstrom leo shopping",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000150",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Tyler's soccer game logistics",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000151",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Kevin's Sunday golf tee-off",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000152",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Peloton Sunday Pilates",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000153",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Palm Springs Modernism Week trip 2/18",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000154",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Palm Springs Airbnb booking",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000155",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Christmas hosting menu prep",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000156",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Thanksgiving hosting menu prep",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000157",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Grayhawk HOA holiday mixer RSVP",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000158",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Norah Jones concert tickets 11/22",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000159",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Instagram Q4 content calendar",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000160",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Pinterest board reorganization",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000161",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Notion workspace cleanup",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000162",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Google Drive Q4 folder restructure",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000163",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Dropbox archive of photo shoots",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000164",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Confluence vendor terms update",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000165",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Fabric archive index refresh",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000166",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Portfolio site case study \u2014 Hendricks",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000167",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Portfolio site case study \u2014 Martin",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000168",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Vendor holiday gift list",
+    "Status": "In progress",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000169",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Client holiday gift wrapping",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000170",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Q4 invoice review pass",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000171",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Restock studio Duckhorn wine",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000172",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Set up Q1 2027 project intake",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000173",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Reynolds & Associates tax prep sync",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000174",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Reynolds and Associates 1099s prep",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000175",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Vendor invoice review \u2014 October 15th",
+    "Status": "Done",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000176",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Vendor invoice review \u2014 November 15th",
+    "Status": "Planning",
+    "Project": "Studio Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000177",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Green Harvest Market weekly delivery",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000178",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Green Harvest sub \u2014 dinner party bundle",
+    "Status": "In progress",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000179",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Peloton cleats \u2014 order for Kevin",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000180",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Sub-Zero annual service booking",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000181",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Desert Pool Pros filter \u2014 10/16",
+    "Status": "Planning",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000182",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Ring camera firmware update",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000183",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Nest thermostat schedule reset",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000184",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Casita office refresh \u2014 new plaster",
+    "Status": "In progress",
+    "Project": "Personal",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000185",
+    "createdTime": "2026-10-01T10:00:00.000Z",
+    "Name": "Emma's art project camera prep",
+    "Status": "Done",
+    "Project": "Personal",
+    "EstimateHours": "1",
+    "Done": "true"
+  }
+]

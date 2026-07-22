@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ITEM_LATTE",
+    "type": "ITEM",
+    "name": "Jessica Marie Taylor",
+    "description": "Espresso with steamed milk",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "450",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW",
+    "type": "ITEM",
+    "name": "David Taylor",
+    "description": "Slow-steeped cold brew coffee",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT",
+    "type": "ITEM",
+    "name": "Mia Petrov",
+    "description": "Flaky all-butter croissant",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "375",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL",
+    "type": "ITEM",
+    "name": "Tomas Varga",
+    "description": "Hand-rolled sesame bagel",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG",
+    "type": "ITEM",
+    "name": "Nina Okafor",
+    "description": "Branded 12oz ceramic mug",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS",
+    "type": "ITEM",
+    "name": "Ray Mitchell",
+    "description": "Whole bean coffee 12oz bag",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "1600",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEA",
+    "type": "ITEM",
+    "name": "Marcus Reeves",
+    "description": "Single-origin loose leaf tea tin",
+    "category": "Drinks",
+    "variation_id": "VAR_TEA_TIN",
+    "variation_name": "Tin",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_LATTE-v8",
+    "type": "ITEM",
+    "name": "Aria Chen",
+    "description": "Espresso with steamed milk",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "450",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW-v9",
+    "type": "ITEM",
+    "name": "Verdant Provisions",
+    "description": "Slow-steeped cold brew coffee",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT-v10",
+    "type": "ITEM",
+    "name": "Pinnacle Collective",
+    "description": "Flaky all-butter croissant",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "375",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL-v11",
+    "type": "ITEM",
+    "name": "Grace Taylor",
+    "description": "Hand-rolled sesame bagel",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG-v12",
+    "type": "ITEM",
+    "name": "David Taylor",
+    "description": "Branded 12oz ceramic mug",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS-v13",
+    "type": "ITEM",
+    "name": "Mia Petrov",
+    "description": "Whole bean coffee 12oz bag",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "1600",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEA-v14",
+    "type": "ITEM",
+    "name": "Tomas Varga",
+    "description": "Single-origin loose leaf tea tin",
+    "category": "Drinks",
+    "variation_id": "VAR_TEA_TIN",
+    "variation_name": "Tin",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_LATTE-v15",
+    "type": "ITEM",
+    "name": "Nina Okafor",
+    "description": "Espresso with steamed milk",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "450",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW-v16",
+    "type": "ITEM",
+    "name": "Ray Mitchell",
+    "description": "Slow-steeped cold brew coffee",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT-v17",
+    "type": "ITEM",
+    "name": "Marcus Reeves",
+    "description": "Flaky all-butter croissant",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "375",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL-v18",
+    "type": "ITEM",
+    "name": "Aria Chen",
+    "description": "Hand-rolled sesame bagel",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG-v19",
+    "type": "ITEM",
+    "name": "Verdant Provisions",
+    "description": "Branded 12oz ceramic mug",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS-v20",
+    "type": "ITEM",
+    "name": "Pinnacle Collective",
+    "description": "Whole bean coffee 12oz bag",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "1600",
+    "currency": "USD"
+  }
+]

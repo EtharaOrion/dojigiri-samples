@@ -1,0 +1,4 @@
+uuid,owner,name,slug,duration,kind,color,active,description,scheduling_url,created_at,__api__,__table__,__file__,__row_index__
+et-stuart-myer-intro-15,user-stuart-myer,Intro Call,stuart-myer-intro-15,15,solo,#0069ff,True,15-minute intro call with Stuart Myer,https://calendly.com/stuart-myer/intro-15,2025-09-02T10:00:00.000000Z,calendly-api,event_types,/opt/mocks/calendly-api/event_types.json,0
+et-stuart-myer-meeting-30,user-stuart-myer,Working Session,stuart-myer-meeting-30,30,solo,#1aa763,True,30-minute working session with Stuart Myer,https://calendly.com/stuart-myer/meeting-30,2025-09-02T10:05:00.000000Z,calendly-api,event_types,/opt/mocks/calendly-api/event_types.json,1
+et-stuart-myer-deep-dive-60,user-stuart-myer,Deep Dive,stuart-myer-deep-dive-60,60,solo,#f1684e,True,60-minute deep dive with Stuart Myer,https://calendly.com/stuart-myer/deep-dive-60,2025-09-02T10:10:00.000000Z,calendly-api,event_types,/opt/mocks/calendly-api/event_types.json,2

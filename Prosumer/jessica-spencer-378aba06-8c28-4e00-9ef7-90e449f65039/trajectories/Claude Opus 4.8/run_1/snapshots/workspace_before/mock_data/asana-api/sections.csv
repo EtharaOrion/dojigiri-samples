@@ -1,0 +1,21 @@
+gid,name,project_gid,created_at,__api__,__table__,__file__,__row_index__
+1300000000000001,Backlog,1200000000000001,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,0
+1300000000000002,In progress,1200000000000001,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,1
+1300000000000003,Review,1200000000000001,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,2
+1300000000000004,Done,1200000000000001,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,3
+1300000000000011,Backlog,1200000000000002,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,4
+1300000000000012,In progress,1200000000000002,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,5
+1300000000000013,Review,1200000000000002,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,6
+1300000000000014,Done,1200000000000002,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,7
+1300000000000021,Backlog,1200000000000003,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,8
+1300000000000022,In progress,1200000000000003,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,9
+1300000000000023,Review,1200000000000003,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,10
+1300000000000024,Done,1200000000000003,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,11
+1300000000000031,Backlog,1200000000000004,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,12
+1300000000000032,In progress,1200000000000004,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,13
+1300000000000033,Review,1200000000000004,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,14
+1300000000000034,Done,1200000000000004,2025-01-15T09:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,15
+1300000000000017,Backlog,1200000000000001,2025-03-05T01:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,16
+1300000000000018,In progress,1200000000000001,2025-03-08T08:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,17
+1300000000000019,Review,1200000000000001,2025-03-10T15:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,18
+1300000000000020,Done,1200000000000001,2025-03-13T22:00:00Z,asana-api,sections,/opt/mocks/asana-api/sections.json,19

@@ -1,0 +1,1102 @@
+[
+  {
+    "comment_id": "cmt-9001",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001",
+    "user_handle": "Grace Taylor",
+    "message": "Can we increase the tap target on this button?",
+    "node_id": "5:12",
+    "resolved": "false",
+    "created_at": "2026-11-22T15:01:00Z"
+  },
+  {
+    "comment_id": "cmt-9002",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002",
+    "user_handle": "Tomas Alvarez",
+    "message": "Agreed; bumping to 48px height.",
+    "node_id": "5:12",
+    "resolved": "true",
+    "created_at": "2026-11-22T16:20:00Z"
+  },
+  {
+    "comment_id": "cmt-9003",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001",
+    "user_handle": "Grace Taylor",
+    "message": "The error state color fails contrast.",
+    "node_id": "12:5",
+    "resolved": "false",
+    "created_at": "2026-11-24T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9004",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003",
+    "user_handle": "Mara Lindqvist",
+    "message": "Hero copy is too long on mobile.",
+    "node_id": "3:8",
+    "resolved": "false",
+    "created_at": "2026-11-20T19:10:00Z"
+  },
+  {
+    "comment_id": "cmt-9001-2",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-v5",
+    "user_handle": "Grace Taylor",
+    "message": "Can we increase the tap target on this button?",
+    "node_id": "5:12",
+    "resolved": "false",
+    "created_at": "2026-11-22T15:01:00Z"
+  },
+  {
+    "comment_id": "cmt-9002-2",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-v6",
+    "user_handle": "Tomas Alvarez",
+    "message": "Agreed; bumping to 48px height.",
+    "node_id": "5:12",
+    "resolved": "true",
+    "created_at": "2026-11-22T16:20:00Z"
+  },
+  {
+    "comment_id": "cmt-9003-2",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-v7",
+    "user_handle": "Grace Taylor",
+    "message": "The error state color fails contrast.",
+    "node_id": "12:5",
+    "resolved": "false",
+    "created_at": "2026-11-24T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9004-2",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-v8",
+    "user_handle": "Mara Lindqvist",
+    "message": "Hero copy is too long on mobile.",
+    "node_id": "3:8",
+    "resolved": "false",
+    "created_at": "2026-11-20T19:10:00Z"
+  },
+  {
+    "comment_id": "cmt-9001-3",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-v9",
+    "user_handle": "Grace Taylor",
+    "message": "Can we increase the tap target on this button?",
+    "node_id": "5:12",
+    "resolved": "false",
+    "created_at": "2026-11-22T15:01:00Z"
+  },
+  {
+    "comment_id": "cmt-9002-3",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-v10",
+    "user_handle": "Tomas Alvarez",
+    "message": "Agreed; bumping to 48px height.",
+    "node_id": "5:12",
+    "resolved": "true",
+    "created_at": "2026-11-22T16:20:00Z"
+  },
+  {
+    "comment_id": "cmt-9003-3",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-v11",
+    "user_handle": "Grace Taylor",
+    "message": "The error state color fails contrast.",
+    "node_id": "12:5",
+    "resolved": "false",
+    "created_at": "2026-11-24T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9004-3",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-v12",
+    "user_handle": "Mara Lindqvist",
+    "message": "Hero copy is too long on mobile.",
+    "node_id": "3:8",
+    "resolved": "false",
+    "created_at": "2026-11-20T19:10:00Z"
+  },
+  {
+    "comment_id": "cmt-9001-4",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-v13",
+    "user_handle": "Grace Taylor",
+    "message": "Can we increase the tap target on this button?",
+    "node_id": "5:12",
+    "resolved": "false",
+    "created_at": "2026-11-22T15:01:00Z"
+  },
+  {
+    "comment_id": "cmt-9002-4",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-v14",
+    "user_handle": "Tomas Alvarez",
+    "message": "Agreed; bumping to 48px height.",
+    "node_id": "5:12",
+    "resolved": "true",
+    "created_at": "2026-11-22T16:20:00Z"
+  },
+  {
+    "comment_id": "cmt-9003-4",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-v15",
+    "user_handle": "Grace Taylor",
+    "message": "The error state color fails contrast.",
+    "node_id": "12:5",
+    "resolved": "false",
+    "created_at": "2026-11-24T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9004-4",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-v16",
+    "user_handle": "Mara Lindqvist",
+    "message": "Hero copy is too long on mobile.",
+    "node_id": "3:8",
+    "resolved": "false",
+    "created_at": "2026-11-20T19:10:00Z"
+  },
+  {
+    "comment_id": "cmt-9001-5",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1001-v17",
+    "user_handle": "Grace Taylor",
+    "message": "Can we increase the tap target on this button?",
+    "node_id": "5:12",
+    "resolved": "false",
+    "created_at": "2026-11-22T15:01:00Z"
+  },
+  {
+    "comment_id": "cmt-9002-5",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-1002-v18",
+    "user_handle": "Tomas Alvarez",
+    "message": "Agreed; bumping to 48px height.",
+    "node_id": "5:12",
+    "resolved": "true",
+    "created_at": "2026-11-22T16:20:00Z"
+  },
+  {
+    "comment_id": "cmt-9003-5",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-1001-v19",
+    "user_handle": "Grace Taylor",
+    "message": "The error state color fails contrast.",
+    "node_id": "12:5",
+    "resolved": "false",
+    "created_at": "2026-11-24T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-9004-5",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-1003-v20",
+    "user_handle": "Mara Lindqvist",
+    "message": "Hero copy is too long on mobile.",
+    "node_id": "3:8",
+    "resolved": "false",
+    "created_at": "2026-11-20T19:10:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-100",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Can we tighten the tracking on the wordmark?",
+    "node_id": "5:100",
+    "resolved": "true",
+    "created_at": "2027-01-01T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-101",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "The stamped kraft direction is winning by a mile.",
+    "node_id": "5:101",
+    "resolved": "false",
+    "created_at": "2027-01-02T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-102",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Let's push the primary green two steps darker.",
+    "node_id": "5:102",
+    "resolved": "false",
+    "created_at": "2027-01-03T16:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-103",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Feels like the jar illustration needs a hair more weight on the outline.",
+    "node_id": "5:103",
+    "resolved": "true",
+    "created_at": "2027-01-04T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-104",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Copy on the packaging back label could lose one line.",
+    "node_id": "5:104",
+    "resolved": "false",
+    "created_at": "2027-01-05T14:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-105",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Try shifting the logo mark 4px right for optical balance.",
+    "node_id": "5:105",
+    "resolved": "false",
+    "created_at": "2027-01-06T17:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-106",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "The muted gold pairs better with the serif than the sans.",
+    "node_id": "5:106",
+    "resolved": "true",
+    "created_at": "2027-01-07T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-107",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Signage sizing looks good in the exterior mockup.",
+    "node_id": "5:107",
+    "resolved": "false",
+    "created_at": "2027-01-08T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-108",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "For the vinyl, let's confirm satin over matte before releasing files.",
+    "node_id": "5:108",
+    "resolved": "false",
+    "created_at": "2027-01-09T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-109",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Mood board direction B is the closest to the client brief.",
+    "node_id": "5:109",
+    "resolved": "true",
+    "created_at": "2027-01-10T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-110",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Direction A feels a touch too editorial.",
+    "node_id": "5:110",
+    "resolved": "false",
+    "created_at": "2027-01-11T16:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-111",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Small nit: baseline shift on the tagline.",
+    "node_id": "5:111",
+    "resolved": "false",
+    "created_at": "2027-01-12T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-112",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Concept 2 with the palette from concept 3 — worth trying.",
+    "node_id": "5:112",
+    "resolved": "true",
+    "created_at": "2027-01-13T14:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-113",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Icon set is reading a little heavy against the type. Try 1.25pt strokes.",
+    "node_id": "5:113",
+    "resolved": "false",
+    "created_at": "2027-01-14T17:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-114",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "The alt logo lockup handles vertical better than horizontal.",
+    "node_id": "5:114",
+    "resolved": "false",
+    "created_at": "2027-01-15T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-115",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Please add a case-sensitive version of the wordmark.",
+    "node_id": "5:115",
+    "resolved": "true",
+    "created_at": "2027-01-16T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-116",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Type specimen doc is ready for the guidelines.",
+    "node_id": "5:116",
+    "resolved": "false",
+    "created_at": "2027-01-17T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-117",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Let's swap the accent to warm gray for the packaging back.",
+    "node_id": "5:117",
+    "resolved": "false",
+    "created_at": "2027-01-18T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-118",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Client wants the seasonal SKU to differ subtly, not shout.",
+    "node_id": "5:118",
+    "resolved": "true",
+    "created_at": "2027-01-19T16:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-119",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "The trade show booth needs a bolder hero.",
+    "node_id": "5:119",
+    "resolved": "false",
+    "created_at": "2027-01-20T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-120",
+    "file_key": "FKseed1097aba7ce",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Web hero looks great — the type has room to breathe.",
+    "node_id": "5:120",
+    "resolved": "false",
+    "created_at": "2027-01-21T14:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-121",
+    "file_key": "FKseed114222f4e3",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Mobile nav should collapse to a hamburger below 640.",
+    "node_id": "5:121",
+    "resolved": "true",
+    "created_at": "2027-01-22T17:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-122",
+    "file_key": "FKseed12aea263b5",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Add a hover state variant for the product card.",
+    "node_id": "5:122",
+    "resolved": "false",
+    "created_at": "2027-01-23T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-123",
+    "file_key": "FKseed1395dcf18f",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "The primary CTA needs a stronger contrast against the sage.",
+    "node_id": "5:123",
+    "resolved": "false",
+    "created_at": "2027-01-24T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-124",
+    "file_key": "FKseed1444cc3bb4",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Alt text on the packaging photos should describe the ingredient.",
+    "node_id": "5:124",
+    "resolved": "true",
+    "created_at": "2027-01-25T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-125",
+    "file_key": "FKseed152b966165",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Portfolio case study copy is a little tight — could lose one paragraph.",
+    "node_id": "5:125",
+    "resolved": "false",
+    "created_at": "2027-01-26T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-126",
+    "file_key": "FKseed16cba6a072",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Home hero deserves a stronger typographic moment.",
+    "node_id": "5:126",
+    "resolved": "false",
+    "created_at": "2027-01-27T16:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-127",
+    "file_key": "FKseed1734d74e70",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Slight kerning fix between 'l' and 'm' in the wordmark.",
+    "node_id": "5:127",
+    "resolved": "true",
+    "created_at": "2027-01-28T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-128",
+    "file_key": "FKseed188a85aac4",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Let's move the price footnote closer to the price, not the CTA.",
+    "node_id": "5:128",
+    "resolved": "false",
+    "created_at": "2027-01-29T14:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-129",
+    "file_key": "FKseed19b6a283a4",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "The B version wins because the mark works at 24px.",
+    "node_id": "5:129",
+    "resolved": "false",
+    "created_at": "2027-01-30T17:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-130",
+    "file_key": "FKseed20ba69ba57",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Try the type at 92% weight for the tag line.",
+    "node_id": "5:130",
+    "resolved": "true",
+    "created_at": "2026-10-01T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-131",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Print proofs came in — magenta reads slightly warm, may need a tweak.",
+    "node_id": "5:131",
+    "resolved": "false",
+    "created_at": "2026-10-02T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-132",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Signage arrow icon is a keeper — let's ship it.",
+    "node_id": "5:132",
+    "resolved": "false",
+    "created_at": "2026-10-03T10:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-133",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Bloom seasonal label needs a subtle change so it reads as limited.",
+    "node_id": "5:133",
+    "resolved": "true",
+    "created_at": "2026-10-04T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-134",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Verdant retail sell sheet — one page, front and back only.",
+    "node_id": "5:134",
+    "resolved": "false",
+    "created_at": "2026-10-05T16:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-135",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Pinnacle brand book should open with the mission page.",
+    "node_id": "5:135",
+    "resolved": "false",
+    "created_at": "2026-10-06T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-200",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Working file backup pushed to Drive.",
+    "node_id": "7:100",
+    "resolved": "true",
+    "created_at": "2026-11-01T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-201",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Signed off on the type set.",
+    "node_id": "7:101",
+    "resolved": "true",
+    "created_at": "2026-11-02T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-202",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Ready to hand off to the printer.",
+    "node_id": "7:102",
+    "resolved": "true",
+    "created_at": "2026-11-03T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-203",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Client approved the color reversal.",
+    "node_id": "7:103",
+    "resolved": "true",
+    "created_at": "2026-11-04T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-204",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Retina asset export queued.",
+    "node_id": "7:104",
+    "resolved": "true",
+    "created_at": "2026-11-05T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-205",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "SVG optimized — file weights down 40%.",
+    "node_id": "7:105",
+    "resolved": "true",
+    "created_at": "2026-11-06T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-206",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Component library synced to the shared team.",
+    "node_id": "7:106",
+    "resolved": "true",
+    "created_at": "2026-11-07T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-207",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Style guide draft PDF exported.",
+    "node_id": "7:107",
+    "resolved": "true",
+    "created_at": "2026-11-08T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-208",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Client asked for a preview reel — shared the walkthrough.",
+    "node_id": "7:108",
+    "resolved": "true",
+    "created_at": "2026-11-09T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-209",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Handoff spec sheet delivered to the dev team.",
+    "node_id": "7:109",
+    "resolved": "true",
+    "created_at": "2026-11-10T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-210",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Landing page frames locked for the QA pass.",
+    "node_id": "7:110",
+    "resolved": "true",
+    "created_at": "2026-11-11T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-211",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Kicked off the type licensing paperwork.",
+    "node_id": "7:111",
+    "resolved": "true",
+    "created_at": "2026-11-12T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-212",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Icon strokes normalized to the 1pt grid.",
+    "node_id": "7:112",
+    "resolved": "true",
+    "created_at": "2026-11-13T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-213",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Fixed the drop shadow on the hero card.",
+    "node_id": "7:113",
+    "resolved": "true",
+    "created_at": "2026-11-14T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-214",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Rounded the button corners to 6px per client note.",
+    "node_id": "7:114",
+    "resolved": "true",
+    "created_at": "2026-11-15T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-215",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Renamed layers for cleaner developer handoff.",
+    "node_id": "7:115",
+    "resolved": "true",
+    "created_at": "2026-11-16T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-216",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Tagged the primary CTA style token.",
+    "node_id": "7:116",
+    "resolved": "true",
+    "created_at": "2026-11-17T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-217",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Cleaned up the archive frames on the file.",
+    "node_id": "7:117",
+    "resolved": "true",
+    "created_at": "2026-11-18T11:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-218",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Added a documentation page for the type stack.",
+    "node_id": "7:118",
+    "resolved": "true",
+    "created_at": "2026-11-19T13:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-219",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Consolidated the color styles into semantic tokens.",
+    "node_id": "7:119",
+    "resolved": "true",
+    "created_at": "2026-11-20T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-400",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 1 of the working file.",
+    "node_id": "9:100",
+    "resolved": "true",
+    "created_at": "2026-12-01T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-401",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 2 of the working file.",
+    "node_id": "9:101",
+    "resolved": "true",
+    "created_at": "2026-12-01T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-402",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 3 of the working file.",
+    "node_id": "9:102",
+    "resolved": "true",
+    "created_at": "2026-12-01T18:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-403",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 4 of the working file.",
+    "node_id": "9:103",
+    "resolved": "true",
+    "created_at": "2026-12-01T21:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-404",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 5 of the working file.",
+    "node_id": "9:104",
+    "resolved": "true",
+    "created_at": "2026-12-02T00:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-405",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 6 of the working file.",
+    "node_id": "9:105",
+    "resolved": "true",
+    "created_at": "2026-12-02T03:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-406",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 7 of the working file.",
+    "node_id": "9:106",
+    "resolved": "true",
+    "created_at": "2026-12-02T06:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-407",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 8 of the working file.",
+    "node_id": "9:107",
+    "resolved": "true",
+    "created_at": "2026-12-02T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-408",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 9 of the working file.",
+    "node_id": "9:108",
+    "resolved": "true",
+    "created_at": "2026-12-02T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-409",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 10 of the working file.",
+    "node_id": "9:109",
+    "resolved": "true",
+    "created_at": "2026-12-02T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-410",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 11 of the working file.",
+    "node_id": "9:110",
+    "resolved": "true",
+    "created_at": "2026-12-02T18:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-411",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 12 of the working file.",
+    "node_id": "9:111",
+    "resolved": "true",
+    "created_at": "2026-12-02T21:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-412",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 13 of the working file.",
+    "node_id": "9:112",
+    "resolved": "true",
+    "created_at": "2026-12-03T00:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-413",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 14 of the working file.",
+    "node_id": "9:113",
+    "resolved": "true",
+    "created_at": "2026-12-03T03:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-414",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 15 of the working file.",
+    "node_id": "9:114",
+    "resolved": "true",
+    "created_at": "2026-12-03T06:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-415",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 16 of the working file.",
+    "node_id": "9:115",
+    "resolved": "true",
+    "created_at": "2026-12-03T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-416",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 17 of the working file.",
+    "node_id": "9:116",
+    "resolved": "true",
+    "created_at": "2026-12-03T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-417",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 18 of the working file.",
+    "node_id": "9:117",
+    "resolved": "true",
+    "created_at": "2026-12-03T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-418",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 19 of the working file.",
+    "node_id": "9:118",
+    "resolved": "true",
+    "created_at": "2026-12-03T18:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-419",
+    "file_key": "FK004vwxyz12",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 20 of the working file.",
+    "node_id": "9:119",
+    "resolved": "true",
+    "created_at": "2026-12-03T21:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-420",
+    "file_key": "FKseed1097aba7ce",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 21 of the working file.",
+    "node_id": "9:120",
+    "resolved": "true",
+    "created_at": "2026-12-04T00:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-421",
+    "file_key": "FKseed114222f4e3",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 22 of the working file.",
+    "node_id": "9:121",
+    "resolved": "true",
+    "created_at": "2026-12-04T03:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-422",
+    "file_key": "FKseed12aea263b5",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 23 of the working file.",
+    "node_id": "9:122",
+    "resolved": "true",
+    "created_at": "2026-12-04T06:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-423",
+    "file_key": "FKseed1395dcf18f",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 24 of the working file.",
+    "node_id": "9:123",
+    "resolved": "true",
+    "created_at": "2026-12-04T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-424",
+    "file_key": "FKseed1444cc3bb4",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 25 of the working file.",
+    "node_id": "9:124",
+    "resolved": "true",
+    "created_at": "2026-12-04T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-425",
+    "file_key": "FKseed152b966165",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 26 of the working file.",
+    "node_id": "9:125",
+    "resolved": "true",
+    "created_at": "2026-12-04T15:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-426",
+    "file_key": "FKseed16cba6a072",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 27 of the working file.",
+    "node_id": "9:126",
+    "resolved": "true",
+    "created_at": "2026-12-04T18:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-427",
+    "file_key": "FKseed1734d74e70",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 28 of the working file.",
+    "node_id": "9:127",
+    "resolved": "true",
+    "created_at": "2026-12-04T21:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-428",
+    "file_key": "FKseed188a85aac4",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 29 of the working file.",
+    "node_id": "9:128",
+    "resolved": "true",
+    "created_at": "2026-12-05T00:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-429",
+    "file_key": "FKseed19b6a283a4",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 30 of the working file.",
+    "node_id": "9:129",
+    "resolved": "true",
+    "created_at": "2026-12-05T03:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-430",
+    "file_key": "FKseed20ba69ba57",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 31 of the working file.",
+    "node_id": "9:130",
+    "resolved": "true",
+    "created_at": "2026-12-05T06:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-431",
+    "file_key": "FK001abcdefg",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 32 of the working file.",
+    "node_id": "9:131",
+    "resolved": "true",
+    "created_at": "2026-12-05T09:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-432",
+    "file_key": "FK002hijklmn",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 33 of the working file.",
+    "node_id": "9:132",
+    "resolved": "true",
+    "created_at": "2026-12-05T12:00:00Z"
+  },
+  {
+    "comment_id": "cmt-seed-433",
+    "file_key": "FK003opqrstu",
+    "user_id": "user-jessica",
+    "user_handle": "Jessica Taylor",
+    "message": "Follow-up on version 34 of the working file.",
+    "node_id": "9:133",
+    "resolved": "true",
+    "created_at": "2026-12-05T15:00:00Z"
+  }
+]

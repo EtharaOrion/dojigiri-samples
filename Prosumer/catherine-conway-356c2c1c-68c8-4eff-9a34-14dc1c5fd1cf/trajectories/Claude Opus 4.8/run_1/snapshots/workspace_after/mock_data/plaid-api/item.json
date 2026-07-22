@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "M5eQ9vJKzWqXpr7Ngb3DdLoBnZteKcRPyAoWf",
+    "institution_id": "ins_116794",
+    "webhook": "https://hooks.Greenridertech.co/plaid",
+    "available_products": [
+      "balance",
+      "identity",
+      "auth"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "consent_expiration_time": "2027-03-14T00:00:00Z",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_116794",
+    "name": "Brightpath Financial",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.brightpathfinancial.com",
+    "primary_color": "#1a7f6b",
+    "routing_numbers": [
+      "323075325"
+    ]
+  }
+}

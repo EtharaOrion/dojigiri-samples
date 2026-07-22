@@ -1,0 +1,5 @@
+business_name,company_id,email,first_name,hourly_rate,id,last_name,start_date,type,wage_type,__api__,__table__,__file__,__row_index__
+Cohen Advisory Group,co-0000f7b97211,lila.cohen@cohenadvisory.com,Lila,75.0,con-73ab2723,Cohen,2026-04-06T11:41:00-05:00,general,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,0
+Park Safety Consulting,co-0000f7b97211,owen.park@parksafetyco.com,Owen,90.0,con-39f95d82,Park,2026-04-06T11:41:00-05:00,general,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,1
+Diaz Talent Partners,co-0000f7b97211,sasha.diaz@diaztalent.com,Sasha,105.0,con-9e51996e,Diaz,2026-04-06T11:41:00-05:00,general,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,2
+Klein Benefits Advisors,co-0000f7b97211,ezra.klein@kleinbenefits.com,Ezra,120.0,con-86b52384,Klein,2026-04-06T11:41:00-05:00,general,Hourly,gusto-api,contractors,/opt/mocks/gusto-api/contractors.json,3

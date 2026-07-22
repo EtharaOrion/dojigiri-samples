@@ -1,0 +1,28 @@
+id,messages_total,messages_unread,name,threads_total,threads_unread,type,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,11,6,INBOX,11,6,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,11,6,11,6
+SENT,8,0,SENT,8,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,8,0,8,0
+DRAFTS,1,0,DRAFT,1,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,1,0,1,0
+TRASH,0,0,TRASH,0,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,0,0,0,0
+SPAM,0,0,SPAM,0,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,0,0,0,0
+Label_dyaa,9,1,Detroit Youth Arts Alliance,9,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,9,1,9,1
+Label_followup,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,2,1,2,1
+Label_grants,47,3,Grants,39,3,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,7,47,3,39,3
+Label_grants_greenfield,22,1,Grants/Greenfield Foundation,18,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,8,22,1,18,1
+Label_grants_beacon,14,0,Grants/Beacon Foundation,12,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,9,14,0,12,0
+Label_grants_hartwell,9,2,Grants/Hartwell Foundation,7,2,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,10,9,2,7,2
+Label_board,31,0,Board (Patricia Chen),24,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,11,31,0,24,0
+Label_showcase,58,4,Showcase 2026,41,4,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,12,58,4,41,4
+Label_livernois,36,2,Livernois Opening,29,2,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,13,36,2,29,2
+Label_donors,44,1,Donors / Stewardship,33,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,14,44,1,33,1
+Label_city,12,0,City of Detroit (Lawson),10,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,15,12,0,10,0
+Label_staff,28,1,DYAA Staff,22,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,16,28,1,22,1
+Label_family,19,0,Family,16,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,17,19,0,16,0
+Label_kids_school,23,2,Family/Kids School,20,2,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,18,23,2,20,2
+Label_finance,15,0,Household Finance (Maria Reyes),12,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,19,15,0,12,0
+Label_health,8,0,Health & Appointments,7,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,20,8,0,7,0
+Label_speaking,11,1,Speaking (TEDx / NLA Chicago),9,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,21,11,1,9,1
+Label_mentees,6,0,Mentees,6,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,22,6,0,6,0
+Label_press,4,1,Press / Media,4,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,23,4,1,4,1
+Label_kitchen_reno,7,0,Home/Kitchen Reno (Andre Williams),5,0,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,24,7,0,5,0
+Label_travel,5,1,Travel,1,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,25,5,1,1,1
+Label_site,3,1,Website,1,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,26,3,1,1,1

@@ -1,0 +1,36 @@
+item_id,column_id,text,value,_pk
+item-7301,status,Backlog,100010,item-7301@status
+item-7301,owner,In Progress,100001,item-7301@owner
+item-7301,date,2026-11-01,100012,item-7301@date
+item-7301,notes,Plan Q1 class calendar,100013,item-7301@notes
+item-7302,status,In progress,100014,item-7302@status
+item-7302,owner,Plan Q1 class calendar,100003,item-7302@owner
+item-7302,notes,Review pricing experiment results,100016,item-7302@notes
+item-7303,status,In review,100017,item-7303@status
+item-7303,owner,Done,100004,item-7303@owner
+item-7303,notes,Sync on candidate pipeline,100019,item-7303@notes
+item-7304,status,Done,100020,item-7304@status
+item-7304,notes,Pull together quarterly board update,100021,item-7304@notes
+item-7305,owner,Backlog,100006,item-7305@owner
+item-7305,notes,Triage support backlog,100023,item-7305@notes
+item-7306,owner,Done,100002,item-7306@owner
+item-7306,notes,Schedule design crit for new onboarding,100025,item-7306@notes
+item-7307,notes,Send out customer NPS survey,100026,item-7307@notes
+item-7308,notes,Update team handbook,100027,item-7308@notes
+item-7309,owner,Backlog,100005,item-7309@owner
+item-7309,notes,Plan team offsite agenda,100029,item-7309@notes
+item-7310,notes,Renew SaaS contracts for next year,100030,item-7310@notes
+item-7311,notes,Prepare for security audit,100031,item-7311@notes
+item-7312,notes,Approve next class menu,100032,item-7312@notes
+item-7313,notes,Write up postmortem from last incident,100033,item-7313@notes
+item-7314,notes,Walk through new hire onboarding plan,100034,item-7314@notes
+item-9d4f,status,Menu locked,100035,item-9d4f@status
+item-9d4f,date,Shopping done,100036,item-9d4f@date
+item-9d4f,owner,Prep timeline set,100037,item-9d4f@owner
+item-9d4f,notes,Enrollment confirmed,100038,item-9d4f@notes
+item-c2b7,date,Featuring pimento cheese,100042,item-c2b7@date
+item-c2b7,status,Featuring candied yams,100043,item-c2b7@status
+item-9abf,date,Featuring grilled ribeye,100044,item-9abf@date
+item-9abf,status,Featuring smothered pork chops,100045,item-9abf@status
+item-ecf8,date,Featuring shrimp and grits,100046,item-ecf8@date
+item-ecf8,status,Featuring skillet cornbread,100047,item-ecf8@status

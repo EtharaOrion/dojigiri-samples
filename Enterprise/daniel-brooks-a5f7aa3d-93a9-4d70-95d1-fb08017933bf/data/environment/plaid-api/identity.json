@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Daniel Brooks"
+        ],
+        "emails": [
+          {
+            "data": "daniel.brooks@Greenridertech.com",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+17135550110",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1978 River Oaks Boulevard",
+              "city": "Houston",
+              "region": "TX",
+              "postal_code": "77019",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Daniel Brooks"
+        ],
+        "emails": [
+          {
+            "data": "daniel.brooks@Greenridertech.com",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+17135550110",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1978 River Oaks Boulevard",
+              "city": "Houston",
+              "region": "TX",
+              "postal_code": "77019",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+carrier,location_city,location_state,status,status_detail,status_time,tracking_number,__api__,__table__,__file__,__row_index__,_pk
+USPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-28T00:00:00Z,94001109358637738,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,0,USPS@94001109358637738@2026-03-28T00:00:00Z
+USPS,Beaverton,OR,TRANSIT,In transit,2026-03-28T18:00:00Z,94001109358637738,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,1,USPS@94001109358637738@2026-03-28T18:00:00Z
+USPS,Portland,OR,DELIVERED,Delivered,2026-03-29T12:00:00Z,94001109358637738,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,2,USPS@94001109358637738@2026-03-29T12:00:00Z
+UPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-25T00:00:00Z,94001469137218355,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,3,UPS@94001469137218355@2026-03-25T00:00:00Z
+UPS,Beaverton,OR,TRANSIT,In transit,2026-03-25T18:00:00Z,94001469137218355,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,4,UPS@94001469137218355@2026-03-25T18:00:00Z
+FedEx,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-22T00:00:00Z,94001452677639311,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,5,FedEx@94001452677639311@2026-03-22T00:00:00Z
+FedEx,Beaverton,OR,TRANSIT,In transit,2026-03-22T18:00:00Z,94001452677639311,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,6,FedEx@94001452677639311@2026-03-22T18:00:00Z
+USPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-19T00:00:00Z,94001686686375035,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,7,USPS@94001686686375035@2026-03-19T00:00:00Z
+USPS,Beaverton,OR,TRANSIT,In transit,2026-03-19T18:00:00Z,94001686686375035,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,8,USPS@94001686686375035@2026-03-19T18:00:00Z
+UPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-16T00:00:00Z,94001767567108083,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,9,UPS@94001767567108083@2026-03-16T00:00:00Z
+UPS,Beaverton,OR,TRANSIT,In transit,2026-03-16T18:00:00Z,94001767567108083,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,10,UPS@94001767567108083@2026-03-16T18:00:00Z
+FedEx,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-13T00:00:00Z,94001105157790867,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,11,FedEx@94001105157790867@2026-03-13T00:00:00Z
+FedEx,Beaverton,OR,TRANSIT,In transit,2026-03-13T18:00:00Z,94001105157790867,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,12,FedEx@94001105157790867@2026-03-13T18:00:00Z
+USPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-10T00:00:00Z,94001394936070986,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,13,USPS@94001394936070986@2026-03-10T00:00:00Z
+USPS,Beaverton,OR,TRANSIT,In transit,2026-03-10T18:00:00Z,94001394936070986,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,14,USPS@94001394936070986@2026-03-10T18:00:00Z
+UPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-07T00:00:00Z,94001606244458490,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,15,UPS@94001606244458490@2026-03-07T00:00:00Z
+UPS,Beaverton,OR,TRANSIT,In transit,2026-03-07T18:00:00Z,94001606244458490,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,16,UPS@94001606244458490@2026-03-07T18:00:00Z
+FedEx,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-04T00:00:00Z,94001196995799534,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,17,FedEx@94001196995799534@2026-03-04T00:00:00Z
+FedEx,Beaverton,OR,TRANSIT,In transit,2026-03-04T18:00:00Z,94001196995799534,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,18,FedEx@94001196995799534@2026-03-04T18:00:00Z
+USPS,Beaverton,OR,PRE_TRANSIT,Shipping label created,2026-03-01T00:00:00Z,94001584845893893,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,19,USPS@94001584845893893@2026-03-01T00:00:00Z
+USPS,Beaverton,OR,TRANSIT,In transit,2026-03-01T18:00:00Z,94001584845893893,shippo-api,tracking,/opt/mocks/shippo-api/tracking.json,20,USPS@94001584845893893@2026-03-01T18:00:00Z

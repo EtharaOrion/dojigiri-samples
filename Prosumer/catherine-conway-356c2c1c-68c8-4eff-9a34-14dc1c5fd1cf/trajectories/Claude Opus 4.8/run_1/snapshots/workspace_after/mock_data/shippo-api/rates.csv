@@ -1,0 +1,91 @@
+amount,currency,estimated_days,object_id,provider,servicelevel_name,servicelevel_token,shipment,__api__,__table__,__file__,__row_index__
+9.1,USD,2,rate-2ebbd21a4fbe,USPS,Priority Mail,usps_priority,ship-a877643f75da,shippo-api,rates,/opt/mocks/shippo-api/rates.json,0
+12.45,USD,3,rate-9a04766c0c0a,UPS,UPS Ground,ups_ground,ship-a877643f75da,shippo-api,rates,/opt/mocks/shippo-api/rates.json,1
+19.2,USD,2,rate-344a72bdb5d3,FedEx,FedEx 2Day,fedex_2day,ship-a877643f75da,shippo-api,rates,/opt/mocks/shippo-api/rates.json,2
+5.6,USD,4,rate-c07495e29d84,USPS,First-Class Package,usps_first,ship-a877643f75da,shippo-api,rates,/opt/mocks/shippo-api/rates.json,3
+32.4,USD,1,rate-7f2f757827a3,UPS,UPS Next Day Air,ups_next_day_air,ship-a877643f75da,shippo-api,rates,/opt/mocks/shippo-api/rates.json,4
+14.75,USD,3,rate-99897beadb34,FedEx,FedEx Express Saver,fedex_express_saver,ship-a877643f75da,shippo-api,rates,/opt/mocks/shippo-api/rates.json,5
+9.1,USD,2,rate-58eb279fb694,USPS,Priority Mail,usps_priority,ship-d245fbe374bf,shippo-api,rates,/opt/mocks/shippo-api/rates.json,6
+12.45,USD,3,rate-c66ef2ec7ca3,UPS,UPS Ground,ups_ground,ship-d245fbe374bf,shippo-api,rates,/opt/mocks/shippo-api/rates.json,7
+19.2,USD,2,rate-12b195cb7922,FedEx,FedEx 2Day,fedex_2day,ship-d245fbe374bf,shippo-api,rates,/opt/mocks/shippo-api/rates.json,8
+5.6,USD,4,rate-ea4e82301b3a,USPS,First-Class Package,usps_first,ship-d245fbe374bf,shippo-api,rates,/opt/mocks/shippo-api/rates.json,9
+32.4,USD,1,rate-a83c2079d7ed,UPS,UPS Next Day Air,ups_next_day_air,ship-d245fbe374bf,shippo-api,rates,/opt/mocks/shippo-api/rates.json,10
+14.75,USD,3,rate-29052ad875fe,FedEx,FedEx Express Saver,fedex_express_saver,ship-d245fbe374bf,shippo-api,rates,/opt/mocks/shippo-api/rates.json,11
+9.1,USD,2,rate-9de9b127638e,USPS,Priority Mail,usps_priority,ship-bc92fb006bfa,shippo-api,rates,/opt/mocks/shippo-api/rates.json,12
+12.45,USD,3,rate-11b0131043a9,UPS,UPS Ground,ups_ground,ship-bc92fb006bfa,shippo-api,rates,/opt/mocks/shippo-api/rates.json,13
+19.2,USD,2,rate-2a24d4fa9418,FedEx,FedEx 2Day,fedex_2day,ship-bc92fb006bfa,shippo-api,rates,/opt/mocks/shippo-api/rates.json,14
+5.6,USD,4,rate-76170cf6fb30,USPS,First-Class Package,usps_first,ship-bc92fb006bfa,shippo-api,rates,/opt/mocks/shippo-api/rates.json,15
+32.4,USD,1,rate-e13603e79bf6,UPS,UPS Next Day Air,ups_next_day_air,ship-bc92fb006bfa,shippo-api,rates,/opt/mocks/shippo-api/rates.json,16
+14.75,USD,3,rate-c2800ed6c24b,FedEx,FedEx Express Saver,fedex_express_saver,ship-bc92fb006bfa,shippo-api,rates,/opt/mocks/shippo-api/rates.json,17
+9.1,USD,2,rate-ea7df1728bf1,USPS,Priority Mail,usps_priority,ship-53604ac4ce57,shippo-api,rates,/opt/mocks/shippo-api/rates.json,18
+12.45,USD,3,rate-6be961015bd0,UPS,UPS Ground,ups_ground,ship-53604ac4ce57,shippo-api,rates,/opt/mocks/shippo-api/rates.json,19
+19.2,USD,2,rate-ad5d1289702a,FedEx,FedEx 2Day,fedex_2day,ship-53604ac4ce57,shippo-api,rates,/opt/mocks/shippo-api/rates.json,20
+5.6,USD,4,rate-bc1c251df50f,USPS,First-Class Package,usps_first,ship-53604ac4ce57,shippo-api,rates,/opt/mocks/shippo-api/rates.json,21
+32.4,USD,1,rate-da1de466e26f,UPS,UPS Next Day Air,ups_next_day_air,ship-53604ac4ce57,shippo-api,rates,/opt/mocks/shippo-api/rates.json,22
+14.75,USD,3,rate-65e231dbd039,FedEx,FedEx Express Saver,fedex_express_saver,ship-53604ac4ce57,shippo-api,rates,/opt/mocks/shippo-api/rates.json,23
+9.1,USD,2,rate-b13637819b19,USPS,Priority Mail,usps_priority,ship-f60553a816fb,shippo-api,rates,/opt/mocks/shippo-api/rates.json,24
+12.45,USD,3,rate-ed3648665cf2,UPS,UPS Ground,ups_ground,ship-f60553a816fb,shippo-api,rates,/opt/mocks/shippo-api/rates.json,25
+19.2,USD,2,rate-ae306092f5d1,FedEx,FedEx 2Day,fedex_2day,ship-f60553a816fb,shippo-api,rates,/opt/mocks/shippo-api/rates.json,26
+5.6,USD,4,rate-8333459ec1b9,USPS,First-Class Package,usps_first,ship-f60553a816fb,shippo-api,rates,/opt/mocks/shippo-api/rates.json,27
+32.4,USD,1,rate-2069d2259242,UPS,UPS Next Day Air,ups_next_day_air,ship-f60553a816fb,shippo-api,rates,/opt/mocks/shippo-api/rates.json,28
+14.75,USD,3,rate-fcdf6dce6f28,FedEx,FedEx Express Saver,fedex_express_saver,ship-f60553a816fb,shippo-api,rates,/opt/mocks/shippo-api/rates.json,29
+9.1,USD,2,rate-350906086721,USPS,Priority Mail,usps_priority,ship-c2ed24ec0744,shippo-api,rates,/opt/mocks/shippo-api/rates.json,30
+12.45,USD,3,rate-15891b54669a,UPS,UPS Ground,ups_ground,ship-c2ed24ec0744,shippo-api,rates,/opt/mocks/shippo-api/rates.json,31
+19.2,USD,2,rate-fb33591e3104,FedEx,FedEx 2Day,fedex_2day,ship-c2ed24ec0744,shippo-api,rates,/opt/mocks/shippo-api/rates.json,32
+5.6,USD,4,rate-3cebed02b0df,USPS,First-Class Package,usps_first,ship-c2ed24ec0744,shippo-api,rates,/opt/mocks/shippo-api/rates.json,33
+32.4,USD,1,rate-7b07573f1c4d,UPS,UPS Next Day Air,ups_next_day_air,ship-c2ed24ec0744,shippo-api,rates,/opt/mocks/shippo-api/rates.json,34
+14.75,USD,3,rate-38d1532e2a04,FedEx,FedEx Express Saver,fedex_express_saver,ship-c2ed24ec0744,shippo-api,rates,/opt/mocks/shippo-api/rates.json,35
+9.1,USD,2,rate-2bad1293a641,USPS,Priority Mail,usps_priority,ship-3d37d8075501,shippo-api,rates,/opt/mocks/shippo-api/rates.json,36
+12.45,USD,3,rate-5f67ef746c55,UPS,UPS Ground,ups_ground,ship-3d37d8075501,shippo-api,rates,/opt/mocks/shippo-api/rates.json,37
+19.2,USD,2,rate-3af97f5fc33c,FedEx,FedEx 2Day,fedex_2day,ship-3d37d8075501,shippo-api,rates,/opt/mocks/shippo-api/rates.json,38
+5.6,USD,4,rate-969046904190,USPS,First-Class Package,usps_first,ship-3d37d8075501,shippo-api,rates,/opt/mocks/shippo-api/rates.json,39
+32.4,USD,1,rate-2cf8cb0eccb5,UPS,UPS Next Day Air,ups_next_day_air,ship-3d37d8075501,shippo-api,rates,/opt/mocks/shippo-api/rates.json,40
+14.75,USD,3,rate-d48280e09c46,FedEx,FedEx Express Saver,fedex_express_saver,ship-3d37d8075501,shippo-api,rates,/opt/mocks/shippo-api/rates.json,41
+9.1,USD,2,rate-d1fb1c0bb171,USPS,Priority Mail,usps_priority,ship-2f3b4933d2d8,shippo-api,rates,/opt/mocks/shippo-api/rates.json,42
+12.45,USD,3,rate-4dcb553003b9,UPS,UPS Ground,ups_ground,ship-2f3b4933d2d8,shippo-api,rates,/opt/mocks/shippo-api/rates.json,43
+19.2,USD,2,rate-2ec5a2fa52a1,FedEx,FedEx 2Day,fedex_2day,ship-2f3b4933d2d8,shippo-api,rates,/opt/mocks/shippo-api/rates.json,44
+5.6,USD,4,rate-422ebf459c88,USPS,First-Class Package,usps_first,ship-2f3b4933d2d8,shippo-api,rates,/opt/mocks/shippo-api/rates.json,45
+32.4,USD,1,rate-6cb4bb7f37fd,UPS,UPS Next Day Air,ups_next_day_air,ship-2f3b4933d2d8,shippo-api,rates,/opt/mocks/shippo-api/rates.json,46
+14.75,USD,3,rate-765480be26f8,FedEx,FedEx Express Saver,fedex_express_saver,ship-2f3b4933d2d8,shippo-api,rates,/opt/mocks/shippo-api/rates.json,47
+9.1,USD,2,rate-9d409feb157d,USPS,Priority Mail,usps_priority,ship-6dc833610a4d,shippo-api,rates,/opt/mocks/shippo-api/rates.json,48
+12.45,USD,3,rate-950f2b664e51,UPS,UPS Ground,ups_ground,ship-6dc833610a4d,shippo-api,rates,/opt/mocks/shippo-api/rates.json,49
+19.2,USD,2,rate-d895574b6c14,FedEx,FedEx 2Day,fedex_2day,ship-6dc833610a4d,shippo-api,rates,/opt/mocks/shippo-api/rates.json,50
+5.6,USD,4,rate-656b7fdad3f0,USPS,First-Class Package,usps_first,ship-6dc833610a4d,shippo-api,rates,/opt/mocks/shippo-api/rates.json,51
+32.4,USD,1,rate-6a9e5f13f85d,UPS,UPS Next Day Air,ups_next_day_air,ship-6dc833610a4d,shippo-api,rates,/opt/mocks/shippo-api/rates.json,52
+14.75,USD,3,rate-7e0e1d895fa5,FedEx,FedEx Express Saver,fedex_express_saver,ship-6dc833610a4d,shippo-api,rates,/opt/mocks/shippo-api/rates.json,53
+9.1,USD,2,rate-72510c9be7cf,USPS,Priority Mail,usps_priority,ship-15b77103c4fc,shippo-api,rates,/opt/mocks/shippo-api/rates.json,54
+12.45,USD,3,rate-78f28cfb9b81,UPS,UPS Ground,ups_ground,ship-15b77103c4fc,shippo-api,rates,/opt/mocks/shippo-api/rates.json,55
+19.2,USD,2,rate-1657f2aa0bcd,FedEx,FedEx 2Day,fedex_2day,ship-15b77103c4fc,shippo-api,rates,/opt/mocks/shippo-api/rates.json,56
+5.6,USD,4,rate-43ba22169a37,USPS,First-Class Package,usps_first,ship-15b77103c4fc,shippo-api,rates,/opt/mocks/shippo-api/rates.json,57
+32.4,USD,1,rate-91992092f234,UPS,UPS Next Day Air,ups_next_day_air,ship-15b77103c4fc,shippo-api,rates,/opt/mocks/shippo-api/rates.json,58
+14.75,USD,3,rate-5ae140828b83,FedEx,FedEx Express Saver,fedex_express_saver,ship-15b77103c4fc,shippo-api,rates,/opt/mocks/shippo-api/rates.json,59
+9.1,USD,2,rate-4970c5393222,USPS,Priority Mail,usps_priority,ship-8955fc5f63b7,shippo-api,rates,/opt/mocks/shippo-api/rates.json,60
+12.45,USD,3,rate-c120f80f8320,UPS,UPS Ground,ups_ground,ship-8955fc5f63b7,shippo-api,rates,/opt/mocks/shippo-api/rates.json,61
+19.2,USD,2,rate-fb1c10fde71e,FedEx,FedEx 2Day,fedex_2day,ship-8955fc5f63b7,shippo-api,rates,/opt/mocks/shippo-api/rates.json,62
+5.6,USD,4,rate-3b49a679b713,USPS,First-Class Package,usps_first,ship-8955fc5f63b7,shippo-api,rates,/opt/mocks/shippo-api/rates.json,63
+32.4,USD,1,rate-df916cf935d5,UPS,UPS Next Day Air,ups_next_day_air,ship-8955fc5f63b7,shippo-api,rates,/opt/mocks/shippo-api/rates.json,64
+14.75,USD,3,rate-5eeb1dac69cd,FedEx,FedEx Express Saver,fedex_express_saver,ship-8955fc5f63b7,shippo-api,rates,/opt/mocks/shippo-api/rates.json,65
+9.1,USD,2,rate-6caeedb33c1e,USPS,Priority Mail,usps_priority,ship-2baea74adef3,shippo-api,rates,/opt/mocks/shippo-api/rates.json,66
+12.45,USD,3,rate-2c6732509ea0,UPS,UPS Ground,ups_ground,ship-2baea74adef3,shippo-api,rates,/opt/mocks/shippo-api/rates.json,67
+19.2,USD,2,rate-1f137bdbb1d8,FedEx,FedEx 2Day,fedex_2day,ship-2baea74adef3,shippo-api,rates,/opt/mocks/shippo-api/rates.json,68
+5.6,USD,4,rate-81b7e94ff324,USPS,First-Class Package,usps_first,ship-2baea74adef3,shippo-api,rates,/opt/mocks/shippo-api/rates.json,69
+32.4,USD,1,rate-68d908729882,UPS,UPS Next Day Air,ups_next_day_air,ship-2baea74adef3,shippo-api,rates,/opt/mocks/shippo-api/rates.json,70
+14.75,USD,3,rate-ee328caf4966,FedEx,FedEx Express Saver,fedex_express_saver,ship-2baea74adef3,shippo-api,rates,/opt/mocks/shippo-api/rates.json,71
+9.1,USD,2,rate-3453552f5de3,USPS,Priority Mail,usps_priority,ship-f83e79171670,shippo-api,rates,/opt/mocks/shippo-api/rates.json,72
+12.45,USD,3,rate-4d44d0c430c4,UPS,UPS Ground,ups_ground,ship-f83e79171670,shippo-api,rates,/opt/mocks/shippo-api/rates.json,73
+19.2,USD,2,rate-5ddc1526456c,FedEx,FedEx 2Day,fedex_2day,ship-f83e79171670,shippo-api,rates,/opt/mocks/shippo-api/rates.json,74
+5.6,USD,4,rate-461202c64b62,USPS,First-Class Package,usps_first,ship-f83e79171670,shippo-api,rates,/opt/mocks/shippo-api/rates.json,75
+32.4,USD,1,rate-3842731f207d,UPS,UPS Next Day Air,ups_next_day_air,ship-f83e79171670,shippo-api,rates,/opt/mocks/shippo-api/rates.json,76
+14.75,USD,3,rate-c5d0048de6f8,FedEx,FedEx Express Saver,fedex_express_saver,ship-f83e79171670,shippo-api,rates,/opt/mocks/shippo-api/rates.json,77
+9.1,USD,2,rate-44519d069a4e,USPS,Priority Mail,usps_priority,ship-2936720ace75,shippo-api,rates,/opt/mocks/shippo-api/rates.json,78
+12.45,USD,3,rate-681141bfc4ed,UPS,UPS Ground,ups_ground,ship-2936720ace75,shippo-api,rates,/opt/mocks/shippo-api/rates.json,79
+19.2,USD,2,rate-f4724da0d944,FedEx,FedEx 2Day,fedex_2day,ship-2936720ace75,shippo-api,rates,/opt/mocks/shippo-api/rates.json,80
+5.6,USD,4,rate-c1184c7f8315,USPS,First-Class Package,usps_first,ship-2936720ace75,shippo-api,rates,/opt/mocks/shippo-api/rates.json,81
+32.4,USD,1,rate-fbf24fc7eb7d,UPS,UPS Next Day Air,ups_next_day_air,ship-2936720ace75,shippo-api,rates,/opt/mocks/shippo-api/rates.json,82
+14.75,USD,3,rate-5604bdbb6f10,FedEx,FedEx Express Saver,fedex_express_saver,ship-2936720ace75,shippo-api,rates,/opt/mocks/shippo-api/rates.json,83
+9.1,USD,2,rate-b0ca5f1dd72b,USPS,Priority Mail,usps_priority,ship-b5d726f4c922,shippo-api,rates,/opt/mocks/shippo-api/rates.json,84
+12.45,USD,3,rate-de3e36728175,UPS,UPS Ground,ups_ground,ship-b5d726f4c922,shippo-api,rates,/opt/mocks/shippo-api/rates.json,85
+19.2,USD,2,rate-57822adc309b,FedEx,FedEx 2Day,fedex_2day,ship-b5d726f4c922,shippo-api,rates,/opt/mocks/shippo-api/rates.json,86
+5.6,USD,4,rate-25b5de46c3b2,USPS,First-Class Package,usps_first,ship-b5d726f4c922,shippo-api,rates,/opt/mocks/shippo-api/rates.json,87
+32.4,USD,1,rate-eb7bfcaa22e6,UPS,UPS Next Day Air,ups_next_day_air,ship-b5d726f4c922,shippo-api,rates,/opt/mocks/shippo-api/rates.json,88
+14.75,USD,3,rate-6caed40704ad,FedEx,FedEx Express Saver,fedex_express_saver,ship-b5d726f4c922,shippo-api,rates,/opt/mocks/shippo-api/rates.json,89

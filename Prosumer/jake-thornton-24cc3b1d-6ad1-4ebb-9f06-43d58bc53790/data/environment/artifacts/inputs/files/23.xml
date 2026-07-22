@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raisedBedPlan>
+  <bed>
+    <id>Bed 1</id>
+    <crop>tomatoes</crop>
+    <plantMonth>April</plantMonth>
+    <harvestWindow>July to September</harvestWindow>
+  </bed>
+  <bed>
+    <id>Bed 2</id>
+    <crop>peppers</crop>
+    <plantMonth>April</plantMonth>
+    <harvestWindow>July to October</harvestWindow>
+  </bed>
+  <bed>
+    <id>Bed 3</id>
+    <crop>okra</crop>
+    <plantMonth>May</plantMonth>
+    <harvestWindow>July to September</harvestWindow>
+  </bed>
+  <bed>
+    <id>Bed 4</id>
+    <crop>squash</crop>
+    <plantMonth>May</plantMonth>
+    <harvestWindow>June to August</harvestWindow>
+  </bed>
+  <bed>
+    <id>Bed 5</id>
+    <crop>herbs (basil, thyme, rosemary)</crop>
+    <plantMonth>March</plantMonth>
+    <harvestWindow>ongoing</harvestWindow>
+  </bed>
+</raisedBedPlan>

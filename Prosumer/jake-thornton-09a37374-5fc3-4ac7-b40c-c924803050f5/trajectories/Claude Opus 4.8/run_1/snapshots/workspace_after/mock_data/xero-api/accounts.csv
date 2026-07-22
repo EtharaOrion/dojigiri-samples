@@ -1,0 +1,21 @@
+AccountID,Code,Name,Type,TaxType,Status,Description,EnablePaymentsToAccount
+fcfe0721-9f4f-69bd-49d5-f43edca38fd7305,200,Sales,REVENUE,OUTPUT2,ACTIVE,Standard sales revenue,False
+x68k5x26ujrxik2yiwf3dbxdqoa4r7mp,260,Other Revenue,REVENUE,OUTPUT2,ACTIVE,Other income,False
+8ae2dbc2-3c19-2085-4c9a-975131283cd7309,310,Cost of Goods Sold,EXPENSE,INPUT2,ACTIVE,COGS,False
+11f157cf-08f4-4c9b-4b70-9ec5a3e661a7305,400,Advertising,EXPENSE,INPUT2,ACTIVE,Marketing spend,False
+d197f79b-c7bf-69b9-4991-2b87c0af11321,404,Bank Fees,EXPENSE,INPUT2,ACTIVE,Bank fees,False
+2d56bffb-e47d-72bc-4539-1b71615bf7836,420,Telephone & Internet,EXPENSE,INPUT2,ACTIVE,Telecom expenses,False
+2h3k6vekdi0sbgpw3tgqpgythfc8cey0,485,General Expenses,EXPENSE,INPUT2,ACTIVE,Misc expenses,False
+gsm4teubn8o1684b8b5bln0ch8snojq9,610,Accounts Receivable,CURRENT,NONE,ACTIVE,Trade receivables,False
+01a2fef6-5548-42bd-4472-4c23a465e8031,800,Accounts Payable,CURRLIAB,NONE,ACTIVE,Trade payables,False
+2v3minjfqvwthms1qtum9kxjsyhqnrek,090,Business Bank Account,BANK,NONE,ACTIVE,Operating account,True
+fcfe0721-9f4f-69bd-49d5-f43edca38fd7318,200,Sales,REVENUE,OUTPUT2,ACTIVE,Standard sales revenue,False
+d5e6efba3a9ff997011208d69e06f8c9,260,Other Revenue,REVENUE,OUTPUT2,ACTIVE,Other income,False
+8ae2dbc2-3c19-2085-4c9a-975131283cd7348,310,Cost of Goods Sold,EXPENSE,INPUT2,ACTIVE,COGS,False
+11f157cf-08f4-4c9b-4b70-9ec5a3e661a7357,400,Advertising,EXPENSE,INPUT2,ACTIVE,Marketing spend,False
+d197f79b-c7bf-69b9-4991-2b87c0af11386,404,Bank Fees,EXPENSE,INPUT2,ACTIVE,Bank fees,False
+2d56bffb-e47d-72bc-4539-1b71615bf7914,420,Telephone & Internet,EXPENSE,INPUT2,ACTIVE,Telecom expenses,False
+2h3k6vekdi0sbgpw3tgqpgythfc8cey91,485,General Expenses,EXPENSE,INPUT2,ACTIVE,Misc expenses,False
+gsm4teubn8o1684b8b5bln0ch8snojq113,610,Accounts Receivable,CURRENT,NONE,ACTIVE,Trade receivables,False
+01a2fef6-5548-42bd-4472-4c23a465e8148,800,Accounts Payable,CURRLIAB,NONE,ACTIVE,Trade payables,False
+64fc46229e33926b2f121809ef2ccd90,090,Business Bank Account,BANK,NONE,ACTIVE,Operating account,True

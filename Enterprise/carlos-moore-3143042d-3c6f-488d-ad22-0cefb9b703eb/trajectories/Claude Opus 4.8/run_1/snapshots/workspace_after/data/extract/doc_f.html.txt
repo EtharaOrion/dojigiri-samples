@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calvary Hill Spring Fundraiser 2027</title>
+<style>
+  :root{--wine:#6e1f2e;--wine-d:#4d1420;--cream:#faf4e8;--gold:#c79a3e;--gold-l:#e3c878;
+    --ink:#2c2018;--mut:#7c6a5c;--green:#3f6b4f;--line:#e8ddc8;--card:#fffdf8;}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{font-family:"Georgia",serif;color:var(--ink);background:var(--cream);line-height:1.7}
+  h1,h2,h3,.ui{font-family:"Trebuchet MS","Segoe UI",sans-serif}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 22px}
+
+  header{position:sticky;top:0;z-index:40;background:var(--wine-d);border-bottom:3px solid var(--gold)}
+  .bar{display:flex;align-items:center;justify-content:space-between;height:64px;color:#fff}
+  .logo{font-family:"Trebuchet MS",sans-serif;font-weight:700;font-size:18px;letter-spacing:.5px;display:flex;align-items:center;gap:10px}
+  .cross{width:26px;height:26px;position:relative;flex:none}
+  .cross::before,.cross::after{content:"";position:absolute;background:var(--gold)}
+  .cross::before{left:11px;top:0;width:4px;height:26px}.cross::after{left:4px;top:8px;width:18px;height:4px}
+  nav.ui{display:flex;gap:22px;font-size:14px}
+  nav a{color:#f0e2d0;transition:.2s}nav a:hover{color:var(--gold-l)}
+  .donate-top{background:var(--gold);color:var(--wine-d)!important;padding:8px 16px;border-radius:4px;font-weight:700}
+  .mbtn{display:none;background:none;border:0;color:#fff;font-size:24px}
+
+  .hero{position:relative;color:#fff;text-align:center;padding:90px 0 80px;
+    background:linear-gradient(rgba(77,20,32,.92),rgba(110,31,46,.92)),
+      repeating-linear-gradient(45deg,#5a1825 0 22px,#641b2b 22px 44px)}
+  .hero .ek{color:var(--gold-l);letter-spacing:3px;text-transform:uppercase;font-size:13px;font-family:"Trebuchet MS",sans-serif}
+  .hero h1{font-size:clamp(34px,6vw,58px);margin:14px 0 10px;line-height:1.08}
+  .hero .when{font-size:19px;color:#f3e6d4}
+  .count{display:flex;gap:14px;justify-content:center;margin:34px 0}
+  .cbox{background:rgba(255,255,255,.08);border:1px solid rgba(199,154,62,.4);border-radius:10px;padding:14px 18px;min-width:84px}
+  .cbox b{display:block;font-size:34px;font-family:"Trebuchet MS",sans-serif;color:var(--gold-l)}
+  .cbox span{font-size:12px;text-transform:uppercase;letter-spacing:1px;color:#e8d8c4}
+  .btn{display:inline-block;padding:13px 30px;border-radius:5px;font-family:"Trebuchet MS",sans-serif;font-weight:700;cursor:pointer;transition:transform .2s,box-shadow .2s;border:2px solid transparent}
+  .btn-gold{background:var(--gold);color:var(--wine-d)}
+  .btn-out{border-color:var(--gold-l);color:#fff}
+  .btn:hover{transform:translateY(-3px);box-shadow:0 10px 22px rgba(0,0,0,.3)}
+
+  section{padding:78px 0}
+  .head{text-align:center;margin-bottom:48px}
+  .head .ek{color:var(--green);letter-spacing:2px;text-transform:uppercase;font-size:13px;font-family:"Trebuchet MS",sans-serif}
+  .head h2{font-size:34px;color:var(--wine);margin-top:8px}
+  .head p{max-width:680px;margin:12px auto 0;color:var(--mut);font-size:18px}
+
+  .goal{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:36px;box-shadow:0 14px 40px rgba(110,31,46,.08);text-align:center;max-width:780px;margin:0 auto}
+  .goal .amt{font-size:46px;color:var(--green);font-family:"Trebuchet MS",sans-serif;font-weight:700}
+  .goal .of{color:var(--mut)}
+  .track{height:20px;background:#efe6d4;border-radius:20px;margin:22px 0 10px;overflow:hidden}
+  .track i{display:block;height:100%;width:0;border-radius:20px;background:linear-gradient(90deg,var(--gold),var(--green));transition:width 1.8s cubic-bezier(.2,.8,.2,1)}
+  .goal small{color:var(--mut)}
+
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:28px 24px;text-align:center;transition:transform .3s,box-shadow .3s}
+  .c:hover{transform:translateY(-7px);box-shadow:0 16px 36px rgba(110,31,46,.12)}
+  .c .em{font-size:30px;display:block;margin-bottom:12px}
+  .c h3{color:var(--wine);font-size:19px;margin-bottom:8px}
+  .c p{color:var(--mut);font-size:15px}
+
+  /* budget breakdown */
+  .budget{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center}
+  .bdonut{width:230px;height:230px;border-radius:50%;margin:0 auto;display:flex;align-items:center;justify-content:center;
+    background:conic-gradient(#c79a3e 0 0);transition:background 1.6s ease}
+  .bdonut i{width:150px;height:150px;border-radius:50%;background:var(--cream);display:flex;flex-direction:column;align-items:center;justify-content:center;font-style:normal}
+  .bdonut i b{font-size:26px;color:var(--green)}.bdonut i small{color:var(--mut);font-size:12px}
+  .blist{list-style:none}
+  .blist li{display:flex;align-items:center;gap:12px;padding:11px 0;border-bottom:1px dashed var(--line);font-size:15px}
+  .blist .sw{width:14px;height:14px;border-radius:4px;flex:none}
+  .blist .v{margin-left:auto;font-weight:700;color:var(--wine);font-family:"Trebuchet MS",sans-serif}
+
+  /* schedule */
+  .sched{max-width:760px;margin:0 auto;list-style:none}
+  .sched li{display:flex;gap:20px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 22px;margin-bottom:14px;align-items:center}
+  .sched .t{font-family:"Trebuchet MS",sans-serif;font-weight:700;color:var(--gold);min-width:96px}
+  .sched b{color:var(--wine)}
+
+  /* team */
+  .team{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+  .mem{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;text-align:center;transition:.25s}
+  .mem:hover{border-color:var(--gold);transform:translateY(-4px)}
+  .av{width:56px;height:56px;border-radius:50%;margin:0 auto 12px;background:linear-gradient(135deg,var(--wine),var(--gold));color:#fff;display:flex;align-items:center;justify-content:center;font-family:"Trebuchet MS",sans-serif;font-weight:700;font-size:20px}
+  .mem b{display:block;color:var(--ink);font-family:"Trebuchet MS",sans-serif}
+  .mem span{font-size:13px;color:var(--mut)}
+
+  .cta{background:linear-gradient(135deg,var(--wine),var(--wine-d));color:#fff;text-align:center;border-radius:18px;padding:56px 30px;max-width:900px;margin:0 auto}
+  .cta h2{font-size:32px;margin-bottom:10px}
+  .cta p{color:#f0e2d0;max-width:560px;margin:0 auto 26px}
+
+  footer{background:var(--wine-d);color:#dcc7b3;text-align:center;padding:40px 0;font-size:14px}
+
+  .rev{opacity:0;transform:translateY(24px);transition:.7s}.rev.in{opacity:1;transform:none}
+  #toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--green);color:#fff;padding:14px 26px;border-radius:6px;font-weight:700;opacity:0;transition:.4s;z-index:99}
+  #toast.show{transform:translateX(-50%) translateY(0);opacity:1}
+  @media(max-width:860px){nav.ui{display:none}.mbtn{display:block}nav.open{display:flex;position:absolute;top:64px;left:0;right:0;flex-direction:column;background:var(--wine-d);padding:16px 22px}
+    .cards,.team{grid-template-columns:1fr 1fr}.budget{grid-template-columns:1fr}}
+  @media(max-width:560px){.cards,.team{grid-template-columns:1fr}.count{flex-wrap:wrap}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="logo"><span class="cross"></span> Calvary Hill Fundraiser</div>
+    <nav class="ui" id="nav">
+      <a href="#about">The Event</a>
+      <a href="#progress">Our Goal</a>
+      <a href="#budget">Where It Goes</a>
+      <a href="#schedule">Schedule</a>
+      <a href="#team">Volunteers</a>
+      <a href="#give" class="donate-top">Give</a>
+    </nav>
+    <button class="mbtn" id="mbtn">&#9776;</button>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="ek">Calvary Hill Church, Nashville</div>
+    <h1>Spring Fundraiser 2027</h1>
+    <div class="when">Saturday, February 21, 2027 &nbsp;&bull;&nbsp; 5:30 PM &nbsp;&bull;&nbsp; Fellowship Hall</div>
+    <div class="count" id="count">
+      <div class="cbox"><b id="d">0</b><span>Days</span></div>
+      <div class="cbox"><b id="h">0</b><span>Hours</span></div>
+      <div class="cbox"><b id="m">0</b><span>Minutes</span></div>
+      <div class="cbox"><b id="s">0</b><span>Seconds</span></div>
+    </div>
+    <a class="btn btn-gold" href="#give">Reserve a Plate, $45</a>
+    <a class="btn btn-out" href="#about" style="margin-left:10px">Learn More</a>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap">
+    <div class="head rev"><div class="ek">A night for the ministry</div><h2>Good food, good people, a good cause</h2><p>Our annual Southern dinner brings the congregation together for an evening of fellowship, a silent auction, and choir music, with every dollar of proceeds supporting Calvary Hill ministries and our Nashville community partners.</p></div>
+    <div class="cards">
+      <div class="c rev"><span class="em">&#127869;</span><h3>Southern Buffet Dinner</h3><p>A full home style spread for two hundred guests, served by our food committee and the church kitchen volunteers.</p></div>
+      <div class="c rev"><span class="em">&#127908;</span><h3>Live Choir Performance</h3><p>The Calvary Hill choir performs a special set, with our baritone section leading a featured selection.</p></div>
+      <div class="c rev"><span class="em">&#127873;</span><h3>Silent Auction and Raffle</h3><p>Twenty donated auction items and a raffle, with prizes from generous local supporters and church families.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="progress" style="background:#f3ead8">
+  <div class="wrap">
+    <div class="head rev"><div class="ek">Our goal</div><h2>Help us reach our target</h2></div>
+    <div class="goal rev">
+      <div><span class="amt">$13,195</span> <span class="of">net proceeds goal for ministries</span></div>
+      <div class="track"><i id="track"></i></div>
+      <small id="pledged">Projected to raise over our 2025 result of $11,840, an eleven percent increase.</small>
+      <div style="margin-top:22px"><a class="btn btn-gold" href="#give">Add Your Support</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="budget">
+  <div class="wrap">
+    <div class="head rev"><div class="ek">Transparency</div><h2>Where the money comes from</h2><p>Projected income of $20,150 from six sources. We keep expenses lean so the maximum reaches ministry.</p></div>
+    <div class="budget rev">
+      <div>
+        <div class="bdonut" id="bdonut"><i><b>$20,150</b><small>projected income</small></i></div>
+      </div>
+      <ul class="blist" id="blist">
+        <li><span class="sw" style="background:#6e1f2e"></span> Ticket sales, 180 plates at $45 <span class="v">$8,100</span></li>
+        <li><span class="sw" style="background:#c79a3e"></span> Silent auction, 20 items <span class="v">$4,500</span></li>
+        <li><span class="sw" style="background:#3f6b4f"></span> Raffle, 300 tickets at $10 <span class="v">$3,000</span></li>
+        <li><span class="sw" style="background:#a9572f"></span> Member donations, day of <span class="v">$2,200</span></li>
+        <li><span class="sw" style="background:#7c6aa0"></span> Corporate sponsor <span class="v">$1,500</span></li>
+        <li><span class="sw" style="background:#d2a25a"></span> Bake sale <span class="v">$850</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="schedule" style="background:#f3ead8">
+  <div class="wrap">
+    <div class="head rev"><div class="ek">The evening</div><h2>Event schedule</h2></div>
+    <ul class="sched">
+      <li class="rev"><div class="t">5:30 PM</div><div><b>Doors and welcome</b><br>Registration, welcome table, and seating as guests arrive.</div></li>
+      <li class="rev"><div class="t">6:00 PM</div><div><b>Opening prayer and dinner</b><br>Pastor Whitfield opens the evening, followed by the Southern buffet.</div></li>
+      <li class="rev"><div class="t">7:00 PM</div><div><b>Choir performance</b><br>A featured set from the Calvary Hill choir.</div></li>
+      <li class="rev"><div class="t">7:30 PM</div><div><b>Silent auction closes</b><br>Final bids and raffle drawing, winners announced.</div></li>
+      <li class="rev"><div class="t">8:15 PM</div><div><b>Closing remarks</b><br>Thank you, a word on the impact, and closing prayer.</div></li>
+    </ul>
+  </div>
+</section>
+
+<section id="team">
+  <div class="wrap">
+    <div class="head rev"><div class="ek">The people behind it</div><h2>Our volunteer committee</h2></div>
+    <div class="team">
+      <div class="mem rev"><div class="av">CM</div><b>Carlos Moore</b><span>Committee Chair</span></div>
+      <div class="mem rev"><div class="av">JW</div><b>Pastor Whitfield</b><span>Spiritual Lead and Emcee</span></div>
+      <div class="mem rev"><div class="av">MM</div><b>Maria Moore</b><span>Food Committee Co-Lead</span></div>
+      <div class="mem rev"><div class="av">MW</div><b>Marcus Webb</b><span>Silent Auction Manager</span></div>
+      <div class="mem rev"><div class="av">GW</div><b>Sister Gloria Watkins</b><span>Bake Sale Coordinator</span></div>
+      <div class="mem rev"><div class="av">TC</div><b>Tamara Collins</b><span>Choir and Entertainment</span></div>
+      <div class="mem rev"><div class="av">DA</div><b>DeShawn Avery</b><span>Social Media and Photography</span></div>
+      <div class="mem rev"><div class="av">BC</div><b>Brenda Coles</b><span>Cash Box and Finance</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="give">
+  <div class="wrap">
+    <div class="cta rev">
+      <h2>Be part of the night</h2>
+      <p>Reserve a plate, sponsor a table, or give directly to the ministry fund. Every contribution stays in Nashville and serves our community.</p>
+      <form onsubmit="return give(event)" class="ui" style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;max-width:560px;margin:0 auto">
+        <input required type="email" aria-label="Your email" style="flex:1;min-width:220px;padding:13px 16px;border-radius:6px;border:0;font-family:inherit">
+        <button class="btn btn-gold" type="submit">Count Me In</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div>Calvary Hill Church, Nashville, Tennessee</div>
+  <div style="margin-top:6px;opacity:.8">Spring Fundraiser Planning Committee, chaired by Carlos Moore. Page updated October 2026.</div>
+</footer>
+<div id="toast">Thank you, we will be in touch with the details.</div>
+
+<script>
+  const mbtn=document.getElementById('mbtn'),nav=document.getElementById('nav');
+  mbtn.addEventListener('click',()=>nav.classList.toggle('open'));
+
+  // countdown to Feb 21 2027 17:30 Central
+  const tgt=new Date('2027-02-21T17:30:00').getTime();
+  function tick(){let now=Date.now(),diff=Math.max(0,tgt-now);
+    let d=Math.floor(diff/864e5),h=Math.floor(diff%864e5/36e5),m=Math.floor(diff%36e5/6e4),s=Math.floor(diff%6e4/1e3);
+    document.getElementById('d').textContent=d;document.getElementById('h').textContent=h;
+    document.getElementById('m').textContent=m;document.getElementById('s').textContent=s;}
+  tick();setInterval(tick,1000);
+
+  // reveal
+  const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
+  document.querySelectorAll('.rev').forEach(el=>io.observe(el));
+
+  // track fill (projected/goal ~ 86% pledged so far illustrative)
+  const tObs=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){document.getElementById('track').style.width='86%';tObs.disconnect()}}),{threshold:.4});
+  tObs.observe(document.getElementById('progress'));
+
+  // budget donut segments by share of 20150
+  const seg=[['#6e1f2e',8100],['#c79a3e',4500],['#3f6b4f',3000],['#a9572f',2200],['#7c6aa0',1500],['#d2a25a',850]];
+  const total=20150;let acc=0,stops=[];
+  seg.forEach(([c,v])=>{let a=acc/total*100,b=(acc+v)/total*100;stops.push(`${c} ${a}% ${b}%`);acc+=v});
+  const bObs=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){document.getElementById('bdonut').style.background=`conic-gradient(${stops.join(',')})`;bObs.disconnect()}}),{threshold:.4});
+  bObs.observe(document.getElementById('budget'));
+
+  function give(e){e.preventDefault();const t=document.getElementById('toast');t.classList.add('show');e.target.reset();setTimeout(()=>t.classList.remove('show'),3200);return false;}
+</script>
+</body>
+</html>

@@ -1,0 +1,234 @@
+{
+  "QueryResponse": {
+    "Account": [
+      {
+        "Id": "1",
+        "Name": "Cornerstone Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 8642.55,
+        "Active": true,
+        "Description": "Primary household checking - Cornerstone Online Bank"
+      },
+      {
+        "Id": "2",
+        "Name": "Cornerstone High-Yield Savings",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 42500.0,
+        "Active": true,
+        "Description": "Emergency fund and savings"
+      },
+      {
+        "Id": "3",
+        "Name": "Cornerstone Rewards Card",
+        "AccountType": "CreditCard",
+        "AccountSubType": "CreditCard",
+        "CurrentBalance": 1284.55,
+        "Active": true,
+        "Description": "Rewards card paid in full monthly"
+      },
+      {
+        "Id": "4",
+        "Name": "Bellmark Salary",
+        "AccountType": "Income",
+        "AccountSubType": "OtherPrimaryIncome",
+        "CurrentBalance": 33612.0,
+        "Active": true,
+        "Description": "Net payroll from Bellmark Industries YTD"
+      },
+      {
+        "Id": "5",
+        "Name": "Fundraiser & Committee Income",
+        "AccountType": "Income",
+        "AccountSubType": "ServiceFeeIncome",
+        "CurrentBalance": 4200.0,
+        "Active": true,
+        "Description": "Calvary Hill fundraiser and committee income YTD"
+      },
+      {
+        "Id": "6",
+        "Name": "Reimbursement Income",
+        "AccountType": "Income",
+        "AccountSubType": "OtherPrimaryIncome",
+        "CurrentBalance": 1850.0,
+        "Active": true,
+        "Description": "Reimbursements received YTD"
+      },
+      {
+        "Id": "7",
+        "Name": "Interest Income",
+        "AccountType": "Income",
+        "AccountSubType": "OtherPrimaryIncome",
+        "CurrentBalance": 642.18,
+        "Active": true,
+        "Description": "Cornerstone HYSA interest YTD"
+      },
+      {
+        "Id": "8",
+        "Name": "Mortgage Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 4944.6,
+        "Active": true,
+        "Description": "Cornerstone mortgage payments YTD"
+      },
+      {
+        "Id": "9",
+        "Name": "Utilities Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "Utilities",
+        "CurrentBalance": 1102.4,
+        "Active": true,
+        "Description": "Electric, water, and gas YTD"
+      },
+      {
+        "Id": "10",
+        "Name": "Groceries Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 1486.2,
+        "Active": true,
+        "Description": "Household groceries YTD"
+      },
+      {
+        "Id": "11",
+        "Name": "Insurance Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "Insurance",
+        "CurrentBalance": 672.0,
+        "Active": true,
+        "Description": "Home and auto insurance YTD"
+      },
+      {
+        "Id": "12",
+        "Name": "Auto Loan Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 1260.0,
+        "Active": true,
+        "Description": "Toyota Highlander loan payments YTD"
+      },
+      {
+        "Id": "13",
+        "Name": "Fuel Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "Automobile",
+        "CurrentBalance": 310.45,
+        "Active": true,
+        "Description": "Gasoline YTD"
+      },
+      {
+        "Id": "14",
+        "Name": "Dining Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "Meals",
+        "CurrentBalance": 548.3,
+        "Active": true,
+        "Description": "Restaurants and date nights YTD"
+      },
+      {
+        "Id": "15",
+        "Name": "Church Tithe Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "CharitableContributions",
+        "CurrentBalance": 1680.0,
+        "Active": true,
+        "Description": "Calvary Hill Church tithe YTD"
+      },
+      {
+        "Id": "16",
+        "Name": "Phone & Internet Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "Utilities",
+        "CurrentBalance": 465.0,
+        "Active": true,
+        "Description": "Volunteer Mobile and BlueRidge Fiber YTD"
+      },
+      {
+        "Id": "17",
+        "Name": "Medical Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 240.0,
+        "Active": true,
+        "Description": "Prescriptions and copays YTD"
+      },
+      {
+        "Id": "18",
+        "Name": "Streaming & Subscriptions",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 184.94,
+        "Active": true,
+        "Description": "Streaming and app subscriptions YTD"
+      },
+      {
+        "Id": "19",
+        "Name": "Professional Dues",
+        "AccountType": "Expense",
+        "AccountSubType": "LegalProfessionalFees",
+        "CurrentBalance": 224.0,
+        "Active": true,
+        "Description": "SHRM membership YTD"
+      },
+      {
+        "Id": "20",
+        "Name": "Home Maintenance",
+        "AccountType": "Expense",
+        "AccountSubType": "RepairMaintenance",
+        "CurrentBalance": 520.75,
+        "Active": true,
+        "Description": "Home repairs and upkeep YTD"
+      },
+      {
+        "Id": "21",
+        "Name": "Lawn & Yard",
+        "AccountType": "Expense",
+        "AccountSubType": "RepairMaintenance",
+        "CurrentBalance": 450.0,
+        "Active": true,
+        "Description": "GreenLeaf lawn care YTD"
+      },
+      {
+        "Id": "22",
+        "Name": "Charitable Giving",
+        "AccountType": "Expense",
+        "AccountSubType": "CharitableContributions",
+        "CurrentBalance": 300.0,
+        "Active": true,
+        "Description": "Additional charitable gifts YTD"
+      },
+      {
+        "Id": "23",
+        "Name": "Travel Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "Travel",
+        "CurrentBalance": 380.0,
+        "Active": true,
+        "Description": "Conference and family travel YTD"
+      },
+      {
+        "Id": "24",
+        "Name": "Office Supplies",
+        "AccountType": "Expense",
+        "AccountSubType": "OfficeGeneralAdministrativeExpenses",
+        "CurrentBalance": 162.4,
+        "Active": true,
+        "Description": "Home office supplies YTD"
+      },
+      {
+        "Id": "25",
+        "Name": "Software Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "OtherBusinessExpenses",
+        "CurrentBalance": 143.88,
+        "Active": true,
+        "Description": "LinkedIn Learning and tools YTD"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 25,
+    "totalCount": 25
+  }
+}

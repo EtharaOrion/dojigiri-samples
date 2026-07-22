@@ -1,0 +1,222 @@
+[
+  {
+    "contact_id": "bd5e9cd8-cf22-7d93-4620-092ed80abb44",
+    "name": "Kevin Spencer",
+    "first_name": "Kevin",
+    "last_name": "Spencer",
+    "email": "kevin.spencer.dev@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1000"
+  },
+  {
+    "contact_id": "2a18b54c-e125-3680-4abd-c869c091853c",
+    "name": "Emma Spencer",
+    "first_name": "Emma",
+    "last_name": "Spencer",
+    "email": "emma.spencer@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1001"
+  },
+  {
+    "contact_id": "aae06882-10b1-4a86-433d-024a166d8922",
+    "name": "Tyler Spencer",
+    "first_name": "Tyler",
+    "last_name": "Spencer",
+    "email": "tyler.spencer@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1002"
+  },
+  {
+    "contact_id": "0112adc3-4353-58b7-494c-2b254b93d7b4",
+    "name": "Diane Spencer",
+    "first_name": "Diane",
+    "last_name": "Spencer",
+    "email": "diane.spencer@yahoo.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1003"
+  },
+  {
+    "contact_id": "e4c35e7a-b3e9-e0aa-42e9-843bdd02663d",
+    "name": "Natalie Reeves",
+    "first_name": "Natalie",
+    "last_name": "Reeves",
+    "email": "natalie@spencerinteriors.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1004"
+  },
+  {
+    "contact_id": "4b6cb64e-d17f-7b90-4607-705d40c49f33",
+    "name": "Sophie Chen",
+    "first_name": "Sophie",
+    "last_name": "Chen",
+    "email": "sophie@spencerinteriors.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1005"
+  },
+  {
+    "contact_id": "babc8af8-c8c5-c891-4412-73d91ebc8b22",
+    "name": "Sarah Collins",
+    "first_name": "Sarah",
+    "last_name": "Collins",
+    "email": "sarah@collinscafe.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1006"
+  },
+  {
+    "contact_id": "17bc1c9e-300e-429f-4f9c-b65669403aae",
+    "name": "Carlos Mendez",
+    "first_name": "Carlos",
+    "last_name": "Mendez",
+    "email": "carlos@mendezbuilders.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1007"
+  },
+  {
+    "contact_id": "3a48cbd4-05c7-3eb2-4111-8b517c42090c",
+    "name": "Tom Hendricks",
+    "first_name": "Tom",
+    "last_name": "Hendricks",
+    "email": "tom.hendricks@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1008"
+  },
+  {
+    "contact_id": "0b322810-542a-d192-4824-24f204e594b7",
+    "name": "Rebecca Hendricks",
+    "first_name": "Rebecca",
+    "last_name": "Hendricks",
+    "email": "rebecca.hendricks@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1009"
+  },
+  {
+    "contact_id": "993d23c3-129b-e18e-45e3-b757cb102e1c",
+    "name": "Sarah Martin",
+    "first_name": "Sarah",
+    "last_name": "Martin",
+    "email": "smartin@techcorp.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1010"
+  },
+  {
+    "contact_id": "eefc4a99-aaa9-5291-4f32-5dfc8981e976",
+    "name": "Brian Torres",
+    "first_name": "Brian",
+    "last_name": "Torres",
+    "email": "btorres@acaciahomes.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1011"
+  },
+  {
+    "contact_id": "3e5de2ac-adcf-cea3-406e-d1afaed90631",
+    "name": "Janet Liu",
+    "first_name": "Janet",
+    "last_name": "Liu",
+    "email": "janet.liu.books@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1012"
+  },
+  {
+    "contact_id": "ad97449a-0d55-5895-46fc-caa29da46604",
+    "name": "Reynolds and Associates",
+    "first_name": "Reynolds",
+    "last_name": "and Associates",
+    "email": "tax@reynoldscpa.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1013"
+  },
+  {
+    "contact_id": "b2c28480-945c-c2b3-4805-c6e2bcede4bb",
+    "name": "Desert Pool Pros",
+    "first_name": "Desert",
+    "last_name": "Pool Pros",
+    "email": "service@desertpoolpros.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1014"
+  },
+  {
+    "contact_id": "8ff33896-41e4-008a-400e-5a59cf258724",
+    "name": "Dr. Alan Hoffman",
+    "first_name": "Dr.",
+    "last_name": "Alan Hoffman",
+    "email": "info@scottsdalecardiologyassociates.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1015"
+  },
+  {
+    "contact_id": "abf1d8a1-d44d-cea6-481f-40e39c8a6ac1",
+    "name": "Dr. Priya Nair",
+    "first_name": "Dr.",
+    "last_name": "Priya Nair",
+    "email": "info@scottsdaledermatology.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1016"
+  },
+  {
+    "contact_id": "6ca87e58-1eeb-03b5-4510-a1b686238419",
+    "name": "Dr. Susan Kim",
+    "first_name": "Dr.",
+    "last_name": "Susan Kim",
+    "email": "info@scottsdalefamilymedicine.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1017"
+  },
+  {
+    "contact_id": "b4e4cdab-a9bf-7782-4931-ef61e34e72be",
+    "name": "Antonio Ricci",
+    "first_name": "Antonio",
+    "last_name": "Ricci",
+    "email": "antonio.ricci@ariastonegallery.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1018"
+  },
+  {
+    "contact_id": "4e25fe39-2ac9-cc92-4819-c0a84b9c5b86",
+    "name": "Devon Walsh",
+    "first_name": "Devon",
+    "last_name": "Walsh",
+    "email": "devon.walsh@rh.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1019"
+  }
+]

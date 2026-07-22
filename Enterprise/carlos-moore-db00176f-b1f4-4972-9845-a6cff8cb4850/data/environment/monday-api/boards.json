@@ -1,0 +1,26 @@
+[
+  {
+    "board_id": "board-1",
+    "board_kind": "public",
+    "description": "Bellmark HR initiatives: wellness program, benefits open enrollment, DEI, and onboarding.",
+    "name": "Bellmark HR Initiatives",
+    "state": "active",
+    "workspace_id": "ws-1"
+  },
+  {
+    "board_id": "board-2",
+    "board_kind": "public",
+    "description": "Calvary Hill Church choir rehearsals and the annual spring fundraiser.",
+    "name": "Calvary Hill Choir & Fundraiser",
+    "state": "active",
+    "workspace_id": "ws-1"
+  },
+  {
+    "board_id": "board-3",
+    "board_kind": "public",
+    "description": "Home projects in Bellevue and caregiving for mother Dorothy.",
+    "name": "Home & Family",
+    "state": "active",
+    "workspace_id": "ws-1"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "Id": "1",
+    "Name": "Fundraiser Table Sponsorship",
+    "Description": "Spring fundraiser table sponsorship",
+    "Type": "Service",
+    "UnitPrice": 150.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "2",
+    "Name": "Gala Dinner Ticket",
+    "Description": "Spring gala dinner ticket",
+    "Type": "Service",
+    "UnitPrice": 120.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "3",
+    "Name": "Benefit Concert Ticket",
+    "Description": "Choir benefit concert ticket",
+    "Type": "Service",
+    "UnitPrice": 95.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "4",
+    "Name": "Silent Auction Item",
+    "Description": "Silent auction winning bid",
+    "Type": "Service",
+    "UnitPrice": 180.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "5",
+    "Name": "Gold Sponsorship",
+    "Description": "Fundraiser gold sponsorship",
+    "Type": "Service",
+    "UnitPrice": 200.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "6",
+    "Name": "Event Hall Sponsorship",
+    "Description": "Fellowship hall event sponsorship",
+    "Type": "Service",
+    "UnitPrice": 250.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "7",
+    "Name": "Bake Sale Package",
+    "Description": "Bake sale vendor package",
+    "Type": "Service",
+    "UnitPrice": 130.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "8",
+    "Name": "Platinum Sponsorship",
+    "Description": "Fundraiser platinum sponsorship",
+    "Type": "Service",
+    "UnitPrice": 300.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "9",
+    "Name": "Youth Program Sponsorship",
+    "Description": "Youth ministry program sponsorship",
+    "Type": "Service",
+    "UnitPrice": 275.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "10",
+    "Name": "Raffle Ticket Book",
+    "Description": "Fundraiser raffle ticket book",
+    "Type": "Service",
+    "UnitPrice": 160.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "11",
+    "Name": "Reimbursement - Travel",
+    "Description": "Retreat travel reimbursement",
+    "Type": "Service",
+    "UnitPrice": 312.45,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "12",
+    "Name": "Reimbursement - Meals",
+    "Description": "Committee meal reimbursement",
+    "Type": "Service",
+    "UnitPrice": 93.1,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "13",
+    "Name": "Reimbursement - Supplies",
+    "Description": "Committee supply reimbursement",
+    "Type": "Service",
+    "UnitPrice": 152.87,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "14",
+    "Name": "Reimbursement - Lodging",
+    "Description": "Retreat lodging reimbursement",
+    "Type": "Service",
+    "UnitPrice": 418.22,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "15",
+    "Name": "Reimbursement - Mileage",
+    "Description": "Committee mileage reimbursement",
+    "Type": "Service",
+    "UnitPrice": 204.51,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "16",
+    "Name": "Reimbursement - Registration",
+    "Description": "Conference registration reimbursement",
+    "Type": "Service",
+    "UnitPrice": 624.0,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "17",
+    "Name": "Church Supply Reimbursement",
+    "Description": "Choir and committee supply reimbursement",
+    "Type": "Service",
+    "UnitPrice": 75.0,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Reimbursement Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "18",
+    "Name": "Program Materials",
+    "Description": "Printed program materials",
+    "Type": "Service",
+    "UnitPrice": 45.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "19",
+    "Name": "Fellowship Meal Tickets",
+    "Description": "Fellowship dinner tickets",
+    "Type": "Service",
+    "UnitPrice": 85.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "20",
+    "Name": "Fall Festival Booth",
+    "Description": "Fall festival vendor booth package",
+    "Type": "Service",
+    "UnitPrice": 210.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Fundraiser & Committee Income",
+    "Active": "true",
+    "Taxable": "false"
+  }
+]

@@ -1,0 +1,7 @@
+Facility: Driftwood Brewing Company	Address: 2233 E Burnside St, Portland, OR 97214
+Monitor: PagerDuty via Twilio SMS	Recipient: Stuart Myer, (503) 555-0188
+Generated: 2026-10-15T06:12:04-07:00	Units: Fahrenheit
+Alert_ID	Severity	Batch_ID	Beer	Tank	Timestamp	Setpoint_F	Reading_F	Message	Acknowledged_By	Acknowledged_At
+A-20261014-001	warning	DW-2026-18	Munich Dunkel	FV-3	2026-10-14T02:41:18-07:00	50.0	53.6	Fermentation temperature above setpoint by 3.6 F. Glycol jacket cycling.	Stuart Myer	2026-10-14T05:58:00-07:00
+A-20261014-002	info	DW-2026-18	Munich Dunkel	FV-3	2026-10-14T06:05:51-07:00	50.0	50.4	Temperature recovered to within tolerance.	Stuart Myer	2026-10-14T06:20:00-07:00
+A-20261015-003	critical	DW-2026-16	Winter Ale Base Brew	FV-1	2026-10-15T01:14:09-07:00	66.0	71.2	Active fermentation exotherm, 5.2 F over setpoint. Manual check requested.	Stuart Myer	2026-10-15T05:40:00-07:00

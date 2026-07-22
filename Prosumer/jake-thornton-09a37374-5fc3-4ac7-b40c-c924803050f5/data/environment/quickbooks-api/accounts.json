@@ -1,0 +1,300 @@
+{
+  "QueryResponse": {
+    "Account": [
+      {
+        "Id": "1",
+        "Name": "Operating Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 6200.0,
+        "Active": true,
+        "Description": "Wells Fargo business checking - Jake's Table",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "2",
+        "Name": "Savings",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 18500.0,
+        "Active": true,
+        "Description": "Ally business savings",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "3",
+        "Name": "Class Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Cooking class seat revenue",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "4",
+        "Name": "Merch Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Recipe cards, aprons, spice blends",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "5",
+        "Name": "Venue Class Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Pop-up and community venue classes",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "6",
+        "Name": "Groceries & Ingredients",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Dekalb Farmers Market, Costco",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "7",
+        "Name": "Kitchen Supplies",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Cast iron, knives, small wares",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "8",
+        "Name": "Contractor Labor",
+        "AccountType": "Expense",
+        "AccountSubType": "PayrollExpenses",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Class assistants and prep cooks",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "9",
+        "Name": "Marketing",
+        "AccountType": "Expense",
+        "AccountSubType": "AdvertisingPromotional",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Instagram ads, printed cards",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "10",
+        "Name": "Estimated Taxes Payable",
+        "AccountType": "Other Current Liability",
+        "AccountSubType": "OtherCurrentLiabilities",
+        "CurrentBalance": 1150.0,
+        "Active": true,
+        "Description": "Quarterly estimated taxes",
+        "Classification": "Liability"
+      },
+      {
+        "Id": "11",
+        "Name": "Operating Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 6200.0,
+        "Active": true,
+        "Description": "Wells Fargo business checking - Jake's Table",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "12",
+        "Name": "Savings",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 18500.0,
+        "Active": true,
+        "Description": "Ally business savings",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "13",
+        "Name": "Class Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Cooking class seat revenue",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "14",
+        "Name": "Merch Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Description": "Recipe cards, aprons, spice blends",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "201",
+        "Name": "Venue Class Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Revenue",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Pop-up and community venue classes"
+      },
+      {
+        "Id": "202",
+        "Name": "Groceries & Ingredients",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Revenue",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Dekalb Farmers Market, Costco"
+      },
+      {
+        "Id": "203",
+        "Name": "Kitchen Supplies",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Revenue",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Cast iron, knives, small wares"
+      },
+      {
+        "Id": "204",
+        "Name": "Contractor Labor",
+        "AccountType": "Expense",
+        "AccountSubType": "PayrollExpenses",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Asset",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Class assistants and prep cooks"
+      },
+      {
+        "Id": "205",
+        "Name": "Marketing",
+        "AccountType": "Expense",
+        "AccountSubType": "AdvertisingPromotional",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Instagram ads, printed cards"
+      },
+      {
+        "Id": "206",
+        "Name": "Estimated Taxes Payable",
+        "AccountType": "Other Current Liability",
+        "AccountSubType": "OtherCurrentLiabilities",
+        "CurrentBalance": 1150.0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Quarterly estimated taxes"
+      },
+      {
+        "Id": "207",
+        "Name": "Operating Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 6200.0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Wells Fargo business checking - Jake's Table"
+      },
+      {
+        "Id": "208",
+        "Name": "Savings",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 18500.0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Ally business savings"
+      },
+      {
+        "Id": "209",
+        "Name": "Class Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Cooking class seat revenue"
+      },
+      {
+        "Id": "210",
+        "Name": "Merch Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Description": "Recipe cards, aprons, spice blends"
+      },
+      {
+        "Id": "421",
+        "Name": "Venue Class Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0,
+        "Active": true,
+        "Classification": "Expense",
+        "MetaData": {
+          "CreateTime": "2026-11-14T09:00:00",
+          "LastUpdatedTime": "2026-11-14T09:00:00"
+        },
+        "Description": "Pop-up and community venue classes"
+      }
+    ]
+  }
+}

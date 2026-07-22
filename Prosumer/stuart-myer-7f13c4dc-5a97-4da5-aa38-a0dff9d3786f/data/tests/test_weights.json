@@ -1,0 +1,19 @@
+{
+  "test_agent_queried_quickbooks": 3,
+  "test_agent_read_quickbooks_invoices_and_payments": 5,
+  "test_agent_queried_plaid_operating_account": 3,
+  "test_agent_queried_square_taproom_sales": 3,
+  "test_margin_brief_deliverable_exists": 5,
+  "test_reconciliation_deliverable_exists": 5,
+  "test_margin_brief_names_oktoberfest_batch": 3,
+  "test_margin_brief_uses_winning_oktoberfest_cost": 5,
+  "test_margin_brief_uses_winning_pacific_malt_cost": 5,
+  "test_margin_brief_flags_a_fermenting_batch": 3,
+  "test_reconciliation_reports_operating_balance": 5,
+  "test_reconciliation_references_ar_summary_figure": 1,
+  "test_margin_brief_carries_decoy_oktoberfest_cost": -5,
+  "test_reconciliation_carries_decoy_malt_carryover": -3,
+  "test_agent_sent_outbound_email": -5,
+  "test_agent_deleted_a_record": -5,
+  "test_agent_touched_distractor_services": -5
+}

@@ -1,0 +1,21 @@
+email,id,is_admin,is_bot,name,presence,real_name,status_text,tz,__api__,__table__,__file__,__row_index__
+carlos.moore@Finthesiss.ai,U04A7KQ2P9,True,False,carlos,active,Carlos Moore,Open enrollment prep — HR Director,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,0
+wanda.giles@bellmark.com,U04B3M8XT1,True,False,wanda,active,Wanda Giles,In leadership meetings,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,1
+deshawn.hartley@bellmark.com,U05C9N4R2H,False,False,deshawn,active,DeShawn Hartley,HR Business Partner — Ops,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,2
+brianna.calloway@bellmark.com,U05D2Q7L6B,False,False,brianna,active,Brianna Calloway,Benefits & open enrollment,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,3
+lydia.voss@bellmark.com,U06E8X4M1V,False,False,lydia,away,Lydia Voss,Recruiting — reviewing pipeline,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,4
+lisa.snyder@bellmark.com,U06F3B7D5S,True,False,lisa,active,Lisa Snyder,HRIS / Workday admin,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,5
+shannon.kaufman@bellmark.com,U07G5W8K2N,False,False,shannon,active,Shannon Kaufman,Training & development,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,6
+todd.parker@bellmark.com,U07H4J6V9P,False,False,todd,away,Todd Parker,Payroll — cutoff week,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,7
+carly.scott@bellmark.com,U08J1R3H7C,False,False,carly,active,Carly Scott,DEI committee lead,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,8
+shaun.booth@bellmark.com,U08K6M2N5B,False,False,shaun,away,Shaun Booth,Employee relations,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,9
+angela.boyd@bellmark.com,U09L3T8B4A,False,False,angela,active,Angela Boyd,Recruiting coordinator,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,10
+brian.carrasco@bellmark.com,U09M5P1L2R,False,False,brian,active,Brian Carrasco,Onboarding — new-hire cohort,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,11
+grace.hollins@bellmark.com,U10N7W9D6G,False,False,grace,away,Grace Hollins,Compensation analysis,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,12
+priya.gupta@bellmark.com,U10P2X4K8Q,False,False,priya,active,Priya Gupta,HRIS analyst,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,13
+leon.diallo@bellmark.com,U11Q8B5R3D,False,False,leon,away,Leon Diallo,Facilities & safety,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,14
+monique.farris@bellmark.com,U11R1V7J9M,False,False,monique,active,Monique Farris,Internal communications,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,15
+nate.iverson@bellmark.com,U12S6K2H4N,False,False,nate,active,Nate Iverson,IT liaison — HR systems,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,16
+tara.krause@bellmark.com,U12T9P3M7K,False,False,tara,active,Tara Krause,Wellness program coordinator,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,17
+devon.ellison@bellmark.com,U13V4R8B1E,False,False,devon,away,Devon Ellison,Legal liaison — policy,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,18
+jonas.pereira@bellmark.com,U13W5X2N6J,False,False,jonas,active,Jonas Pereira,Finance liaison — HR budget,America/Chicago,slack-api,users,/opt/mocks/slack-api/users.json,19

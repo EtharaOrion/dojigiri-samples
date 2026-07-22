@@ -1,0 +1,49 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn-daniel-brooks-e95e11e6,acc-daniel-brooks-chk-001,-2450.0,USD,2026-03-04,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-412e6e56,acc-daniel-brooks-chk-001,-2450.0,USD,2026-03-04,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-60b69605,acc-daniel-brooks-chk-001,-2450.0,USD,2026-03-04,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-0a00fadc,acc-daniel-brooks-biz-001,165.0,USD,2026-03-07,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-453677fe,acc-daniel-brooks-chk-001,-2450.0,USD,2026-10-03,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-47ab252a,acc-daniel-brooks-chk-001,-2450.0,USD,2026-10-03,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-01a3db86,acc-daniel-brooks-chk-001,-2450.0,USD,2026-10-03,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-6092833a,acc-daniel-brooks-biz-001,165.0,USD,2026-10-06,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-6da1dfb9,acc-daniel-brooks-chk-001,-2450.0,USD,2026-11-03,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-61c889f6,acc-daniel-brooks-chk-001,-2450.0,USD,2026-11-03,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-0471bae7,acc-daniel-brooks-chk-001,-2450.0,USD,2026-11-03,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-6bfd6d82,acc-daniel-brooks-biz-001,165.0,USD,2026-11-06,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-6cc965ca,acc-daniel-brooks-chk-001,-2450.0,USD,2026-12-04,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-b206196c,acc-daniel-brooks-chk-001,-2450.0,USD,2026-12-04,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-b28469ac,acc-daniel-brooks-chk-001,-2450.0,USD,2026-12-04,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-10ced2c3,acc-daniel-brooks-biz-001,165.0,USD,2026-12-07,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-49e6c840,acc-daniel-brooks-chk-001,-2450.0,USD,2026-10-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-84716321,acc-daniel-brooks-chk-001,-2450.0,USD,2026-10-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-161803b5,acc-daniel-brooks-chk-001,-2450.0,USD,2026-10-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-b74680a0,acc-daniel-brooks-biz-001,165.0,USD,2026-10-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-2a735948,acc-daniel-brooks-chk-001,-2450.0,USD,2026-11-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-9c90416f,acc-daniel-brooks-chk-001,-2450.0,USD,2026-11-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-a56d6033,acc-daniel-brooks-chk-001,-2450.0,USD,2026-11-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-5f0ec7e6,acc-daniel-brooks-biz-001,165.0,USD,2026-11-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-0b0841b3,acc-daniel-brooks-chk-001,-2450.0,USD,2026-12-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-d7d87191,acc-daniel-brooks-chk-001,-2450.0,USD,2026-12-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-fcc3922c,acc-daniel-brooks-chk-001,-2450.0,USD,2026-12-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-2827b5be,acc-daniel-brooks-biz-001,165.0,USD,2026-12-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-7423559d,acc-daniel-brooks-chk-001,-2450.0,USD,2027-01-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-2e7b19b6,acc-daniel-brooks-chk-001,-2450.0,USD,2027-01-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-4c9269bf,acc-daniel-brooks-chk-001,-2450.0,USD,2027-01-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-3a009787,acc-daniel-brooks-biz-001,165.0,USD,2027-01-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-05c4c030,acc-daniel-brooks-chk-001,-2450.0,USD,2027-02-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-70e30d19,acc-daniel-brooks-chk-001,-2450.0,USD,2027-02-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-1a3447be,acc-daniel-brooks-chk-001,-2450.0,USD,2027-02-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-1c35a943,acc-daniel-brooks-biz-001,165.0,USD,2027-02-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-6449b47b,acc-daniel-brooks-chk-001,-2450.0,USD,2027-03-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-83933156,acc-daniel-brooks-chk-001,-2450.0,USD,2027-03-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-0dc38c33,acc-daniel-brooks-chk-001,-2450.0,USD,2027-03-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-547827ac,acc-daniel-brooks-biz-001,165.0,USD,2027-03-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-7d7088f3,acc-daniel-brooks-chk-001,-2450.0,USD,2027-04-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-b68b4c0a,acc-daniel-brooks-chk-001,-2450.0,USD,2027-04-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-cf378671,acc-daniel-brooks-chk-001,-2450.0,USD,2027-04-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-6332e1ab,acc-daniel-brooks-biz-001,165.0,USD,2027-04-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online
+txn-daniel-brooks-0535d3c0,acc-daniel-brooks-chk-001,-2450.0,USD,2027-05-02,"Rent deposit — Property 1 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-127c4d75,acc-daniel-brooks-chk-001,-2450.0,USD,2027-05-02,"Rent deposit — Property 2 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-81965a77,acc-daniel-brooks-chk-001,-2450.0,USD,2027-05-02,"Rent deposit — Property 3 (River Oaks, Houston)",DeLuca Property Services,"[""Transfer"", ""Deposit""]",False,other
+txn-daniel-brooks-1e7db5fe,acc-daniel-brooks-biz-001,165.0,USD,2027-05-05,Toast POS Subscription,Toast Inc,"[""Service"", ""Software""]",False,online

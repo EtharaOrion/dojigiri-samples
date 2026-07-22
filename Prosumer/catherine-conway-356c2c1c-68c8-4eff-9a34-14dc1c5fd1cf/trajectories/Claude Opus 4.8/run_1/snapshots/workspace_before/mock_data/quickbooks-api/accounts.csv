@@ -1,0 +1,24 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description
+1,Operating Checking,Bank,Checking,68450.25,True,Primary operating account - OnPoint Community Credit Union
+2,Reserve Savings,Bank,Savings,125000.0,True,Tax and equipment reserve
+3,Business Money Market,Bank,Savings,84200.0,True,Short-term reserve - Brightpath Financial
+4,Patient Services Income,Income,ServiceFeeIncome,0.0,True,"Medical dermatology visits, biopsies, procedures"
+5,Cosmetic Procedures Income,Income,ServiceFeeIncome,0.0,True,Self-pay cosmetic dermatology services
+6,Skincare Product Sales,Income,SalesOfProductIncome,0.0,True,Medical-grade skincare product retail
+7,Commission Income,Income,ServiceFeeIncome,0.0,True,Botanical illustration commissions
+8,Print Sales,Income,SalesOfProductIncome,0.0,True,Open-edition botanical prints and note cards
+9,Workshop Income,Income,ServiceFeeIncome,0.0,True,Botanical illustration workshop tuition
+10,Rent Expense,Expense,RentOrLeaseOfBuildings,0.0,True,Monthly clinic lease - Westbrook Property Mgmt
+11,Utilities,Expense,Utilities,0.0,True,Electric + water/sewer
+12,Insurance,Expense,Insurance,0.0,True,Malpractice + general liability + property - quarterly
+13,Payroll - Clinical Staff,Expense,PayrollExpenses,0.0,True,"NP, MA, and front-desk wages"
+14,Medical Supplies,Expense,SuppliesMaterials,0.0,True,"Clinical consumables, biopsy kits, medical waste"
+15,Cleaning Services,Expense,RepairMaintenance,0.0,True,Willamette Cleaning - bi-weekly
+16,Marketing & Advertising,Expense,Advertising,0.0,True,"Website, local ads, community board postings"
+17,Art & Studio Supplies,Expense,SuppliesMaterials,0.0,True,"Watercolor, gouache, fine papers, framing"
+18,Licenses & Permits,Expense,OtherMiscServiceCost,0.0,True,Oregon Medical Board and DEA renewals
+19,Continuing Medical Education,Expense,OtherBusinessExpenses,0.0,True,"CME courses, conferences, board maintenance"
+20,Software & Subscriptions,Expense,OtherBusinessExpenses,0.0,True,"EHR, scheduling, design software subscriptions"
+21,Medical Equipment,Expense,EquipmentRental,0.0,True,Dermatology and office equipment
+22,Meals & Entertainment,Expense,Meals,0.0,True,Staff meetings and business meals
+23,Federal Estimated Tax,Expense,OtherBusinessExpenses,0.0,True,Quarterly federal estimated tax payments

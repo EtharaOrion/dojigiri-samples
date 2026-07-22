@@ -1,0 +1,7 @@
+id,customer,price,status,quantity,current_period_start,current_period_end,cancel_at_period_end,created,__api__,__table__,__file__,__row_index__,object
+sub_Aurora,cus_Nb1Aurora,price_Starter_M,active,1,0,0,False,1774533600,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,0,subscription
+sub_Helix,cus_Nb2Helix,price_Ent_M,active,5,0,0,False,1768857300,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,1,subscription
+sub_Lumen,cus_Nb3Lumen,price_Pro_M,active,2,0,0,True,1771864200,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,2,subscription
+sub_Quanta,cus_Nb6Quanta,price_Pro_Y,active,3,0,0,False,1771361100,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,3,subscription
+sub_Verdant,cus_Nb5Verdant,price_Pro_M,past_due,1,0,0,False,1756908000,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,4,subscription
+sub_Pelagic,cus_Nb4Pelagic,price_Starter_M,canceled,1,0,0,False,1768259700,stripe-api,subscriptions,/opt/mocks/stripe-api/subscriptions.json,5,subscription

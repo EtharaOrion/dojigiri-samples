@@ -1,0 +1,1472 @@
+[
+  {
+    "Id": "4001",
+    "TxnDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Jessica Marie Taylor"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  },
+  {
+    "Id": "4002",
+    "TxnDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Taylor"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4003",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Mia Petrov"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4004",
+    "TxnDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "28",
+      "name": "Tomas Varga"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Cash at dojo"
+  },
+  {
+    "Id": "4005",
+    "TxnDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Nina Okafor"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4006",
+    "TxnDate": "2026-03-08",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Ray Mitchell"
+    },
+    "TotalAmt": 5415.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 5415.0
+      }
+    ],
+    "PrivateNote": "Batch payment collection - 57 members. Mix of auto-pay, Venmo, checks. All cleared by 3/12."
+  },
+  {
+    "Id": "4007",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Marcus Reeves"
+    },
+    "TotalAmt": 80.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 80.0
+      }
+    ],
+    "PrivateNote": "Cash collected at door"
+  },
+  {
+    "Id": "4008",
+    "TxnDate": "2026-03-19",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Aria Chen"
+    },
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5008",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 60.0
+      }
+    ],
+    "PrivateNote": "Cash collected at door"
+  },
+  {
+    "Id": "4009",
+    "TxnDate": "2026-10-03",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Check #1218"
+  },
+  {
+    "Id": "4010",
+    "TxnDate": "2026-10-04",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4011",
+    "TxnDate": "2026-10-05",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Grace Taylor"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4012",
+    "TxnDate": "2026-10-08",
+    "CustomerRef": {
+      "value": "10",
+      "name": "David Taylor"
+    },
+    "TotalAmt": 50.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 50.0
+      }
+    ],
+    "PrivateNote": "Partial payment - Lars said $45 remainder will come with May dues. Jessica OK'd 4/9."
+  },
+  {
+    "Id": "4013",
+    "TxnDate": "2026-10-04",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Mia Petrov"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4014",
+    "TxnDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "31",
+      "name": "Tomas Varga"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2009",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4015",
+    "TxnDate": "2026-10-05",
+    "CustomerRef": {
+      "value": "42",
+      "name": "Nina Okafor"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2010",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "4016",
+    "TxnDate": "2026-10-08",
+    "CustomerRef": {
+      "value": "0",
+      "name": "Ray Mitchell"
+    },
+    "TotalAmt": 5035.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2011",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 5035.0
+      }
+    ],
+    "PrivateNote": "Batch payment collection - 53 members. All cleared by 4/14."
+  },
+  {
+    "Id": "4017",
+    "TxnDate": "2026-10-02",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Marcus Reeves"
+    },
+    "TotalAmt": 100.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2012",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 100.0
+      }
+    ],
+    "PrivateNote": "Cash collected at door"
+  },
+  {
+    "Id": "4018",
+    "TxnDate": "2026-10-05",
+    "CustomerRef": {
+      "value": "63",
+      "name": "Aria Chen"
+    },
+    "TotalAmt": 1560.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2013",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 1560.0
+      }
+    ],
+    "PrivateNote": "Cash + card at door. Tournament day collection."
+  },
+  {
+    "Id": "4019",
+    "TxnDate": "2026-10-16",
+    "CustomerRef": {
+      "value": "64",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 60.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "2014",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 60.0
+      }
+    ],
+    "PrivateNote": "Cash collected at door"
+  },
+  {
+    "Id": "4001-2",
+    "TxnDate": "2026-03-03",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 95.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 95.0
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  },
+  {
+    "Id": "pmt-200",
+    "TxnDate": "2027-01-07",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Amount": 6500.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-101",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026101"
+  },
+  {
+    "Id": "pmt-201",
+    "TxnDate": "2026-12-23",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-102",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026102"
+  },
+  {
+    "Id": "pmt-202",
+    "TxnDate": "2026-12-05",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-103",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026103"
+  },
+  {
+    "Id": "pmt-203",
+    "TxnDate": "2026-11-20",
+    "CustomerRef": {
+      "value": "cust-hillroad",
+      "name": "Hill Road Coffee"
+    },
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-104",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026104"
+  },
+  {
+    "Id": "pmt-204",
+    "TxnDate": "2026-10-27",
+    "CustomerRef": {
+      "value": "cust-sunroom",
+      "name": "Sunroom Nonprofit"
+    },
+    "TotalAmt": 3500.0,
+    "Line": [
+      {
+        "Amount": 3500.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-105",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026105"
+  },
+  {
+    "Id": "pmt-205",
+    "TxnDate": "2026-04-09",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-106",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026106"
+  },
+  {
+    "Id": "pmt-206",
+    "TxnDate": "2026-03-08",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TotalAmt": 1800.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-107",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026107"
+  },
+  {
+    "Id": "pmt-207",
+    "TxnDate": "2026-02-06",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 5200.0,
+    "Line": [
+      {
+        "Amount": 5200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-108",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026108"
+  },
+  {
+    "Id": "pmt-208",
+    "TxnDate": "2027-01-07",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Amount": 6500.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-101",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026101"
+  },
+  {
+    "Id": "pmt-209",
+    "TxnDate": "2026-12-23",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-102",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026102"
+  },
+  {
+    "Id": "pmt-210",
+    "TxnDate": "2026-12-05",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-103",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026103"
+  },
+  {
+    "Id": "pmt-211",
+    "TxnDate": "2026-11-20",
+    "CustomerRef": {
+      "value": "cust-hillroad",
+      "name": "Hill Road Coffee"
+    },
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-104",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026104"
+  },
+  {
+    "Id": "pmt-212",
+    "TxnDate": "2026-10-27",
+    "CustomerRef": {
+      "value": "cust-sunroom",
+      "name": "Sunroom Nonprofit"
+    },
+    "TotalAmt": 3500.0,
+    "Line": [
+      {
+        "Amount": 3500.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-105",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026105"
+  },
+  {
+    "Id": "pmt-213",
+    "TxnDate": "2026-04-09",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-106",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026106"
+  },
+  {
+    "Id": "pmt-214",
+    "TxnDate": "2026-03-08",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TotalAmt": 1800.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-107",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026107"
+  },
+  {
+    "Id": "pmt-215",
+    "TxnDate": "2026-02-06",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 5200.0,
+    "Line": [
+      {
+        "Amount": 5200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-108",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026108"
+  },
+  {
+    "Id": "pmt-216",
+    "TxnDate": "2027-01-07",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Amount": 6500.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-101",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026101"
+  },
+  {
+    "Id": "pmt-217",
+    "TxnDate": "2026-12-23",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-102",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026102"
+  },
+  {
+    "Id": "pmt-218",
+    "TxnDate": "2026-12-05",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-103",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026103"
+  },
+  {
+    "Id": "pmt-219",
+    "TxnDate": "2026-11-20",
+    "CustomerRef": {
+      "value": "cust-hillroad",
+      "name": "Hill Road Coffee"
+    },
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-2026-104",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-2026104"
+  },
+  {
+    "Id": "pmt-220",
+    "TxnDate": "2026-10-26",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 1800.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-200",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260200"
+  },
+  {
+    "Id": "pmt-221",
+    "TxnDate": "2026-10-27",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-201",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260201"
+  },
+  {
+    "Id": "pmt-222",
+    "TxnDate": "2026-10-28",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-202",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260202"
+  },
+  {
+    "Id": "pmt-223",
+    "TxnDate": "2026-10-29",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-203",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260203"
+  },
+  {
+    "Id": "pmt-224",
+    "TxnDate": "2026-10-30",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-204",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260204"
+  },
+  {
+    "Id": "pmt-225",
+    "TxnDate": "2026-11-01",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-205",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260205"
+  },
+  {
+    "Id": "pmt-226",
+    "TxnDate": "2026-11-02",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2600.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-206",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260206"
+  },
+  {
+    "Id": "pmt-227",
+    "TxnDate": "2026-11-03",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-207",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260207"
+  },
+  {
+    "Id": "pmt-228",
+    "TxnDate": "2026-11-04",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 3400.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-208",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260208"
+  },
+  {
+    "Id": "pmt-229",
+    "TxnDate": "2026-11-05",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-209",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260209"
+  },
+  {
+    "Id": "pmt-230",
+    "TxnDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-210",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260210"
+  },
+  {
+    "Id": "pmt-231",
+    "TxnDate": "2026-11-07",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-211",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260211"
+  },
+  {
+    "Id": "pmt-232",
+    "TxnDate": "2026-11-08",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 900.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-212",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260212"
+  },
+  {
+    "Id": "pmt-233",
+    "TxnDate": "2026-11-09",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-213",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260213"
+  },
+  {
+    "Id": "pmt-234",
+    "TxnDate": "2026-11-10",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-214",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260214"
+  },
+  {
+    "Id": "pmt-235",
+    "TxnDate": "2026-11-11",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TotalAmt": 4500.0,
+    "Line": [
+      {
+        "Amount": 4500.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-215",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260215"
+  },
+  {
+    "Id": "pmt-236",
+    "TxnDate": "2026-11-12",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 1800.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-216",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260216"
+  },
+  {
+    "Id": "pmt-237",
+    "TxnDate": "2026-11-13",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-217",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260217"
+  },
+  {
+    "Id": "pmt-238",
+    "TxnDate": "2026-11-14",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-218",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260218"
+  },
+  {
+    "Id": "pmt-239",
+    "TxnDate": "2026-11-15",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-219",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260219"
+  },
+  {
+    "Id": "pmt-240",
+    "TxnDate": "2026-11-16",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-220",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260220"
+  },
+  {
+    "Id": "pmt-241",
+    "TxnDate": "2026-11-17",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-221",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260221"
+  },
+  {
+    "Id": "pmt-242",
+    "TxnDate": "2026-11-18",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 2600.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-222",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260222"
+  },
+  {
+    "Id": "pmt-243",
+    "TxnDate": "2026-11-19",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-223",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260223"
+  },
+  {
+    "Id": "pmt-244",
+    "TxnDate": "2026-11-20",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 3400.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-224",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260224"
+  },
+  {
+    "Id": "pmt-245",
+    "TxnDate": "2026-11-21",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-225",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260225"
+  },
+  {
+    "Id": "pmt-246",
+    "TxnDate": "2026-11-22",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 3800.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-226",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260226"
+  },
+  {
+    "Id": "pmt-247",
+    "TxnDate": "2026-11-23",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-227",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260227"
+  },
+  {
+    "Id": "pmt-248",
+    "TxnDate": "2026-11-24",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 900.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-228",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260228"
+  },
+  {
+    "Id": "pmt-249",
+    "TxnDate": "2026-11-25",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TotalAmt": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "LinkedTxn": [
+          {
+            "TxnId": "inv-229",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Payment for INV-20260229"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "contact_id": "c0000001-0000-0000-0000-000000000001",
+    "name": "Jessica Marie Taylor",
+    "first_name": "Jessica",
+    "last_name": "Taylor",
+    "email": "jessica.taylor@Finthesiss.ai",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-000000000002",
+    "name": "Initech LLC",
+    "first_name": "Bill",
+    "last_name": "Lumbergh",
+    "email": "accounts@initech.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-000000000003",
+    "name": "Mia Petrov",
+    "first_name": "Mia",
+    "last_name": "Petrov",
+    "email": "mia.petrov.la@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-000000000004",
+    "name": "Tomas Varga",
+    "first_name": "Tomas",
+    "last_name": "Varga",
+    "email": "tomas.varga.sf@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "Verdant-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-000000000005",
+    "name": "Nina Okafor",
+    "first_name": "Nina",
+    "last_name": "Okafor",
+    "email": "nina@bloomskinco.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-000000000006",
+    "name": "Ray Mitchell",
+    "first_name": "Ray",
+    "last_name": "Mitchell",
+    "email": "ray.mitchell.design@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-000000000007",
+    "name": "Hooli Inc",
+    "first_name": "Gavin",
+    "last_name": "Belson",
+    "email": "ar@hooli.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ARCHIVED",
+    "account_number": "HOOL-007"
+  },
+  {
+    "contact_id": "c0000001-0000-0000-0000-000000000001",
+    "name": "Aria Chen",
+    "first_name": "Helen",
+    "last_name": "Brooks",
+    "email": "scheduling@verdantprovisions.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-000000000002",
+    "name": "Verdant Provisions",
+    "first_name": "Verdant",
+    "last_name": "Provisions",
+    "email": "hello@verdantprovisions.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-000000000003",
+    "name": "Pinnacle Collective",
+    "first_name": "Pinnacle",
+    "last_name": "Collective",
+    "email": "mia.petrov.la@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-000000000004",
+    "name": "Grace Taylor",
+    "first_name": "Grace",
+    "last_name": "Taylor",
+    "email": "tomas.varga.sf@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "Verdant-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-000000000005",
+    "name": "David Taylor",
+    "first_name": "David",
+    "last_name": "Taylor",
+    "email": "nina@bloomskinco.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-000000000006",
+    "name": "Mia Petrov",
+    "first_name": "Mia",
+    "last_name": "Petrov",
+    "email": "ray.mitchell.design@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-000000000007",
+    "name": "Tomas Varga",
+    "first_name": "Tomas",
+    "last_name": "Varga",
+    "email": "tomas.varga.sf@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ARCHIVED",
+    "account_number": "HOOL-007"
+  },
+  {
+    "contact_id": "c0000001-0000-0000-0000-000000000001",
+    "name": "Nina Okafor",
+    "first_name": "Nina",
+    "last_name": "Okafor",
+    "email": "nina@bloomskinco.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-000000000002",
+    "name": "Ray Mitchell",
+    "first_name": "Ray",
+    "last_name": "Mitchell",
+    "email": "ray.mitchell.design@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-000000000003",
+    "name": "Marcus Reeves",
+    "first_name": "Jennifer",
+    "last_name": "Moss",
+    "email": "mia.petrov.la@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-000000000004",
+    "name": "Aria Chen",
+    "first_name": "Helen",
+    "last_name": "Brooks",
+    "email": "tomas.varga.sf@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "Verdant-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-000000000005",
+    "name": "Verdant Provisions",
+    "first_name": "Verdant",
+    "last_name": "Provisions",
+    "email": "nina@bloomskinco.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-000000000006",
+    "name": "Pinnacle Collective",
+    "first_name": "Pinnacle",
+    "last_name": "Collective",
+    "email": "ray.mitchell.design@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  }
+]

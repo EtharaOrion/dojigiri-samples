@@ -1,0 +1,21 @@
+id,name,description,active,created,__api__,__table__,__file__,__row_index__,object
+prod_Starter,Starter Plan,Up to 3 seats and basic reporting,True,1700000000,stripe-api,products,/opt/mocks/stripe-api/products.json,0,product
+prod_Pro,Pro Plan,Unlimited seats and advanced analytics,True,1700000000,stripe-api,products,/opt/mocks/stripe-api/products.json,1,product
+prod_Enterprise,Enterprise Plan,Dedicated support and SSO,True,1700000000,stripe-api,products,/opt/mocks/stripe-api/products.json,2,product
+prod_POS,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,3,product
+prod_POS-p01,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,4,product
+prod_POS-p02,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,5,product
+prod_POS-p03,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,6,product
+prod_POS-p04,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,7,product
+prod_POS-p05,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,8,product
+prod_POS-p06,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,9,product
+prod_POS-p07,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,10,product
+prod_POS-p08,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,11,product
+prod_POS-p09,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,12,product
+prod_POS-p10,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,13,product
+prod_POS-p11,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,14,product
+prod_POS-p12,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,15,product
+prod_POS-p13,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,16,product
+prod_POS-p14,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,17,product
+prod_POS-p15,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,18,product
+prod_POS-p16,POS Hardware Bundle,Card reader plus stand,True,1702000000,stripe-api,products,/opt/mocks/stripe-api/products.json,19,product

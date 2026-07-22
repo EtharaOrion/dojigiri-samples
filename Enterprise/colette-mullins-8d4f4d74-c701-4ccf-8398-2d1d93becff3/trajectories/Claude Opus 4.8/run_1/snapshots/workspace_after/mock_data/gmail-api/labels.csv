@@ -1,0 +1,21 @@
+id,messages_total,messages_unread,name,threads_total,threads_unread,type,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,24,14,INBOX,24,14,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,24,14,24,14
+SENT,20,0,SENT,20,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,20,0,20,0
+DRAFTS,1,0,DRAFT,1,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,1,0,1,0
+TRASH,0,0,TRASH,0,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,0,0,0,0
+SPAM,0,0,SPAM,0,0,system,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,0,0,0,0
+Label_stgenevievecle,5,1,St. Genevieve Community Church,5,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,5,1,5,1
+Label_followup,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,2,1,2,1
+Label_followup-pad01,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,7,2,1,2,1
+Label_followup-pad02,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,8,2,1,2,1
+Label_followup-pad03,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,9,2,1,2,1
+Label_followup-pad04,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,10,2,1,2,1
+Label_followup-pad05,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,11,2,1,2,1
+Label_followup-pad06,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,12,2,1,2,1
+Label_followup-pad07,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,13,2,1,2,1
+Label_followup-pad08,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,14,2,1,2,1
+Label_followup-pad09,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,15,2,1,2,1
+Label_followup-pad10,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,16,2,1,2,1
+Label_followup-pad11,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,17,2,1,2,1
+Label_followup-pad12,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,18,2,1,2,1
+Label_followup-pad13,2,1,Follow up,2,1,user,gmail-api,labels,/opt/mocks/gmail-api/labels.json,19,2,1,2,1

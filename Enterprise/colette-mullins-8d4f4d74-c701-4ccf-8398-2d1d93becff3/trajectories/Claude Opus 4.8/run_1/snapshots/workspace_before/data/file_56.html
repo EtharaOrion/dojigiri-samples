@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Building Our Future | Campaign Dashboard</title>
+<style>
+  :root{--navy:#142a4a;--navy2:#1f3a63;--gold:#c9a227;--paper:#eef1f6;--card:#fff;--ink:#1b202b;--muted:#5a6678;--line:#dde3ee;--green:#2f7d5b;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Segoe UI",Helvetica,Arial,sans-serif;background:var(--paper);color:var(--ink)}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+  header{background:linear-gradient(120deg,#142a4a,#234678);color:#fff;border-bottom:4px solid var(--gold)}
+  .hbar{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;padding:22px 0}
+  .htitle h1{font-size:24px;letter-spacing:.3px}
+  .htitle p{color:#aebbd2;font-size:14px;margin-top:3px}
+  .asof{background:rgba(255,255,255,.12);border:1px solid rgba(201,162,39,.5);border-radius:20px;padding:7px 16px;font-size:13px;color:#f0e4bf}
+
+  main{padding:30px 0 50px}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-bottom:26px}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;position:relative;overflow:hidden;
+    transform:translateY(18px);animation:rise .6s forwards}
+  .kpi:nth-child(2){animation-delay:.1s}.kpi:nth-child(3){animation-delay:.2s}.kpi:nth-child(4){animation-delay:.3s}
+  .kpi .cap{font-size:13px;color:var(--muted);letter-spacing:.4px}
+  .kpi .val{font-size:34px;font-weight:700;color:var(--navy);margin-top:6px}
+  .kpi .sub{font-size:12px;color:var(--green);margin-top:4px}
+  .kpi .tab{position:absolute;top:0;left:0;width:6px;height:100%;background:var(--gold)}
+
+  .grid{display:grid;grid-template-columns:1.25fr 1fr;gap:22px}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:24px;margin-bottom:22px}
+  .panel h2{font-size:17px;color:var(--navy);margin-bottom:4px}
+  .panel .note{font-size:13px;color:var(--muted);margin-bottom:18px}
+
+  /* progress to goal */
+  .goalrow{display:flex;justify-content:space-between;font-size:14px;color:var(--muted);margin-bottom:8px}
+  .track{height:30px;background:#e7ecf5;border-radius:16px;overflow:hidden;position:relative}
+  .fill{height:100%;width:0;background:linear-gradient(90deg,#1f3a63,#c9a227);border-radius:16px;
+    transition:width 1.6s cubic-bezier(.2,.7,.2,1);display:flex;align-items:center;justify-content:flex-end;
+    color:#fff;font-weight:700;font-size:13px;padding-right:12px}
+  .ticks{display:flex;justify-content:space-between;font-size:11px;color:#9aa6b8;margin-top:6px}
+
+  /* bars */
+  .bar{margin:14px 0}
+  .bar .lab{display:flex;justify-content:space-between;font-size:13px;margin-bottom:5px}
+  .bar .lab b{color:var(--ink);font-weight:600}.bar .lab span{color:var(--muted)}
+  .bartrack{height:14px;background:#eef1f6;border-radius:8px;overflow:hidden}
+  .barfill{height:100%;width:0;border-radius:8px;transition:width 1.3s ease}
+
+  /* donut */
+  .donutwrap{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+  .legend{flex:1;min-width:170px}
+  .legend .li{display:flex;align-items:center;gap:9px;font-size:14px;margin:9px 0}
+  .dot{width:13px;height:13px;border-radius:3px;flex:none}
+  .legend .amt{margin-left:auto;color:var(--muted)}
+  .toggle{display:inline-flex;background:#eef1f6;border-radius:9px;padding:4px;margin-bottom:16px}
+  .toggle button{border:0;background:transparent;padding:8px 16px;border-radius:7px;cursor:pointer;font-size:13px;color:var(--muted)}
+  .toggle button.on{background:var(--navy);color:#fff}
+
+  footer{background:var(--navy);color:#c5d0e2;padding:30px 0;font-size:13px}
+  footer .fl{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+  footer b{color:#fff}
+  @keyframes rise{to{opacity:1;transform:none}}
+  @media(max-width:860px){.kpis{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap hbar">
+    <div class="htitle">
+      <h1>Building Our Future</h1>
+      <p>St. Genevieve Community Church | Capital Campaign Dashboard</p>
+    </div>
+    <div class="asof">As of October 1, 2026</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="kpis">
+    <div class="kpi"><div class="tab"></div><div class="cap">Total Goal</div><div class="val">$2.5M</div><div class="sub">renovation and accessibility</div></div>
+    <div class="kpi"><div class="tab"></div><div class="cap">Pledged to Date</div><div class="val" id="kpledged">$0</div><div class="sub">44 percent of goal</div></div>
+    <div class="kpi"><div class="tab"></div><div class="cap">Families Pledged</div><div class="val" id="kfam">0</div><div class="sub">of the top donor families</div></div>
+    <div class="kpi"><div class="tab"></div><div class="cap">Still to Raise</div><div class="val">$1.4M</div><div class="sub">over the next eighteen months</div></div>
+  </div>
+
+  <div class="panel">
+    <h2>Progress toward the goal</h2>
+    <div class="note">Multi-year pledges counted at full commitment value.</div>
+    <div class="goalrow"><span>Pledged: $1.1M</span><span>Goal: $2.5M</span></div>
+    <div class="track"><div class="fill" id="goalfill">44%</div></div>
+    <div class="ticks"><span>$0</span><span>$625k</span><span>$1.25M</span><span>$1.875M</span><span>$2.5M</span></div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <h2>Where the gifts go</h2>
+      <div class="note">Allocation of the $2.5M renovation scope by component.</div>
+      <div id="scope"></div>
+    </div>
+
+    <div class="panel">
+      <h2>Pledges by giving level</h2>
+      <div class="note">Switch the view to see commitments or family counts.</div>
+      <div class="toggle">
+        <button class="on" onclick="setMode('amount',this)">By amount</button>
+        <button onclick="setMode('count',this)">By families</button>
+      </div>
+      <div class="donutwrap">
+        <svg viewBox="0 0 42 42" width="180" height="180" id="donut" style="transform:rotate(-90deg)">
+          <circle cx="21" cy="21" r="15.9" fill="none" stroke="#eef1f6" stroke-width="6"></circle>
+        </svg>
+        <div class="legend" id="legend"></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap fl">
+    <div><b>St. Genevieve Community Church</b> | Building Our Future Campaign</div>
+    <div>Questions: Barbara Klein, Executive Director | bklein@stgenevievecle.org</div>
+  </div>
+</footer>
+
+<script>
+  // scope bars
+  var scope=[
+    ["Foundation and masonry",650000,"#142a4a"],
+    ["New education wing",480000,"#1f3a63"],
+    ["Mechanical and electrical",420000,"#2f5a8c"],
+    ["Choir loft and organ",280000,"#c9a227"],
+    ["Accessibility upgrades",320000,"#a98a3c"],
+    ["Contingency reserve",350000,"#7d889c"]
+  ];
+  var maxv=Math.max.apply(null,scope.map(function(s){return s[1]}));
+  var sc=document.getElementById('scope');
+  scope.forEach(function(s,i){
+    var d=document.createElement('div');d.className='bar';
+    d.innerHTML='<div class="lab"><b>'+s[0]+'</b><span>$'+(s[1]/1000)+'k</span></div>'+
+      '<div class="bartrack"><div class="barfill" style="background:'+s[2]+'"></div></div>';
+    sc.appendChild(d);
+    setTimeout(function(){d.querySelector('.barfill').style.width=(s[1]/maxv*100)+'%'},250+i*120);
+  });
+
+  // donut data: tiers
+  var tiers=[
+    ["Lead gifts ($100k and up)","#142a4a",600000,4],
+    ["Major gifts ($50k to $99k)","#1f7d7c",265000,4],
+    ["Supporting ($25k to $49k)","#c9a227",200000,6],
+    ["Founding friends (under $25k)","#b06a4a",35000,2]
+  ];
+  var donut=document.getElementById('donut'),legend=document.getElementById('legend');
+  function render(mode){
+    while(donut.childNodes.length>1)donut.removeChild(donut.lastChild);
+    var total=tiers.reduce(function(a,t){return a+(mode==='amount'?t[2]:t[3])},0);
+    var off=0;
+    tiers.forEach(function(t,i){
+      var v=(mode==='amount'?t[2]:t[3]);var pct=v/total*100;
+      var c=document.createElementNS('http://www.w3.org/2000/svg','circle');
+      c.setAttribute('cx',21);c.setAttribute('cy',21);c.setAttribute('r',15.9);
+      c.setAttribute('fill','none');c.setAttribute('stroke',t[1]);c.setAttribute('stroke-width',6);
+      c.setAttribute('stroke-dasharray','0 100');
+      c.setAttribute('stroke-dashoffset',-off);
+      donut.appendChild(c);
+      setTimeout(function(){c.style.transition='stroke-dasharray 1s ease';c.setAttribute('stroke-dasharray',pct+' '+(100-pct))},60+i*180);
+      off+=pct;
+    });
+    legend.innerHTML='';
+    tiers.forEach(function(t){
+      var v=(mode==='amount'?'$'+(t[2]/1000)+'k':t[3]+' families');
+      legend.innerHTML+='<div class="li"><span class="dot" style="background:'+t[1]+'"></span>'+t[0]+'<span class="amt">'+v+'</span></div>';
+    });
+  }
+  function setMode(m,btn){document.querySelectorAll('.toggle button').forEach(function(b){b.classList.remove('on')});btn.classList.add('on');render(m);}
+
+  // animated counters + initial render
+  window.addEventListener('load',function(){
+    setTimeout(function(){document.getElementById('goalfill').style.width='44%'},300);
+    animate('kpledged',0,1100000,1400,function(v){return '$'+(v/1000000).toFixed(1)+'M'});
+    animate('kfam',0,16,1400,function(v){return Math.round(v)});
+    render('amount');
+  });
+  function animate(id,from,to,dur,fmt){
+    var el=document.getElementById(id),t0=null;
+    function step(ts){if(!t0)t0=ts;var p=Math.min((ts-t0)/dur,1);el.textContent=fmt(from+(to-from)*p);if(p<1)requestAnimationFrame(step)}
+    requestAnimationFrame(step);
+  }
+</script>
+</body>
+</html>

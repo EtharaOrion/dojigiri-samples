@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipeBlogPipeline>
+  <post>
+    <title>Smoked Gouda Mac and Cheese</title>
+    <status>drafted</status>
+    <cuisine>Southern comfort</cuisine>
+  </post>
+  <post>
+    <title>Andouille Jambalaya</title>
+    <status>drafted</status>
+    <cuisine>American fusion</cuisine>
+  </post>
+  <post>
+    <title>Chicken and Okra Gumbo</title>
+    <status>drafted</status>
+    <cuisine>Southern comfort</cuisine>
+  </post>
+  <post>
+    <title>Buttermilk Roast Chicken</title>
+    <status>drafted</status>
+    <cuisine>Southern comfort</cuisine>
+  </post>
+  <post>
+    <title>Grilled Ribeye with Herb Butter</title>
+    <status>drafted</status>
+    <cuisine>grilling</cuisine>
+  </post>
+  <post>
+    <title>Garden Tomato Stew</title>
+    <status>drafted</status>
+    <cuisine>hearty stews</cuisine>
+  </post>
+  <post>
+    <title>Cornbread Three Ways</title>
+    <status>drafted</status>
+    <cuisine>Southern comfort</cuisine>
+  </post>
+  <post>
+    <title>Collard Greens with Smoked Turkey</title>
+    <status>drafted</status>
+    <cuisine>Southern comfort</cuisine>
+  </post>
+  <post>
+    <title>Peach Cobbler</title>
+    <status>drafted</status>
+    <cuisine>dessert</cuisine>
+  </post>
+  <post>
+    <title>Shrimp and Grits</title>
+    <status>drafted</status>
+    <cuisine>American fusion</cuisine>
+  </post>
+  <post>
+    <title>Sweet Potato Casserole</title>
+    <status>drafted</status>
+    <cuisine>Southern comfort</cuisine>
+  </post>
+  <post>
+    <title>Low Country Boil</title>
+    <status>drafted</status>
+    <cuisine>grilling</cuisine>
+  </post>
+  <release>
+    <target>2027-03-01</target>
+    <recipeCount>12</recipeCount>
+  </release>
+</recipeBlogPipeline>

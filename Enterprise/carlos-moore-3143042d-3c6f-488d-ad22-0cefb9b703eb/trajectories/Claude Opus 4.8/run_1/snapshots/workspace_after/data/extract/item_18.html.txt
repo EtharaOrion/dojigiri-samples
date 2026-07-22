@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wellness Program Readiness Dashboard</title>
+<style>
+  :root{--bg:#0e1726;--panel:#15203400;--card:#1b2740;--card2:#202e4d;--ink:#e8eef7;--mut:#90a0bd;
+    --teal:#2dd4bf;--blue:#5b9dff;--violet:#a78bfa;--amber:#fbbf24;--rose:#fb7185;--line:#28344f;}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:"Segoe UI",system-ui,Arial,sans-serif;background:radial-gradient(1200px 600px at 80% -10%,#1a2540,var(--bg));color:var(--ink);min-height:100vh}
+  .app{max-width:1240px;margin:0 auto;padding:26px 22px 60px}
+  header{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between;margin-bottom:8px}
+  .title h1{font-size:24px;font-weight:700;letter-spacing:.2px}
+  .title p{color:var(--mut);font-size:14px;margin-top:3px}
+  .pill{display:inline-flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);padding:9px 16px;border-radius:30px;font-size:13px;color:var(--mut)}
+  .dot{width:9px;height:9px;border-radius:50%;background:var(--teal);box-shadow:0 0 10px var(--teal);animation:pulse 1.8s infinite}
+  @keyframes pulse{50%{opacity:.4}}
+  .tabs{display:flex;gap:8px;margin:18px 0 22px;flex-wrap:wrap}
+  .tab{background:var(--card);border:1px solid var(--line);color:var(--mut);padding:9px 18px;border-radius:8px;cursor:pointer;font-size:14px;transition:.2s}
+  .tab.active{background:linear-gradient(135deg,var(--teal),var(--blue));color:#06121f;border-color:transparent;font-weight:600}
+  .tab:hover{color:var(--ink)}
+
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:18px}
+  .kpi{background:linear-gradient(160deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:16px;padding:20px 22px;position:relative;overflow:hidden;opacity:0;transform:translateY(16px);animation:rise .6s forwards}
+  .kpi:nth-child(2){animation-delay:.08s}.kpi:nth-child(3){animation-delay:.16s}.kpi:nth-child(4){animation-delay:.24s}
+  @keyframes rise{to{opacity:1;transform:none}}
+  .kpi .cap{color:var(--mut);font-size:13px;margin-bottom:10px}
+  .kpi .big{font-size:34px;font-weight:700}
+  .kpi .chg{font-size:13px;margin-top:8px}
+  .up{color:var(--teal)}.down{color:var(--rose)}
+  .kpi .spark{position:absolute;right:14px;top:14px;width:56px;height:30px;opacity:.85}
+  .kpi .glow{position:absolute;inset:auto -30px -40px auto;width:120px;height:120px;border-radius:50%;filter:blur(38px);opacity:.4}
+
+  .grid{display:grid;grid-template-columns:1.5fr 1fr;gap:16px;margin-bottom:16px}
+  .grid2{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:16px}
+  .panel{background:linear-gradient(160deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:16px;padding:22px}
+  .panel h3{font-size:16px;margin-bottom:4px}
+  .panel .sub{color:var(--mut);font-size:13px;margin-bottom:18px}
+
+  /* bar chart */
+  .bars{display:flex;align-items:flex-end;gap:26px;height:200px;padding-top:10px}
+  .barwrap{flex:1;display:flex;flex-direction:column;align-items:center;gap:10px;height:100%}
+  .bar{width:100%;max-width:70px;border-radius:8px 8px 0 0;background:linear-gradient(var(--blue),var(--teal));height:0;transition:height 1.3s cubic-bezier(.2,.8,.2,1);position:relative;margin-top:auto}
+  .bar.b2{background:linear-gradient(var(--violet),#7c6cf0)}
+  .bar.b3{background:linear-gradient(var(--amber),#f0903a)}
+  .bar span{position:absolute;top:-24px;left:0;right:0;text-align:center;font-weight:700;font-size:15px}
+  .barlbl{font-size:13px;color:var(--mut);text-align:center}
+
+  /* donut */
+  .donut{width:170px;height:170px;border-radius:50%;margin:6px auto 16px;
+    background:conic-gradient(var(--teal) 0 0);display:flex;align-items:center;justify-content:center;transition:background 1.4s ease}
+  .donut i{width:118px;height:118px;border-radius:50%;background:var(--card);display:flex;flex-direction:column;align-items:center;justify-content:center;font-style:normal}
+  .donut i b{font-size:30px}.donut i small{color:var(--mut);font-size:12px}
+  .legend{display:flex;flex-direction:column;gap:9px;font-size:13px}
+  .legend div{display:flex;align-items:center;gap:8px;color:var(--mut)}
+  .sw{width:11px;height:11px;border-radius:3px}
+
+  /* line chart */
+  svg .area{opacity:.18}
+  svg .pl{fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2s .2s forwards ease}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .axis{stroke:var(--line)}
+  .gtxt{fill:var(--mut);font-size:11px}
+
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{text-align:left;padding:11px 10px;border-bottom:1px solid var(--line)}
+  th{color:var(--mut);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.5px}
+  .badge{padding:3px 10px;border-radius:20px;font-size:12px;font-weight:600}
+  .b-done{background:rgba(45,212,191,.15);color:var(--teal)}
+  .b-prog{background:rgba(91,157,255,.15);color:var(--blue)}
+  .b-pend{background:rgba(251,191,36,.15);color:var(--amber)}
+  footer{color:var(--mut);font-size:13px;text-align:center;margin-top:26px}
+  @media(max-width:880px){.kpis,.grid,.grid2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="title">
+      <h1>Employee Wellness Program, Readiness Dashboard</h1>
+      <p>Bellmark Industries, prepared by Carlos Moore, HR Director, employee ID CM-2018-047</p>
+    </div>
+    <div class="pill"><span class="dot"></span> Launch target January 2027, on track</div>
+  </header>
+
+  <div class="tabs">
+    <div class="tab active">Overview</div>
+    <div class="tab">Vendor Evaluation</div>
+    <div class="tab">Health Signals</div>
+    <div class="tab">Rollout Plan</div>
+  </div>
+
+  <div class="kpis">
+    <div class="kpi"><div class="glow" style="background:var(--teal)"></div><div class="cap">Eligible Employees</div><div class="big" data-c="400">0</div><div class="chg up">Across three Tennessee offices</div></div>
+    <div class="kpi"><div class="glow" style="background:var(--blue)"></div><div class="cap">Pilot Satisfaction</div><div class="big"><span data-c="42">0</span> / 50</div><div class="chg up">4.2 of 5 from pilot users</div></div>
+    <div class="kpi"><div class="glow" style="background:var(--violet)"></div><div class="cap">Selected Vendor Score</div><div class="big"><span data-c="92">0</span> / 100</div><div class="chg up">Top of three finalists</div></div>
+    <div class="kpi"><div class="glow" style="background:var(--amber)"></div><div class="cap">Cost Per Employee</div><div class="big">$<span data-c="18">0</span>.50</div><div class="chg" style="color:var(--mut)">Monthly, fully employer funded</div></div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <h3>Vendor Evaluation, Weighted Scores</h3>
+      <div class="sub">Three finalists scored across nine criteria, September 2025</div>
+      <div class="bars" id="bars">
+        <div class="barwrap"><div class="bar" data-h="92"><span>92</span></div><div class="barlbl">HealthPath<br>Solutions</div></div>
+        <div class="barwrap"><div class="bar b2" data-h="78"><span>78</span></div><div class="barlbl">WellTrack<br>Inc.</div></div>
+        <div class="barwrap"><div class="bar b3" data-h="68"><span>68</span></div><div class="barlbl">VitalMax<br>Health</div></div>
+      </div>
+    </div>
+    <div class="panel">
+      <h3>Launch Readiness</h3>
+      <div class="sub">Preparation phase completion</div>
+      <div class="donut" id="donut"><i><b id="donutNum">0%</b><small>Phase 2 ready</small></i></div>
+      <div class="legend">
+        <div><span class="sw" style="background:var(--teal)"></span> Completed preparation tasks</div>
+        <div><span class="sw" style="background:#28344f"></span> Remaining before launch</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="panel" style="grid-column:span 2">
+      <h3>Lead Sponsor Health Signal, Resting Blood Pressure</h3>
+      <div class="sub">Monthly average systolic, home readings, goal under 130. A wellness program led by example.</div>
+      <svg viewBox="0 0 640 240" width="100%" height="220" id="lineBP">
+        <line class="axis" x1="40" y1="200" x2="620" y2="200"></line>
+        <line class="axis" x1="40" y1="40" x2="40" y2="200"></line>
+        <text class="gtxt" x="4" y="44">140</text><text class="gtxt" x="4" y="124">130</text><text class="gtxt" x="8" y="204">120</text>
+      </svg>
+    </div>
+    <div class="panel" style="grid-column:span 1">
+      <h3>Activity Trend</h3>
+      <div class="sub">Avg walk distance, miles</div>
+      <svg viewBox="0 0 300 240" width="100%" height="220" id="lineWalk">
+        <line class="axis" x1="34" y1="200" x2="290" y2="200"></line>
+        <line class="axis" x1="34" y1="30" x2="34" y2="200"></line>
+        <text class="gtxt" x="6" y="44">3.0</text><text class="gtxt" x="6" y="124">2.5</text><text class="gtxt" x="6" y="204">2.0</text>
+      </svg>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h3>Rollout Milestones</h3>
+    <div class="sub">Phase two, launch preparation, owners and target dates</div>
+    <table>
+      <thead><tr><th>Milestone</th><th>Owner</th><th>Target</th><th>Status</th></tr></thead>
+      <tbody>
+        <tr><td>Contract and data privacy addendum signed</td><td>CM and Legal</td><td>December 2025</td><td><span class="badge b-done">Done</span></td></tr>
+        <tr><td>Integration with records system and single sign-on</td><td>IT and CM</td><td>October 2026</td><td><span class="badge b-prog">In progress</span></td></tr>
+        <tr><td>Employee communication plan</td><td>Carlos Moore</td><td>October 2026</td><td><span class="badge b-prog">In progress</span></td></tr>
+        <tr><td>Manager training sessions</td><td>Carlos Moore</td><td>November 2026</td><td><span class="badge b-pend">Pending</span></td></tr>
+        <tr><td>All hands announcement for VP approval</td><td>Carlos Moore</td><td>November 2026</td><td><span class="badge b-pend">Pending</span></td></tr>
+        <tr><td>Program live for all employees</td><td>CM and HealthPath</td><td>January 2027</td><td><span class="badge b-pend">Scheduled</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>Confidential, HR leadership use. Data reflects the September 2025 vendor evaluation and home readings logged through February 2026.</footer>
+</div>
+
+<script>
+  // count up KPIs
+  function countUp(){document.querySelectorAll('[data-c]').forEach(el=>{const t=+el.dataset.c;let c=0;const s=Math.max(1,Math.ceil(t/45));const iv=setInterval(()=>{c+=s;if(c>=t){c=t;clearInterval(iv)}el.textContent=el.querySelector?c:(c);el.textContent=c+(el.parentElement&&el.parentElement.querySelector('.cap')&&el.parentElement.querySelector('.cap').textContent.includes('Eligible')?'':'')},20)})}
+  // simpler: just animate numbers
+  document.querySelectorAll('[data-c]').forEach(el=>{const t=+el.dataset.c;let c=0;const s=Math.max(1,Math.ceil(t/45));const iv=setInterval(()=>{c+=s;if(c>=t){c=t;clearInterval(iv)}el.textContent=c},20)});
+
+  // bars
+  setTimeout(()=>document.querySelectorAll('#bars .bar').forEach(b=>b.style.height=(b.dataset.h*0.92)+'%'),250);
+
+  // donut to 65%
+  const target=65;let dv=0;const dn=document.getElementById('donut'),dt=document.getElementById('donutNum');
+  const di=setInterval(()=>{dv++;if(dv>=target){dv=target;clearInterval(di)}dn.style.background=`conic-gradient(var(--teal) 0 ${dv}%, #28344f ${dv}% 100%)`;dt.textContent=dv+'%'},20);
+
+  // line chart helper
+  function plot(svgId,data,min,max,color,fillId){
+    const svg=document.getElementById(svgId);
+    const vb=svg.viewBox.baseVal;const W=vb.width,H=vb.height;
+    const x0=svgId==='lineBP'?40:34, x1=svgId==='lineBP'?620:290, y0=200, yTop=svgId==='lineBP'?40:30;
+    const n=data.length;
+    const px=i=>x0+(x1-x0)*i/(n-1);
+    const py=v=>y0-(y0-yTop)*(v-min)/(max-min);
+    let d='';data.forEach((v,i)=>d+=(i?'L':'M')+px(i).toFixed(1)+' '+py(v).toFixed(1)+' ');
+    let area=d+`L ${px(n-1)} ${y0} L ${px(0)} ${y0} Z`;
+    const ns='http://www.w3.org/2000/svg';
+    const ap=document.createElementNS(ns,'path');ap.setAttribute('d',area);ap.setAttribute('class','area');ap.setAttribute('fill',color);
+    const lp=document.createElementNS(ns,'path');lp.setAttribute('d',d);lp.setAttribute('class','pl');lp.setAttribute('stroke',color);
+    svg.appendChild(ap);svg.appendChild(lp);
+    data.forEach((v,i)=>{const c=document.createElementNS(ns,'circle');c.setAttribute('cx',px(i));c.setAttribute('cy',py(v));c.setAttribute('r',3.2);c.setAttribute('fill',color);svg.appendChild(c)});
+  }
+  // BP monthly avg systolic Jan 2025 to Feb 2026
+  plot('lineBP',[134,133,132,131,130,130,129,129,129,129,129,129,128,128],120,140,'#5b9dff');
+  // Walk avg distance monthly
+  plot('lineWalk',[2.6,2.7,2.6,2.7,2.6,2.5,2.5,2.6,2.6,2.5,2.6,2.6],2.0,3.0,'#2dd4bf');
+
+  // tabs (visual only)
+  document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{document.querySelector('.tab.active').classList.remove('active');t.classList.add('active')}));
+</script>
+</body>
+</html>

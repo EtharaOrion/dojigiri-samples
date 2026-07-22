@@ -1,0 +1,16 @@
+balance,created,currency,delinquent,description,email,id,name,phone,__api__,__table__,__file__,__row_index__,object
+0,1734345600,usd,False,Monthly sustaining donor — $50/mo,rwhitfield@protonmail.com,cus_3a18b27c1d4e9f01,Renee Whitfield,+13134721842,stripe-api,customers,/opt/mocks/stripe-api/customers.json,0,customer
+0,1735036800,usd,False,Year-end appeal donor — $250,h.lindgren@gmail.com,cus_a72b94cd0e6f1c23,Henry Lindgren,+12489022171,stripe-api,customers,/opt/mocks/stripe-api/customers.json,1,customer
+0,1735728000,usd,False,"Major donor, showcase auction underwriter — $2,500",claudia.brennan@outlook.com,cus_d018ff31abc245d6,Claudia Brennan,+17345881934,stripe-api,customers,/opt/mocks/stripe-api/customers.json,2,customer
+0,1736419200,usd,False,Monthly sustaining donor — $25/mo,tmcdaniel@gmail.com,cus_91473c2d59b6ea08,Terrence McDaniel,+13134716608,stripe-api,customers,/opt/mocks/stripe-api/customers.json,3,customer
+0,1737110400,usd,False,Year-end appeal donor — $100,ana.delacruz@yahoo.com,cus_5e2b80a17ffc0934,Ana De La Cruz,+15862193477,stripe-api,customers,/opt/mocks/stripe-api/customers.json,4,customer
+0,1737801600,usd,False,Monthly sustaining donor — $35/mo,k.osei@gmail.com,cus_c4a91fe0b7d6e528,Kofi Osei,+13133842095,stripe-api,customers,/opt/mocks/stripe-api/customers.json,5,customer
+0,1738492800,usd,False,"Major donor — showcase headline gift $5,000",marielle.ferreira@gmail.com,cus_70b815d9a48ed62a,Marielle Ferreira,+12489174862,stripe-api,customers,/opt/mocks/stripe-api/customers.json,6,customer
+0,1739184000,usd,False,Year-end appeal donor — $75,brandon.kelley@protonmail.com,cus_e62b1f0db3c759f4,Brandon Kelley,+17345064721,stripe-api,customers,/opt/mocks/stripe-api/customers.json,7,customer
+0,1739875200,usd,False,Monthly sustaining donor — $20/mo,dora.holcomb@gmail.com,cus_a01b9dec73f2456b,Dora Holcomb,+13136224183,stripe-api,customers,/opt/mocks/stripe-api/customers.json,8,customer
+0,1740566400,usd,False,"Showcase ticket — table sponsorship $1,500",j.rodriguez_orcutt@outlook.com,cus_84ed210c91bf6a35,Jorge Rodriguez-Orcutt,+15863771029,stripe-api,customers,/opt/mocks/stripe-api/customers.json,9,customer
+0,1741257600,usd,False,Year-end appeal donor — $150,esme.barton@gmail.com,cus_b91537af6028cd14,Esme Barton,+12483608554,stripe-api,customers,/opt/mocks/stripe-api/customers.json,10,customer
+0,1741948800,usd,False,Monthly sustaining donor — $40/mo,n.calderon@gmail.com,cus_2f57a8d1c4b903e7,Noah Calderon,+13134089237,stripe-api,customers,/opt/mocks/stripe-api/customers.json,11,customer
+0,1742640000,usd,False,"Major donor — Livernois opening gift $3,000",patrice.armistead@yahoo.com,cus_d0c481b5e7a209f6,Patrice Armistead,+17344917286,stripe-api,customers,/opt/mocks/stripe-api/customers.json,12,customer
+0,1743331200,usd,False,Year-end appeal donor — $50,miguel.calderaro@protonmail.com,cus_3e7f192c4d5a8b06,Miguel Calderaro,+13139445621,stripe-api,customers,/opt/mocks/stripe-api/customers.json,13,customer
+0,1744022400,usd,False,Monthly sustaining donor — $60/mo,annika.bjorklund@gmail.com,cus_75c8e60ba9d31f42,Annika Bjorklund,+12482156790,stripe-api,customers,/opt/mocks/stripe-api/customers.json,14,customer

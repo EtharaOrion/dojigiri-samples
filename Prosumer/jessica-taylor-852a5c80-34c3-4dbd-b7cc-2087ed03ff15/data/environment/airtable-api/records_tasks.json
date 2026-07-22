@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "recTask0000000001",
+    "createdTime": "2026-01-14T10:00:00.000Z",
+    "Name": "Audit current site IA",
+    "Status": "Done",
+    "Project": "Website Redesign",
+    "EstimateHours": "8",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000002",
+    "createdTime": "2026-01-20T09:30:00.000Z",
+    "Name": "Design homepage hero",
+    "Status": "In progress",
+    "Project": "Website Redesign",
+    "EstimateHours": "16",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000003",
+    "createdTime": "2026-02-05T11:00:00.000Z",
+    "Name": "Migrate blog to CMS",
+    "Status": "Jessica",
+    "Project": "Website Redesign",
+    "EstimateHours": "24",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000004",
+    "createdTime": "2026-02-10T15:00:00.000Z",
+    "Name": "Offline cache layer",
+    "Status": "In progress",
+    "Project": "Mobile App v2",
+    "EstimateHours": "20",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000005",
+    "createdTime": "2026-02-12T10:00:00.000Z",
+    "Name": "Push notifications",
+    "Status": "Jessica",
+    "Project": "Mobile App v2",
+    "EstimateHours": "12",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000006",
+    "createdTime": "2026-02-15T09:00:00.000Z",
+    "Name": "Rewrite auth flow",
+    "Status": "Done",
+    "Project": "Mobile App v2",
+    "EstimateHours": "18",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000007",
+    "createdTime": "2026-03-21T09:00:00.000Z",
+    "Name": "Onboarding email series",
+    "Status": "Done",
+    "Project": "Customer Onboarding",
+    "EstimateHours": "10",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000008",
+    "createdTime": "2026-03-25T10:30:00.000Z",
+    "Name": "In-app product tour",
+    "Status": "In progress",
+    "Project": "Customer Onboarding",
+    "EstimateHours": "14",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000009",
+    "createdTime": "2026-10-05T13:00:00.000Z",
+    "Name": "Add SSO",
+    "Status": "Jessica",
+    "Project": "Customer Onboarding",
+    "EstimateHours": "22",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000010",
+    "createdTime": "2026-11-01T09:30:00.000Z",
+    "Name": "Analytics wiring",
+    "Status": "Jessica",
+    "Project": "Analytics Dashboard",
+    "EstimateHours": "9",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000001-v11",
+    "createdTime": "2026-01-14T10:00:00.000Z",
+    "Name": "Audit current site IA",
+    "Status": "Done",
+    "Project": "Website Redesign",
+    "EstimateHours": "8",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000002-v12",
+    "createdTime": "2026-01-20T09:30:00.000Z",
+    "Name": "Design homepage hero",
+    "Status": "In progress",
+    "Project": "Website Redesign",
+    "EstimateHours": "16",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000003-v13",
+    "createdTime": "2026-02-05T11:00:00.000Z",
+    "Name": "Migrate blog to CMS",
+    "Status": "Jessica",
+    "Project": "Website Redesign",
+    "EstimateHours": "24",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000004-v14",
+    "createdTime": "2026-02-10T15:00:00.000Z",
+    "Name": "Offline cache layer",
+    "Status": "In progress",
+    "Project": "Mobile App v2",
+    "EstimateHours": "20",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000005-v15",
+    "createdTime": "2026-02-12T10:00:00.000Z",
+    "Name": "Push notifications",
+    "Status": "Jessica",
+    "Project": "Mobile App v2",
+    "EstimateHours": "12",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000006-v16",
+    "createdTime": "2026-02-15T09:00:00.000Z",
+    "Name": "Rewrite auth flow",
+    "Status": "Done",
+    "Project": "Mobile App v2",
+    "EstimateHours": "18",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000007-v17",
+    "createdTime": "2026-03-21T09:00:00.000Z",
+    "Name": "Onboarding email series",
+    "Status": "Done",
+    "Project": "Customer Onboarding",
+    "EstimateHours": "10",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000008-v18",
+    "createdTime": "2026-03-25T10:30:00.000Z",
+    "Name": "In-app product tour",
+    "Status": "In progress",
+    "Project": "Customer Onboarding",
+    "EstimateHours": "14",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000009-v19",
+    "createdTime": "2026-10-05T13:00:00.000Z",
+    "Name": "Add SSO",
+    "Status": "Jessica",
+    "Project": "Customer Onboarding",
+    "EstimateHours": "22",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000010-v20",
+    "createdTime": "2026-11-01T09:30:00.000Z",
+    "Name": "Analytics wiring",
+    "Status": "Jessica",
+    "Project": "Analytics Dashboard",
+    "EstimateHours": "9",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000100",
+    "createdTime": "2026-12-01T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Kickoff call",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000101",
+    "createdTime": "2026-12-02T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Send proposal",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000102",
+    "createdTime": "2026-12-03T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Sign SOW",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000103",
+    "createdTime": "2026-12-04T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Discovery questionnaire \u2014 sent",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000104",
+    "createdTime": "2026-12-05T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Discovery questionnaire \u2014 reviewed",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000105",
+    "createdTime": "2026-12-06T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Mood board \u2014 direction A",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000106",
+    "createdTime": "2026-12-07T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Mood board \u2014 direction B",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000107",
+    "createdTime": "2026-12-08T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Mood board \u2014 direction C",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000108",
+    "createdTime": "2026-12-09T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Mood board \u2014 review call",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000109",
+    "createdTime": "2026-12-10T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Concept round 1 \u2014 lockups",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000110",
+    "createdTime": "2026-12-11T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Concept round 1 \u2014 review call",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000111",
+    "createdTime": "2026-12-12T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Concept round 2 \u2014 lockups",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000112",
+    "createdTime": "2026-12-13T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Concept round 2 \u2014 review call",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000113",
+    "createdTime": "2026-12-14T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Concept round 3 \u2014 refinement",
+    "Status": "In progress",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000114",
+    "createdTime": "2026-12-15T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Type + color exploration",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000115",
+    "createdTime": "2026-12-16T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Icon set \u2014 sketches",
+    "Status": "In progress",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000116",
+    "createdTime": "2026-12-17T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Icon set \u2014 vector round",
+    "Status": "Not started",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000117",
+    "createdTime": "2026-12-18T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Packaging comp A",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "5",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000118",
+    "createdTime": "2026-12-19T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Packaging comp B",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "5",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000119",
+    "createdTime": "2026-12-20T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Packaging dielines",
+    "Status": "In progress",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000120",
+    "createdTime": "2026-12-21T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Packaging \u2014 print vendor quotes",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000121",
+    "createdTime": "2026-12-22T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Packaging \u2014 press check",
+    "Status": "Not started",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000122",
+    "createdTime": "2026-12-23T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Brand guidelines v1",
+    "Status": "In progress",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000123",
+    "createdTime": "2026-12-24T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Brand guidelines v2",
+    "Status": "Not started",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000124",
+    "createdTime": "2026-12-25T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Final asset zip",
+    "Status": "Not started",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000125",
+    "createdTime": "2026-12-26T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Case study draft",
+    "Status": "In progress",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000126",
+    "createdTime": "2026-12-27T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Invoice \u2014 milestone one",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000127",
+    "createdTime": "2026-12-28T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Invoice \u2014 milestone two",
+    "Status": "Done",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000128",
+    "createdTime": "2026-12-29T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Invoice \u2014 final",
+    "Status": "Not started",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000129",
+    "createdTime": "2026-12-30T00:00:00.000Z",
+    "Name": "Verdant Provisions \u2014 Client feedback log \u2014 update",
+    "Status": "In progress",
+    "Project": "Verdant Provisions",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000130",
+    "createdTime": "2026-12-31T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Kickoff call",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000131",
+    "createdTime": "2027-01-01T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Send proposal",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000132",
+    "createdTime": "2027-01-02T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Sign SOW",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000133",
+    "createdTime": "2027-01-03T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Discovery questionnaire \u2014 sent",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000134",
+    "createdTime": "2027-01-04T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Discovery questionnaire \u2014 reviewed",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000135",
+    "createdTime": "2027-01-05T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Mood board \u2014 direction A",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000136",
+    "createdTime": "2027-01-06T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Mood board \u2014 direction B",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000137",
+    "createdTime": "2027-01-07T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Mood board \u2014 direction C",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000138",
+    "createdTime": "2027-01-08T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Mood board \u2014 review call",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000139",
+    "createdTime": "2027-01-09T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Concept round 1 \u2014 lockups",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000140",
+    "createdTime": "2027-01-10T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Concept round 1 \u2014 review call",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000141",
+    "createdTime": "2027-01-11T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Concept round 2 \u2014 lockups",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000142",
+    "createdTime": "2027-01-12T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Concept round 2 \u2014 review call",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000143",
+    "createdTime": "2027-01-13T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Concept round 3 \u2014 refinement",
+    "Status": "In progress",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000144",
+    "createdTime": "2027-01-14T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Type + color exploration",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000145",
+    "createdTime": "2027-01-15T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Icon set \u2014 sketches",
+    "Status": "In progress",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000146",
+    "createdTime": "2027-01-16T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Icon set \u2014 vector round",
+    "Status": "Not started",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000147",
+    "createdTime": "2027-01-17T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Packaging comp A",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "5",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000148",
+    "createdTime": "2027-01-18T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Packaging comp B",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "5",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000149",
+    "createdTime": "2027-01-19T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Packaging dielines",
+    "Status": "In progress",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000150",
+    "createdTime": "2027-01-20T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Packaging \u2014 print vendor quotes",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000151",
+    "createdTime": "2027-01-21T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Packaging \u2014 press check",
+    "Status": "Not started",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000152",
+    "createdTime": "2027-01-22T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Brand guidelines v1",
+    "Status": "In progress",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000153",
+    "createdTime": "2027-01-23T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Brand guidelines v2",
+    "Status": "Not started",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000154",
+    "createdTime": "2027-01-24T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Final asset zip",
+    "Status": "Not started",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000155",
+    "createdTime": "2027-01-25T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Case study draft",
+    "Status": "In progress",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000156",
+    "createdTime": "2027-01-26T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Invoice \u2014 milestone one",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000157",
+    "createdTime": "2027-01-27T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Invoice \u2014 milestone two",
+    "Status": "Done",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000158",
+    "createdTime": "2027-01-28T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Invoice \u2014 final",
+    "Status": "Not started",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000159",
+    "createdTime": "2027-01-29T00:00:00.000Z",
+    "Name": "Pinnacle Collective \u2014 Client feedback log \u2014 update",
+    "Status": "In progress",
+    "Project": "Pinnacle Collective",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000160",
+    "createdTime": "2027-01-30T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Kickoff call",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000161",
+    "createdTime": "2026-10-01T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Send proposal",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000162",
+    "createdTime": "2026-10-02T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Sign SOW",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000163",
+    "createdTime": "2026-10-03T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Discovery questionnaire \u2014 sent",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000164",
+    "createdTime": "2026-10-04T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Discovery questionnaire \u2014 reviewed",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000165",
+    "createdTime": "2026-10-05T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Mood board \u2014 direction A",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000166",
+    "createdTime": "2026-10-06T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Mood board \u2014 direction B",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000167",
+    "createdTime": "2026-10-07T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Mood board \u2014 direction C",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000168",
+    "createdTime": "2026-10-08T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Mood board \u2014 review call",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000169",
+    "createdTime": "2026-10-09T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Concept round 1 \u2014 lockups",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000170",
+    "createdTime": "2026-10-10T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Concept round 1 \u2014 review call",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000171",
+    "createdTime": "2026-10-11T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Concept round 2 \u2014 lockups",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "6",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000172",
+    "createdTime": "2026-10-12T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Concept round 2 \u2014 review call",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000173",
+    "createdTime": "2026-10-13T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Concept round 3 \u2014 refinement",
+    "Status": "In progress",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000174",
+    "createdTime": "2026-10-14T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Type + color exploration",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000175",
+    "createdTime": "2026-10-15T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Icon set \u2014 sketches",
+    "Status": "In progress",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000176",
+    "createdTime": "2026-10-16T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Icon set \u2014 vector round",
+    "Status": "Not started",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000177",
+    "createdTime": "2026-10-17T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Packaging comp A",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "5",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000178",
+    "createdTime": "2026-10-18T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Packaging comp B",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "5",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000179",
+    "createdTime": "2026-10-19T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Packaging dielines",
+    "Status": "In progress",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000180",
+    "createdTime": "2026-10-20T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Packaging \u2014 print vendor quotes",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000181",
+    "createdTime": "2026-10-21T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Packaging \u2014 press check",
+    "Status": "Not started",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000182",
+    "createdTime": "2026-10-22T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Brand guidelines v1",
+    "Status": "In progress",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "8",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000183",
+    "createdTime": "2026-10-23T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Brand guidelines v2",
+    "Status": "Not started",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000184",
+    "createdTime": "2026-10-24T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Final asset zip",
+    "Status": "Not started",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000185",
+    "createdTime": "2026-10-25T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Case study draft",
+    "Status": "In progress",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000186",
+    "createdTime": "2026-10-26T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Invoice \u2014 milestone one",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000187",
+    "createdTime": "2026-10-27T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Invoice \u2014 milestone two",
+    "Status": "Done",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000188",
+    "createdTime": "2026-10-28T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Invoice \u2014 final",
+    "Status": "Not started",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000189",
+    "createdTime": "2026-10-29T00:00:00.000Z",
+    "Name": "Bloom Skin Co \u2014 Client feedback log \u2014 update",
+    "Status": "In progress",
+    "Project": "Bloom Skin Co",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTask0000000000000190",
+    "createdTime": "2026-10-30T00:00:00.000Z",
+    "Name": "Portfolio site \u2014 Kickoff call",
+    "Status": "Done",
+    "Project": "Portfolio site",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000191",
+    "createdTime": "2026-10-31T00:00:00.000Z",
+    "Name": "Portfolio site \u2014 Send proposal",
+    "Status": "Done",
+    "Project": "Portfolio site",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000192",
+    "createdTime": "2026-11-01T00:00:00.000Z",
+    "Name": "Portfolio site \u2014 Sign SOW",
+    "Status": "Done",
+    "Project": "Portfolio site",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000193",
+    "createdTime": "2026-11-02T00:00:00.000Z",
+    "Name": "Portfolio site \u2014 Discovery questionnaire \u2014 sent",
+    "Status": "Done",
+    "Project": "Portfolio site",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTask0000000000000194",
+    "createdTime": "2026-11-03T00:00:00.000Z",
+    "Name": "Portfolio site \u2014 Discovery questionnaire \u2014 reviewed",
+    "Status": "Done",
+    "Project": "Portfolio site",
+    "EstimateHours": "1",
+    "Done": "true"
+  }
+]

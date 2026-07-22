@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Studio Pulse</title>
+<style>
+  :root{
+    --bg:#0f1411; --panel:#16201a; --panel2:#1d2a22; --ink:#e9efe7; --mut:#8ea08c;
+    --green:#56a86d; --amber:#e0a83b; --clay:#c87a52; --line:#27332b;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Segoe UI",Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 22px}
+  a{color:inherit}
+
+  header{border-bottom:1px solid var(--line);background:#0c100d;position:sticky;top:0;z-index:20}
+  .top{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .logo{font-weight:700;letter-spacing:.5px}
+  .logo b{color:var(--green)}
+  .top .meta{font-size:13px;color:var(--mut)}
+
+  h1{font-size:24px;margin:30px 0 4px}
+  .sub{color:var(--mut);font-size:14px;margin-bottom:22px}
+
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:22px}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px}
+  .kpi .lab{font-size:12px;color:var(--mut);text-transform:uppercase;letter-spacing:1px}
+  .kpi .val{font-size:28px;font-weight:700;margin-top:8px}
+  .kpi .delta{font-size:12px;margin-top:4px}
+  .up{color:var(--green)} .down{color:var(--clay)}
+
+  .row{display:grid;grid-template-columns:1.5fr 1fr;gap:16px;margin-bottom:22px}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px}
+  .panel h2{font-size:16px;margin-bottom:4px}
+  .panel .note{font-size:12px;color:var(--mut);margin-bottom:14px}
+  .tabs{display:flex;gap:8px;margin-bottom:14px}
+  .tab{cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--mut);
+    border-radius:18px;padding:6px 14px;font-size:13px;transition:all .2s}
+  .tab.active{background:var(--green);color:#08110b;border-color:var(--green);font-weight:600}
+
+  .bar{transition:height .8s cubic-bezier(.2,.8,.2,1), y .8s cubic-bezier(.2,.8,.2,1), fill .3s}
+  .barlabel{fill:var(--mut);font-size:11px}
+  .axis{stroke:var(--line);stroke-width:1}
+  .gridline{stroke:var(--line);stroke-width:.5;stroke-dasharray:3 3}
+
+  .legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:10px;font-size:12px;color:var(--mut)}
+  .dot{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:middle}
+
+  .donut-wrap{display:flex;align-items:center;gap:20px}
+  .stat-list{list-style:none;font-size:13px;width:100%}
+  .stat-list li{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--line)}
+  .stat-list li:last-child{border:none}
+  .pill{font-size:11px;padding:2px 9px;border-radius:10px;font-weight:600}
+  .p-prog{background:rgba(224,168,59,.18);color:var(--amber)}
+  .p-done{background:rgba(86,168,109,.18);color:var(--green)}
+  .p-rev{background:rgba(200,122,82,.18);color:var(--clay)}
+
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line)}
+  th{color:var(--mut);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.5px}
+  td.r,th.r{text-align:right}
+  .age0{color:var(--green)} .age30{color:var(--amber)} .age60{color:var(--clay)}
+
+  footer{border-top:1px solid var(--line);margin-top:30px;padding:24px 0;color:var(--mut);font-size:13px}
+  .foot{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+
+  @media(max-width:820px){.kpis{grid-template-columns:repeat(2,1fr)}.row{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <div class="logo">Studio <b>Pulse</b></div>
+    <div class="meta">Taylor Visual Studio &middot; February 2026</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1>Studio dashboard</h1>
+  <div class="sub">Cash flow, pipeline, and outstanding invoices at a glance. Figures rounded to the dollar.</div>
+
+  <div class="kpis">
+    <div class="kpi"><div class="lab">Revenue, last 6 mo</div><div class="val">$29,400</div><div class="delta up">Averaging $4,900 a month</div></div>
+    <div class="kpi"><div class="lab">Outstanding</div><div class="val">$6,250</div><div class="delta down">Across 3 open invoices</div></div>
+    <div class="kpi"><div class="lab">Active projects</div><div class="val">3</div><div class="delta up">2 in progress, 1 delivered</div></div>
+    <div class="kpi"><div class="lab">Emergency fund</div><div class="val">52%</div><div class="delta up">$5,200 of $10,000</div></div>
+  </div>
+
+  <div class="row">
+    <div class="panel">
+      <h2>Revenue trend</h2>
+      <div class="note">Monthly collected revenue. Toggle the view.</div>
+      <div class="tabs">
+        <button class="tab active" data-set="rev">Revenue</button>
+        <button class="tab" data-set="hours">Billable hours</button>
+      </div>
+      <svg id="chart" viewBox="0 0 560 280" width="100%" role="img" aria-label="Revenue bar chart"></svg>
+      <div class="legend"><span><span class="dot" style="background:var(--green)"></span><span id="legtxt">Collected revenue, USD</span></span></div>
+    </div>
+
+    <div class="panel">
+      <h2>Project pipeline</h2>
+      <div class="note">Status across the active book</div>
+      <div class="donut-wrap">
+        <svg viewBox="0 0 120 120" width="120" height="120" aria-label="Pipeline donut">
+          <circle cx="60" cy="60" r="48" fill="none" stroke="#27332b" stroke-width="16"/>
+          <circle cx="60" cy="60" r="48" fill="none" stroke="var(--amber)" stroke-width="16"
+            stroke-dasharray="100 201" stroke-dashoffset="0" transform="rotate(-90 60 60)"/>
+          <circle cx="60" cy="60" r="48" fill="none" stroke="var(--clay)" stroke-width="16"
+            stroke-dasharray="50 251" stroke-dashoffset="-100" transform="rotate(-90 60 60)"/>
+          <circle cx="60" cy="60" r="48" fill="none" stroke="var(--green)" stroke-width="16"
+            stroke-dasharray="50 251" stroke-dashoffset="-150" transform="rotate(-90 60 60)"/>
+          <text x="60" y="64" text-anchor="middle" fill="#e9efe7" font-size="20" font-weight="700">3</text>
+        </svg>
+        <ul class="stat-list">
+          <li><span>Verdant Provisions, brand refresh</span><span class="pill p-prog">Concepts</span></li>
+          <li><span>Pinnacle Collective, logo and signage</span><span class="pill p-rev">Revisions</span></li>
+          <li><span>Bloom Skin Co, seasonal packaging</span><span class="pill p-done">Delivered</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Outstanding invoices</h2>
+    <div class="note">Follow up on anything past 30 days during the Wednesday check.</div>
+    <table>
+      <thead><tr><th>Invoice</th><th>Client</th><th>Issued</th><th class="r">Balance</th><th class="r">Age</th></tr></thead>
+      <tbody>
+        <tr><td>TVS-2026-014</td><td>Verdant Provisions</td><td>Feb 3, 2026</td><td class="r">$3,250</td><td class="r age0">On delivery</td></tr>
+        <tr><td>TVS-2026-011</td><td>Pinnacle Collective</td><td>Jan 8, 2026</td><td class="r">$2,625</td><td class="r age30">32 days</td></tr>
+        <tr><td>TVS-2026-018</td><td>Referral lead</td><td>Feb 25, 2026</td><td class="r">$375</td><td class="r age0">Current</td></tr>
+      </tbody>
+    </table>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <span>Taylor Visual Studio, Los Angeles. Internal view, not for sharing.</span>
+    <span>Synced from invoicing and the project tracker &middot; February 2026</span>
+  </div>
+</footer>
+
+<script>
+  var DATA = {
+    rev:   {labels:["Sep","Oct","Nov","Dec","Jan","Feb"], vals:[5200,4600,5800,3900,5100,4800], color:"#56a86d", leg:"Collected revenue, USD", max:6500},
+    hours: {labels:["Sep","Oct","Nov","Dec","Jan","Feb"], vals:[64,58,70,49,66,61], color:"#e0a83b", leg:"Billable hours per month", max:80}
+  };
+  var svg=document.getElementById('chart');
+  var W=560,H=280,padL=46,padB=34,padT=14,padR=12;
+  var plotW=W-padL-padR, plotH=H-padT-padB;
+
+  function draw(key){
+    var d=DATA[key]; svg.innerHTML="";
+    document.getElementById('legtxt').textContent=d.leg;
+    document.querySelector('.legend .dot').style.background=d.color;
+    // gridlines + y labels
+    for(var i=0;i<=4;i++){
+      var v=d.max*i/4, y=padT+plotH-(plotH*i/4);
+      svg.appendChild(line(padL,y,W-padR,y,'gridline'));
+      svg.appendChild(text(padL-8,y+4,fmt(v,key),'barlabel','end'));
+    }
+    svg.appendChild(line(padL,padT,padL,padT+plotH,'axis'));
+    var n=d.vals.length, bw=plotW/n*0.56, gap=plotW/n;
+    d.vals.forEach(function(val,idx){
+      var bh=plotH*(val/d.max);
+      var x=padL+gap*idx+(gap-bw)/2, y=padT+plotH;
+      var r=rect(x,y,bw,0,d.color); r.setAttribute('rx',4); svg.appendChild(r);
+      // animate
+      requestAnimationFrame(function(){ setTimeout(function(){
+        r.setAttribute('y',padT+plotH-bh); r.setAttribute('height',bh);
+      }, idx*70);});
+      svg.appendChild(text(x+bw/2,padT+plotH+20,d.labels[idx],'barlabel','middle'));
+      var t=text(x+bw/2,padT+plotH-bh-6,fmt(val,key),'barlabel','middle'); t.style.opacity=0;
+      setTimeout(function(tt){return function(){tt.style.transition='opacity .4s';tt.style.opacity=1;}}(t), 500+idx*70);
+      svg.appendChild(t);
+    });
+  }
+  function fmt(v,key){ v=Math.round(v); return key==='rev' ? '$'+v.toLocaleString() : v; }
+  function ns(t){return document.createElementNS('http://www.w3.org/2000/svg',t);}
+  function rect(x,y,w,h,fill){var r=ns('rect');r.setAttribute('x',x);r.setAttribute('y',y);
+    r.setAttribute('width',w);r.setAttribute('height',h);r.setAttribute('fill',fill);
+    r.setAttribute('class','bar');return r;}
+  function line(x1,y1,x2,y2,c){var l=ns('line');l.setAttribute('x1',x1);l.setAttribute('y1',y1);
+    l.setAttribute('x2',x2);l.setAttribute('y2',y2);l.setAttribute('class',c);return l;}
+  function text(x,y,s,c,a){var t=ns('text');t.setAttribute('x',x);t.setAttribute('y',y);
+    t.setAttribute('class',c);if(a)t.setAttribute('text-anchor',a);t.textContent=s;return t;}
+
+  document.querySelectorAll('.tab').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('.tab').forEach(function(x){x.classList.remove('active')});
+      b.classList.add('active'); draw(b.dataset.set);
+    });
+  });
+  draw('rev');
+</script>
+</body>
+</html>

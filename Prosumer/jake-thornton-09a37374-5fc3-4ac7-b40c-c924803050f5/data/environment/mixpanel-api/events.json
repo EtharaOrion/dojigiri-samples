@@ -1,0 +1,522 @@
+[
+  {
+    "event_id": "evt-7301",
+    "event": "feature_used",
+    "distinct_id": "y85khce0ih",
+    "time": "2026-10-21T15:30:00Z",
+    "country": "CA",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7302",
+    "event": "session_start",
+    "distinct_id": "mvq2a8a9pag",
+    "time": "2026-10-21T13:30:00Z",
+    "country": "CA",
+    "plan": "team",
+    "platform": "web",
+    "utm_source": "referral"
+  },
+  {
+    "event_id": "evt-7303",
+    "event": "purchase",
+    "distinct_id": "nawj7hyy2w2",
+    "time": "2026-10-21T15:53:00Z",
+    "country": "GB",
+    "plan": "team",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7304",
+    "event": "checkout_started",
+    "distinct_id": "nawj7hyy2w2",
+    "time": "2026-10-21T14:23:00Z",
+    "country": "GB",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7305",
+    "event": "logout",
+    "distinct_id": "l3htwm4rp",
+    "time": "2026-10-21T13:59:00Z",
+    "country": "BR",
+    "plan": "pro",
+    "platform": "android",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-7306",
+    "event": "error_shown",
+    "distinct_id": "funndiplhx",
+    "time": "2026-10-22T20:38:00Z",
+    "country": "US",
+    "plan": "enterprise",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7307",
+    "event": "checkout_started",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-22T19:23:00Z",
+    "country": "DE",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7308",
+    "event": "subscription_renewed",
+    "distinct_id": "mvq2a8a9pag",
+    "time": "2026-10-22T22:44:00Z",
+    "country": "CA",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "referral"
+  },
+  {
+    "event_id": "evt-7309",
+    "event": "session_start",
+    "distinct_id": "qg1jxj1ff8",
+    "time": "2026-10-22T16:33:00Z",
+    "country": "GB",
+    "plan": "team",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7310",
+    "event": "signup_completed",
+    "distinct_id": "y85khce0ih",
+    "time": "2026-10-22T20:19:00Z",
+    "country": "BR",
+    "plan": "team",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7311",
+    "event": "checkout_started",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-22T10:33:00Z",
+    "country": "US",
+    "plan": "pro",
+    "platform": "web",
+    "utm_source": "referral"
+  },
+  {
+    "event_id": "evt-7312",
+    "event": "page_view",
+    "distinct_id": "funndiplhx",
+    "time": "2026-10-23T08:51:00Z",
+    "country": "AU",
+    "plan": "pro",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7313",
+    "event": "session_start",
+    "distinct_id": "8o0ikaa5",
+    "time": "2026-10-23T16:10:00Z",
+    "country": "GB",
+    "plan": "team",
+    "platform": "ios",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7314",
+    "event": "session_start",
+    "distinct_id": "y85khce0ih",
+    "time": "2026-10-23T10:16:00Z",
+    "country": "BR",
+    "plan": "team",
+    "platform": "web",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-7315",
+    "event": "signup_completed",
+    "distinct_id": "mvq2a8a9pag",
+    "time": "2026-10-23T20:40:00Z",
+    "country": "BR",
+    "plan": "team",
+    "platform": "ios",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7316",
+    "event": "checkout_started",
+    "distinct_id": "xvzh15lov",
+    "time": "2026-10-23T19:39:00Z",
+    "country": "FR",
+    "plan": "pro",
+    "platform": "android",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7317",
+    "event": "logout",
+    "distinct_id": "8o0ikaa5",
+    "time": "2026-10-23T20:08:00Z",
+    "country": "DE",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7318",
+    "event": "subscription_started",
+    "distinct_id": "dk3ufrvfgz",
+    "time": "2026-10-24T20:07:00Z",
+    "country": "AU",
+    "plan": "enterprise",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7319",
+    "event": "session_start",
+    "distinct_id": "8o0ikaa5",
+    "time": "2026-10-24T11:28:00Z",
+    "country": "AU",
+    "plan": "enterprise",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7320",
+    "event": "checkout_started",
+    "distinct_id": "qbwl6e1t3",
+    "time": "2026-10-24T14:54:00Z",
+    "country": "CA",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7321",
+    "event": "session_start",
+    "distinct_id": "qbwl6e1t3",
+    "time": "2026-10-24T21:33:00Z",
+    "country": "AU",
+    "plan": "pro",
+    "platform": "android",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7322",
+    "event": "subscription_renewed",
+    "distinct_id": "nawj7hyy2w2",
+    "time": "2026-10-24T16:58:00Z",
+    "country": "AU",
+    "plan": "team",
+    "platform": "android",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7323",
+    "event": "purchase",
+    "distinct_id": "funndiplhx",
+    "time": "2026-10-24T11:02:00Z",
+    "country": "US",
+    "plan": "team",
+    "platform": "web",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7324",
+    "event": "page_view",
+    "distinct_id": "qg1jxj1ff8",
+    "time": "2026-10-25T06:45:00Z",
+    "country": "AU",
+    "plan": "pro",
+    "platform": "ios",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7325",
+    "event": "subscription_started",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-25T22:14:00Z",
+    "country": "DE",
+    "plan": "team",
+    "platform": "web",
+    "utm_source": "referral"
+  },
+  {
+    "event_id": "evt-7326",
+    "event": "error_shown",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-25T19:18:00Z",
+    "country": "BR",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7327",
+    "event": "page_view",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-25T17:51:00Z",
+    "country": "DE",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7328",
+    "event": "page_view",
+    "distinct_id": "qbwl6e1t3",
+    "time": "2026-10-25T09:07:00Z",
+    "country": "FR",
+    "plan": "pro",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7329",
+    "event": "session_start",
+    "distinct_id": "qg1jxj1ff8",
+    "time": "2026-10-26T08:22:00Z",
+    "country": "AU",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7330",
+    "event": "subscription_started",
+    "distinct_id": "xvzh15lov",
+    "time": "2026-10-26T09:52:00Z",
+    "country": "GB",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7331",
+    "event": "page_view",
+    "distinct_id": "mvq2a8a9pag",
+    "time": "2026-10-26T19:46:00Z",
+    "country": "AU",
+    "plan": "pro",
+    "platform": "ios",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7332",
+    "event": "subscription_started",
+    "distinct_id": "xvzh15lov",
+    "time": "2026-10-26T11:42:00Z",
+    "country": "FR",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "organic"
+  },
+  {
+    "event_id": "evt-7333",
+    "event": "subscription_started",
+    "distinct_id": "3em7o6jfbi",
+    "time": "2026-10-27T15:51:00Z",
+    "country": "BR",
+    "plan": "team",
+    "platform": "android",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7334",
+    "event": "subscription_renewed",
+    "distinct_id": "xvzh15lov",
+    "time": "2026-10-27T20:33:00Z",
+    "country": "AU",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7335",
+    "event": "signup_completed",
+    "distinct_id": "qg1jxj1ff8",
+    "time": "2026-10-27T16:19:00Z",
+    "country": "BR",
+    "plan": "pro",
+    "platform": "ios",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7336",
+    "event": "purchase",
+    "distinct_id": "mvq2a8a9pag",
+    "time": "2026-10-27T06:46:00Z",
+    "country": "AU",
+    "plan": "team",
+    "platform": "ios",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7337",
+    "event": "signup_completed",
+    "distinct_id": "qbwl6e1t3",
+    "time": "2026-10-28T14:08:00Z",
+    "country": "AU",
+    "plan": "pro",
+    "platform": "ios",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7338",
+    "event": "subscription_renewed",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-28T19:17:00Z",
+    "country": "JP",
+    "plan": "enterprise",
+    "platform": "web",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7339",
+    "event": "purchase",
+    "distinct_id": "dk3ufrvfgz",
+    "time": "2026-10-28T12:26:00Z",
+    "country": "US",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "referral"
+  },
+  {
+    "event_id": "evt-7340",
+    "event": "checkout_started",
+    "distinct_id": "l3htwm4rp",
+    "time": "2026-10-28T18:46:00Z",
+    "country": "BR",
+    "plan": "team",
+    "platform": "android",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7341",
+    "event": "signup_completed",
+    "distinct_id": "y85khce0ih",
+    "time": "2026-10-29T06:12:00Z",
+    "country": "BR",
+    "plan": "enterprise",
+    "platform": "ios",
+    "utm_source": "referral"
+  },
+  {
+    "event_id": "evt-7342",
+    "event": "signup_completed",
+    "distinct_id": "bzjncwzmh",
+    "time": "2026-10-29T22:27:00Z",
+    "country": "GB",
+    "plan": "pro",
+    "platform": "ios",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7343",
+    "event": "logout",
+    "distinct_id": "qbwl6e1t3",
+    "time": "2026-10-29T18:23:00Z",
+    "country": "DE",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7344",
+    "event": "purchase",
+    "distinct_id": "y85khce0ih",
+    "time": "2026-10-29T22:37:00Z",
+    "country": "BR",
+    "plan": "pro",
+    "platform": "web",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7345",
+    "event": "signup_completed",
+    "distinct_id": "nawj7hyy2w2",
+    "time": "2026-10-29T20:50:00Z",
+    "country": "JP",
+    "plan": "team",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7346",
+    "event": "error_shown",
+    "distinct_id": "qbwl6e1t3",
+    "time": "2026-10-29T07:49:00Z",
+    "country": "JP",
+    "plan": "team",
+    "platform": "ios",
+    "utm_source": "newsletter"
+  },
+  {
+    "event_id": "evt-7347",
+    "event": "checkout_started",
+    "distinct_id": "3em7o6jfbi",
+    "time": "2026-10-30T12:00:00Z",
+    "country": "GB",
+    "plan": "enterprise",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7348",
+    "event": "subscription_started",
+    "distinct_id": "l3htwm4rp",
+    "time": "2026-10-30T20:51:00Z",
+    "country": "DE",
+    "plan": "free",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-7349",
+    "event": "purchase",
+    "distinct_id": "nawj7hyy2w2",
+    "time": "2026-10-30T14:23:00Z",
+    "country": "AU",
+    "plan": "free",
+    "platform": "ios",
+    "utm_source": "direct"
+  },
+  {
+    "event_id": "evt-7350",
+    "event": "page_view",
+    "distinct_id": "nawj7hyy2w2",
+    "time": "2026-10-30T17:18:00Z",
+    "country": "BR",
+    "plan": "pro",
+    "platform": "ios",
+    "utm_source": "google"
+  },
+  {
+    "event_id": "evt-7351",
+    "event": "purchase",
+    "distinct_id": "8o0ikaa5",
+    "time": "2026-10-30T20:47:00Z",
+    "country": "DE",
+    "plan": "enterprise",
+    "platform": "web",
+    "utm_source": "twitter"
+  },
+  {
+    "event_id": "evt-16301",
+    "event": "session_start",
+    "distinct_id": "y85khce0ih",
+    "time": "2026-10-21T15:30:00Z",
+    "country": "CA",
+    "plan": "free",
+    "platform": "android",
+    "utm_source": "google"
+  }
+]

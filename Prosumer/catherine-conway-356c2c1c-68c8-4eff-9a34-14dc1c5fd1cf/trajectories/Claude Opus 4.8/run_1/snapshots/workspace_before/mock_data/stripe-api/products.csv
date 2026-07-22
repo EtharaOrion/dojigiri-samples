@@ -1,0 +1,5 @@
+id,name,description,active,created,__api__,__table__,__file__,__row_index__,object
+prod_b61a8lewxpnaiq,Botanical Print Club,Monthly limited-edition botanical print mailed to members,True,1704153600,stripe-api,products,/opt/mocks/stripe-api/products.json,0,product
+prod_z5dcgs02544171,Note-card Society,Quarterly boxed set of botanical note cards,True,1704153600,stripe-api,products,/opt/mocks/stripe-api/products.json,1,product
+prod_ekuxrnycdkhr5s,Botanical Illustration Workshop Series,Recurring seasonal botanical illustration classes at St. Brendan's parish hall,True,1706832000,stripe-api,products,/opt/mocks/stripe-api/products.json,2,product
+prod_aiakyqnod1imb3,Studio Circle Membership,Annual studio membership with early access to original watercolours,True,1706832000,stripe-api,products,/opt/mocks/stripe-api/products.json,3,product

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<birthClientTracker>
+  <client>
+    <name>Tasha Williams</name>
+    <dueDate>2026-11-14</dueDate>
+    <birthSetting>home birth</birthSetting>
+    <notes>38-week check 2026-11-04</notes>
+    <backup>Dr. Keisha Williams backup</backup>
+  </client>
+  <client>
+    <name>Aisha Patel</name>
+    <dueDate>2026-12-03</dueDate>
+    <birthSetting>home birth</birthSetting>
+    <notes>plan on file</notes>
+    <backup>Dr. Williams backup</backup>
+  </client>
+  <client>
+    <name>Erin Boyd</name>
+    <dueDate>2026-12-28</dueDate>
+    <birthSetting>hospital</birthSetting>
+    <notes>holiday week</notes>
+    <backup>Magnolia colleague covering</backup>
+  </client>
+  <client>
+    <name>Whitney Sims</name>
+    <dueDate>2027-01-20</dueDate>
+    <birthSetting>hospital</birthSetting>
+    <notes>routine</notes>
+    <backup>on-call rotation</backup>
+  </client>
+  <client>
+    <name>Maya Roberts</name>
+    <dueDate>2027-02-07</dueDate>
+    <birthSetting>hospital</birthSetting>
+    <notes>routine</notes>
+    <backup>on-call rotation</backup>
+  </client>
+</birthClientTracker>

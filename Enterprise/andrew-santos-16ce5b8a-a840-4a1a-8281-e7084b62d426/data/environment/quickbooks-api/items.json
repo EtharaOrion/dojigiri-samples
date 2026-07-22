@@ -1,0 +1,90 @@
+[
+  {
+    "Active": "true",
+    "Description": "Headline sponsorship — winter showcase, name and logo placement on all materials, two recognition spots from stage.",
+    "Id": "3001",
+    "IncomeAccountRef_name": "Contributions — Corporate Sponsorship",
+    "IncomeAccountRef_value": "4001",
+    "Name": "Sponsorship — Headline",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "25000.00"
+  },
+  {
+    "Active": "true",
+    "Description": "Restricted grant tranche — Livernois Avenue program build-out, year one.",
+    "Id": "3002",
+    "IncomeAccountRef_name": "Contributions — Restricted Grants",
+    "IncomeAccountRef_value": "4002",
+    "Name": "Grant Tranche — Restricted",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "75000.00"
+  },
+  {
+    "Active": "true",
+    "Description": "General grant tranche — program expansion, capacity, and teaching artist fees.",
+    "Id": "3003",
+    "IncomeAccountRef_name": "Contributions — General Grants",
+    "IncomeAccountRef_value": "4003",
+    "Name": "Grant Tranche",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "35000.00"
+  },
+  {
+    "Active": "true",
+    "Description": "Unrestricted operating grant — supports DYAA salaries, rent at the Cass Avenue office, and core teaching artist program.",
+    "Id": "3004",
+    "IncomeAccountRef_name": "Contributions — Operating Support",
+    "IncomeAccountRef_value": "4004",
+    "Name": "Operating Grant",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "50000.00"
+  },
+  {
+    "Active": "true",
+    "Description": "Residency contract with partner school — DYAA teaching artists deliver 24 weeks of in-class arts curriculum.",
+    "Id": "3005",
+    "IncomeAccountRef_name": "Earned Revenue — Residency Contracts",
+    "IncomeAccountRef_value": "4005",
+    "Name": "Residency — School Partner",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "40000.00"
+  },
+  {
+    "Active": "true",
+    "Description": "Studio rental hour — Cass Avenue rehearsal space rented to outside community groups.",
+    "Id": "3006",
+    "IncomeAccountRef_name": "Earned Revenue — Studio Rental",
+    "IncomeAccountRef_value": "4006",
+    "Name": "Studio Rental — Hourly",
+    "Taxable": "true",
+    "Type": "Service",
+    "UnitPrice": "85.00"
+  },
+  {
+    "Active": "true",
+    "Description": "Showcase ticket — Orchestra Hall winter showcase, general admission.",
+    "Id": "3007",
+    "IncomeAccountRef_name": "Earned Revenue — Ticket Sales",
+    "IncomeAccountRef_value": "4007",
+    "Name": "Showcase Ticket — GA",
+    "Taxable": "true",
+    "Type": "Service",
+    "UnitPrice": "25.00"
+  },
+  {
+    "Active": "true",
+    "Description": "DYAA youth artist merchandise — printed catalog, postcards, and student-designed tote bag bundle.",
+    "Id": "3008",
+    "IncomeAccountRef_name": "Earned Revenue — Merchandise",
+    "IncomeAccountRef_value": "4008",
+    "Name": "DYAA Merch Bundle",
+    "Taxable": "true",
+    "Type": "Inventory",
+    "UnitPrice": "35.00"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "uuid": "et-stuart-myer-intro-15",
+    "owner": "user-stuart-myer",
+    "name": "Intro Call",
+    "slug": "stuart-myer-intro-15",
+    "duration": 15,
+    "kind": "solo",
+    "color": "#0069ff",
+    "active": "true",
+    "description": "15-minute intro call with Stuart Myer",
+    "scheduling_url": "https://calendly.com/stuart-myer/intro-15",
+    "created_at": "2025-09-02T10:00:00.000000Z"
+  },
+  {
+    "uuid": "et-stuart-myer-meeting-30",
+    "owner": "user-stuart-myer",
+    "name": "Working Session",
+    "slug": "stuart-myer-meeting-30",
+    "duration": 30,
+    "kind": "solo",
+    "color": "#1aa763",
+    "active": "true",
+    "description": "30-minute working session with Stuart Myer",
+    "scheduling_url": "https://calendly.com/stuart-myer/meeting-30",
+    "created_at": "2025-09-02T10:05:00.000000Z"
+  },
+  {
+    "uuid": "et-stuart-myer-deep-dive-60",
+    "owner": "user-stuart-myer",
+    "name": "Deep Dive",
+    "slug": "stuart-myer-deep-dive-60",
+    "duration": 60,
+    "kind": "solo",
+    "color": "#f1684e",
+    "active": "true",
+    "description": "60-minute deep dive with Stuart Myer",
+    "scheduling_url": "https://calendly.com/stuart-myer/deep-dive-60",
+    "created_at": "2025-09-02T10:10:00.000000Z"
+  }
+]

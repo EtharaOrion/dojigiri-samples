@@ -1,0 +1,182 @@
+[
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at St. Genevieve Community Church.</p>",
+    "id": "d-21655503300004",
+    "name": "welcome",
+    "subject": "Welcome to St. Genevieve Community Church, {{first_name}}!",
+    "updated_at": "2025-07-28T07:37:01+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-21655503300008",
+    "name": "password-reset",
+    "subject": "Reset your St. Genevieve Community Church password",
+    "updated_at": "2025-07-30T04:49:27+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-2165550330000d",
+    "name": "monthly-news",
+    "subject": "St. Genevieve Community Church \u2014 {{month}} highlights",
+    "updated_at": "2025-08-22T07:29:05+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-21655503300011",
+    "name": "invoice",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2025-09-06T16:21:50+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300015",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300016",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300017",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300018",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300019",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300020",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300021",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300022",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300023",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300024",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300025",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300026",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300027",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300028",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300029",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-21655503300030",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-09-06T17:30:22+00:00"
+  }
+]

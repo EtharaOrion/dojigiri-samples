@@ -1,0 +1,46 @@
+applied_at,candidate_id,current_stage,id,job_id,last_activity_at,status,__api__,__table__,__file__,__row_index__
+2026-02-13T00:00:00Z,cand-001,Onsite Interview,app-001,job-livernois-ta-001,2026-03-22T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,0
+2026-02-14T00:00:00Z,cand-002,Phone Screen,app-002,job-livernois-ta-002,2026-03-15T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,1
+2026-02-15T00:00:00Z,cand-003,Reference Check,app-003,job-livernois-ta-001,2026-03-23T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,2
+2026-02-19T00:00:00Z,cand-004,Application Review,app-004,job-livernois-ta-001,2026-03-08T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,3
+2026-02-23T00:00:00Z,cand-005,Onsite Interview,app-005,job-livernois-ta-002,2026-03-20T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,4
+2026-02-25T00:00:00Z,cand-006,Phone Screen,app-006,job-livernois-ta-002,2026-03-17T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,5
+2026-02-26T00:00:00Z,cand-007,Onsite Interview,app-007,job-livernois-coord-001,2026-03-23T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,6
+2026-03-01T00:00:00Z,cand-008,Reference Check,app-008,job-livernois-coord-001,2026-03-24T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,7
+2026-03-09T00:00:00Z,cand-009,Application Review,app-009,job-livernois-ta-003,2026-03-19T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,8
+2026-03-12T00:00:00Z,cand-010,Phone Screen,app-010,job-livernois-ta-003,2026-03-22T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,9
+2025-10-15T00:00:00Z,cand-011,Hired,app-011,job-cass-ta-fall-001,2025-12-04T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,10
+2025-10-16T00:00:00Z,cand-012,Rejected — Onsite,app-012,job-cass-ta-fall-001,2025-11-28T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,11
+2025-11-17T00:00:00Z,cand-013,Hired,app-013,job-fac-coord-001,2026-01-20T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,12
+2025-11-20T00:00:00Z,cand-014,Rejected — Onsite,app-014,job-fac-coord-001,2026-01-12T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,13
+2025-10-22T00:00:00Z,cand-015,Hired,app-015,job-devassist-001,2025-11-18T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,14
+2026-03-01T00:00:00Z,cand-079,Application Review,app-016,job-livernois-ta-001,2026-03-11T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,15
+2026-03-02T00:00:00Z,cand-080,Phone Screen,app-017,job-livernois-ta-002,2026-03-12T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,16
+2026-03-03T00:00:00Z,cand-081,Onsite Interview,app-018,job-livernois-coord-001,2026-03-13T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,17
+2026-03-04T00:00:00Z,cand-082,Application Review,app-019,job-cass-ta-fall-001,2026-03-14T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,18
+2026-03-05T00:00:00Z,cand-083,Phone Screen,app-020,job-fac-coord-001,2026-03-15T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,19
+2026-03-06T00:00:00Z,cand-084,Onsite Interview,app-021,job-livernois-ta-003,2026-03-16T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,20
+2026-03-07T00:00:00Z,cand-085,Application Review,app-022,job-devassist-001,2026-03-17T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,21
+2026-03-08T00:00:00Z,cand-086,Phone Screen,app-023,job-livernois-ta-001,2026-03-18T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,22
+2026-03-09T00:00:00Z,cand-087,Onsite Interview,app-024,job-livernois-ta-002,2026-03-19T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,23
+2026-03-10T00:00:00Z,cand-088,Application Review,app-025,job-livernois-coord-001,2026-03-20T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,24
+2026-03-11T00:00:00Z,cand-089,Phone Screen,app-026,job-cass-ta-fall-001,2026-03-21T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,25
+2026-03-12T00:00:00Z,cand-090,Onsite Interview,app-027,job-fac-coord-001,2026-03-22T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,26
+2026-03-13T00:00:00Z,cand-091,Application Review,app-028,job-livernois-ta-003,2026-03-23T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,27
+2026-03-14T00:00:00Z,cand-092,Phone Screen,app-029,job-devassist-001,2026-03-24T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,28
+2026-03-15T00:00:00Z,cand-093,Onsite Interview,app-030,job-livernois-ta-001,2026-03-25T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,29
+2026-03-16T00:00:00Z,cand-094,Application Review,app-031,job-livernois-ta-002,2026-03-26T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,30
+2026-03-17T00:00:00Z,cand-095,Phone Screen,app-032,job-livernois-coord-001,2026-03-27T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,31
+2026-03-18T00:00:00Z,cand-096,Onsite Interview,app-033,job-cass-ta-fall-001,2026-03-28T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,32
+2026-03-19T00:00:00Z,cand-097,Application Review,app-034,job-fac-coord-001,2026-03-29T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,33
+2026-03-20T00:00:00Z,cand-098,Phone Screen,app-035,job-livernois-ta-003,2026-03-30T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,34
+2026-03-21T00:00:00Z,cand-099,Onsite Interview,app-036,job-livernois-ta-001,2026-03-31T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,35
+2026-03-22T00:00:00Z,cand-100,Application Review,app-037,job-livernois-ta-002,2026-04-01T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,36
+2026-03-23T00:00:00Z,cand-101,Phone Screen,app-038,job-livernois-coord-001,2026-04-02T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,37
+2026-03-24T00:00:00Z,cand-102,Onsite Interview,app-039,job-cass-ta-fall-001,2026-04-03T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,38
+2026-03-25T00:00:00Z,cand-103,Application Review,app-040,job-fac-coord-001,2026-04-04T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,39
+2026-03-26T00:00:00Z,cand-104,Phone Screen,app-041,job-livernois-ta-003,2026-04-05T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,40
+2026-03-27T00:00:00Z,cand-105,Onsite Interview,app-042,job-devassist-001,2026-04-06T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,41
+2026-03-28T00:00:00Z,cand-106,Application Review,app-043,job-livernois-ta-001,2026-04-07T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,42
+2026-03-29T00:00:00Z,cand-107,Phone Screen,app-044,job-livernois-ta-002,2026-04-08T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,43
+2026-03-30T00:00:00Z,cand-108,Onsite Interview,app-045,job-livernois-coord-001,2026-04-09T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,44

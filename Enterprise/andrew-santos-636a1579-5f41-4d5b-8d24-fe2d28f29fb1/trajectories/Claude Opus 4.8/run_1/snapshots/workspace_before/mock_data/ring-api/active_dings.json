@@ -1,0 +1,28 @@
+[
+  {
+    "device_kind": "doorbell_v5",
+    "doorbot_description": "Front Door",
+    "doorbot_id": 0,
+    "expires_in": 0,
+    "id": 0,
+    "id_str": "0",
+    "is_sharing": false,
+    "kind": "motion",
+    "motion": false,
+    "now": 0,
+    "optimization_level": 0,
+    "protocol": "sip",
+    "sip_ding_id": "0",
+    "sip_endpoints": [
+      "sip:0@ring.com"
+    ],
+    "sip_from": "sip:0@ring.com",
+    "sip_server_ip": "0.0.0.0",
+    "sip_server_port": 0,
+    "sip_server_tls": false,
+    "sip_session_id": "0",
+    "sip_to": "sip:0@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/none.jpg",
+    "state": "idle"
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taskBoard studio="Spencer Interiors" exported="2026-02-25" owner="Jessica Spencer">
+  <description>Active task board across the studio's four projects. Statuses are open, in progress, or done.</description>
+  <project code="SI-2024-H01" name="Hendricks Residence" location="Paradise Valley" targetCompletion="2026-10">
+    <task id="HEN-401" title="Confirm marble delivery window with the stone vendor" assignee="Jessica Spencer" due="2026-10-02" priority="High" status="In progress"/>
+    <task id="HEN-402" title="Approve pendant heights over the kitchen island" assignee="Carlos Mendez" due="2026-10-20" priority="Medium" status="Open"/>
+    <task id="HEN-403" title="Schedule primary suite furniture install" assignee="Natalie Reeves" due="2026-10-12" priority="High" status="Open"/>
+    <task id="HEN-404" title="Final styling and client walkthrough" assignee="Jessica Spencer" due="2026-10-28" priority="High" status="Open"/>
+  </project>
+  <project code="SI-2025-M02" name="Martin Condo" location="Downtown Phoenix" targetCompletion="2026-11">
+    <task id="MAR-211" title="Place the low profile sofa order" assignee="Sophie Chen" due="2026-02-10" priority="High" status="Done"/>
+    <task id="MAR-212" title="Resolve the media console reveal gap" assignee="Sophie Chen" due="2026-11-04" priority="Medium" status="Open"/>
+    <task id="MAR-213" title="Confirm shade operation on the primary window" assignee="Natalie Reeves" due="2026-10-28" priority="Medium" status="Open"/>
+  </project>
+  <project code="SI-2025-DV3" name="Desert Vista Model Homes" location="Marana" installBegins="2026-10-24">
+    <task id="DV-318" title="Lock the three staging schemes with the developer" assignee="Jessica Spencer" due="2026-02-12" priority="High" status="Done"/>
+    <task id="DV-319" title="Coordinate seating package delivery to all three homes" assignee="Natalie Reeves" due="2026-10-19" priority="High" status="Open"/>
+    <task id="DV-320" title="Source ceramic vessels and accessories" assignee="Sophie Chen" due="2026-10-16" priority="Medium" status="In progress"/>
+  </project>
+  <project code="SI-2025-SP4" name="Spencer Spec Home" location="DC Ranch" listingPrice="2800000">
+    <task id="SP-114" title="Level the entry console feet" assignee="Carlos Mendez" due="2026-02-10" priority="Low" status="Done"/>
+    <task id="SP-115" title="Source one more warm lamp for the primary suite" assignee="Sophie Chen" due="2026-10-30" priority="Medium" status="Open"/>
+    <task id="SP-116" title="Install patio cushions before the listing shoot" assignee="Natalie Reeves" due="2026-11-02" priority="High" status="Open"/>
+  </project>
+</taskBoard>

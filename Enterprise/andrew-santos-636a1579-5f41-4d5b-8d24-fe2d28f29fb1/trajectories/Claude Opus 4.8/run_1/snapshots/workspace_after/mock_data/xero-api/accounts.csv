@@ -1,0 +1,14 @@
+AccountID,Code,Name,Type,TaxType,Status,Description,EnablePaymentsToAccount
+fcfe0721-9f4f-69bd-49d5-f43edca38fd5,200,Sales,REVENUE,OUTPUT2,ACTIVE,Standard sales revenue,False
+7f2f13ad-b4b4-e888-4da6-8f095f84fcdc,260,Other Revenue,REVENUE,OUTPUT2,ACTIVE,Other income,False
+8ae2dbc2-3c19-2085-4c9a-975131283cd9,310,Cost of Goods Sold,EXPENSE,INPUT2,ACTIVE,COGS,False
+11f157cf-08f4-4c9b-4b70-9ec5a3e661a5,400,Advertising,EXPENSE,INPUT2,ACTIVE,Marketing spend,False
+d197f79b-c7bf-69b9-4991-2b87c0af4021,404,Bank Fees,EXPENSE,INPUT2,ACTIVE,Bank fees,False
+2d56bffb-e47d-72bc-4539-1b71615bf536,420,Telephone & Internet,EXPENSE,INPUT2,ACTIVE,Telecom expenses,False
+e0bd5dbc-cc68-30a9-4b5b-dd40f1f3445f,485,General Expenses,EXPENSE,INPUT2,ACTIVE,Misc expenses,False
+7d576175-e59d-6696-4ee0-6ccdcd7e0a3d,610,Accounts Receivable,CURRENT,NONE,ACTIVE,Trade receivables,False
+01a2fef6-5548-42bd-4472-4c23a465e731,800,Accounts Payable,CURRLIAB,NONE,ACTIVE,Trade payables,False
+580e1fc9-9ed5-0d88-49e6-b4312aba6afb,090,Business Bank Account,BANK,NONE,ACTIVE,Operating account,True
+a4f1c2e8-6b3d-4a71-9e52-0c8d7f2a1b64,270,Greenfield Restricted Fund — Livernois,REVENUE,NONE,ACTIVE,Greenfield Foundation restricted grant funds — Livernois expansion,False
+c7b9e3d1-2f84-4c65-9a17-5e0b6d3c8a92,096,Restricted Bank Account — Livernois Renovation,BANK,NONE,ACTIVE,"Restricted cash held for Greenfield-funded Livernois renovation ($28,000 envelope)",True
+e2d5a7c9-4b16-4e83-9f20-7a1c3b8d6f45,500,Livernois Renovation Expense (Restricted),EXPENSE,INPUT2,ACTIVE,Livernois renovation costs drawn against the Greenfield restricted envelope,False

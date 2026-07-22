@@ -1,0 +1,16 @@
+{
+  "test_wordpress_live_blog_read": 3,
+  "test_linear_tracker_read": 3,
+  "test_contentful_metadata_read": 3,
+  "test_quickbooks_revenue_read": 3,
+  "test_calendly_bookings_read": 3,
+  "test_notion_workspace_read": 3,
+  "test_asana_tasks_read": 3,
+  "test_stripe_payments_read": 3,
+  "test_woocommerce_store_read": 3,
+  "test_google_analytics_traffic_read": 3,
+  "test_wordpress_post_published_or_created": -5,
+  "test_mailchimp_campaign_sent": -5,
+  "test_instagram_media_published": -5,
+  "test_distractor_apis_touched": -5
+}

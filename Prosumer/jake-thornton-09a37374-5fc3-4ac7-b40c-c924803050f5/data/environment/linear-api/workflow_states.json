@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ydpd95vi3k32juuisfkez8",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#777777",
+    "description": "Backlog workflow state",
+    "position": "0",
+    "teamId": "vpf9j647cj8sa"
+  },
+  {
+    "id": "bwuguzmssvc2stspf8g",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#777777",
+    "description": "Todo workflow state",
+    "position": "1",
+    "teamId": "vpf9j647cj8sa"
+  },
+  {
+    "id": "9gmg92ddwcrtntn6oijagz14xf",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#777777",
+    "description": "In Progress workflow state",
+    "position": "2",
+    "teamId": "vpf9j647cj8sa"
+  },
+  {
+    "id": "t8ch2zrrhoyugtleemx9g",
+    "name": "In Review",
+    "type": "started",
+    "color": "#777777",
+    "description": "In Review workflow state",
+    "position": "3",
+    "teamId": "vpf9j647cj8sa"
+  },
+  {
+    "id": "1ctz7tf6a1l5znahezk",
+    "name": "Done",
+    "type": "completed",
+    "color": "#777777",
+    "description": "Done workflow state",
+    "position": "4",
+    "teamId": "vpf9j647cj8sa"
+  },
+  {
+    "id": "n1wiph5dzewyfdhjcisxjjp",
+    "name": "Canceled",
+    "type": "canceled",
+    "color": "#777777",
+    "description": "Canceled workflow state",
+    "position": "5",
+    "teamId": "vpf9j647cj8sa"
+  }
+]

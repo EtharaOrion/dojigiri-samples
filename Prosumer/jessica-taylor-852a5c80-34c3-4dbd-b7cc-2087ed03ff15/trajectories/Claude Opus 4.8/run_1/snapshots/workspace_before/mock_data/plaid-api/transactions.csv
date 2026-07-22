@@ -1,0 +1,29 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+tx_10000,acct_chase_sapphire,42.18,USD,2026-12-28,Whole Foods Market,Whole Foods Market,"[""Food and Drink""]",False,in store
+tx_10001,acct_chase_sapphire,22.5,USD,2026-12-27,Sqirl,Sqirl,"[""Food and Drink""]",False,in store
+tx_10002,acct_chase_sapphire,18.75,USD,2026-12-26,Howlin' Ray's,Howlin' Ray's,"[""Food and Drink""]",False,in store
+tx_10003,acct_chase_sapphire,15.4,USD,2026-12-25,Guisados,Guisados,"[""Food and Drink""]",False,in store
+tx_10004,acct_chase_sapphire,54.99,USD,2026-12-24,Adobe Systems Inc,Adobe Systems Inc,"[""Service""]",False,online
+tx_10005,acct_chase_sapphire,15.0,USD,2026-12-23,Figma Inc,Figma Inc,"[""Service""]",False,online
+tx_10006,acct_chase_sapphire,27.0,USD,2026-12-22,Squarespace,Squarespace,"[""Service""]",False,online
+tx_10007,acct_chase_sapphire,25.0,USD,2026-12-21,Kindred Studio,Kindred Studio,"[""Recreation""]",False,online
+tx_10008,acct_chase_sapphire,15.49,USD,2026-12-20,Netflix,Netflix,"[""Service""]",False,online
+tx_10009,acct_chase_sapphire,10.99,USD,2026-12-19,Spotify Premium,Spotify Premium,"[""Service""]",False,online
+tx_10010,acct_chase_sapphire,3.5,USD,2026-12-18,LA Metro,LA Metro,"[""Travel""]",False,online
+tx_10011,acct_chase_sapphire,12.85,USD,2026-12-17,Lyft,Lyft,"[""Travel""]",False,online
+tx_10012,acct_chase_sapphire,34.6,USD,2026-12-16,Hollywood Farmers Market,Hollywood Farmers Market,"[""Food and Drink""]",False,in store
+tx_10013,acct_chase_sapphire,0.0,USD,2026-12-15,Chevron,Chevron,"[""Travel""]",False,online
+tx_10014,acct_chase_sapphire,189.0,USD,2026-12-14,B&H Photo,B&H Photo,"[""Shops""]",False,online
+tx_10015,acct_chase_sapphire,42.99,USD,2026-12-13,Amazon.com,Amazon.com,"[""Shops""]",False,online
+tx_10016,acct_ally_checking,78.42,USD,2026-12-12,LADWP,LADWP,"[""Service""]",False,online
+tx_10017,acct_ally_checking,22.15,USD,2026-12-11,SoCalGas,SoCalGas,"[""Service""]",False,online
+tx_10018,acct_ally_checking,60.0,USD,2026-12-10,Verizon Wireless,Verizon Wireless,"[""Service""]",False,online
+tx_10019,acct_ally_checking,1650.0,USD,2026-12-09,Koreatown Realty (Rent),Koreatown Realty (Rent),"[""Rent""]",False,online
+tx_10020,acct_ally_checking,24.0,USD,2026-12-08,Lemonade Insurance,Lemonade Insurance,"[""Service""]",False,online
+tx_10021,acct_ally_checking,380.0,USD,2026-12-07,Covered California,Covered California,"[""Healthcare""]",False,online
+tx_10022,acct_ally_checking,280.0,USD,2026-12-06,US Dept of Education (Student Loan),US Dept of Education (Student Loan),"[""Payment""]",False,online
+tx_10023,acct_ally_checking,720.0,USD,2026-12-05,IRS USATaxPymt,IRS USATaxPymt,"[""Tax""]",False,online
+tx_10024,acct_ally_checking,210.0,USD,2026-12-04,CA FTB Tax Payment,CA FTB Tax Payment,"[""Tax""]",False,online
+tx_10025,acct_ally_checking,200.0,USD,2026-12-03,Transfer to Ally Savings,Transfer to Ally Savings,"[""Transfer""]",False,online
+tx_10026,acct_ally_checking,-4800.0,USD,2026-12-02,Stripe Payout,Stripe Payout,"[""Deposit""]",False,online
+tx_10027,acct_ally_checking,-6500.0,USD,2026-12-01,Stripe Payout,Stripe Payout,"[""Deposit""]",False,online

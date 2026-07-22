@@ -1,0 +1,63 @@
+id,subject,description,status,priority,requester_id,responder_id,type,tags,created_at,updated_at
+70001,Belle Isle 3-mile morning walk — follow-up,"Hi team,
+
+Marco here. Wanted to flag belle isle 3-mile morning walk so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Marco",2,1,8001,9001,Question,"[""belle"", ""isle"", ""3-mile""]",2025-12-05T23:59:48+00:00,2025-12-10T23:21:09+00:00
+70002,Personal email check before bed — follow-up,"Hi team,
+
+Diego here. Wanted to flag personal email check before bed so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Diego",3,2,8002,9002,Incident,"[""personal"", ""email"", ""check""]",2025-12-06T10:18:57+00:00,2025-12-16T14:30:24+00:00
+70003,"Weekly review, flag deadlines — follow-up","Hi team,
+
+Sofia here. Wanted to flag weekly review, flag deadlines so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Sofia",4,3,8003,17270,Feature Request,"[""weekly"", ""review,"", ""flag""]",2025-12-14T22:01:17+00:00,2025-12-16T15:45:13+00:00
+70004,Sofia's violin lesson pickup — follow-up,"Hi team,
+
+Elena here. Wanted to flag sofia's violin lesson pickup so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Elena",2,4,8004,9004,Problem,"[""sofia's"", ""violin"", ""lesson""]",2025-12-04T13:17:23+00:00,2025-12-11T19:43:24+00:00
+70005,gmail-api — follow-up,"Hi team,
+
+Marcus here. Wanted to flag gmail-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Marcus",3,1,8005,9005,Question,"[""gmail-api""]",2025-12-11T17:05:08+00:00,2025-12-17T05:03:31+00:00
+70006,google-calendar-api — follow-up,"Hi team,
+
+Brenda here. Wanted to flag google-calendar-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Brenda",4,2,8006,17271,Incident,"[""google-calendar-api""]",2025-12-18T08:34:27+00:00,2025-12-19T00:38:34+00:00
+70007,google-drive-api — follow-up,"Hi team,
+
+Patricia here. Wanted to flag google-drive-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Patricia",2,3,8007,9002,Feature Request,"[""google-drive-api""]",2025-12-13T00:34:15+00:00,2025-12-19T02:43:16+00:00
+70008,whatsapp-api — follow-up,"Hi team,
+
+Kwame here. Wanted to flag whatsapp-api so we have it on record. Happy to share more context on a quick call if useful.
+
+Thanks,
+Kwame",3,4,8008,9003,Problem,"[""whatsapp-api""]",2025-12-11T09:10:59+00:00,2025-12-20T20:37:16+00:00
+71057,Showcase sponsor confirmation,Year-end donor appeal copy iteration.,2,3,12696,16850,Feature Request,"[""google-drive-api""]",2026-01-31T12:08:16+00:00,2026-03-09T05:58:16+00:00
+77602,Hartwell site visit logistics,Sponsor recognition asset review note.,4,2,13768,17272,Incident,"[""google-calendar-api""]",2025-01-09T16:57:37+00:00,2025-12-04T08:11:13+00:00
+78195,El Barzon staff dinner reservation,DYAA staff weekly round-up reflection.,4,2,12752,17273,Incident,"[""google-calendar-api""]",2025-02-26T01:53:52+00:00,2025-12-25T07:11:44+00:00
+72772,Eventbrite ticketing launch,DYAA board pre-read working note.,3,4,17218,16700,Problem,"[""whatsapp-api""]",2025-12-12T05:35:16+00:00,2026-03-22T02:07:34+00:00
+70304,El Barzon staff dinner reservation,Cass Avenue program coordination — routine update.,4,2,10635,17274,Incident,"[""google-calendar-api""]",2025-02-14T06:57:01+00:00,2026-03-29T18:43:02+00:00
+77553,Asana sprint check-in,Livernois grand-opening checklist item.,2,3,9484,16065,Feature Request,"[""google-drive-api""]",2025-02-07T06:27:40+00:00,2025-10-22T01:49:31+00:00
+72611,Livernois ribbon-cutting RSVP,Showcase production milestone noted.,4,2,8033,17275,Incident,"[""google-calendar-api""]",2025-02-04T11:52:06+00:00,2026-02-02T12:20:29+00:00
+77916,Marcus program brief November,Year-end donor appeal copy iteration.,4,3,9863,17276,Feature Request,"[""weekly"", ""review,"", ""flag""]",2025-02-10T06:50:36+00:00,2026-02-02T17:04:40+00:00
+77634,Patricia Chen quarterly board update,Showcase production milestone noted.,4,2,8414,17277,Incident,"[""google-calendar-api""]",2025-02-08T05:57:47+00:00,2025-10-02T11:25:25+00:00
+77758,Marcus program brief November,DYAA showcase planning note logged for Marcus follow-up.,2,1,8052,17269,Question,"[""belle"", ""isle"", ""3-mile""]",2025-01-28T04:02:50+00:00,2025-02-20T16:02:12+00:00
+79300,TEDx Detroit alumni dinner,Mailchimp/Klaviyo segmentation note.,3,4,10798,10494,Problem,"[""whatsapp-api""]",2025-12-30T11:56:06+00:00,2026-03-12T22:05:13+00:00
+75705,Cass Avenue HVAC — pre-showcase walk-through request,DYAA showcase planning note logged for Marcus follow-up.,2,4,13668,12465,Problem,"[""cass-avenue"", ""hvac"", ""showcase-prep""]",2025-11-17T06:26:20+00:00,2026-03-11T11:17:28+00:00
+71765,Kitchen reno deposit invoice,Cass Avenue program coordination — routine update.,3,2,17842,12393,Incident,"[""personal"", ""email"", ""check""]",2025-02-06T21:52:53+00:00,2026-03-28T02:48:26+00:00
+71001,Lisa Monroe GLPF thank you,DYAA grants pipeline tracker entry.,3,1,16503,10421,Question,"[""gmail-api""]",2025-10-26T11:33:34+00:00,2026-01-03T10:45:19+00:00

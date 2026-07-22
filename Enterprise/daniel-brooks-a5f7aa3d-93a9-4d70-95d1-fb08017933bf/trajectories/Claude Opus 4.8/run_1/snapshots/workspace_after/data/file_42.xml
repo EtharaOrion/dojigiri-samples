@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<season company="Gulf Coast Ballet" year="2026 to 2027" venue="Gulf Coast Performing Arts Center">
+  <leadership>
+    <artisticDirector>Daniel Brooks</artisticDirector>
+    <balletMistress>Tatiana Sokolov</balletMistress>
+    <companyManager>Claire Nguyen</companyManager>
+    <dancers principals="12" corps="14" apprentices="12" total="38"/>
+  </leadership>
+
+  <production id="P1">
+    <title>Swan Lake</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <runtimeMinutes>140</runtimeMinutes>
+    <opening>October 14, 2026</opening>
+    <closing>October 25, 2026</closing>
+    <performances>8</performances>
+    <cast>
+      <role name="Odette and Odile">Elena Marchetti</role>
+      <role name="Prince Siegfried">David Okonkwo</role>
+      <role name="Benno">Yuki Tanaka</role>
+    </cast>
+    <notes>Season opener. Act two corps spacing rehearsed on the main stage during tech week.</notes>
+  </production>
+
+  <production id="P2">
+    <title>The Nutcracker</title>
+    <composer>Pyotr Ilyich Tchaikovsky</composer>
+    <runtimeMinutes>120</runtimeMinutes>
+    <opening>December 11, 2026</opening>
+    <closing>December 23, 2026</closing>
+    <performances>14</performances>
+    <cast>
+      <role name="Sugar Plum Fairy">Elena Marchetti</role>
+      <role name="Cavalier">David Okonkwo</role>
+      <role name="Snow Queen">Yuki Tanaka</role>
+    </cast>
+    <notes>Holiday production. Pre professional students from the academy fill the party scene and the corps of snowflakes.</notes>
+  </production>
+
+  <production id="P3">
+    <title>Coppelia</title>
+    <composer>Leo Delibes</composer>
+    <runtimeMinutes>110</runtimeMinutes>
+    <opening>January 22, 2027</opening>
+    <closing>February 1, 2027</closing>
+    <performances>7</performances>
+    <cast>
+      <role name="Swanilda">Yuki Tanaka</role>
+      <role name="Franz">David Okonkwo</role>
+    </cast>
+    <notes>A lighter comic ballet to open the new year.</notes>
+  </production>
+
+  <production id="P4">
+    <title>Contemporary Triple Bill</title>
+    <composer>Mixed program, including Maurice Ravel</composer>
+    <runtimeMinutes>95</runtimeMinutes>
+    <opening>February 19, 2027</opening>
+    <closing>February 28, 2027</closing>
+    <performances>6</performances>
+    <cast>
+      <role name="New pas de deux, woman">Elena Marchetti</role>
+      <role name="New pas de deux, man">David Okonkwo</role>
+    </cast>
+    <notes>Includes an original pas de deux choreographed by Daniel Brooks, set to a Ravel slow movement, roughly six minutes.</notes>
+  </production>
+
+  <production id="P5">
+    <title>Don Quixote</title>
+    <composer>Ludwig Minkus</composer>
+    <runtimeMinutes>130</runtimeMinutes>
+    <opening>April 16, 2027</opening>
+    <closing>April 25, 2027</closing>
+    <performances>7</performances>
+    <cast>
+      <role name="Kitri">Yuki Tanaka</role>
+      <role name="Basilio">David Okonkwo</role>
+    </cast>
+    <notes>Full length classic with a demanding final grand pas.</notes>
+  </production>
+
+  <production id="P6">
+    <title>Spring Program</title>
+    <composer>Mixed program</composer>
+    <runtimeMinutes>100</runtimeMinutes>
+    <opening>May 14, 2027</opening>
+    <closing>May 23, 2027</closing>
+    <performances>6</performances>
+    <cast>
+      <role name="Principal lead">Elena Marchetti</role>
+      <role name="Principal lead">David Okonkwo</role>
+    </cast>
+    <notes>Season closing program. A reduced version of the gala pas de deux travels to the courtyard performance.</notes>
+  </production>
+</season>

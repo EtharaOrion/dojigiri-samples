@@ -1,0 +1,8 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,INBOX,system,24,14,24,14,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,24,14,24,14
+SENT,SENT,system,20,0,20,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,20,0,20,0
+zragdu,DRAFT,system,1,0,1,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,1,0,1,0
+TRASH,TRASH,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,0,0,0,0
+SPAM,SPAM,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,0,0,0,0
+9v0mbjfda7,Magnolia Women's Health,user,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,0,0,0,0
+8b2f1ogzucp1n1,Follow up,user,2,1,2,1,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,2,1,2,1

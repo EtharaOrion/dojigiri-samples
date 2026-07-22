@@ -1,0 +1,266 @@
+{
+  "QueryResponse": {
+    "Vendor": [
+      {
+        "Id": "1",
+        "DisplayName": "Westbrook Property Management",
+        "PrimaryEmailAddr": {
+          "Address": "leasing@westbrookpm.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0132"
+        },
+        "Balance": "3200.00",
+        "Active": true,
+        "Notes": "Clinic landlord - Suite 200, 4800 SW Griffith Dr. Net-5 monthly lease."
+      },
+      {
+        "Id": "2",
+        "DisplayName": "Pacific Northwest Insurance Group",
+        "PrimaryEmailAddr": {
+          "Address": "accounts@pnwinsgroup.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0164"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Malpractice, general liability, and property coverage - billed quarterly."
+      },
+      {
+        "Id": "3",
+        "DisplayName": "Portland General Electric",
+        "PrimaryEmailAddr": {
+          "Address": "business@portlandgeneral.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 228-6322"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Clinic electric service. Account on auto-pay."
+      },
+      {
+        "Id": "4",
+        "DisplayName": "Beaverton Water District",
+        "PrimaryEmailAddr": {
+          "Address": "billing@bvwd.org"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 526-2200"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Water and sewer service for the clinic suite."
+      },
+      {
+        "Id": "5",
+        "DisplayName": "McKesson Medical-Surgical",
+        "PrimaryEmailAddr": {
+          "Address": "orders@mckesson.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(800) 571-2664"
+        },
+        "Balance": "1840.00",
+        "Active": true,
+        "Notes": "Primary medical consumables supplier. Net-30 terms."
+      },
+      {
+        "Id": "6",
+        "DisplayName": "Henry Schein Medical",
+        "PrimaryEmailAddr": {
+          "Address": "service@henryschein.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(800) 772-4346"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Secondary supplier for instruments and biopsy kits."
+      },
+      {
+        "Id": "7",
+        "DisplayName": "Willamette Cleaning Services",
+        "PrimaryEmailAddr": {
+          "Address": "office@willamettecleaning.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0178"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Bi-weekly clinical-grade cleaning."
+      },
+      {
+        "Id": "8",
+        "DisplayName": "Cedarbrook Artisan Supply",
+        "PrimaryEmailAddr": {
+          "Address": "sales@cedarbrookartisan.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0186"
+        },
+        "Balance": "486.00",
+        "Active": true,
+        "Notes": "Watercolor, gouache, and brush supplier for botanical studio."
+      },
+      {
+        "Id": "9",
+        "DisplayName": "Ridgemont Fine Papers",
+        "PrimaryEmailAddr": {
+          "Address": "hello@ridgemontpapers.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0193"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Cotton-rag and archival paper for prints and commissions."
+      },
+      {
+        "Id": "10",
+        "DisplayName": "Internal Revenue Service",
+        "PrimaryEmailAddr": {
+          "Address": "eservices@irs.gov"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(800) 829-1040"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Federal estimated tax payments via EFTPS."
+      },
+      {
+        "Id": "11",
+        "DisplayName": "Oregon Department of Revenue",
+        "PrimaryEmailAddr": {
+          "Address": "support@dor.oregon.gov"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 378-4988"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "State business tax filings."
+      },
+      {
+        "Id": "12",
+        "DisplayName": "Oregon Medical Board",
+        "PrimaryEmailAddr": {
+          "Address": "info@omb.oregon.gov"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(971) 673-2700"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Physician license and NP credential renewals."
+      },
+      {
+        "Id": "13",
+        "DisplayName": "Cascade Medical Waste Services",
+        "PrimaryEmailAddr": {
+          "Address": "service@cascademedwaste.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0205"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Biohazard and sharps disposal - monthly pickup."
+      },
+      {
+        "Id": "14",
+        "DisplayName": "Northwest Framing & Matting",
+        "PrimaryEmailAddr": {
+          "Address": "orders@nwframing.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0212"
+        },
+        "Balance": "340.00",
+        "Active": true,
+        "Notes": "Custom framing for exhibition and commissioned pieces."
+      },
+      {
+        "Id": "15",
+        "DisplayName": "Ridgeline Medical Equipment",
+        "PrimaryEmailAddr": {
+          "Address": "sales@ridgelinemed.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0219"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Cryotherapy units, exam lights, and instrument service."
+      },
+      {
+        "Id": "16",
+        "DisplayName": "Adobe Inc",
+        "PrimaryEmailAddr": {
+          "Address": "billing@adobe.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(408) 536-6000"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Creative Cloud subscription for studio design work."
+      },
+      {
+        "Id": "17",
+        "DisplayName": "Athenahealth",
+        "PrimaryEmailAddr": {
+          "Address": "support@athenahealth.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(800) 981-5084"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Electronic health records and practice management platform."
+      },
+      {
+        "Id": "18",
+        "DisplayName": "Columbia Uniform & Linen",
+        "PrimaryEmailAddr": {
+          "Address": "service@columbiauniform.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0226"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Scrubs, exam gowns, and linen service."
+      },
+      {
+        "Id": "19",
+        "DisplayName": "Beaverton Chamber of Commerce",
+        "PrimaryEmailAddr": {
+          "Address": "info@beavertonchamber.org"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 644-0123"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Annual membership and local marketing listings."
+      },
+      {
+        "Id": "20",
+        "DisplayName": "Evergreen Office Solutions",
+        "PrimaryEmailAddr": {
+          "Address": "orders@evergreenoffice.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "(503) 555-0233"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Front-office paper, printer supplies, and stationery."
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Great Lakes Power Foundation",
+      "value": "1002"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2026-11-15",
+    "Id": "4001",
+    "Line": [
+      {
+        "Amount": 25000.0,
+        "Description": "Showcase 2026 headline sponsorship \u2014 confirmed.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sponsorship \u2014 Headline"
+          }
+        }
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 25000.0,
+    "TxnDate": "2025-11-05"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Greenfield Foundation",
+      "value": "1001"
+    },
+    "DocNumber": "4002",
+    "DueDate": "2026-01-15",
+    "Id": "4002",
+    "Line": [
+      {
+        "Amount": 75000.0,
+        "Description": "Greenfield Year 1 tranche \u2014 Livernois renovation.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Grant Tranche \u2014 Restricted"
+          }
+        }
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 75000.0,
+    "TxnDate": "2025-12-12"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Beacon Foundation",
+      "value": "1003"
+    },
+    "DocNumber": "4003",
+    "DueDate": "2026-02-15",
+    "Id": "4003",
+    "Line": [
+      {
+        "Amount": 37500.0,
+        "Description": "Beacon 2026 first half disbursement.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Grant Tranche"
+          }
+        }
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 37500.0,
+    "TxnDate": "2026-01-15"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "City of Detroit Cultural Affairs",
+      "value": "1005"
+    },
+    "DocNumber": "4004",
+    "DueDate": "2026-02-28",
+    "Id": "4004",
+    "Line": [
+      {
+        "Amount": 17500.0,
+        "Description": "City of Detroit FY26 first installment.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Operating Grant"
+          }
+        }
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 17500.0,
+    "TxnDate": "2026-01-30"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "ACF Art Works",
+      "value": "1006"
+    },
+    "DocNumber": "4005",
+    "DueDate": "2026-03-15",
+    "Id": "4005",
+    "Line": [
+      {
+        "Amount": 25000.0,
+        "Description": "ACF Art Works disbursement.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Grant Tranche"
+          }
+        }
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 25000.0,
+    "TxnDate": "2026-02-20"
+  },
+  {
+    "Balance": 12500.0,
+    "CustomerRef": {
+      "name": "Cass Technical High School",
+      "value": "1010"
+    },
+    "DocNumber": "4006",
+    "DueDate": "2026-11-30",
+    "Id": "4006",
+    "Line": [
+      {
+        "Amount": 12500.0,
+        "Description": "Teaching artist residency invoice \u2014 fall semester.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Residency \u2014 School Partner"
+          }
+        }
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 12500.0,
+    "TxnDate": "2026-06-15"
+  }
+]

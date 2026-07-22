@@ -1,0 +1,26 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description
+1,Operating Checking,Bank,Checking,5842.5,true,Primary operating account - OnPoint Credit Union
+2,Tournament Reserve,Bank,Savings,1450.0,true,Set aside for tournament expenses and equipment replacement
+3,Membership Income,Income,ServiceFeeIncome,0,true,Monthly membership dues - $95/member
+4,Drop-in Fees,Income,ServiceFeeIncome,0,true,Walk-in class fees - $20/session
+5,Tournament Revenue,Income,ServiceFeeIncome,0,true,Registration fees and spectator entry for tournaments
+6,Equipment Sales,Income,SalesOfProductIncome,0,true,"Gi, shinai, bokken sales to students"
+7,Rent Expense,Expense,RentOrLeaseOfBuildings,0,true,Monthly lease - Westbrook Property Mgmt
+8,Utilities,Expense,Utilities,0,true,Electric + water/sewer
+9,Insurance,Expense,Insurance,0,true,General liability + property - quarterly
+10,Instructor Pay,Expense,PayrollExpenses,0,true,Raj Patel monthly draw
+11,Supplies & Equipment,Expense,SuppliesMaterials,0,true,"Training equipment, cleaning supplies, mat maintenance"
+12,Cleaning Services,Expense,RepairMaintenance,0,true,Willamette Cleaning - bi-weekly
+13,Tournament Expenses,Expense,EntertainmentMeals,0,true,"Mats rental, trophies, referee fees, event costs"
+14,Marketing & Advertising,Expense,Advertising,0,true,"Flyers, social media ads, community board postings"
+201,Beat Sales Revenue,Income,ServiceFeeIncome,0.0,true,Registration fees and spectator entry for tournaments
+202,Streaming Royalties,Income,OtherPrimaryIncome,0.0,true,"Mats rental, trophies, referee fees, event costs"
+203,Consulting Revenue,Income,ServiceFeeIncome,0.0,true,Registration fees and spectator entry for tournaments
+204,Business Checking,Bank,Checking,2850000.0,true,Raj Patel monthly draw
+205,Software Expense,Expense,OtherBusinessExpenses,0.0,true,General liability + property - quarterly
+206,Equipment Expense,Expense,EquipmentRental,0.0,true,Monthly membership dues - $95/member
+207,Studio Expense,Expense,OtherBusinessExpenses,0.0,true,Set aside for tournament expenses and equipment replacement
+208,Marketing Expense,Expense,Advertising,0.0,true,"Mats rental, trophies, referee fees, event costs"
+209,Meals Expense,Expense,Meals,0.0,true,"Training equipment, cleaning supplies, mat maintenance"
+210,Workspace Expense,Expense,OtherBusinessExpenses,0.0,true,"Mats rental, trophies, referee fees, event costs"
+421,Food Cost - Seafood,Expense,CostOfLaborCos,0.0,true,Monthly membership dues - $95/member

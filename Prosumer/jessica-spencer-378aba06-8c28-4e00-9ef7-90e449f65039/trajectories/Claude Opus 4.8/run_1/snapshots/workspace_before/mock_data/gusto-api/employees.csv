@@ -1,0 +1,32 @@
+id,company_id,first_name,last_name,email,department,job_title,rate,payment_unit,flsa_status,start_date,terminated,__api__,__table__,__file__,__row_index__
+emp-9db1b05f,co-0000f7b97211,Morgan,Fisher,morgan.rivera@gmail.com,Engineering,Associate,72000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,0
+emp-3219fe72,co-0000f7b97211,Kevin,Kowalski,kevin.spencer.dev@gmail.com,Operations,Senior associate,96000.0,Year,Exempt,2020-06-15,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,1
+emp-e9e15fcb,co-0000f7b97211,Emma,Ramirez,emma.spencer@gmail.com,Finance,Manager,128000.0,Year,Exempt,2021-01-11,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,2
+emp-10e7420c,co-0000f7b97211,Tyler,Martinez,tyler.spencer@gmail.com,People,Senior manager,158000.0,Year,Exempt,2022-09-19,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,3
+emp-2286b15c,co-0000f7b97211,Diane,Martinez,diane.spencer@yahoo.com,Marketing,Director,195000.0,Year,Exempt,2020-02-03,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,4
+emp-a20539b8,co-0000f7b97211,Natalie,Reeves,natalie@spencerinteriors.com,Design,Senior Designer,82000.0,Year,Exempt,2021-11-08,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,5
+emp-11efe83a,co-0000f7b97211,Sophie,Chen,sophie@spencerinteriors.com,Design,Design Assistant,58000.0,Year,Nonexempt,2022-03-14,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,6
+emp-979e0af2,co-0000f7b97211,Sarah,Collins,sarah@collinscafe.com,Operations,Senior associate,96000.0,Year,Exempt,2023-10-02,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,7
+emp-8bcb5761,co-0000f7b97211,Carlos,Mendez,carlos@mendezbuilders.com,Finance,Manager,128000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,8
+emp-476cff32,co-0000f7b97211,Tom,Hendricks,tom.hendricks@gmail.com,People,Senior manager,158000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,9
+emp-a1f5e177,co-0000f7b97211,Jordan,Avery,jordan.avery@spencerinteriors.com,Engineering,Senior associate,96000.0,Year,Exempt,2019-03-04,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,10
+emp-9db1b05f-v1,co-0000f7b97211,Robin,Torres,alex.thompson@gmail.com,Engineering,Associate,72000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,11
+emp-3219fe72-v2,co-0000f7b97211,Kevin,Martinez,kevin.spencer.dev@gmail.com,Operations,Senior associate,96000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,12
+emp-e9e15fcb-v3,co-0000f7b97211,Emma,Ramirez,emma.spencer@gmail.com,Finance,Manager,128000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,13
+emp-10e7420c-v4,co-0000f7b97211,Tyler,Reed,tyler.spencer@gmail.com,People,Senior manager,158000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,14
+emp-2286b15c-v5,co-0000f7b97211,Diane,Foster,diane.spencer@yahoo.com,Marketing,Director,195000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,15
+emp-a20539b8-v6,co-0000f7b97211,Natalie,Reeves,natalie@spencerinteriors.com,Design,Senior Designer,82000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,16
+emp-11efe83a-v7,co-0000f7b97211,Sophie,Chen,sophie@spencerinteriors.com,Design,Design Assistant,58000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,17
+emp-979e0af2-v8,co-0000f7b97211,Sarah,Collins,sarah@collinscafe.com,Operations,Senior associate,96000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,18
+emp-8bcb5761-v9,co-0000f7b97211,Carlos,Mendez,carlos@mendezbuilders.com,Finance,Manager,128000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,19
+emp-9db1b05f-001,co-0000f7b97211,Sage,Silva,jordan.patel@gmail.com,Engineering,Associate,72000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,20
+emp-3219fe72-001,co-0000f7b97211,Kevin,Thompson,kevin.spencer.dev@gmail.com,Operations,Senior associate,96000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,21
+emp-e9e15fcb-001,co-0000f7b97211,Emma,Reed,emma.spencer@gmail.com,Finance,Manager,128000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,22
+emp-10e7420c-001,co-0000f7b97211,Tyler,Ramirez,tyler.spencer@gmail.com,People,Senior manager,158000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,23
+emp-2286b15c-001,co-0000f7b97211,Diane,Martinez,diane.spencer@yahoo.com,Marketing,Director,195000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,24
+emp-a20539b8-001,co-0000f7b97211,Natalie,Reeves,natalie@spencerinteriors.com,Design,Senior Designer,82000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,25
+emp-11efe83a-001,co-0000f7b97211,Sophie,Chen,sophie@spencerinteriors.com,Design,Design Assistant,58000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,26
+emp-979e0af2-001,co-0000f7b97211,Sarah,Collins,sarah@collinscafe.com,Operations,Senior associate,96000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,27
+emp-8bcb5761-001,co-0000f7b97211,Carlos,Mendez,carlos@mendezbuilders.com,Finance,Manager,128000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,28
+emp-476cff32-v10,co-0000f7b97211,Tom,Hendricks,tom.hendricks@gmail.com,People,Senior manager,158000.0,Year,Exempt,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,29
+emp-a1f5e177-v11,co-0000f7b97211,Jordan,Avery,jordan.avery@spencerinteriors.com,Engineering,Senior associate,96000.0,Year,Exempt,2019-03-04,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,30

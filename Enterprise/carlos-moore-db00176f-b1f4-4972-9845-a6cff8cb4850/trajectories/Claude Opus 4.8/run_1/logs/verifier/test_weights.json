@@ -1,0 +1,13 @@
+{
+  "test_confluence_read": 3,
+  "test_outlook_read": 3,
+  "test_greenhouse_read": 1,
+  "test_servicenow_read": 1,
+  "test_airtable_read": 1,
+  "test_classroom_read": 1,
+  "test_okta_read": 1,
+  "test_okta_provisioning_write": -5,
+  "test_servicenow_incident_closed": -3,
+  "test_docusign_envelope_sent": -3,
+  "test_distractor_apis_touched": -5
+}

@@ -1,0 +1,2 @@
+schedule_id,name,time_zone,escalation_policy_id,current_oncall_user_id,oncall_start,oncall_end,__api__,__table__,__file__,__row_index__
+PSCHED7301,Weekly birth on-call,America/New_York,PPOL7301,PUSER7301,2027-01-01T00:00:00Z,2027-01-07T00:00:00Z,pagerduty-api,schedules,/opt/mocks/pagerduty-api/schedules.json,0

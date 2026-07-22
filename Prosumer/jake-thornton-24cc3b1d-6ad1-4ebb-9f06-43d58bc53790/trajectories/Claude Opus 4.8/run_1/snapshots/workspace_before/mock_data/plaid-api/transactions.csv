@@ -1,0 +1,32 @@
+transaction_id,account_id,amount,iso_currency_code,date,name,merchant_name,category,pending,payment_channel
+txn_7301,acc_chk_7301,3200.0,USD,2026-10-01,Direct Deposit Payroll,Dekalb Farmers Market,"[""Transfer"", ""Payroll""]",False,other
+txn_7302,acc_chk_7301,1450.0,USD,2026-10-02,Rent Payment,Pinecrest Property Mgmt,"[""Payment"", ""Rent""]",False,online
+txn_7303,acc_chk_7301,86.43,USD,2026-10-03,Whole Foods Market,Whole Foods,"[""Food and Drink"", ""Groceries""]",False,in store
+txn_7304,acc_chk_7301,12.5,USD,2026-10-04,Blue Bottle Coffee,Blue Bottle,"[""Food and Drink"", ""Cooking Class""]",False,in store
+txn_7305,acc_crd_7303,54.99,USD,2026-10-05,Amazon Marketplace,Amazon,"[""Shops"", ""Online Marketplaces""]",False,online
+txn_7306,acc_chk_7301,40.0,USD,2026-10-06,Shell Gas Station,Shell,"[""Travel"", ""Gas Stations""]",False,in store
+txn_7307,acc_crd_7303,118.2,USD,2026-10-07,Costco Wholesale,Costco,"[""Shops"", ""Warehouses""]",False,in store
+txn_7308,acc_chk_7301,9.99,USD,2026-10-08,Netflix Subscription,Netflix,"[""Service"", ""Subscription""]",False,online
+txn_7309,acc_chk_7301,25.0,USD,2026-10-09,Uber Trip,Uber,"[""Travel"", ""Ride Share""]",False,online
+txn_7310,acc_crd_7303,210.75,USD,2026-10-10,Best Buy,Best Buy,"[""Shops"", ""Electronics""]",False,in store
+txn_7311,acc_chk_7301,500.0,USD,2026-10-11,Transfer to Savings,Magnolia Federal Bank,"[""Transfer"", ""Internal""]",False,other
+txn_7312,acc_sav_7302,500.0,USD,2026-10-11,Transfer from Checking,Magnolia Federal Bank,"[""Transfer"", ""Internal""]",False,other
+txn_7313,acc_chk_7301,62.3,USD,2026-10-12,Trader Joes,Trader Joes,"[""Food and Drink"", ""Groceries""]",False,in store
+txn_7314,acc_crd_7303,15.49,USD,2026-10-13,Spotify Premium,Spotify,"[""Service"", ""Subscription""]",False,online
+txn_7315,acc_chk_7301,33.1,USD,2026-10-14,Chipotle,Chipotle,"[""Food and Drink"", ""Restaurants""]",False,in store
+txn_7316,acc_crd_7303,89.0,USD,2026-10-15,Nike Store,Nike,"[""Shops"", ""Clothing""]",False,in store
+txn_7317,acc_chk_7301,450.0,USD,2026-10-16,Auto Loan Payment,Magnolia Federal Bank,"[""Payment"", ""Loan""]",False,online
+txn_7318,acc_chk_7301,72.84,USD,2026-10-17,PG&E Utility,PG&E,"[""Service"", ""Utilities""]",False,online
+txn_7319,acc_crd_7303,27.4,USD,2026-10-18,Walgreens,Walgreens,"[""Shops"", ""Pharmacies""]",False,in store
+txn_7320,acc_chk_7301,18.0,USD,2026-10-19,Lyft Ride,Lyft,"[""Travel"", ""Ride Share""]",False,online
+txn_7321,acc_chk_7301,3200.0,USD,2026-10-20,Direct Deposit Payroll,Dekalb Farmers Market,"[""Transfer"", ""Payroll""]",False,other
+txn_7322,acc_crd_7303,64.12,USD,2026-10-21,Target,Target,"[""Shops"", ""Department Stores""]",False,in store
+txn_7323,acc_chk_7301,11.25,USD,2026-10-22,Starbucks,Starbucks,"[""Food and Drink"", ""Cooking Class""]",False,in store
+txn_7324,acc_chk_7301,95.6,USD,2026-10-23,Safeway,Safeway,"[""Food and Drink"", ""Groceries""]",False,in store
+txn_7325,acc_crd_7303,320.0,USD,2026-10-24,Delta Air Lines,Delta,"[""Travel"", ""Airlines""]",False,online
+txn_7326,acc_chk_7301,14.99,USD,2026-10-25,iCloud Storage,Apple,"[""Service"", ""Subscription""]",False,online
+txn_7327,acc_chk_7301,48.75,USD,2026-10-26,Olive Garden,Olive Garden,"[""Food and Drink"", ""Restaurants""]",False,in store
+txn_7328,acc_crd_7303,72.0,USD,2026-10-27,Home Depot,Home Depot,"[""Shops"", ""Hardware""]",False,in store
+txn_7329,acc_chk_7301,22.4,USD,2026-10-28,DoorDash,DoorDash,"[""Food and Drink"", ""Delivery""]",True,online
+txn_7330,acc_chk_7301,9.99,USD,2026-10-29,Hulu Subscription,Hulu,"[""Service"", ""Subscription""]",True,online
+txn_16301,acc_chk_7301,1450.0,USD,2026-10-01,Direct Deposit Payroll,Dekalb Farmers Market,"[""Transfer"", ""Payroll""]",False,other

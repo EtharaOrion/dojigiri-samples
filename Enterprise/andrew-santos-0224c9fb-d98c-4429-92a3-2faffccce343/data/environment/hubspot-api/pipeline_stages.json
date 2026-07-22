@@ -1,0 +1,164 @@
+[
+  {
+    "closed": "false",
+    "display_order": "0",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "0.10",
+    "stage_id": "prospect_research",
+    "stage_label": "Prospect Research"
+  },
+  {
+    "closed": "false",
+    "display_order": "1",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "0.25",
+    "stage_id": "cultivation",
+    "stage_label": "Cultivation"
+  },
+  {
+    "closed": "false",
+    "display_order": "2",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "0.40",
+    "stage_id": "loi_submitted",
+    "stage_label": "LOI Submitted"
+  },
+  {
+    "closed": "false",
+    "display_order": "3",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "0.60",
+    "stage_id": "full_proposal_submitted",
+    "stage_label": "Full Proposal Submitted"
+  },
+  {
+    "closed": "false",
+    "display_order": "4",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "0.80",
+    "stage_id": "site_visit_scheduled",
+    "stage_label": "Site Visit Scheduled"
+  },
+  {
+    "closed": "true",
+    "display_order": "5",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "1.00",
+    "stage_id": "awarded",
+    "stage_label": "Awarded"
+  },
+  {
+    "closed": "true",
+    "display_order": "6",
+    "pipeline_id": "grants",
+    "pipeline_label": "DYAA Grants Pipeline",
+    "probability": "0.00",
+    "stage_id": "declined",
+    "stage_label": "Declined"
+  },
+  {
+    "closed": "false",
+    "display_order": "0",
+    "pipeline_id": "sponsors",
+    "pipeline_label": "DYAA Sponsors Pipeline",
+    "probability": "0.15",
+    "stage_id": "sponsor_lead",
+    "stage_label": "Sponsor Lead"
+  },
+  {
+    "closed": "false",
+    "display_order": "1",
+    "pipeline_id": "sponsors",
+    "pipeline_label": "DYAA Sponsors Pipeline",
+    "probability": "0.35",
+    "stage_id": "sponsor_intro_meeting",
+    "stage_label": "Intro Meeting Held"
+  },
+  {
+    "closed": "false",
+    "display_order": "2",
+    "pipeline_id": "sponsors",
+    "pipeline_label": "DYAA Sponsors Pipeline",
+    "probability": "0.55",
+    "stage_id": "sponsor_proposal_sent",
+    "stage_label": "Sponsor Proposal Sent"
+  },
+  {
+    "closed": "false",
+    "display_order": "3",
+    "pipeline_id": "sponsors",
+    "pipeline_label": "DYAA Sponsors Pipeline",
+    "probability": "0.75",
+    "stage_id": "sponsor_verbal_commit",
+    "stage_label": "Verbal Commitment"
+  },
+  {
+    "closed": "true",
+    "display_order": "4",
+    "pipeline_id": "sponsors",
+    "pipeline_label": "DYAA Sponsors Pipeline",
+    "probability": "1.00",
+    "stage_id": "sponsor_signed",
+    "stage_label": "Agreement Signed"
+  },
+  {
+    "closed": "true",
+    "display_order": "5",
+    "pipeline_id": "sponsors",
+    "pipeline_label": "DYAA Sponsors Pipeline",
+    "probability": "0.00",
+    "stage_id": "sponsor_passed",
+    "stage_label": "Passed"
+  },
+  {
+    "closed": "false",
+    "display_order": "0",
+    "pipeline_id": "major_donors",
+    "pipeline_label": "DYAA Major Donors Pipeline",
+    "probability": "0.10",
+    "stage_id": "donor_identified",
+    "stage_label": "Identified"
+  },
+  {
+    "closed": "false",
+    "display_order": "1",
+    "pipeline_id": "major_donors",
+    "pipeline_label": "DYAA Major Donors Pipeline",
+    "probability": "0.30",
+    "stage_id": "donor_cultivation",
+    "stage_label": "Cultivation"
+  },
+  {
+    "closed": "false",
+    "display_order": "2",
+    "pipeline_id": "major_donors",
+    "pipeline_label": "DYAA Major Donors Pipeline",
+    "probability": "0.60",
+    "stage_id": "donor_ask_made",
+    "stage_label": "Ask Made"
+  },
+  {
+    "closed": "true",
+    "display_order": "3",
+    "pipeline_id": "major_donors",
+    "pipeline_label": "DYAA Major Donors Pipeline",
+    "probability": "1.00",
+    "stage_id": "donor_committed",
+    "stage_label": "Committed"
+  },
+  {
+    "closed": "true",
+    "display_order": "4",
+    "pipeline_id": "major_donors",
+    "pipeline_label": "DYAA Major Donors Pipeline",
+    "probability": "0.00",
+    "stage_id": "donor_declined",
+    "stage_label": "Declined"
+  }
+]

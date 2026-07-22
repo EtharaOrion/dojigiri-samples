@@ -1,0 +1,11 @@
+effective_date,employee_id,flsa_status,id,job_title,payment_unit,rate,__api__,__table__,__file__,__row_index__
+2018-01-15,emp-9db1b05f,Exempt,comp-de1ccc90,Founder & Lead Dermatologist,Year,320000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,0
+2019-02-15,emp-3219fe72,Exempt,comp-eff5214a,Partner Dermatologist,Year,295000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,1
+2020-03-15,emp-e9e15fcb,Exempt,comp-56005632,Nurse Practitioner,Year,128000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,2
+2021-04-15,emp-10e7420c,Exempt,comp-cd0fd500,Nurse Practitioner,Year,122000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,3
+2022-05-15,emp-2286b15c,Exempt,comp-9735e1bc,Office Manager,Year,78000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,4
+2023-06-15,emp-a20539b8,Non-Exempt,comp-d35ba63f,Medical Assistant,Year,46000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,5
+2018-07-15,emp-11efe83a,Non-Exempt,comp-4ccfc23e,Medical Assistant,Year,44000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,6
+2019-08-15,emp-979e0af2,Non-Exempt,comp-bf9803e6,Medical Assistant,Year,43000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,7
+2020-09-15,emp-8bcb5761,Non-Exempt,comp-6bd7921b,Front Desk Coordinator,Year,40000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,8
+2021-10-15,emp-476cff32,Non-Exempt,comp-8a15b705,Front Desk Coordinator,Year,39000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,9

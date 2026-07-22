@@ -1,0 +1,237 @@
+{
+  "label": "before_injection",
+  "ts": 1784375120.9736168,
+  "ts_iso": "2026-07-18T11:45:20Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 1,
+        "records_tblContacts00001": 20,
+        "records_tblProjects00001": 20,
+        "records_tblTasks00000001": 110,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "alpaca-api": {
+      "tables": {
+        "assets": 40,
+        "orders": 36,
+        "positions": 12
+      },
+      "documents": {
+        "account": true,
+        "quotes": true
+      }
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 4,
+        "sections": 16,
+        "tasks": 20,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "binance-api": {
+      "tables": {
+        "balances": 12,
+        "depth": 60,
+        "klines": 64,
+        "prices": 29
+      },
+      "documents": {}
+    },
+    "coinbase-api": {
+      "tables": {
+        "accounts": 6,
+        "prices": 30,
+        "transactions": 25
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "confluence-api": {
+      "tables": {
+        "comments": 3,
+        "labels": 35,
+        "pages": 20,
+        "spaces": 4
+      },
+      "documents": {}
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 20,
+        "envelopes": 30,
+        "recipients": 20,
+        "templates": 4
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 20,
+        "labels": 7,
+        "messages": 125
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 1,
+        "events": 698
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "gusto-api": {
+      "tables": {
+        "compensations": 10,
+        "contractors": 4,
+        "employees": 31,
+        "payrolls": 4
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 1
+      },
+      "documents": {}
+    },
+    "jira-api": {
+      "tables": {
+        "boards": 2,
+        "issues": 20,
+        "projects": 2,
+        "sprints": 2,
+        "users": 34
+      },
+      "documents": {}
+    },
+    "kraken-api": {
+      "tables": {
+        "assets": 16,
+        "balances": 12,
+        "ohlc": 64,
+        "pairs": 15,
+        "tickers": 15
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 115,
+        "comments": 3,
+        "databases": 3,
+        "pages": 20,
+        "users": 2
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 3,
+        "transactions": 49
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 20,
+        "bills": 25,
+        "customers": 20,
+        "estimates": 20,
+        "expenses": 20,
+        "invoices": 105,
+        "items": 20,
+        "payments": 24,
+        "vendors": 20
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 20,
+        "Contact": 20,
+        "Lead": 20,
+        "Opportunity": 20
+      },
+      "documents": {}
+    },
+    "sendgrid-api": {
+      "tables": {
+        "contacts": 20,
+        "lists": 8,
+        "sent_log": 20,
+        "stats": 20,
+        "templates": 5
+      },
+      "documents": {}
+    },
+    "servicenow-api": {
+      "tables": {
+        "changes": 20,
+        "incidents": 32,
+        "problems": 20,
+        "users": 20
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 36,
+        "channels": 20,
+        "messages": 110,
+        "users": 20
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "square-api": {
+      "tables": {
+        "catalog": 20,
+        "customers": 20,
+        "inventory": 20,
+        "orders": 110,
+        "payments": 30,
+        "refunds": 0
+      },
+      "documents": {
+        "merchant": true
+      }
+    },
+    "zillow-api": {
+      "tables": {
+        "agents": 3,
+        "price_history": 50,
+        "properties": 25,
+        "saved_searches": 2
+      },
+      "documents": {}
+    }
+  }
+}

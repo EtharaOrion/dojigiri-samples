@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item-daniel-brooks",
+    "institution_id": "ins-daniel-brooks",
+    "webhook": "https://hooks.gulfcoastballet.org/plaid",
+    "available_products": [
+      "balance",
+      "identity",
+      "auth"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "consent_expiration_time": "2026-01-25T13:15:00-06:00",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins-daniel-brooks",
+    "name": "Truist Bank",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.truist.com",
+    "primary_color": "#4e2a84",
+    "routing_numbers": [
+      "063107513"
+    ]
+  }
+}

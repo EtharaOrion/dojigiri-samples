@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "GP7rWkRb1ICCRz1i9SrGfS7Cli5kbh",
+    "institution_id": "ins_cornerstone_online",
+    "webhook": "https://webhooks.finthesiss.ai/plaid",
+    "available_products": [
+      "balance",
+      "identity",
+      "auth"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "consent_expiration_time": "2027-01-15T09:00:00-06:00",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_cornerstone_online",
+    "name": "Cornerstone Online Bank",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.cornerstoneonlinebank.com",
+    "primary_color": "#0b5e3b",
+    "routing_numbers": [
+      "064209174"
+    ]
+  }
+}

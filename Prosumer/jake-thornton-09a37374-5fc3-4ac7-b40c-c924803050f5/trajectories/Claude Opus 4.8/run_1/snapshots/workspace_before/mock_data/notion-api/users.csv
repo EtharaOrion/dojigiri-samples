@@ -1,0 +1,5 @@
+id,name,email,avatar_url,type,bot,owner_workspace,created_time,__api__,__table__,__file__,__row_index__
+uea790e4a248dab6ac4b6ae1854463c7307,Jake Thornton,jake.thornton@greenrider.co,https://notion.so/avatars/uea790e4.png,person,False,workspace-magnolia-labs,2026-03-01T10:00:00+00:00,notion-api,users,/opt/mocks/notion-api/users.json,0
+uea790e4a248dab6ac4b6ae1854463c7308,Dr. Sofia Ramirez,sofia.ramirez@gmail.com,https://notion.so/avatars/854463c8.png,person,False,workspace-magnolia-labs,2026-03-04T11:30:00+00:00,notion-api,users,/opt/mocks/notion-api/users.json,1
+uea790e4a248dab6ac4b6ae1854463c7309,Brianna Cole,brianna.cole@gmail.com,https://notion.so/avatars/854463c9.png,person,False,workspace-magnolia-labs,2026-03-12T14:20:00+00:00,notion-api,users,/opt/mocks/notion-api/users.json,2
+3b44cd3b08d129ca91cb9fc5ee0c745a,Magnolia Women's Health Integrations,brianna.cole@gmail.com,https://notion.so/avatars/854463ca.png,bot,True,workspace-magnolia-labs,2025-10-02T09:10:00+00:00,notion-api,users,/opt/mocks/notion-api/users.json,3

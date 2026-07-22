@@ -1,0 +1,502 @@
+body,cc_addr,date,from_addr,id,internal_date,is_starred,is_unread,labels,size_estimate,snippet,subject,thread_id,to_addr,__api__,__table__,__file__,__row_index__
+"Hey, just checking in — how's that big project going at work? You haven't mentioned it much this week and I know the deadline was coming up soon. Hope things aren't too stressful!
+
+Lisa",,2026-03-30T00:00:00+00:00,lisa.brooks@gmail.com,msg-10000,1774828800000,True,True,"[""INBOX""]",370,"Hey, just checking in — how's that big project going at work? You haven't mentio...",Project update,thr-100,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,0
+"Hey! Sorry, it's been a hectic few days. We submitted the first milestone yesterday and the client seemed really happy with the direction. Still a few weeks until the full rollout, but we're on track and I'm feeling good about it.
+
+I'll tell you more over dinner tonight!
+
+Daniel",claire.nguyen@gulfcoastballet.org,2026-03-30T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10001,1774843200000,False,False,"[""SENT""]",558,"Hey! Sorry, it's been a hectic few days. We submitted the first milestone yester...",Re: Project update,thr-100,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,1
+"Dan, are you going to be home late on Thursday? I remember you mentioning a team meeting and I'm trying to figure out whether to plan dinner for all of us or just feed the kids earlier.
+
+Also, do you need any help prepping anything for it?
+
+Lisa",lisa.brooks@gmail.com,2026-03-28T00:00:00+00:00,lisa.brooks@gmail.com,msg-10100,1774656000000,False,True,"[""INBOX""]",490,"Dan, are you going to be home late on Thursday? I remember you mentioning a team...",Team meeting Thursday,thr-101,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,2
+"The meeting is at 3pm so I should be out of the office by 5:30 at the latest — home by 6:15 or so. Go ahead and plan dinner for all of us!
+
+The agenda is mostly the Q3 roadmap review and some resource planning. Nothing too intense. I'll prep my talking points Wednesday night after the kids are in bed.
+
+Daniel",daniela@danielareyesphoto.com,2026-03-28T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10101,1774670400000,False,False,"[""SENT""]",620,The meeting is at 3pm so I should be out of the office by 5:30 at the latest — h...,Re: Team meeting Thursday,thr-101,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,3
+"Perfect, I'll aim for dinner around 6:45 then, gives you a buffer in case it runs a little long.
+
+Good luck with the roadmap stuff — I hope it goes smoothly!
+
+Lisa",accounts@gulfcoastballet.org,2026-03-28T08:00:00+00:00,lisa.brooks@gmail.com,msg-10102,1774684800000,False,False,"[""INBOX""]",326,"Perfect, I'll aim for dinner around 6:45 then, gives you a buffer in case it run...",Re: Team meeting Thursday,thr-101,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,4
+"Hi Daniel, our monthly 1:1 is coming up this Friday at 2pm. Before we meet, I'd love for you to put together a short summary of where things stand on your current projects and flag anything that's blocked or needs my input.
+
+Also, if there are any career development topics you'd like to discuss, feel free to add those to the agenda — happy to make time for that conversation.
+
+Claire",phargrove@hargrovelaw.com,2026-03-26T00:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-10200,1774483200000,False,True,"[""INBOX""]",770,"Hi Daniel, our monthly 1:1 is coming up this Friday at 2pm. Before we meet, I'd ...",Manager 1:1 prep,thr-102,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,5
+"Hi Claire, thanks for the heads-up! I'll put together a brief status overview covering the client portal work and the internal dashboard project. Both are tracking well, though I do have a question about resource allocation for Q4 that I'd like your guidance on.
+
+On the development side, I've also been thinking about potentially stepping into a tech lead role and would love to get your perspective on that. Looking forward to Friday.
+
+Daniel",margaret.brooks@yahoo.com,2026-03-26T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10201,1774497600000,False,False,"[""SENT""]",888,"Hi Claire, thanks for the heads-up! I'll put together a brief status overview co...",Re: Manager 1:1 prep,thr-102,claire.nguyen@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,6
+"Great, that all sounds like a productive agenda. The tech lead conversation is definitely worth having — I've actually had similar thoughts, so good timing on your end.
+
+Could you send the status overview by Thursday EOD so I can review before we meet? That way we can skip the status updates in the meeting and focus on the strategic items.
+
+Claire",lisa.brooks@gmail.com,2026-03-26T08:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-10202,1774512000000,False,False,"[""INBOX""]",698,"Great, that all sounds like a productive agenda. The tech lead conversation is d...",Re: Manager 1:1 prep,thr-102,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,7
+"Absolutely, I'll have it to you by 5pm Thursday. I'll keep it tight — one page with current status, any blockers, and next steps for each workstream.
+
+See you Friday!
+
+Daniel",daniela@danielareyesphoto.com,2026-03-26T12:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10203,1774526400000,False,False,"[""SENT""]",348,"Absolutely, I'll have it to you by 5pm Thursday. I'll keep it tight — one page w...",Re: Manager 1:1 prep,thr-102,claire.nguyen@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,8
+"Dan, did you ever complete that mandatory compliance training HR sent out a few weeks ago? I remember you mentioning it and then never hearing another word about it. I think the deadline is end of the month?
+
+Just didn't want it sneaking up on you!
+
+Lisa",events@gulfcoastballet.org,2026-03-24T00:00:00+00:00,lisa.brooks@gmail.com,msg-10300,1774310400000,False,True,"[""INBOX""]",508,"Dan, did you ever complete that mandatory compliance training HR sent out a few ...",Training reminder,thr-103,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,9
+"Ugh, you're right — I've been putting it off. It's the annual cybersecurity awareness training, takes about an hour to get through. I need to just sit down and knock it out this week.
+
+Thanks for the nudge. Genuinely not sure what I'd do without you keeping track of this stuff.
+
+Daniel",j.rivera@briarwoodcc.com,2026-03-24T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10301,1774324800000,False,False,"[""SENT""]",572,"Ugh, you're right — I've been putting it off. It's the annual cybersecurity awar...",Re: Training reminder,thr-103,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,10
+"Ha, you'd probably miss every deadline you have! There are only about eight days left in the month, so don't wait too long.
+
+Could you just do it tonight maybe? Kids are in bed by 8:30 and then you'd have it off your plate.
+
+Lisa",boxoffice@gulfcoastballet.org,2026-03-24T08:00:00+00:00,lisa.brooks@gmail.com,msg-10302,1774339200000,False,False,"[""INBOX""]",458,"Ha, you'd probably miss every deadline you have! There are only about eight days...",Re: Training reminder,thr-103,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,11
+"That's actually a great idea. I just looked it up and it's only 45 minutes this year, which is shorter than I remembered. I'll do it tonight after bedtime routine.
+
+I'll let you know when I'm done — maybe we can watch something after.
+
+Daniel",boxoffice@gulfcoastballet.org,2026-03-24T12:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10303,1774353600000,False,False,"[""SENT""]",484,That's actually a great idea. I just looked it up and it's only 45 minutes this ...,Re: Training reminder,thr-103,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,12
+"Love that plan. I'll find something for us to watch. And when you finish, make sure you screenshot or save the completion confirmation — HR always asks for proof and then loses track of it.
+
+Good luck on the cybersecurity quiz, haha.
+
+Lisa",margaret.brooks@yahoo.com,2026-03-24T16:00:00+00:00,lisa.brooks@gmail.com,msg-10304,1774368000000,False,False,"[""INBOX""]",478,"Love that plan. I'll find something for us to watch. And when you finish, make s...",Re: Training reminder,thr-103,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,13
+"Hey! Any chance you're free for lunch one day this week? I'll be downtown Wednesday and Thursday for a few errands and thought it might be nice to grab a bite together if your schedule allows.
+
+Let me know what works!
+
+Lisa",j.rivera@briarwoodcc.com,2026-03-22T00:00:00+00:00,lisa.brooks@gmail.com,msg-10400,1774137600000,False,True,"[""INBOX""]",446,Hey! Any chance you're free for lunch one day this week? I'll be downtown Wednes...,Lunch this week?,thr-104,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,14
+"Wednesday works great — I have a meeting at 11 that should wrap up by noon. Want to meet at that Thai place on 5th? They do good weekday specials and it's close to where you'd be running errands.
+
+Around 12:15?
+
+Daniel",phargrove@hargrovelaw.com,2026-03-22T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10401,1774152000000,False,False,"[""SENT""]",436,Wednesday works great — I have a meeting at 11 that should wrap up by noon. Want...,Re: Lunch this week?,thr-104,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,15
+"Hi Dan, I have a dentist appointment Tuesday morning and the office is just a few blocks from yours. Any chance you'd be free for a quick coffee after — maybe around 10:30?
+
+Would be nice to see your face in the middle of the week for once!
+
+Lisa",,2026-03-20T00:00:00+00:00,lisa.brooks@gmail.com,msg-10500,1773964800000,False,True,"[""INBOX""]",492,"Hi Dan, I have a dentist appointment Tuesday morning and the office is just a fe...",Coffee next Tuesday?,thr-105,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,16
+"Yes! Tuesday morning is pretty open for me — just a 9am standup and then I'm free until noon. 10:30 works perfectly.
+
+Should we try that little café on the corner of Market and 3rd? They do a great flat white and it's never too crowded mid-morning.
+
+Daniel",mwebb@webbenergygroup.com,2026-03-20T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10501,1773979200000,False,False,"[""SENT""]",512,Yes! Tuesday morning is pretty open for me — just a 9am standup and then I'm fre...,Re: Coffee next Tuesday?,thr-105,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,17
+"Perfect, that café is lovely! I'll head straight over from the dentist. I might be a few minutes late depending on how long the appointment runs, so grab a table and I'll find you.
+
+Can't wait — see you Tuesday!
+
+Lisa",claire.nguyen@gulfcoastballet.org,2026-03-20T08:00:00+00:00,lisa.brooks@gmail.com,msg-10502,1773993600000,False,False,"[""INBOX""]",434,"Perfect, that café is lovely! I'll head straight over from the dentist. I might ...",Re: Coffee next Tuesday?,thr-105,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,18
+"Hey! Mom's birthday is on the 12th and I was thinking we could host a brunch at our place — nothing too elaborate, just close family. Maybe start around 11am? I'm thinking eggs, pastries, fruit, and mimosas for the adults.
+
+Does that work with your schedule that day?
+
+Lisa",mwebb@webbenergygroup.com,2026-03-18T00:00:00+00:00,lisa.brooks@gmail.com,msg-10600,1773792000000,False,True,"[""INBOX""]",546,Hey! Mom's birthday is on the 12th and I was thinking we could host a brunch at ...,Birthday brunch plans,thr-106,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,19
+"That sounds like a great plan! The 12th works for me, I'll keep the morning free. I'm happy to handle the eggs if you want to take care of pastries and maybe some flowers for the table?
+
+Should we invite your brother Tom and his family too?
+
+Daniel",mwebb@webbenergygroup.com,2026-03-18T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10601,1773806400000,False,False,"[""SENT""]",496,"That sounds like a great plan! The 12th works for me, I'll keep the morning free...",Re: Birthday brunch plans,thr-106,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,20
+"Yes, let's definitely include Tom and his family! I'll text him today. And yes please on the eggs — could you do that baked egg dish with the tomatoes and feta? Mom always raves about it.
+
+I'll also order a small cake from the bakery on Elm Street.
+
+Lisa",info@gulfcoastballet.org,2026-03-18T08:00:00+00:00,lisa.brooks@gmail.com,msg-10602,1773820800000,False,False,"[""INBOX""]",508,"Yes, let's definitely include Tom and his family! I'll text him today. And yes p...",Re: Birthday brunch plans,thr-106,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,21
+"The baked eggs it is! I'll do a double batch so there's plenty to go around. Should we ask anyone to bring something, or are we just handling everything ourselves?
+
+Also — did you want to do a joint gift for her or go separately this year?
+
+Daniel",company@gulfcoastballet.org,2026-03-18T12:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10603,1773835200000,False,False,"[""SENT""]",494,The baked eggs it is! I'll do a double batch so there's plenty to go around. Sho...,Re: Birthday brunch plans,thr-106,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,22
+"Hey, I got a renewal notice from our streaming bundle service today — our annual plan is up next month and the price is going up about $8/month. I'm wondering if we're actually using everything included or if we could drop to a lower tier and offset the increase.
+
+Do you have time to go through it with me this weekend?
+
+Lisa",marcus.dubois.music@gmail.com,2026-03-16T00:00:00+00:00,lisa.brooks@gmail.com,msg-10700,1773619200000,False,True,"[""INBOX""]",652,"Hey, I got a renewal notice from our streaming bundle service today — our annual...",Renewal options,thr-107,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,23
+"Yeah, $8/month is $96 a year, which adds up. I honestly can't even remember what's all included in that bundle — I have a feeling there are two or three services we never touch. If we can downgrade and still keep the things we actually use, that seems like the smart move.
+
+Saturday morning works for me. Want to do it over coffee?
+
+Daniel",j.rivera@briarwoodcc.com,2026-03-16T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10701,1773633600000,False,False,"[""SENT""]",678,"Yeah, $8/month is $96 a year, which adds up. I honestly can't even remember what...",Re: Renewal options,thr-107,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,24
+"Saturday morning coffee sounds perfect. I'll pull up the account and have all the tier options ready so we can compare side by side. There's also a 2-year lock-in offer at the current rate if we commit before the renewal — not sure if that's worth it.
+
+Lisa",development@gulfcoastballet.org,2026-03-16T08:00:00+00:00,lisa.brooks@gmail.com,msg-10702,1773648000000,False,False,"[""INBOX""]",514,Saturday morning coffee sounds perfect. I'll pull up the account and have all th...,Re: Renewal options,thr-107,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,25
+"A lock-in is tempting if we're keeping it, but I'm hesitant to commit two years before we even know what we're using. Let's audit the services first and then decide. If we're only actively using half of what's in the bundle, the lock-in doesn't make sense.
+
+See you Saturday.
+
+Daniel",boxoffice@gulfcoastballet.org,2026-03-16T12:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10703,1773662400000,False,False,"[""SENT""]",566,"A lock-in is tempting if we're keeping it, but I'm hesitant to commit two years ...",Re: Renewal options,thr-107,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,26
+"Agreed, that's the sensible approach. I'll also take a quick look at whether any competitors offer a similar bundle for less, just so we have something to compare against before making a decision.
+
+Okay, Saturday it is. I'll make the coffee!
+
+Lisa",margaret.brooks@yahoo.com,2026-03-16T16:00:00+00:00,lisa.brooks@gmail.com,msg-10704,1773676800000,False,False,"[""INBOX""]",494,"Agreed, that's the sensible approach. I'll also take a quick look at whether any...",Re: Renewal options,thr-107,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,27
+"Dan, I was reviewing the joint account statement and noticed a charge for $340 from a company called ""BlueRidge Supplies"" that posted last Thursday. I don't recognize it at all — is it possible this is a work expense that got charged to the wrong card?
+
+Want to figure out if we need to dispute it before too much time passes.
+
+Lisa",events@gulfcoastballet.org,2026-03-14T00:00:00+00:00,lisa.brooks@gmail.com,msg-10800,1773446400000,False,True,"[""INBOX""]",664,"Dan, I was reviewing the joint account statement and noticed a charge for $340 f...",Vendor invoice question,thr-108,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,28
+"That doesn't ring a bell for me either — I don't have any work expenses charged to the joint account. I'd call the bank and ask for the full merchant details, because sometimes the name on the statement is different from what you'd recognize.
+
+If it's still unfamiliar after that, let's flag it as potentially fraudulent. I'll also check my email for any purchase confirmations just in case I ordered something and forgot about it.
+
+Daniel",daniela@danielareyesphoto.com,2026-03-14T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10801,1773460800000,False,False,"[""SENT""]",878,That doesn't ring a bell for me either — I don't have any work expenses charged ...,Re: Vendor invoice question,thr-108,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,29
+"Hey, the lease renewal notice came from our landlord today. Our current lease ends August 31st and they're offering two options: a 12-month renewal at a 4% rent increase, or month-to-month at a 10% increase.
+
+We have to respond by July 15th. Can we sit down and talk through this sometime this week?
+
+Lisa",mwebb@webbenergygroup.com,2026-03-12T00:00:00+00:00,lisa.brooks@gmail.com,msg-10900,1773273600000,False,True,"[""INBOX""]",610,"Hey, the lease renewal notice came from our landlord today. Our current lease en...",Apartment lease renewal,thr-109,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,30
+"Good timing actually — I've been thinking lately about whether we should start seriously looking at buying in the next year. The 4% on a 12-month isn't terrible, but if buying is on the table, month-to-month gives us flexibility even if it costs more in the short run.
+
+How about Thursday evening? I can put together some rough numbers on buying versus renting so we have something concrete to look at.
+
+Daniel",company@gulfcoastballet.org,2026-03-12T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-10901,1773288000000,False,False,"[""SENT""]",820,Good timing actually — I've been thinking lately about whether we should start s...,Re: Apartment lease renewal,thr-109,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,31
+"Thursday works perfectly. I've been having the same thought about buying — the market seems to be cooling a bit and it might be worth exploring. The month-to-month premium is steep though, so let's see what the numbers look like before deciding.
+
+I'll have the full lease document printed out for Thursday. This feels like a big one!
+
+Lisa",info@gulfcoastballet.org,2026-03-12T08:00:00+00:00,lisa.brooks@gmail.com,msg-10902,1773302400000,False,False,"[""INBOX""]",678,Thursday works perfectly. I've been having the same thought about buying — the m...,Re: Apartment lease renewal,thr-109,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,32
+"Hey! I went through a few newsletters this week and found some articles I immediately thought of you for. There's a really interesting piece on remote work productivity patterns and another one on how cities are rethinking public transit for hybrid commuters.
+
+I'll send you the links when I'm at my laptop later!
+
+Lisa",info@gulfcoastballet.org,2026-03-10T00:00:00+00:00,lisa.brooks@gmail.com,msg-11000,1773100800000,False,True,"[""INBOX""]",638,Hey! I went through a few newsletters this week and found some articles I immedi...,Newsletter — this week's reads,thr-110,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,33
+"Oh, the transit one sounds right up my alley — definitely send it over. I've been kind of obsessed with urban planning stuff lately, especially after that podcast episode on the drive to the cabin.
+
+Anything else good in the roundup this week?
+
+Daniel",boxoffice@gulfcoastballet.org,2026-03-10T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-11001,1773115200000,False,False,"[""SENT""]",502,"Oh, the transit one sounds right up my alley — definitely send it over. I've bee...",Re: Newsletter — this week's reads,thr-110,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,34
+"There's also a short piece on the science of napping (extremely relevant for you, haha) and a longer essay on how social media has been reshaping local journalism. The last one is a bit dense but really well argued — worth the read.
+
+I'll compile everything into one link list and send it tonight.
+
+Lisa",events@gulfcoastballet.org,2026-03-10T08:00:00+00:00,lisa.brooks@gmail.com,msg-11002,1773129600000,False,False,"[""INBOX""]",606,There's also a short piece on the science of napping (extremely relevant for you...,Re: Newsletter — this week's reads,thr-110,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,35
+"The journalism essay sounds great — I've been curious about that topic. Maybe we should make this a regular thing? We each share what we've been reading during the week and swap a little roundup on Sundays or something.
+
+Looking forward to the links!
+
+Daniel",,2026-03-10T12:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-11003,1773144000000,False,False,"[""SENT""]",516,The journalism essay sounds great — I've been curious about that topic. Maybe we...,Re: Newsletter — this week's reads,thr-110,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,36
+"Hey, I have a scheduling conflict Thursday — my dentist appointment got moved to 3:30 and there's no way I'll make it to school pickup at 3:15. Is there any way you could handle pickup that afternoon?
+
+Also, Emma has soccer practice right after school so she needs to go straight to the field.
+
+Lisa",margaret.brooks@yahoo.com,2026-03-08T00:00:00+00:00,lisa.brooks@gmail.com,msg-11100,1772928000000,False,True,"[""INBOX""]",598,"Hey, I have a scheduling conflict Thursday — my dentist appointment got moved to...",Schedule check — kids pickup,thr-111,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,37
+"I can cover Thursday pickup — my last meeting wraps at 2pm so I'll head out in plenty of time. I'll grab both kids and take Emma straight to the soccer field, then bring Jack home.
+
+What time does practice end? Do I need to go back for Emma or will you be done by then?
+
+Daniel",boxoffice@gulfcoastballet.org,2026-03-08T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-11101,1772942400000,False,False,"[""SENT""]",554,I can cover Thursday pickup — my last meeting wraps at 2pm so I'll head out in p...,Re: Schedule check — kids pickup,thr-111,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,38
+"Practice ends at 5pm. I'm hoping my appointment will be done by then and I can get her — I'll text you as soon as I'm out of the dentist. But if you don't hear from me by 4:45, please assume you're doing the pickup.
+
+Also, there are snacks in the blue bin in the kitchen pantry for after school. Jack will be starving.
+
+Lisa",marcus.dubois.music@gmail.com,2026-03-08T08:00:00+00:00,lisa.brooks@gmail.com,msg-11102,1772956800000,False,False,"[""INBOX""]",648,Practice ends at 5pm. I'm hoping my appointment will be done by then and I can g...,Re: Schedule check — kids pickup,thr-111,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,39
+"Got it — I'll plan to do the 5pm soccer pickup unless you text me otherwise. And I'll grab the snacks from the blue bin for Jack, he's always ravenous after school.
+
+Hope the dentist appointment is quick and uneventful!
+
+Daniel",claire.nguyen@gulfcoastballet.org,2026-03-08T12:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-11103,1772971200000,False,False,"[""SENT""]",454,Got it — I'll plan to do the 5pm soccer pickup unless you text me otherwise. And...,Re: Schedule check — kids pickup,thr-111,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,40
+"You're a lifesaver, thank you! I'll text the moment I'm out. Fingers crossed there's nothing that needs extra work or I'll be in that chair for ages.
+
+Oh — one more thing. Jack has a library book due Friday, can you remind him when you pick him up?
+
+Lisa",accounts@gulfcoastballet.org,2026-03-08T16:00:00+00:00,lisa.brooks@gmail.com,msg-11104,1772985600000,False,False,"[""INBOX""]",508,"You're a lifesaver, thank you! I'll text the moment I'm out. Fingers crossed the...",Re: Schedule check — kids pickup,thr-111,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,41
+"Hey! I've been doing some research for our summer trip and found a rental house in the Outer Banks that's available the week of August 18th. It sleeps eight, so there's even room for your parents if they'd want to join. It's right on the beach and looks absolutely gorgeous.
+
+Want me to send you the listing to take a look?
+
+Lisa",boxoffice@gulfcoastballet.org,2026-03-06T00:00:00+00:00,lisa.brooks@gmail.com,msg-11200,1772755200000,False,True,"[""INBOX""]",658,Hey! I've been doing some research for our summer trip and found a rental house ...,Family vacation planning,thr-112,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,42
+"Yes, send it over! The Outer Banks sounds perfect — great for the kids and easy enough for everyone. I'll check with my parents to see if that week is open for them; I think Dad mentioned a golf trip in August but I'm not sure of the dates.
+
+What's the rough cost for the week? If the price is reasonable and my parents can make it, let's lock it in.
+
+Daniel",margaret.brooks@yahoo.com,2026-03-06T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-11201,1772769600000,False,False,"[""SENT""]",716,"Yes, send it over! The Outer Banks sounds perfect — great for the kids and easy ...",Re: Family vacation planning,thr-112,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,43
+"Hey, do we have anything set for this weekend? I was thinking it would be nice to take the kids to the nature trail by the reservoir on Saturday if the weather cooperates. They haven't been in a while and it would burn off some energy.
+
+Sunday we have Tom's barbecue of course.
+
+Lisa",boxoffice@gulfcoastballet.org,2026-03-04T00:00:00+00:00,lisa.brooks@gmail.com,msg-11300,1772582400000,False,True,"[""INBOX""]",566,"Hey, do we have anything set for this weekend? I was thinking it would be nice t...",Weekend plans,thr-113,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,44
+"Nothing locked in on Saturday yet — the reservoir trail sounds great! We could pack a picnic lunch and make a proper half-day of it. Maybe leave around 10am before it gets too warm?
+
+And yes, Tom's barbecue Sunday — should we bring anything?
+
+Daniel",j.rivera@briarwoodcc.com,2026-03-04T04:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-11301,1772596800000,False,False,"[""SENT""]",498,Nothing locked in on Saturday yet — the reservoir trail sounds great! We could p...,Re: Weekend plans,thr-113,lisa.brooks@gmail.com,gmail-api,messages,/opt/mocks/gmail-api/messages.json,45
+"10am is perfect! I'll pack sandwiches and some fruit, and we should definitely bring the frisbee.
+
+For Tom's I was thinking you could make that pasta salad — everyone always asks for it. Let me know if you want me to grab ingredients when I go shopping Friday.
+
+Lisa",daniela@danielareyesphoto.com,2026-03-04T08:00:00+00:00,lisa.brooks@gmail.com,msg-11302,1772611200000,False,False,"[""INBOX""]",532,"10am is perfect! I'll pack sandwiches and some fruit, and we should definitely b...",Re: Weekend plans,thr-113,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,46
+"Daniel, ahead of the next board meeting I'd like your read on silent auction lot descriptions. Let's align before Thursday.
+
+Marcus",,2025-09-02T09:00:00+00:00,mwebb@webbenergygroup.com,msg-20000,1756803600000,True,True,"[""INBOX""]",360,"Daniel, ahead of the next board meeting I'd like your read on silent auction l...",Board follow-up — silent auction lot descriptions (2025-09-02),thr-2000,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,47
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-09-04T10:00:00+00:00,phargrove@hargrovelaw.com,msg-20001,1756980000000,False,False,"[""INBOX""]",367,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2025-09-04),thr-2001,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,48
+"Hi Daniel, confirming details on sponsor logo placement in the program for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-09-06T11:00:00+00:00,events@houstonian.com,msg-20002,1757156400000,False,False,"[""INBOX""]",374,"Hi Daniel, confirming details on sponsor logo placement in the program for An ...",Houstonian ballroom — sponsor logo placement in the program (2025-09-06),thr-2002,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,49
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged musicality in the adagio for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-09-08T12:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20003,1757332800000,False,True,"[""INBOX""]",381,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged musicality in ...","Rehearsal schedule — Don Quixote, week of 2025-09-08",thr-2003,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,50
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-09-10T13:00:00+00:00,lisa.brooks@gmail.com,msg-20004,1757509200000,False,False,"[""INBOX""]",388,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-09-10),thr-2004,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,51
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-09-12T14:00:00+00:00,grants@acfoundation.org,msg-20005,1757685600000,True,False,"[""INBOX""]",395,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-09-12),thr-2005,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,52
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-09-14T15:00:00+00:00,marcus.dubois.music@gmail.com,msg-20006,1757862000000,False,True,"[""INBOX""]",402,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-09-14),thr-2006,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,53
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-09-16T16:00:00+00:00,no-reply@metopera.org,msg-20007,1758038400000,False,False,"[""INBOX""]",409,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-09-16),thr-2007,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,54
+"Daniel, ahead of the next board meeting I'd like your read on the live-auction script. Let's align before Thursday.
+
+Marcus",,2025-09-18T17:00:00+00:00,mwebb@webbenergygroup.com,msg-20008,1758214800000,False,False,"[""INBOX""]",416,"Daniel, ahead of the next board meeting I'd like your read on the live-auction...",Board follow-up — the live-auction script (2025-09-18),thr-2008,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,55
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-09-20T09:00:00+00:00,phargrove@hargrovelaw.com,msg-20009,1758358800000,False,True,"[""INBOX""]",423,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2025-09-20),thr-2009,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,56
+"Hi Daniel, confirming details on the donor recognition wall for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-09-22T10:00:00+00:00,events@houstonian.com,msg-20010,1758535200000,True,False,"[""INBOX""]",430,"Hi Daniel, confirming details on the donor recognition wall for An Evening of ...",Houstonian ballroom — the donor recognition wall (2025-09-22),thr-2010,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,57
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged the wilis' arabesques for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-09-24T11:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20011,1758711600000,False,False,"[""INBOX""]",437,"Daniel, the Paquita rehearsal block is set. Tatiana flagged the wilis' arabesq...","Rehearsal schedule — Paquita, week of 2025-09-24",thr-2011,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,58
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-09-26T12:00:00+00:00,lisa.brooks@gmail.com,msg-20012,1758888000000,False,True,"[""INBOX""]",444,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-09-26),thr-2012,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,59
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-09-28T13:00:00+00:00,grants@acfoundation.org,msg-20013,1759064400000,False,False,"[""INBOX""]",451,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-09-28),thr-2013,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,60
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-09-30T14:00:00+00:00,marcus.dubois.music@gmail.com,msg-20014,1759240800000,False,False,"[""INBOX""]",458,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-09-30),thr-2014,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,61
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-10-02T15:00:00+00:00,no-reply@metopera.org,msg-20015,1759417200000,True,True,"[""INBOX""]",465,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-10-02),thr-2015,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,62
+"Daniel, ahead of the next board meeting I'd like your read on the seating chart for tables of ten. Let's align before Thursday.
+
+Marcus",,2025-10-04T16:00:00+00:00,mwebb@webbenergygroup.com,msg-20016,1759593600000,False,False,"[""INBOX""]",472,"Daniel, ahead of the next board meeting I'd like your read on the seating char...",Board follow-up — the seating chart for tables of ten (2025-10-04),thr-2016,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,63
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-10-06T17:00:00+00:00,phargrove@hargrovelaw.com,msg-20017,1759770000000,False,False,"[""INBOX""]",479,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2025-10-06),thr-2017,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,64
+"Hi Daniel, confirming details on the courtyard performance running order for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-10-08T09:00:00+00:00,events@houstonian.com,msg-20018,1759914000000,False,True,"[""INBOX""]",486,"Hi Daniel, confirming details on the courtyard performance running order for A...",Houstonian ballroom — the courtyard performance running order (2025-10-08),thr-2018,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,65
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the Act I pas de deux for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-10-10T10:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20019,1760090400000,False,False,"[""INBOX""]",493,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the Act I pas ...","Rehearsal schedule — Don Quixote, week of 2025-10-10",thr-2019,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,66
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-10-12T11:00:00+00:00,lisa.brooks@gmail.com,msg-20020,1760266800000,True,False,"[""INBOX""]",500,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-10-12),thr-2020,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,67
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-10-14T12:00:00+00:00,grants@acfoundation.org,msg-20021,1760443200000,False,True,"[""INBOX""]",507,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-10-14),thr-2021,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,68
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-10-16T13:00:00+00:00,marcus.dubois.music@gmail.com,msg-20022,1760619600000,False,False,"[""INBOX""]",514,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-10-16),thr-2022,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,69
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-10-18T14:00:00+00:00,no-reply@metopera.org,msg-20023,1760796000000,False,False,"[""INBOX""]",521,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-10-18),thr-2023,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,70
+"Daniel, ahead of the next board meeting I'd like your read on valet and arrival logistics. Let's align before Thursday.
+
+Marcus",,2025-10-20T15:00:00+00:00,mwebb@webbenergygroup.com,msg-20024,1760972400000,False,True,"[""INBOX""]",528,"Daniel, ahead of the next board meeting I'd like your read on valet and arriva...",Board follow-up — valet and arrival logistics (2025-10-20),thr-2024,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,71
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-10-22T16:00:00+00:00,phargrove@hargrovelaw.com,msg-20025,1761148800000,True,False,"[""INBOX""]",535,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2025-10-22),thr-2025,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,72
+"Hi Daniel, confirming details on the stage plot for the ballroom for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-10-24T17:00:00+00:00,events@houstonian.com,msg-20026,1761325200000,False,False,"[""INBOX""]",542,"Hi Daniel, confirming details on the stage plot for the ballroom for An Evenin...",Houstonian ballroom — the stage plot for the ballroom (2025-10-24),thr-2026,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,73
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged the mazurka formations for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-10-26T09:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20027,1761469200000,False,True,"[""INBOX""]",549,"Daniel, the Paquita rehearsal block is set. Tatiana flagged the mazurka format...","Rehearsal schedule — Paquita, week of 2025-10-26",thr-2027,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,74
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-10-28T10:00:00+00:00,lisa.brooks@gmail.com,msg-20028,1761645600000,False,False,"[""INBOX""]",556,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-10-28),thr-2028,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,75
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-10-30T11:00:00+00:00,grants@acfoundation.org,msg-20029,1761822000000,False,False,"[""INBOX""]",563,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-10-30),thr-2029,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,76
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-11-01T12:00:00+00:00,marcus.dubois.music@gmail.com,msg-20030,1761998400000,True,True,"[""INBOX""]",570,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-11-01),thr-2030,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,77
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-11-03T13:00:00+00:00,no-reply@metopera.org,msg-20031,1762174800000,False,False,"[""INBOX""]",577,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-11-03),thr-2031,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,78
+"Daniel, ahead of the next board meeting I'd like your read on sponsor logo placement in the program. Let's align before Thursday.
+
+Marcus",,2025-11-05T14:00:00+00:00,mwebb@webbenergygroup.com,msg-20032,1762351200000,False,False,"[""INBOX""]",584,"Daniel, ahead of the next board meeting I'd like your read on sponsor logo pla...",Board follow-up — sponsor logo placement in the program (2025-11-05),thr-2032,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,79
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-11-07T15:00:00+00:00,phargrove@hargrovelaw.com,msg-20033,1762527600000,False,True,"[""INBOX""]",591,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2025-11-07),thr-2033,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,80
+"Hi Daniel, confirming details on catering headcount with The Houstonian for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-11-09T16:00:00+00:00,events@houstonian.com,msg-20034,1762704000000,False,False,"[""INBOX""]",598,"Hi Daniel, confirming details on catering headcount with The Houstonian for An...",Houstonian ballroom — catering headcount with The Houstonian (2025-11-09),thr-2034,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,81
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the vision scene lifts for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-11-11T17:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20035,1762880400000,True,False,"[""INBOX""]",605,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the vision sce...","Rehearsal schedule — Don Quixote, week of 2025-11-11",thr-2035,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,82
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-11-13T09:00:00+00:00,lisa.brooks@gmail.com,msg-20036,1763024400000,False,True,"[""INBOX""]",612,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-11-13),thr-2036,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,83
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-11-15T10:00:00+00:00,grants@acfoundation.org,msg-20037,1763200800000,False,False,"[""INBOX""]",619,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-11-15),thr-2037,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,84
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-11-17T11:00:00+00:00,marcus.dubois.music@gmail.com,msg-20038,1763377200000,False,False,"[""INBOX""]",626,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-11-17),thr-2038,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,85
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-11-19T12:00:00+00:00,no-reply@metopera.org,msg-20039,1763553600000,False,True,"[""INBOX""]",633,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-11-19),thr-2039,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,86
+"Daniel, ahead of the next board meeting I'd like your read on the donor recognition wall. Let's align before Thursday.
+
+Marcus",,2025-11-21T13:00:00+00:00,mwebb@webbenergygroup.com,msg-20040,1763730000000,True,False,"[""INBOX""]",640,"Daniel, ahead of the next board meeting I'd like your read on the donor recogn...",Board follow-up — the donor recognition wall (2025-11-21),thr-2040,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,87
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-11-23T14:00:00+00:00,phargrove@hargrovelaw.com,msg-20041,1763906400000,False,False,"[""INBOX""]",647,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2025-11-23),thr-2041,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,88
+"Hi Daniel, confirming details on lighting cues for the courtyard set for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-11-25T15:00:00+00:00,events@houstonian.com,msg-20042,1764082800000,False,True,"[""INBOX""]",654,"Hi Daniel, confirming details on lighting cues for the courtyard set for An Ev...",Houstonian ballroom — lighting cues for the courtyard set (2025-11-25),thr-2042,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,89
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged the peasant pas de deux for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-11-27T16:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20043,1764259200000,False,False,"[""INBOX""]",661,"Daniel, the Paquita rehearsal block is set. Tatiana flagged the peasant pas de...","Rehearsal schedule — Paquita, week of 2025-11-27",thr-2043,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,90
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-11-29T17:00:00+00:00,lisa.brooks@gmail.com,msg-20044,1764435600000,False,False,"[""INBOX""]",668,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-11-29),thr-2044,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,91
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-12-01T09:00:00+00:00,grants@acfoundation.org,msg-20045,1764579600000,True,True,"[""INBOX""]",675,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-12-01),thr-2045,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,92
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-12-03T10:00:00+00:00,marcus.dubois.music@gmail.com,msg-20046,1764756000000,False,False,"[""INBOX""]",682,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-12-03),thr-2046,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,93
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-12-05T11:00:00+00:00,no-reply@metopera.org,msg-20047,1764932400000,False,False,"[""INBOX""]",689,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-12-05),thr-2047,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,94
+"Daniel, ahead of the next board meeting I'd like your read on the courtyard performance running order. Let's align before Thursday.
+
+Marcus",,2025-12-07T12:00:00+00:00,mwebb@webbenergygroup.com,msg-20048,1765108800000,False,True,"[""INBOX""]",696,"Daniel, ahead of the next board meeting I'd like your read on the courtyard pe...",Board follow-up — the courtyard performance running order (2025-12-07),thr-2048,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,95
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-12-09T13:00:00+00:00,phargrove@hargrovelaw.com,msg-20049,1765285200000,False,False,"[""INBOX""]",703,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2025-12-09),thr-2049,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,96
+"Hi Daniel, confirming details on invitation copy for the patron list for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-12-11T14:00:00+00:00,events@houstonian.com,msg-20050,1765461600000,True,False,"[""INBOX""]",710,"Hi Daniel, confirming details on invitation copy for the patron list for An Ev...",Houstonian ballroom — invitation copy for the patron list (2025-12-11),thr-2050,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,97
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the male variation allegro for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-12-13T15:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20051,1765638000000,False,True,"[""INBOX""]",717,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the male varia...","Rehearsal schedule — Don Quixote, week of 2025-12-13",thr-2051,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,98
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-12-15T16:00:00+00:00,lisa.brooks@gmail.com,msg-20052,1765814400000,False,False,"[""INBOX""]",724,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-12-15),thr-2052,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,99
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2025-12-17T17:00:00+00:00,grants@acfoundation.org,msg-20053,1765990800000,False,False,"[""INBOX""]",731,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2025-12-17),thr-2053,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,100
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2025-12-19T09:00:00+00:00,marcus.dubois.music@gmail.com,msg-20054,1766134800000,False,True,"[""INBOX""]",738,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2025-12-19),thr-2054,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,101
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2025-12-21T10:00:00+00:00,no-reply@metopera.org,msg-20055,1766311200000,True,False,"[""INBOX""]",745,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2025-12-21),thr-2055,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,102
+"Daniel, ahead of the next board meeting I'd like your read on the stage plot for the ballroom. Let's align before Thursday.
+
+Marcus",,2025-12-23T11:00:00+00:00,mwebb@webbenergygroup.com,msg-20056,1766487600000,False,False,"[""INBOX""]",752,"Daniel, ahead of the next board meeting I'd like your read on the stage plot f...",Board follow-up — the stage plot for the ballroom (2025-12-23),thr-2056,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,103
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2025-12-25T12:00:00+00:00,phargrove@hargrovelaw.com,msg-20057,1766664000000,False,True,"[""INBOX""]",759,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2025-12-25),thr-2057,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,104
+"Hi Daniel, confirming details on the thank-you letter template for gala patrons for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2025-12-27T13:00:00+00:00,events@houstonian.com,msg-20058,1766840400000,False,False,"[""INBOX""]",766,"Hi Daniel, confirming details on the thank-you letter template for gala patron...",Houstonian ballroom — the thank-you letter template for gala patrons (2025-12-27),thr-2058,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,105
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged partnering in the grand pas for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2025-12-29T14:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20059,1767016800000,False,False,"[""INBOX""]",773,"Daniel, the Paquita rehearsal block is set. Tatiana flagged partnering in the ...","Rehearsal schedule — Paquita, week of 2025-12-29",thr-2059,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,106
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2025-12-31T15:00:00+00:00,lisa.brooks@gmail.com,msg-20060,1767193200000,True,True,"[""INBOX""]",780,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2025-12-31),thr-2060,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,107
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-01-02T16:00:00+00:00,grants@acfoundation.org,msg-20061,1767369600000,False,False,"[""INBOX""]",787,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-01-02),thr-2061,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,108
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-01-04T17:00:00+00:00,marcus.dubois.music@gmail.com,msg-20062,1767546000000,False,False,"[""INBOX""]",794,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-01-04),thr-2062,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,109
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-01-06T09:00:00+00:00,no-reply@metopera.org,msg-20063,1767690000000,False,True,"[""INBOX""]",801,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-01-06),thr-2063,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,110
+"Daniel, ahead of the next board meeting I'd like your read on catering headcount with The Houstonian. Let's align before Thursday.
+
+Marcus",,2026-01-08T10:00:00+00:00,mwebb@webbenergygroup.com,msg-20064,1767866400000,False,False,"[""INBOX""]",808,"Daniel, ahead of the next board meeting I'd like your read on catering headcou...",Board follow-up — catering headcount with The Houstonian (2026-01-08),thr-2064,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,111
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-01-10T11:00:00+00:00,phargrove@hargrovelaw.com,msg-20065,1768042800000,True,False,"[""INBOX""]",815,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2026-01-10),thr-2065,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,112
+"Hi Daniel, confirming details on RSVP tracking for the $10,000 tables for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-01-12T12:00:00+00:00,events@houstonian.com,msg-20066,1768219200000,False,True,"[""INBOX""]",822,"Hi Daniel, confirming details on RSVP tracking for the $10,000 tables for An E...","Houstonian ballroom — RSVP tracking for the $10,000 tables (2026-01-12)",thr-2066,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,113
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the finale groupings for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-01-14T13:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20067,1768395600000,False,False,"[""INBOX""]",829,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the finale gro...","Rehearsal schedule — Don Quixote, week of 2026-01-14",thr-2067,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,114
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-01-16T14:00:00+00:00,lisa.brooks@gmail.com,msg-20068,1768572000000,False,False,"[""INBOX""]",836,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-01-16),thr-2068,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,115
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-01-18T15:00:00+00:00,grants@acfoundation.org,msg-20069,1768748400000,False,True,"[""INBOX""]",843,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-01-18),thr-2069,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,116
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-01-20T16:00:00+00:00,marcus.dubois.music@gmail.com,msg-20070,1768924800000,True,False,"[""INBOX""]",850,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-01-20),thr-2070,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,117
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-01-22T17:00:00+00:00,no-reply@metopera.org,msg-20071,1769101200000,False,False,"[""INBOX""]",857,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-01-22),thr-2071,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,118
+"Daniel, ahead of the next board meeting I'd like your read on lighting cues for the courtyard set. Let's align before Thursday.
+
+Marcus",,2026-01-24T09:00:00+00:00,mwebb@webbenergygroup.com,msg-20072,1769245200000,False,True,"[""INBOX""]",864,"Daniel, ahead of the next board meeting I'd like your read on lighting cues fo...",Board follow-up — lighting cues for the courtyard set (2026-01-24),thr-2072,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,119
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-01-26T10:00:00+00:00,phargrove@hargrovelaw.com,msg-20073,1769421600000,False,False,"[""INBOX""]",871,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2026-01-26),thr-2073,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,120
+"Hi Daniel, confirming details on the raffle prize slate for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-01-28T11:00:00+00:00,events@houstonian.com,msg-20074,1769598000000,False,False,"[""INBOX""]",878,"Hi Daniel, confirming details on the raffle prize slate for An Evening of Danc...",Houstonian ballroom — the raffle prize slate (2026-01-28),thr-2074,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,121
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged musicality in the adagio for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-01-30T12:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20075,1769774400000,True,True,"[""INBOX""]",885,"Daniel, the Paquita rehearsal block is set. Tatiana flagged musicality in the ...","Rehearsal schedule — Paquita, week of 2026-01-30",thr-2075,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,122
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-02-01T13:00:00+00:00,lisa.brooks@gmail.com,msg-20076,1769950800000,False,False,"[""INBOX""]",892,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-02-01),thr-2076,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,123
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-02-03T14:00:00+00:00,grants@acfoundation.org,msg-20077,1770127200000,False,False,"[""INBOX""]",899,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-02-03),thr-2077,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,124
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-02-05T15:00:00+00:00,marcus.dubois.music@gmail.com,msg-20078,1770303600000,False,True,"[""INBOX""]",906,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-02-05),thr-2078,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,125
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-02-07T16:00:00+00:00,no-reply@metopera.org,msg-20079,1770480000000,False,False,"[""INBOX""]",913,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-02-07),thr-2079,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,126
+"Daniel, ahead of the next board meeting I'd like your read on invitation copy for the patron list. Let's align before Thursday.
+
+Marcus",,2026-02-09T17:00:00+00:00,mwebb@webbenergygroup.com,msg-20080,1770656400000,True,False,"[""INBOX""]",920,"Daniel, ahead of the next board meeting I'd like your read on invitation copy ...",Board follow-up — invitation copy for the patron list (2026-02-09),thr-2080,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,127
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-02-11T09:00:00+00:00,phargrove@hargrovelaw.com,msg-20081,1770800400000,False,True,"[""INBOX""]",927,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2026-02-11),thr-2081,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,128
+"Hi Daniel, confirming details on the pas de deux casting for the courtyard for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-02-13T10:00:00+00:00,events@houstonian.com,msg-20082,1770976800000,False,False,"[""INBOX""]",934,"Hi Daniel, confirming details on the pas de deux casting for the courtyard for...",Houstonian ballroom — the pas de deux casting for the courtyard (2026-02-13),thr-2082,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,129
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the wilis' arabesques for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-02-15T11:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20083,1771153200000,False,False,"[""INBOX""]",941,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the wilis' ara...","Rehearsal schedule — Don Quixote, week of 2026-02-15",thr-2083,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,130
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-02-17T12:00:00+00:00,lisa.brooks@gmail.com,msg-20084,1771329600000,False,True,"[""INBOX""]",948,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-02-17),thr-2084,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,131
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-02-19T13:00:00+00:00,grants@acfoundation.org,msg-20085,1771506000000,True,False,"[""INBOX""]",955,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-02-19),thr-2085,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,132
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-02-21T14:00:00+00:00,marcus.dubois.music@gmail.com,msg-20086,1771682400000,False,False,"[""INBOX""]",962,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-02-21),thr-2086,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,133
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-02-23T15:00:00+00:00,no-reply@metopera.org,msg-20087,1771858800000,False,True,"[""INBOX""]",969,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-02-23),thr-2087,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,134
+"Daniel, ahead of the next board meeting I'd like your read on the thank-you letter template for gala patrons. Let's align before Thursday.
+
+Marcus",,2026-02-25T16:00:00+00:00,mwebb@webbenergygroup.com,msg-20088,1772035200000,False,False,"[""INBOX""]",976,"Daniel, ahead of the next board meeting I'd like your read on the thank-you le...",Board follow-up — the thank-you letter template for gala patrons (2026-02-25),thr-2088,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,135
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-02-27T17:00:00+00:00,phargrove@hargrovelaw.com,msg-20089,1772211600000,False,False,"[""INBOX""]",983,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2026-02-27),thr-2089,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,136
+"Hi Daniel, confirming details on silent auction lot descriptions for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-03-01T09:00:00+00:00,events@houstonian.com,msg-20090,1772355600000,True,True,"[""INBOX""]",990,"Hi Daniel, confirming details on silent auction lot descriptions for An Evenin...",Houstonian ballroom — silent auction lot descriptions (2026-03-01),thr-2090,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,137
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged the Act I pas de deux for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-03-03T10:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20091,1772532000000,False,False,"[""INBOX""]",997,"Daniel, the Paquita rehearsal block is set. Tatiana flagged the Act I pas de d...","Rehearsal schedule — Paquita, week of 2026-03-03",thr-2091,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,138
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-03-05T11:00:00+00:00,lisa.brooks@gmail.com,msg-20092,1772708400000,False,False,"[""INBOX""]",1004,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-03-05),thr-2092,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,139
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-03-07T12:00:00+00:00,grants@acfoundation.org,msg-20093,1772884800000,False,True,"[""INBOX""]",1011,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-03-07),thr-2093,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,140
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-03-09T13:00:00+00:00,marcus.dubois.music@gmail.com,msg-20094,1773061200000,False,False,"[""INBOX""]",1018,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-03-09),thr-2094,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,141
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-03-11T14:00:00+00:00,no-reply@metopera.org,msg-20095,1773237600000,True,False,"[""INBOX""]",1025,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-03-11),thr-2095,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,142
+"Daniel, ahead of the next board meeting I'd like your read on RSVP tracking for the $10,000 tables. Let's align before Thursday.
+
+Marcus",,2026-03-13T15:00:00+00:00,mwebb@webbenergygroup.com,msg-20096,1773414000000,False,True,"[""INBOX""]",1032,"Daniel, ahead of the next board meeting I'd like your read on RSVP tracking fo...","Board follow-up — RSVP tracking for the $10,000 tables (2026-03-13)",thr-2096,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,143
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-03-15T16:00:00+00:00,phargrove@hargrovelaw.com,msg-20097,1773590400000,False,False,"[""INBOX""]",1039,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2026-03-15),thr-2097,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,144
+"Hi Daniel, confirming details on the live-auction script for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-03-17T17:00:00+00:00,events@houstonian.com,msg-20098,1773766800000,False,False,"[""INBOX""]",1046,"Hi Daniel, confirming details on the live-auction script for An Evening of Dan...",Houstonian ballroom — the live-auction script (2026-03-17),thr-2098,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,145
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the mazurka formations for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-03-19T09:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20099,1773910800000,False,True,"[""INBOX""]",1053,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the mazurka fo...","Rehearsal schedule — Don Quixote, week of 2026-03-19",thr-2099,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,146
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-03-21T10:00:00+00:00,lisa.brooks@gmail.com,msg-20100,1774087200000,True,False,"[""INBOX""]",1060,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-03-21),thr-2100,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,147
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-03-23T11:00:00+00:00,grants@acfoundation.org,msg-20101,1774263600000,False,False,"[""INBOX""]",1067,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-03-23),thr-2101,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,148
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-03-25T12:00:00+00:00,marcus.dubois.music@gmail.com,msg-20102,1774440000000,False,True,"[""INBOX""]",1074,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-03-25),thr-2102,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,149
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-03-27T13:00:00+00:00,no-reply@metopera.org,msg-20103,1774616400000,False,False,"[""INBOX""]",1081,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-03-27),thr-2103,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,150
+"Daniel, ahead of the next board meeting I'd like your read on the raffle prize slate. Let's align before Thursday.
+
+Marcus",,2026-03-29T14:00:00+00:00,mwebb@webbenergygroup.com,msg-20104,1774792800000,False,False,"[""INBOX""]",1088,"Daniel, ahead of the next board meeting I'd like your read on the raffle prize...",Board follow-up — the raffle prize slate (2026-03-29),thr-2104,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,151
+"Following up on the donor preview for Firebird. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-03-31T15:00:00+00:00,phargrove@hargrovelaw.com,msg-20105,1774969200000,True,True,"[""INBOX""]",1095,"Following up on the donor preview for Firebird. Three of the $10,000 tables ar...",Gala patron cultivation — Firebird preview night (2026-03-31),thr-2105,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,152
+"Hi Daniel, confirming details on the seating chart for tables of ten for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-04-02T16:00:00+00:00,events@houstonian.com,msg-20106,1775145600000,False,False,"[""INBOX""]",1102,"Hi Daniel, confirming details on the seating chart for tables of ten for An Ev...",Houstonian ballroom — the seating chart for tables of ten (2026-04-02),thr-2106,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,153
+"Daniel, the Paquita rehearsal block is set. Tatiana flagged the vision scene lifts for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-04-04T17:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20107,1775322000000,False,False,"[""INBOX""]",1109,"Daniel, the Paquita rehearsal block is set. Tatiana flagged the vision scene l...","Rehearsal schedule — Paquita, week of 2026-04-04",thr-2107,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,154
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-04-06T09:00:00+00:00,lisa.brooks@gmail.com,msg-20108,1775466000000,False,True,"[""INBOX""]",1116,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-04-06),thr-2108,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,155
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-04-08T10:00:00+00:00,grants@acfoundation.org,msg-20109,1775642400000,False,False,"[""INBOX""]",1123,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-04-08),thr-2109,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,156
+"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set at Montrose this weekend if you and Lisa want to come by.
+
+Marcus",,2026-04-10T11:00:00+00:00,marcus.dubois.music@gmail.com,msg-20110,1775818800000,True,False,"[""INBOX""]",1130,"Hey Daniel, happy to keep an eye on the house during the Boca trip. Jazz set a...",Neighborly — house watch while you travel (2026-04-10),thr-2110,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,157
+Your MET Opera on Demand subscription: newly added performances and archival broadcasts are now available to stream.,,2026-04-12T12:00:00+00:00,no-reply@metopera.org,msg-20111,1775995200000,False,True,"[""INBOX""]",1137,Your MET Opera on Demand subscription: newly added performances and archival b...,New this week on MET Opera on Demand (2026-04-12),thr-2111,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,158
+"Daniel, ahead of the next board meeting I'd like your read on the pas de deux casting for the courtyard. Let's align before Thursday.
+
+Marcus",,2026-04-14T13:00:00+00:00,mwebb@webbenergygroup.com,msg-20112,1776171600000,False,False,"[""INBOX""]",1144,"Daniel, ahead of the next board meeting I'd like your read on the pas de deux ...",Board follow-up — the pas de deux casting for the courtyard (2026-04-14),thr-2112,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,159
+"Following up on the donor preview for Giselle. Three of the $10,000 tables are confirmed; I'll send the seating draft for your review.
+
+Patricia",,2026-04-16T14:00:00+00:00,phargrove@hargrovelaw.com,msg-20113,1776348000000,False,False,"[""INBOX""]",1151,"Following up on the donor preview for Giselle. Three of the $10,000 tables are...",Gala patron cultivation — Giselle preview night (2026-04-16),thr-2113,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,160
+"Hi Daniel, confirming details on valet and arrival logistics for An Evening of Dance. Courtyard weather-hold is in place. — Houstonian Events",,2026-04-18T15:00:00+00:00,events@houstonian.com,msg-20114,1776524400000,False,True,"[""INBOX""]",1158,"Hi Daniel, confirming details on valet and arrival logistics for An Evening of...",Houstonian ballroom — valet and arrival logistics (2026-04-18),thr-2114,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,161
+"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the peasant pas de deux for extra time. Studio 3 floor repair is still pending.
+
+Claire",,2026-04-20T16:00:00+00:00,claire.nguyen@gulfcoastballet.org,msg-20115,1776700800000,True,False,"[""INBOX""]",1165,"Daniel, the Don Quixote rehearsal block is set. Tatiana flagged the peasant pa...","Rehearsal schedule — Don Quixote, week of 2026-04-20",thr-2115,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,162
+"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.
+
+Lisa",,2026-04-22T17:00:00+00:00,lisa.brooks@gmail.com,msg-20116,1776877200000,False,False,"[""INBOX""]",1172,"Hi love, quick note about Ryan's USTA match Saturday. Talk tonight.  Lisa...",Family note — Ryan tennis (2026-04-22),thr-2116,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,163
+"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting milestone for Gulf Coast Ballet's education programming. — ACF Grants Office",,2026-04-24T09:00:00+00:00,grants@acfoundation.org,msg-20117,1777021200000,False,True,"[""INBOX""]",1179,"Dear Mr. Brooks, this is a reminder regarding the $75,000 ACF grant reporting ...",ACF grant — reporting milestone (2026-04-24),thr-2117,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,164
+"Rebecca, attaching our summer intensive grant request as discussed. The original submission requests a restricted award of 75,000 to fund faculty, scholarship seats, and showcase production for a forty-seat cohort. Happy to walk through the line items.",,2026-02-18T15:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-90000,1771426800000,False,False,"[""SENT""]",652,"Rebecca, attaching our summer intensive grant request as discussed. The original submission requests a restricted award ",ACF Summer Intensive - original grant submission,thr-acf-2026,ralvarez@artscouncilfoundation.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,165
+"Daniel, after committee review the Arts Council Foundation has revised the restricted award for the 2026 Summer Intensive to 71,500. This revised figure of 71,500 supersedes the 75,000 in your February submission and is the number our office will hold you to at closeout. Please reconcile your final report against 71,500.",claire.nguyen@gulfcoastballet.org,2026-04-27T15:00:00+00:00,ralvarez@artscouncilfoundation.org,msg-90001,1777302000000,True,False,"[""INBOX""]",722,"Daniel, after committee review the Arts Council Foundation has revised the restricted award for the 2026 Summer Intensiv",RE: ACF Summer Intensive - revised award confirmed,thr-acf-2026,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,166
+"Understood Rebecca, we will build the final report against the revised restricted award of 71,500. Thank you for confirming.",,2026-04-28T15:00:00+00:00,daniel.brooks@gulfcoastballet.org,msg-90002,1777388400000,True,False,"[""SENT""]",524,"Understood Rebecca, we will build the final report against the revised restricted award of 71,500. Thank you for confirm",RE: ACF Summer Intensive - revised award confirmed,thr-acf-2026,ralvarez@artscouncilfoundation.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,167
+"Daniel, a reminder that the restricted grant final report is due shortly. The reconciled figure is the revised award of 71,500. We will compare spend and outcomes against the original scope, so please make sure requested, spent, and remaining all tie to 71,500.",claire.nguyen@gulfcoastballet.org,2026-07-08T15:00:00+00:00,ralvarez@artscouncilfoundation.org,msg-90003,1783522800000,False,False,"[""INBOX""]",661,"Daniel, a reminder that the restricted grant final report is due shortly. The reconciled figure is the revised award of ",ACF closeout - final report due,thr-acf-2026,daniel.brooks@gulfcoastballet.org,gmail-api,messages,/opt/mocks/gmail-api/messages.json,168

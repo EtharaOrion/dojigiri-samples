@@ -1,0 +1,23 @@
+effective_date,employee_id,flsa_status,id,job_title,payment_unit,rate,__api__,__table__,__file__,__row_index__
+2018-01-15,emp-2b3c4d5e,Exempt,comp-de1ccc90,Program Director,Year,68000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,0
+2019-02-15,emp-92a3b4c5,Exempt,comp-eff5214a,Teaching Artist,Year,48000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,1
+2020-03-15,emp-5e6f7081,Exempt,comp-56005632,Coordinator,Year,50000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,2
+2020-10-15,emp-3c4d5e6f,Exempt,comp-cd0fd500,Development Director,Year,72000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,3
+2021-11-15,emp-5e6f7081,Exempt,comp-9735e1bc,Administrative Assistant,Year,42000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,4
+2022-12-15,emp-2b3c4d5e,Exempt,comp-d35ba63f,Program Director,Year,68000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,5
+2018-01-15,emp-a3b4c5d6,Exempt,comp-4ccfc23e,Teaching Artist,Year,48000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,6
+2019-02-15,emp-6f708192,Exempt,comp-bf9803e6,Coordinator,Year,50000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,7
+2020-03-15,emp-3c4d5e6f,Exempt,comp-6bd7921b,Development Director,Year,72000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,8
+2021-10-15,emp-5e6f7081,Exempt,comp-8a15b705,Administrative Assistant,Year,42000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,9
+2022-11-15,emp-2b3c4d5e,Exempt,comp-19f5464e,Program Director,Year,68000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,10
+2023-12-15,emp-b4c5d6e7,Exempt,comp-0b529a0f,Teaching Artist,Year,48000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,11
+2018-01-15,emp-708192a3,Exempt,comp-ec0a381f,Coordinator,Year,50000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,12
+2019-02-15,emp-3c4d5e6f,Exempt,comp-194d4355,Development Director,Year,72000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,13
+2020-03-15,emp-5e6f7081,Exempt,comp-ef1dc107,Administrative Assistant,Year,42000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,14
+2020-10-15,emp-2b3c4d5e,Exempt,comp-69368f7b,Program Director,Year,68000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,15
+2021-11-15,emp-c5d6e7f8,Exempt,comp-9ddf805c,Teaching Artist,Year,48000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,16
+2022-12-15,emp-8192a3b4,Exempt,comp-6857c936,Coordinator,Year,50000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,17
+2018-01-15,emp-3c4d5e6f,Exempt,comp-ad4eb5db,Development Director,Year,72000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,18
+2019-02-15,emp-5e6f7081,Exempt,comp-cf2959bb,Administrative Assistant,Year,42000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,19
+2020-03-15,emp-2b3c4d5e,Exempt,comp-6bf42a34,Program Director,Year,68000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,20
+2026-03-16,emp-d6e7f809,Exempt,comp-e5599399,Teaching Artist,Year,48000.0,gusto-api,compensations,/opt/mocks/gusto-api/compensations.json,21

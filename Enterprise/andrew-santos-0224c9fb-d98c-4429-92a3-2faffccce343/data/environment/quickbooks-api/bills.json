@@ -1,0 +1,127 @@
+[
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2026-10-02",
+    "Id": "5001",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "PrivateNote": "Standard recurring vendor invoice.",
+    "TotalAmt": 452.31,
+    "TxnDate": "2025-12-02",
+    "VendorRef": {
+      "name": "Stripe Atlas",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-01-27",
+    "Id": "5002",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "PrivateNote": "Standard recurring vendor invoice.",
+    "TotalAmt": 923.05,
+    "TxnDate": "2025-11-28",
+    "VendorRef": {
+      "name": "Slack Technologies",
+      "value": "2002"
+    }
+  },
+  {
+    "Balance": 1355.81,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-03-24",
+    "Id": "5003",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "PrivateNote": "Standard recurring vendor invoice.",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2025-11-23",
+    "VendorRef": {
+      "name": "Notion Labs",
+      "value": "2003"
+    }
+  },
+  {
+    "Balance": 444.02,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2025-12-17",
+    "Id": "5004",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "PrivateNote": "Standard recurring vendor invoice.",
+    "TotalAmt": 444.02,
+    "TxnDate": "2025-11-18",
+    "VendorRef": {
+      "name": "Adobe Creative Cloud",
+      "value": "2004"
+    }
+  },
+  {
+    "Balance": 720.63,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2025-12-12",
+    "Id": "5005",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "DYAA operating expense line item"
+      }
+    ],
+    "PrivateNote": "Standard recurring vendor invoice.",
+    "TotalAmt": 720.63,
+    "TxnDate": "2025-11-13",
+    "VendorRef": {
+      "name": "AWS",
+      "value": "2005"
+    }
+  }
+]

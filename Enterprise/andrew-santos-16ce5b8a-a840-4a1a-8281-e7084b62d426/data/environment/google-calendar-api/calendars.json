@@ -1,0 +1,200 @@
+[
+  {
+    "access_role": "owner",
+    "color_id": "1",
+    "description": "Primary calendar",
+    "id": "andrew.santos@Greenridertech.co",
+    "primary": "true",
+    "summary": "Andrew Santos",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "2",
+    "description": "Shared work calendar",
+    "id": "c_a87f3401dyaa@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Detroit Youth Arts Alliance — team",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "5",
+    "description": "Shared family calendar",
+    "id": "c_18b6f290family@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Family",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "8",
+    "description": "Public holidays",
+    "id": "en.usa#holiday@group.v.calendar.google.com",
+    "primary": "false",
+    "summary": "Holidays in United States",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "22",
+    "description": "DYAA board meetings & finance committee",
+    "id": "c_b3927e02board@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Board (Patricia Chen)",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "14",
+    "description": "LOI, full app, report, and renewal deadlines",
+    "id": "c_d4150f7agrants@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Grants & Deadlines",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "15",
+    "description": "Venue, catering, AV, marketing, awards workstreams",
+    "id": "c_7e9402aashowcase@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Showcase 2026 Production",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "15",
+    "description": "Renovation milestones, permits, contractor walk-throughs",
+    "id": "c_92ab6d18f7492e4c8@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Livernois Build",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "9",
+    "description": "Health, errands, reading",
+    "id": "c_4615ce0bpersonal@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Andrew — Personal",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "6",
+    "description": "Practice and game schedule",
+    "id": "c_2810a594cbfe32281b@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Diego — Basketball",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "18",
+    "description": "Rehearsals and concerts",
+    "id": "c_6dc309e33a4fb7d5@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Sofia — Detroit Youth Symphony",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "12",
+    "description": "Run schedule and rest days",
+    "id": "c_9f08b417f84915a0@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Marco — Marathon Training",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "6",
+    "description": "Weekly Mexicantown visit",
+    "id": "c_3c5e74b227254@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Elena — Sunday Visits",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "17",
+    "description": "Every-other-Thursday telehealth",
+    "id": "c_5ab1cf0995a02e6@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Therapy (Dr. Vivian Cole)",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "21",
+    "description": "TEDx alumni, NLA Chicago, sector panels",
+    "id": "c_b827e10cspeaking@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Speaking & Conferences",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "12",
+    "description": "Three young nonprofit professionals — monthly",
+    "id": "c_e74902f6mentees@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Mentees",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "17",
+    "description": "Saturday Citizen Yoga, morning walks",
+    "id": "c_1f380b25wellness@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Yoga & Belle Isle",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "15",
+    "description": "Foundation site visits and Chicago travel",
+    "id": "c_a2c601e8travel@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Funder Travel",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "17",
+    "description": "Marcus, Devon, teaching artists shared",
+    "id": "c_6e8409a3staff@group.calendar.google.com",
+    "primary": "false",
+    "summary": "DYAA Staff Calendar",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "22",
+    "description": "Pre-event briefings and run-of-show",
+    "id": "c_8a93140fvolunteers@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Volunteers — Showcase",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "10",
+    "description": "Thank-you calls, recognition deliveries, lunches",
+    "id": "c_d51b03c7sponsor@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Sponsor Stewardship",
+    "time_zone": "America/Detroit"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "7",
+    "description": "Reporter interviews, op-ed deadlines",
+    "id": "c_30b9176fpress@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Press & Media",
+    "time_zone": "America/Detroit"
+  }
+]

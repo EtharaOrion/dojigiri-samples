@@ -1,0 +1,3537 @@
+[
+  {
+    "Id": "9575",
+    "DocNumber": "INV-2026-4100",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "Line": [
+      {
+        "Amount": 1450.0,
+        "Description": "Wild Botanica exhibition plate - Oregon iris study",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "programs@ashvalearts.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-03-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "14655",
+    "DocNumber": "INV-2026-4101",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Native meadow plate - camas and checker mallow",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "contact@willamettebotanical.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-03-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "9427",
+    "DocNumber": "INV-2026-4102",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "Line": [
+      {
+        "Amount": 860.0,
+        "Description": "Open-edition print run - vine maple leaf plate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 860.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "orders@cascadeprints.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-03-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "18093",
+    "DocNumber": "INV-2026-4103",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Boxed note-card sets - wholesale order",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "hello@rosecityframing.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-10-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "14009",
+    "DocNumber": "INV-2026-4104",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9316",
+      "name": "Timberline Wellness Group"
+    },
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Lobby commission - Pacific bleeding heart triptych",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "accounts@timberlinewellness.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-10-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "17800",
+    "DocNumber": "INV-2026-4105",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9340",
+      "name": "Beaverton Community Library Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1750.0,
+        "Description": "Reading-room botanical panel - Oregon grape",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1750.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "foundation@beavertonlibrary.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-10-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "19164",
+    "DocNumber": "INV-2026-4106",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9352",
+      "name": "Corvallis Fine Art Guild"
+    },
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Quarterly botanical illustration workshop - tuition",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 640.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "guild@corvallisartguild.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-11-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "16206",
+    "DocNumber": "INV-2026-4107",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9247",
+      "name": "St. Brendan's Church"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Fellowship-hall wildflower series - progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "office@stbrendansbeaverton.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-11-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "12365",
+    "DocNumber": "INV-2026-4108",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Meridian Gallery Collective"
+    },
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Gallery commission split - spring group show",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "gallery@meridiangallerycollective.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-11-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "17161",
+    "DocNumber": "INV-2026-4109",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "Line": [
+      {
+        "Amount": 1450.0,
+        "Description": "Wild Botanica exhibition plate - Oregon iris study",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "programs@ashvalearts.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "18740",
+    "DocNumber": "INV-2026-4110",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Native meadow plate - camas and checker mallow",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "contact@willamettebotanical.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "10324",
+    "DocNumber": "INV-2026-4111",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "Line": [
+      {
+        "Amount": 860.0,
+        "Description": "Open-edition print run - vine maple leaf plate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 860.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "orders@cascadeprints.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "16613",
+    "DocNumber": "INV-2026-4112",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Boxed note-card sets - wholesale order",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "hello@rosecityframing.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-10-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "10501",
+    "DocNumber": "INV-2026-4113",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9316",
+      "name": "Timberline Wellness Group"
+    },
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Lobby commission - Pacific bleeding heart triptych",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "accounts@timberlinewellness.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-10-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "16325",
+    "DocNumber": "INV-2026-4114",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9340",
+      "name": "Beaverton Community Library Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1750.0,
+        "Description": "Reading-room botanical panel - Oregon grape",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1750.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "foundation@beavertonlibrary.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-10-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "13875",
+    "DocNumber": "INV-2026-4115",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9352",
+      "name": "Corvallis Fine Art Guild"
+    },
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Quarterly botanical illustration workshop - tuition",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 640.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "guild@corvallisartguild.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-11-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "18244",
+    "DocNumber": "INV-2026-4116",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9247",
+      "name": "St. Brendan's Church"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Fellowship-hall wildflower series - progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "office@stbrendansbeaverton.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-11-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "9909",
+    "DocNumber": "INV-2026-4117",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Meridian Gallery Collective"
+    },
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Gallery commission split - spring group show",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "gallery@meridiangallerycollective.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-11-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "15793",
+    "DocNumber": "INV-2026-4118",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "Line": [
+      {
+        "Amount": 1450.0,
+        "Description": "Wild Botanica exhibition plate - Oregon iris study",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "programs@ashvalearts.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "13853",
+    "DocNumber": "INV-2026-4119",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Native meadow plate - camas and checker mallow",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "contact@willamettebotanical.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "17780",
+    "DocNumber": "INV-2026-4120",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "Line": [
+      {
+        "Amount": 860.0,
+        "Description": "Open-edition print run - vine maple leaf plate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 860.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "orders@cascadeprints.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "9264",
+    "DocNumber": "INV-2027-4121",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Boxed note-card sets - wholesale order",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "hello@rosecityframing.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-01-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-01-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "17346",
+    "DocNumber": "INV-2027-4122",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "9316",
+      "name": "Timberline Wellness Group"
+    },
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Lobby commission - Pacific bleeding heart triptych",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "accounts@timberlinewellness.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-01-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-01-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "12421",
+    "DocNumber": "INV-2027-4123",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "9340",
+      "name": "Beaverton Community Library Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1750.0,
+        "Description": "Reading-room botanical panel - Oregon grape",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1750.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "foundation@beavertonlibrary.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-01-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-01-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "16173",
+    "DocNumber": "INV-2027-4124",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-06",
+    "CustomerRef": {
+      "value": "9352",
+      "name": "Corvallis Fine Art Guild"
+    },
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Quarterly botanical illustration workshop - tuition",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 640.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "guild@corvallisartguild.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-02-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-02-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "13064",
+    "DocNumber": "INV-2027-4125",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-06",
+    "CustomerRef": {
+      "value": "9247",
+      "name": "St. Brendan's Church"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Fellowship-hall wildflower series - progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "office@stbrendansbeaverton.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-02-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-02-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "9226",
+    "DocNumber": "INV-2027-4126",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-06",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Meridian Gallery Collective"
+    },
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Gallery commission split - spring group show",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "gallery@meridiangallerycollective.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-02-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-02-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "14365",
+    "DocNumber": "INV-2027-4127",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-06",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "Line": [
+      {
+        "Amount": 1450.0,
+        "Description": "Wild Botanica exhibition plate - Oregon iris study",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "programs@ashvalearts.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-03-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-03-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "12609",
+    "DocNumber": "INV-2027-4128",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-06",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Native meadow plate - camas and checker mallow",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "contact@willamettebotanical.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-03-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-03-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "15240",
+    "DocNumber": "INV-2027-4129",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-06",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "Line": [
+      {
+        "Amount": 860.0,
+        "Description": "Open-edition print run - vine maple leaf plate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 860.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "orders@cascadeprints.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-03-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-03-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "11745",
+    "DocNumber": "INV-2027-4130",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Boxed note-card sets - wholesale order",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "hello@rosecityframing.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-04-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-04-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "14081",
+    "DocNumber": "INV-2027-4131",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "9316",
+      "name": "Timberline Wellness Group"
+    },
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Lobby commission - Pacific bleeding heart triptych",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "accounts@timberlinewellness.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-04-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-04-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "18425",
+    "DocNumber": "INV-2027-4132",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "9340",
+      "name": "Beaverton Community Library Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1750.0,
+        "Description": "Reading-room botanical panel - Oregon grape",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1750.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "foundation@beavertonlibrary.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-04-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-04-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "15767",
+    "DocNumber": "INV-2027-4133",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "9352",
+      "name": "Corvallis Fine Art Guild"
+    },
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Quarterly botanical illustration workshop - tuition",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 640.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "guild@corvallisartguild.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-05-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-05-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "17279",
+    "DocNumber": "INV-2027-4134",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "9247",
+      "name": "St. Brendan's Church"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Fellowship-hall wildflower series - progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "office@stbrendansbeaverton.org"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-05-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-05-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "13085",
+    "DocNumber": "INV-2027-4135",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Meridian Gallery Collective"
+    },
+    "Line": [
+      {
+        "Amount": 1900.0,
+        "Description": "Gallery commission split - spring group show",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1900.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "gallery@meridiangallerycollective.com"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2027-05-01T09:00:00-08:00",
+      "LastUpdatedTime": "2027-05-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90000",
+    "DocNumber": "CC-20260001",
+    "TxnDate": "2025-11-16",
+    "DueDate": "2025-12-01",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — camas meadow panel",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-16T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-01T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90001",
+    "DocNumber": "CC-20260002",
+    "TxnDate": "2025-11-17",
+    "DueDate": "2025-12-02",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-17T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-02T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90002",
+    "DocNumber": "CC-20260003",
+    "TxnDate": "2025-11-18",
+    "DueDate": "2025-12-03",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 65.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-11-18T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-03T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90003",
+    "DocNumber": "CC-20260004",
+    "TxnDate": "2025-11-19",
+    "DueDate": "2025-12-04",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-19T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-04T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90004",
+    "DocNumber": "CC-20260005",
+    "TxnDate": "2025-11-20",
+    "DueDate": "2025-12-05",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-20T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-05T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90005",
+    "DocNumber": "CC-20260006",
+    "TxnDate": "2025-11-21",
+    "DueDate": "2025-12-06",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 28.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-11-21T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90006",
+    "DocNumber": "CC-20260007",
+    "TxnDate": "2025-11-22",
+    "DueDate": "2025-12-07",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-22T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-07T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90007",
+    "DocNumber": "CC-20260008",
+    "TxnDate": "2025-11-23",
+    "DueDate": "2025-12-08",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — penstemon panel",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-23T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-08T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90008",
+    "DocNumber": "CC-20260009",
+    "TxnDate": "2025-11-24",
+    "DueDate": "2025-12-09",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 850.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-11-24T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-09T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90009",
+    "DocNumber": "CC-20260010",
+    "TxnDate": "2025-11-25",
+    "DueDate": "2025-12-10",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-25T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-10T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90010",
+    "DocNumber": "CC-20260011",
+    "TxnDate": "2025-11-26",
+    "DueDate": "2025-12-11",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-26T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-11T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90011",
+    "DocNumber": "CC-20260012",
+    "TxnDate": "2025-11-27",
+    "DueDate": "2025-12-12",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 45.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-11-27T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-12T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90012",
+    "DocNumber": "CC-20260013",
+    "TxnDate": "2025-11-28",
+    "DueDate": "2025-12-13",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-28T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-13T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90013",
+    "DocNumber": "CC-20260014",
+    "TxnDate": "2025-11-29",
+    "DueDate": "2025-12-14",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-11-29T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-14T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90014",
+    "DocNumber": "CC-20260015",
+    "TxnDate": "2025-11-30",
+    "DueDate": "2025-12-15",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — camas and buttercup meadow",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 1200.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-11-30T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-15T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90015",
+    "DocNumber": "CC-20260016",
+    "TxnDate": "2025-12-02",
+    "DueDate": "2025-12-17",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-02T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-17T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90016",
+    "DocNumber": "CC-20260017",
+    "TxnDate": "2025-12-03",
+    "DueDate": "2025-12-18",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-03T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-18T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90017",
+    "DocNumber": "CC-20260018",
+    "TxnDate": "2025-12-04",
+    "DueDate": "2025-12-19",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 1500.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-04T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-19T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90018",
+    "DocNumber": "CC-20260019",
+    "TxnDate": "2025-12-05",
+    "DueDate": "2025-12-20",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-05T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-20T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90019",
+    "DocNumber": "CC-20260020",
+    "TxnDate": "2025-12-06",
+    "DueDate": "2025-12-21",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-06T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-21T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90020",
+    "DocNumber": "CC-20260021",
+    "TxnDate": "2025-12-07",
+    "DueDate": "2025-12-22",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-07T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-22T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90021",
+    "DocNumber": "CC-20260022",
+    "TxnDate": "2025-12-08",
+    "DueDate": "2025-12-23",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — vine maple leaf plate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-08T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-23T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90022",
+    "DocNumber": "CC-20260023",
+    "TxnDate": "2025-12-09",
+    "DueDate": "2025-12-24",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-09T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-24T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90023",
+    "DocNumber": "CC-20260024",
+    "TxnDate": "2025-12-10",
+    "DueDate": "2025-12-25",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 65.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-10T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-25T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90024",
+    "DocNumber": "CC-20260025",
+    "TxnDate": "2025-12-11",
+    "DueDate": "2025-12-26",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-11T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-26T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90025",
+    "DocNumber": "CC-20260026",
+    "TxnDate": "2025-12-12",
+    "DueDate": "2025-12-27",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-12T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-27T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90026",
+    "DocNumber": "CC-20260027",
+    "TxnDate": "2025-12-13",
+    "DueDate": "2025-12-28",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 28.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-13T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-28T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90027",
+    "DocNumber": "CC-20260028",
+    "TxnDate": "2025-12-14",
+    "DueDate": "2025-12-29",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-14T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-29T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90028",
+    "DocNumber": "CC-20260029",
+    "TxnDate": "2025-12-15",
+    "DueDate": "2025-12-30",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — trillium composition",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-15T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-30T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90029",
+    "DocNumber": "CC-20260030",
+    "TxnDate": "2025-12-16",
+    "DueDate": "2025-12-31",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 850.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-16T09:00:00-08:00",
+      "LastUpdatedTime": "2025-12-31T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90030",
+    "DocNumber": "CC-20260031",
+    "TxnDate": "2025-12-17",
+    "DueDate": "2026-01-01",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-17T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-01T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90031",
+    "DocNumber": "CC-20260032",
+    "TxnDate": "2025-12-18",
+    "DueDate": "2026-01-02",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-18T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-02T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90032",
+    "DocNumber": "CC-20260033",
+    "TxnDate": "2025-12-19",
+    "DueDate": "2026-01-03",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 45.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-19T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-03T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90033",
+    "DocNumber": "CC-20260034",
+    "TxnDate": "2025-12-20",
+    "DueDate": "2026-01-04",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-20T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-04T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90034",
+    "DocNumber": "CC-20260035",
+    "TxnDate": "2025-12-21",
+    "DueDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-21T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-05T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90035",
+    "DocNumber": "CC-20260036",
+    "TxnDate": "2025-12-23",
+    "DueDate": "2026-01-07",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — wood sorrel study",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 1200.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-23T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-07T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90036",
+    "DocNumber": "CC-20260037",
+    "TxnDate": "2025-12-24",
+    "DueDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-24T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-08T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90037",
+    "DocNumber": "CC-20260038",
+    "TxnDate": "2025-12-25",
+    "DueDate": "2026-01-09",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-25T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-09T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90038",
+    "DocNumber": "CC-20260039",
+    "TxnDate": "2025-12-26",
+    "DueDate": "2026-01-10",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 1500.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-26T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-10T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90039",
+    "DocNumber": "CC-20260040",
+    "TxnDate": "2025-12-27",
+    "DueDate": "2026-01-11",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-27T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-11T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90040",
+    "DocNumber": "CC-20260041",
+    "TxnDate": "2025-12-28",
+    "DueDate": "2026-01-12",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-28T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-12T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90041",
+    "DocNumber": "CC-20260042",
+    "TxnDate": "2025-12-29",
+    "DueDate": "2026-01-13",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2025-12-29T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-13T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90042",
+    "DocNumber": "CC-20260043",
+    "TxnDate": "2025-12-30",
+    "DueDate": "2026-01-14",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — Douglas aster panel",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-30T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-14T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90043",
+    "DocNumber": "CC-20260044",
+    "TxnDate": "2025-12-31",
+    "DueDate": "2026-01-15",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2025-12-31T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-15T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90044",
+    "DocNumber": "CC-20260045",
+    "TxnDate": "2026-01-01",
+    "DueDate": "2026-01-16",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 65.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-01T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-16T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90045",
+    "DocNumber": "CC-20260046",
+    "TxnDate": "2026-01-02",
+    "DueDate": "2026-01-17",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-02T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-17T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90046",
+    "DocNumber": "CC-20260047",
+    "TxnDate": "2026-01-03",
+    "DueDate": "2026-01-18",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-03T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-18T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90047",
+    "DocNumber": "CC-20260048",
+    "TxnDate": "2026-01-04",
+    "DueDate": "2026-01-19",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 28.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-04T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-19T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90048",
+    "DocNumber": "CC-20260049",
+    "TxnDate": "2026-01-05",
+    "DueDate": "2026-01-20",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-05T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-20T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90049",
+    "DocNumber": "CC-20260050",
+    "TxnDate": "2026-01-06",
+    "DueDate": "2026-01-21",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — Pacific bleeding heart plate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-06T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-21T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90050",
+    "DocNumber": "CC-20260051",
+    "TxnDate": "2026-01-07",
+    "DueDate": "2026-01-22",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 850.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-07T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-22T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90051",
+    "DocNumber": "CC-20260052",
+    "TxnDate": "2026-01-08",
+    "DueDate": "2026-01-23",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-08T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-23T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90052",
+    "DocNumber": "CC-20260053",
+    "TxnDate": "2026-01-09",
+    "DueDate": "2026-01-24",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-09T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-24T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90053",
+    "DocNumber": "CC-20260054",
+    "TxnDate": "2026-01-10",
+    "DueDate": "2026-01-25",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 45.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-10T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-25T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90054",
+    "DocNumber": "CC-20260055",
+    "TxnDate": "2026-01-11",
+    "DueDate": "2026-01-26",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-11T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-26T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90055",
+    "DocNumber": "CC-20260056",
+    "TxnDate": "2026-01-13",
+    "DueDate": "2026-01-28",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-13T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-28T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90056",
+    "DocNumber": "CC-20260057",
+    "TxnDate": "2026-01-14",
+    "DueDate": "2026-01-29",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — western columbine study",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 1200.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-14T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-29T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90057",
+    "DocNumber": "CC-20260058",
+    "TxnDate": "2026-01-15",
+    "DueDate": "2026-01-30",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-15T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-30T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90058",
+    "DocNumber": "CC-20260059",
+    "TxnDate": "2026-01-16",
+    "DueDate": "2026-01-31",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 65.0,
+        "Description": "Quarterly workshop tuition — St. Brendan's",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Workshop Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 65.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-16T09:00:00-08:00",
+      "LastUpdatedTime": "2026-01-31T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90059",
+    "DocNumber": "CC-20260060",
+    "TxnDate": "2026-01-17",
+    "DueDate": "2026-02-01",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Fellowship-hall wildflower series — progress billing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 1500.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-17T09:00:00-08:00",
+      "LastUpdatedTime": "2026-02-01T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90060",
+    "DocNumber": "CC-20260061",
+    "TxnDate": "2026-01-18",
+    "DueDate": "2026-02-02",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Open-edition print sale",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-18T09:00:00-08:00",
+      "LastUpdatedTime": "2026-02-02T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90061",
+    "DocNumber": "CC-20260062",
+    "TxnDate": "2026-01-19",
+    "DueDate": "2026-02-03",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 28.0,
+        "Description": "Note-card set — boxed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Print Sales"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 28.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-19T09:00:00-08:00",
+      "LastUpdatedTime": "2026-02-03T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90062",
+    "DocNumber": "CC-20260063",
+    "TxnDate": "2026-01-20",
+    "DueDate": "2026-02-04",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Gallery commission split — Meridian",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600.0,
+    "Status": "Open",
+    "EmailStatus": "NotSet",
+    "PrintStatus": "NeedToPrint",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "0",
+    "MetaData": {
+      "CreateTime": "2026-01-20T09:00:00-08:00",
+      "LastUpdatedTime": "2026-02-04T17:00:00-08:00"
+    },
+    "PrivateNote": "Awaiting client payment; follow up at month-end review with Diane."
+  },
+  {
+    "Id": "90063",
+    "DocNumber": "CC-20260064",
+    "TxnDate": "2026-01-21",
+    "DueDate": "2026-02-05",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Botanical commission — bleeding heart composition",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-21T09:00:00-08:00",
+      "LastUpdatedTime": "2026-02-05T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  },
+  {
+    "Id": "90064",
+    "DocNumber": "CC-20260065",
+    "TxnDate": "2026-01-22",
+    "DueDate": "2026-02-06",
+    "CustomerRef": {
+      "value": "9234",
+      "name": "Conway Illustration — Client"
+    },
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Wedding botanical print — Oregon natives",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Commission Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "EmailStatus": "EmailSent",
+    "PrintStatus": "PrintComplete",
+    "BillEmail": {
+      "Address": "catherine.conway@Greenridertech.co"
+    },
+    "SyncToken": "1",
+    "MetaData": {
+      "CreateTime": "2026-01-22T09:00:00-08:00",
+      "LastUpdatedTime": "2026-02-06T17:00:00-08:00"
+    },
+    "PrivateNote": "Paid in full; deposited to Operating Checking."
+  }
+]

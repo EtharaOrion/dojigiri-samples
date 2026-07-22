@@ -1,0 +1,4 @@
+account_id,name,official_name,mask,type,subtype,balances
+acc_chk_001,Personal Checking,Stuart Myer Personal Checking,2520,depository,checking,"{""available"": 3147.6, ""current"": 3247.6, ""limit"": 500.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_sav_002,Personal Savings,Stuart Myer Emergency Savings,5735,depository,savings,"{""available"": 8500.0, ""current"": 8500.0, ""limit"": 500.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_biz_003,Driftwood Brewing Operating,Driftwood Brewing Company Operating,2374,depository,checking,"{""available"": 34874.75, ""current"": 35024.75, ""limit"": 500.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"

@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Driftwood Brewing Company · Portland, Oregon</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root{
+    --ink:#2a1a10; --paper:#fbf6ec; --copper:#b7733a; --copper-d:#8b531f;
+    --cream:#efe3c7; --moss:#3f5b3a; --line:#d6c5a4;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:'Georgia',serif;background:var(--paper);color:var(--ink);line-height:1.55}
+  a{color:var(--copper-d);text-decoration:none}
+  a:hover{color:var(--ink)}
+  header.site{position:sticky;top:0;z-index:50;background:rgba(251,246,236,.96);
+    border-bottom:1px solid var(--line);backdrop-filter:blur(6px)}
+  .nav{max-width:1180px;margin:0 auto;padding:14px 22px;display:flex;align-items:center;justify-content:space-between}
+  .brand{font-weight:700;letter-spacing:.18em;font-size:18px;color:var(--ink);text-transform:uppercase}
+  .brand span{color:var(--copper)}
+  nav.links{display:flex;gap:26px}
+  nav.links a{font-family:Inter,system-ui,sans-serif;font-size:14px;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--ink);font-weight:600}
+  nav.links a:hover{color:var(--copper)}
+  .burger{display:none;background:none;border:1px solid var(--ink);padding:8px 12px;font-size:14px;cursor:pointer;border-radius:4px}
+  .hero{padding:90px 22px 100px;text-align:center;background:
+    radial-gradient(ellipse at top,#f3e4c6 0%,var(--paper) 60%)}
+  .hero h1{font-size:54px;letter-spacing:.02em;color:var(--ink);line-height:1.04;margin-bottom:18px}
+  .hero h1 em{color:var(--copper);font-style:italic;font-weight:400}
+  .hero p{max-width:640px;margin:0 auto 28px;font-size:18px;color:#5b4633}
+  .cta{display:inline-block;background:var(--ink);color:var(--paper);padding:14px 28px;
+    border:none;font-family:Inter,sans-serif;font-size:14px;letter-spacing:.16em;
+    text-transform:uppercase;cursor:pointer;transition:transform .15s ease, background .2s ease}
+  .cta:hover{background:var(--copper);transform:translateY(-2px)}
+  section.section{padding:80px 22px;max-width:1180px;margin:0 auto}
+  .section h2{font-size:36px;margin-bottom:8px;letter-spacing:.01em}
+  .section .sub{color:#7c6346;font-style:italic;margin-bottom:38px;font-size:17px}
+  .filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:28px}
+  .filter{padding:9px 20px;background:transparent;border:1px solid var(--ink);
+    font-family:Inter,sans-serif;font-size:13px;letter-spacing:.1em;text-transform:uppercase;
+    cursor:pointer;color:var(--ink);transition:.18s}
+  .filter.active,.filter:hover{background:var(--ink);color:var(--paper)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:22px}
+  .beer{background:#fff;border:1px solid var(--line);padding:24px 22px;border-radius:6px;
+    transition:transform .2s ease, box-shadow .2s ease;opacity:0;transform:translateY(14px);
+    animation:rise .55s forwards}
+  .beer:nth-child(1){animation-delay:.05s}.beer:nth-child(2){animation-delay:.12s}
+  .beer:nth-child(3){animation-delay:.19s}.beer:nth-child(4){animation-delay:.26s}
+  .beer:nth-child(5){animation-delay:.33s}.beer:nth-child(6){animation-delay:.4s}
+  .beer:hover{transform:translateY(-4px);box-shadow:0 10px 30px rgba(80,50,20,.12)}
+  .beer .name{font-size:22px;font-weight:700;color:var(--ink)}
+  .beer .style{font-style:italic;color:#7c6346;font-size:14px;margin-bottom:14px}
+  .beer .meta{display:flex;justify-content:space-between;font-family:Inter,sans-serif;
+    font-size:13px;color:#5b4633;border-top:1px dashed var(--line);padding-top:12px;margin-top:14px}
+  .beer .abv{color:var(--copper-d);font-weight:700}
+  .hours{background:var(--ink);color:var(--paper);padding:50px 40px;border-radius:6px;
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:22px;text-align:center}
+  .hours div{padding:14px 8px}
+  .hours .day{font-family:Inter,sans-serif;font-size:12px;letter-spacing:.18em;
+    text-transform:uppercase;color:var(--copper);margin-bottom:8px}
+  .hours .time{font-size:18px}
+  .visit{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center}
+  .visit .map{background:linear-gradient(135deg,var(--cream),#dbc69a);height:300px;border-radius:6px;
+    display:flex;align-items:center;justify-content:center;color:#7c6346;font-style:italic;
+    border:1px solid var(--line);position:relative;overflow:hidden}
+  .pin{width:26px;height:26px;background:var(--copper);border-radius:50% 50% 50% 0;
+    transform:rotate(-45deg);box-shadow:0 4px 14px rgba(0,0,0,.25);animation:pulse 2.2s infinite ease-in-out}
+  @keyframes pulse{0%,100%{transform:rotate(-45deg) scale(1)}50%{transform:rotate(-45deg) scale(1.18)}}
+  @keyframes rise{to{opacity:1;transform:translateY(0)}}
+  footer.site{margin-top:60px;background:var(--ink);color:#c9b58c;padding:50px 22px 28px}
+  .foot-wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px}
+  footer.site h4{color:var(--copper);font-size:13px;letter-spacing:.2em;text-transform:uppercase;
+    margin-bottom:14px;font-family:Inter,sans-serif}
+  footer.site a{color:#c9b58c;display:block;padding:3px 0;font-family:Inter,sans-serif;font-size:14px}
+  footer.site a:hover{color:var(--paper)}
+  .legal{max-width:1180px;margin:30px auto 0;border-top:1px solid #4a3a2b;padding-top:18px;
+    font-family:Inter,sans-serif;font-size:12px;color:#8d7a55;text-align:center}
+  /* Modal */
+  .modal-bg{position:fixed;inset:0;background:rgba(20,12,6,.6);display:none;align-items:center;
+    justify-content:center;z-index:90;padding:20px}
+  .modal-bg.open{display:flex;animation:fade .25s}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  .modal{background:var(--paper);max-width:480px;width:100%;padding:36px 32px;border-radius:6px;
+    border-top:6px solid var(--copper);box-shadow:0 30px 80px rgba(0,0,0,.4)}
+  .modal h3{font-size:26px;margin-bottom:6px}
+  .modal p{color:#5b4633;margin-bottom:18px}
+  .modal label{display:block;font-family:Inter,sans-serif;font-size:12px;letter-spacing:.1em;
+    text-transform:uppercase;color:#7c6346;margin:14px 0 6px}
+  .modal input,.modal select{width:100%;padding:11px 12px;border:1px solid var(--line);
+    font-family:Inter,sans-serif;font-size:15px;background:#fff;border-radius:4px}
+  .modal .row{display:flex;gap:12px}.modal .row>*{flex:1}
+  .modal .actions{display:flex;justify-content:flex-end;gap:10px;margin-top:24px}
+  .modal .btn-ghost{background:none;border:1px solid var(--ink);padding:10px 18px;cursor:pointer;
+    font-family:Inter,sans-serif;font-size:13px;letter-spacing:.1em;text-transform:uppercase}
+  .toast{position:fixed;bottom:30px;left:50%;transform:translateX(-50%) translateY(40px);
+    background:var(--moss);color:#fff;padding:14px 24px;border-radius:4px;font-family:Inter,sans-serif;
+    font-size:14px;opacity:0;transition:.35s;z-index:200}
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  @media (max-width:740px){
+    nav.links{display:none;position:absolute;top:60px;left:0;right:0;background:var(--paper);
+      flex-direction:column;padding:18px 22px;border-bottom:1px solid var(--line);gap:14px}
+    nav.links.open{display:flex}
+    .burger{display:inline-block}
+    .hero h1{font-size:38px}
+    .visit{grid-template-columns:1fr}
+    .foot-wrap{grid-template-columns:1fr;gap:24px}
+  }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="nav">
+    <div class="brand">Driftwood <span>·</span> Brewing Co.</div>
+    <nav class="links" id="links">
+      <a href="#beers">On Tap</a>
+      <a href="#hours">Hours</a>
+      <a href="#visit">Visit</a>
+      <a href="#release">Release Calendar</a>
+    </nav>
+    <button class="burger" id="burger">Menu</button>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>Farmhouse ales and lagers, brewed <em>seven barrels at a time</em></h1>
+  <p>A small east side brewery on East Burnside, pouring slow-fermented beer with
+     Willamette Valley malt and Crosby Hops. Walk in, sit at the bar, taste what we are
+     working on this week.</p>
+  <button class="cta" id="openReserve">Reserve a tasting flight</button>
+</section>
+
+<section class="section" id="beers">
+  <h2>On tap this week</h2>
+  <p class="sub">Lineup rotates with the brew calendar. Pints and growler fills available in the taproom.</p>
+  <div class="filters">
+    <button class="filter active" data-cat="all">All</button>
+    <button class="filter" data-cat="lager">Lagers</button>
+    <button class="filter" data-cat="ale">Ales</button>
+    <button class="filter" data-cat="saison">Saisons & Wild</button>
+  </div>
+  <div class="grid" id="beerGrid">
+    <article class="beer" data-cat="lager">
+      <div class="name">Oktoberfest Amber Lager</div>
+      <div class="style">American Amber Lager</div>
+      <p>Long lagered through summer with Vienna and Munich malt. Toasted bread crust on the
+         nose, clean dry finish. Festival favorite.</p>
+      <div class="meta"><span class="abv">5.25% ABV</span><span>$8 pint</span></div>
+    </article>
+    <article class="beer" data-cat="saison">
+      <div class="name">Holiday Saison</div>
+      <div class="style">Farmhouse Saison, spiced</div>
+      <p>Fermented warm with our house saison yeast. Pepper, white grape, a hint of
+         orange peel from a late kettle addition.</p>
+      <div class="meta"><span class="abv">7.09% ABV</span><span>$8 pint</span></div>
+    </article>
+    <article class="beer" data-cat="lager">
+      <div class="name">Czech Pilsner</div>
+      <div class="style">Bohemian Pilsner</div>
+      <p>Soft water, floor malted Pilsner, whole cone Saaz. Triple decoction in spirit if not
+         in equipment. The bartender's favorite shift beer.</p>
+      <div class="meta"><span class="abv">4.8% ABV</span><span>$7 pint</span></div>
+    </article>
+    <article class="beer" data-cat="ale">
+      <div class="name">Winter Ale Base Brew</div>
+      <div class="style">Strong Dark Ale</div>
+      <p>Currently fermenting. Releases for the holidays in December with a small barrel
+         aged variant on tap the same week.</p>
+      <div class="meta"><span class="abv">6.83% ABV est.</span><span>Coming soon</span></div>
+    </article>
+    <article class="beer" data-cat="saison">
+      <div class="name">Anniversary Wild Ale</div>
+      <div class="style">Barrel aged Wild Ale</div>
+      <p>Out of the foeder for our anniversary release. Lemon zest, light funk, a long
+         soft finish from twenty months of aging.</p>
+      <div class="meta"><span class="abv">6.56% ABV</span><span>$10 pour</span></div>
+    </article>
+    <article class="beer" data-cat="lager">
+      <div class="name">Munich Dunkel</div>
+      <div class="style">Munich Dunkel</div>
+      <p>Munich malt forward, soft brown bread and chocolate. A small Q4 trial that may
+         move to the regular rotation if guests vote with their glasses.</p>
+      <div class="meta"><span class="abv">4.99% ABV</span><span>$7 pint</span></div>
+    </article>
+  </div>
+</section>
+
+<section class="section" id="hours">
+  <h2>Taproom hours</h2>
+  <p class="sub">Closed Monday and Tuesday for brewing. The brewery and barrel cellar open the other five days.</p>
+  <div class="hours">
+    <div><div class="day">Mon</div><div class="time">Closed</div></div>
+    <div><div class="day">Tue</div><div class="time">Closed</div></div>
+    <div><div class="day">Wed</div><div class="time">4 to 10 PM</div></div>
+    <div><div class="day">Thu</div><div class="time">4 to 10 PM</div></div>
+    <div><div class="day">Fri</div><div class="time">3 to 11 PM</div></div>
+    <div><div class="day">Sat</div><div class="time">12 to 11 PM</div></div>
+    <div><div class="day">Sun</div><div class="time">12 to 8 PM</div></div>
+  </div>
+</section>
+
+<section class="section" id="visit">
+  <h2>Where to find us</h2>
+  <p class="sub">2233 E Burnside Street, Portland, Oregon. Bus 20 stops at the door; bike racks on the patio.</p>
+  <div class="visit">
+    <div>
+      <p style="font-size:16px;color:#5b4633;margin-bottom:14px">
+        Self distribution to eight Portland accounts, including Greenfield's Deli on Hawthorne and
+        the Knotty Pine on Fremont. Festival pours October 17 at Tom McCall Waterfront Park.
+      </p>
+      <p style="font-size:16px;color:#5b4633;margin-bottom:14px">
+        Private booking for parties of 12 or fewer, weekdays only.
+      </p>
+      <button class="cta" id="openReserve2">Reserve a tasting flight</button>
+    </div>
+    <div class="map" aria-label="Map of the brewery on East Burnside">
+      <div class="pin"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="release">
+  <h2>Release calendar</h2>
+  <p class="sub">Six anchor releases this fall and winter, plus tap-only Cellar nights every other Wednesday.</p>
+  <div class="grid">
+    <article class="beer" data-cat="ale">
+      <div class="name">Oktoberfest Release</div>
+      <div class="style">October 3, 2026</div>
+      <p>Long lagered amber on tap with a brat and pretzel pop-up from a friend of the brewery.</p>
+    </article>
+    <article class="beer" data-cat="saison">
+      <div class="name">Anniversary Wild Ale</div>
+      <div class="style">October 31, 2026</div>
+      <p>Foeder aged wild ale, 250 bottle release plus draft on a single night only.</p>
+    </article>
+    <article class="beer" data-cat="ale">
+      <div class="name">Holiday release</div>
+      <div class="style">December 19, 2026</div>
+      <p>Winter Ale Base Brew on draft, with a small bourbon barrel aged variant available
+         in 500 ml bottles.</p>
+    </article>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="foot-wrap">
+    <div>
+      <h4>Driftwood Brewing Company</h4>
+      <p style="font-family:Inter,sans-serif;font-size:14px;color:#c9b58c;line-height:1.7">
+        A seven barrel farmhouse and lager brewery on East Burnside, owned and operated by
+        Jake Callahan and Stuart Myer. Brewing in Portland since 2023.
+      </p>
+    </div>
+    <div>
+      <h4>Visit</h4>
+      <a href="#hours">Taproom hours</a>
+      <a href="#beers">On tap</a>
+      <a href="#release">Release calendar</a>
+    </div>
+    <div>
+      <h4>Trade</h4>
+      <a href="#">Wholesale account inquiry</a>
+      <a href="#">Festival booking</a>
+      <a href="#">Press kit</a>
+    </div>
+  </div>
+  <div class="legal">© 2026 Driftwood Brewing Company. OLCC licensed. Please drink responsibly.</div>
+</footer>
+
+<div class="modal-bg" id="modalBg">
+  <div class="modal">
+    <h3>Reserve a tasting flight</h3>
+    <p>Five 4 oz pours of our current lineup, $14 per flight, available during taproom hours.</p>
+    <form id="reserveForm">
+      <label>Your name</label>
+      <input type="text" required>
+      <label>Email</label>
+      <input type="email" required>
+      <div class="row">
+        <div><label>Date</label><input type="date" required></div>
+        <div><label>Party size</label>
+          <select>
+            <option>1</option><option selected>2</option><option>3</option>
+            <option>4</option><option>5</option><option>6+</option>
+          </select>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn-ghost" type="button" id="cancelReserve">Cancel</button>
+        <button class="cta" type="submit">Reserve</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="toast" id="toast">Reservation request sent. We will confirm by email.</div>
+
+<script>
+  // Burger menu
+  const burger = document.getElementById('burger');
+  const links = document.getElementById('links');
+  burger.addEventListener('click', () => links.classList.toggle('open'));
+  links.addEventListener('click', e => {
+    if (e.target.tagName === 'A') links.classList.remove('open');
+  });
+
+  // Beer filter
+  document.querySelectorAll('.filter').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const cat = btn.dataset.cat;
+      document.querySelectorAll('#beerGrid .beer').forEach(card => {
+        const match = cat === 'all' || card.dataset.cat === cat;
+        card.style.display = match ? '' : 'none';
+        if (match) { card.style.animation = 'none'; void card.offsetWidth; card.style.animation = 'rise .45s forwards'; }
+      });
+    });
+  });
+
+  // Modal open/close
+  const modal = document.getElementById('modalBg');
+  const openModal = () => modal.classList.add('open');
+  document.getElementById('openReserve').addEventListener('click', openModal);
+  document.getElementById('openReserve2').addEventListener('click', openModal);
+  document.getElementById('cancelReserve').addEventListener('click', () => modal.classList.remove('open'));
+  modal.addEventListener('click', e => { if (e.target === modal) modal.classList.remove('open'); });
+
+  // Reservation submit
+  document.getElementById('reserveForm').addEventListener('submit', e => {
+    e.preventDefault();
+    modal.classList.remove('open');
+    const t = document.getElementById('toast');
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 3200);
+    e.target.reset();
+  });
+</script>
+</body>
+</html>

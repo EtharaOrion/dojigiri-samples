@@ -1,0 +1,68 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 10,
+      "passed": 6,
+      "failed": 4,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_asana_onboarding_tasks_created",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_bamboohr_roster_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_calendar_interview_events_created",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_distractor_apis_touched",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_docusign_offer_envelope_drafted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gmail_drafts_created",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gmail_message_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_greenhouse_pipeline_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gusto_payroll_reviewed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_plaid_operating_cash_checked",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicLibrary owner="Catherine Conway" updated="2026-02-08">
+  <description>Listening collection organised by studio task. No words while painting, so the working playlists stay instrumental.</description>
+  <playlists>
+    <playlist id="PL-01" name="Long Wash Stages" mood="weather, not music" trackCount="6">
+      <note>Nothing with a strong pulse. A graded wash cannot have a rhythm pulling at the hand.</note>
+      <track order="1"><title>Music for Airports, 1/1</title><composer>Brian Eno</composer><genre>ambient</genre><minutes>17.4</minutes></track>
+      <track order="2"><title>Reflection</title><composer>Brian Eno</composer><genre>ambient</genre><minutes>54.0</minutes></track>
+      <track order="3"><title>Thursday Afternoon</title><composer>Brian Eno</composer><genre>ambient</genre><minutes>20.8</minutes></track>
+      <track order="4"><title>An Ending, Ascent</title><composer>Brian Eno</composer><genre>ambient</genre><minutes>4.4</minutes></track>
+      <track order="5"><title>Spiegel im Spiegel</title><composer>Arvo Part</composer><genre>modern classical</genre><minutes>9.0</minutes></track>
+      <track order="6"><title>Aqua</title><composer>Ryuichi Sakamoto</composer><genre>ambient</genre><minutes>2.8</minutes></track>
+    </playlist>
+    <playlist id="PL-02" name="Fine Detail Work" mood="a little melody to steady the hand" trackCount="5">
+      <note>A thread of melody keeps me from holding my breath during the veining.</note>
+      <track order="1"><title>Merry Christmas Mr. Lawrence</title><composer>Ryuichi Sakamoto</composer><genre>piano</genre><minutes>4.6</minutes></track>
+      <track order="2"><title>Gymnopedie No. 1</title><composer>Erik Satie</composer><genre>piano</genre><minutes>3.4</minutes></track>
+      <track order="3"><title>Nocturne in E flat, Op. 9 No. 2</title><composer>Frederic Chopin</composer><genre>classical</genre><minutes>4.6</minutes></track>
+      <track order="4"><title>The Heart Asks Pleasure First</title><composer>Michael Nyman</composer><genre>piano</genre><minutes>3.5</minutes></track>
+      <track order="5"><title>Clair de Lune</title><composer>Claude Debussy</composer><genre>classical</genre><minutes>5.1</minutes></track>
+    </playlist>
+    <playlist id="PL-03" name="Putting the Clinic Day Down" mood="clears the noise" trackCount="3">
+      <note>A few minutes of chant before the brush, the way the rosary clears the noise.</note>
+      <track order="1"><title>Salve Regina</title><composer>Benedictine Monks</composer><genre>Gregorian chant</genre><minutes>4.2</minutes></track>
+      <track order="2"><title>Veni Creator Spiritus</title><composer>Benedictine Monks</composer><genre>Gregorian chant</genre><minutes>3.8</minutes></track>
+      <track order="3"><title>Kyrie</title><composer>Benedictine Monks</composer><genre>Gregorian chant</genre><minutes>3.2</minutes></track>
+    </playlist>
+    <playlist id="PL-04" name="Sunday Kitchen and Home" mood="not the studio, the house" trackCount="4">
+      <note>Irish traditional and Enya for the weekend cooking, words allowed here.</note>
+      <track order="1"><title>The Foggy Dew</title><composer>The Chieftains</composer><genre>Irish traditional</genre><minutes>4.0</minutes></track>
+      <track order="2"><title>The Wind That Shakes the Barley</title><composer>The Chieftains</composer><genre>Irish traditional</genre><minutes>2.5</minutes></track>
+      <track order="3"><title>Orinoco Flow</title><composer>Enya</composer><genre>new age</genre><minutes>4.5</minutes></track>
+      <track order="4"><title>Caribbean Blue</title><composer>Enya</composer><genre>new age</genre><minutes>4.0</minutes></track>
+    </playlist>
+  </playlists>
+</musicLibrary>

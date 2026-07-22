@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gardenSeasonPlan years="2026-2027">
+  <season name="Fall 2026">
+    <task>
+      <date>2026-10-01</date>
+      <action>Clear summer beds and turn in finished compost</action>
+      <beds>all</beds>
+      <priority>high</priority>
+    </task>
+    <task>
+      <date>2026-10-10</date>
+      <action>Plant kale and winter collards in Bed 5</action>
+      <beds>5</beds>
+      <priority>high</priority>
+    </task>
+    <task>
+      <date>2026-10-25</date>
+      <action>Harvest remaining green tomatoes before first frost warning</action>
+      <beds>1</beds>
+      <priority>medium</priority>
+    </task>
+    <task>
+      <date>2026-11-05</date>
+      <action>Winterize raised beds with 3-inch straw mulch layer</action>
+      <beds>all</beds>
+      <priority>high</priority>
+    </task>
+    <task>
+      <date>2026-11-20</date>
+      <action>Final herb harvest, dry rosemary and thyme bundles for winter kitchen use</action>
+      <beds>5</beds>
+      <priority>medium</priority>
+    </task>
+  </season>
+  <season name="Winter Planning 2026-2027">
+    <task>
+      <date>2026-12-10</date>
+      <action>Review seed catalog and sketch spring bed layout and crop rotation</action>
+      <beds>all</beds>
+      <priority>low</priority>
+    </task>
+    <task>
+      <date>2027-01-15</date>
+      <action>Order spring seeds online for tomatoes, peppers, okra, and basil</action>
+      <beds>1, 2, 3, 5</beds>
+      <priority>high</priority>
+    </task>
+    <task>
+      <date>2027-02-01</date>
+      <action>Start tomato and pepper seedlings indoors under grow light</action>
+      <beds>1, 2</beds>
+      <priority>high</priority>
+    </task>
+    <task>
+      <date>2027-02-15</date>
+      <action>Add fresh compost to Bed 4 and prepare for squash transplants</action>
+      <beds>4</beds>
+      <priority>medium</priority>
+    </task>
+  </season>
+  <springTargets>
+    <bed>
+      <id>Bed 1</id>
+      <plannedCrop>tomatoes - Cherokee Purple and Brandywine</plannedCrop>
+      <targetTransplantDate>2027-04-15</targetTransplantDate>
+    </bed>
+    <bed>
+      <id>Bed 2</id>
+      <plannedCrop>peppers - shishito, bell, and banana</plannedCrop>
+      <targetTransplantDate>2027-04-15</targetTransplantDate>
+    </bed>
+    <bed>
+      <id>Bed 3</id>
+      <plannedCrop>okra - Clemson Spineless</plannedCrop>
+      <targetSeedDate>2027-05-01</targetSeedDate>
+    </bed>
+    <bed>
+      <id>Bed 4</id>
+      <plannedCrop>squash and zucchini</plannedCrop>
+      <targetTransplantDate>2027-04-20</targetTransplantDate>
+    </bed>
+    <bed>
+      <id>Bed 5</id>
+      <plannedCrop>herbs - basil, thyme, rosemary, chives</plannedCrop>
+      <targetTransplantDate>2027-04-01</targetTransplantDate>
+    </bed>
+  </springTargets>
+</gardenSeasonPlan>

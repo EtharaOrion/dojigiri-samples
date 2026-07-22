@@ -1,0 +1,73 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 11,
+      "passed": 6,
+      "failed": 5,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_airtable_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_classroom_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_confluence_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_distractor_apis_touched",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_docusign_envelope_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_greenhouse_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_okta_provisioning_write",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_okta_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_outlook_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_servicenow_incident_closed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_servicenow_read",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

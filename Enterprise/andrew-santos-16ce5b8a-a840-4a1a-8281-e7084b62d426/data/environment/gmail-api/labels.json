@@ -1,0 +1,245 @@
+[
+  {
+    "id": "INBOX",
+    "messages_total": "11",
+    "messages_unread": "6",
+    "name": "INBOX",
+    "threads_total": "11",
+    "threads_unread": "6",
+    "type": "system"
+  },
+  {
+    "id": "SENT",
+    "messages_total": "8",
+    "messages_unread": "0",
+    "name": "SENT",
+    "threads_total": "8",
+    "threads_unread": "0",
+    "type": "system"
+  },
+  {
+    "id": "DRAFTS",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "name": "DRAFT",
+    "threads_total": "1",
+    "threads_unread": "0",
+    "type": "system"
+  },
+  {
+    "id": "TRASH",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "name": "TRASH",
+    "threads_total": "0",
+    "threads_unread": "0",
+    "type": "system"
+  },
+  {
+    "id": "SPAM",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "name": "SPAM",
+    "threads_total": "0",
+    "threads_unread": "0",
+    "type": "system"
+  },
+  {
+    "id": "Label_dyaa",
+    "messages_total": "9",
+    "messages_unread": "1",
+    "name": "Detroit Youth Arts Alliance",
+    "threads_total": "9",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_followup",
+    "messages_total": "2",
+    "messages_unread": "1",
+    "name": "Follow up",
+    "threads_total": "2",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_grants",
+    "messages_total": "47",
+    "messages_unread": "3",
+    "name": "Grants",
+    "threads_total": "39",
+    "threads_unread": "3",
+    "type": "user"
+  },
+  {
+    "id": "Label_grants_greenfield",
+    "messages_total": "22",
+    "messages_unread": "1",
+    "name": "Grants/Greenfield Foundation",
+    "threads_total": "18",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_grants_beacon",
+    "messages_total": "14",
+    "messages_unread": "0",
+    "name": "Grants/Beacon Foundation",
+    "threads_total": "12",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_grants_hartwell",
+    "messages_total": "9",
+    "messages_unread": "2",
+    "name": "Grants/Hartwell Foundation",
+    "threads_total": "7",
+    "threads_unread": "2",
+    "type": "user"
+  },
+  {
+    "id": "Label_board",
+    "messages_total": "31",
+    "messages_unread": "0",
+    "name": "Board (Patricia Chen)",
+    "threads_total": "24",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_showcase",
+    "messages_total": "58",
+    "messages_unread": "4",
+    "name": "Showcase 2026",
+    "threads_total": "41",
+    "threads_unread": "4",
+    "type": "user"
+  },
+  {
+    "id": "Label_livernois",
+    "messages_total": "36",
+    "messages_unread": "2",
+    "name": "Livernois Opening",
+    "threads_total": "29",
+    "threads_unread": "2",
+    "type": "user"
+  },
+  {
+    "id": "Label_donors",
+    "messages_total": "44",
+    "messages_unread": "1",
+    "name": "Donors / Stewardship",
+    "threads_total": "33",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_city",
+    "messages_total": "12",
+    "messages_unread": "0",
+    "name": "City of Detroit (Lawson)",
+    "threads_total": "10",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_staff",
+    "messages_total": "28",
+    "messages_unread": "1",
+    "name": "DYAA Staff",
+    "threads_total": "22",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_family",
+    "messages_total": "19",
+    "messages_unread": "0",
+    "name": "Family",
+    "threads_total": "16",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_kids_school",
+    "messages_total": "23",
+    "messages_unread": "2",
+    "name": "Family/Kids School",
+    "threads_total": "20",
+    "threads_unread": "2",
+    "type": "user"
+  },
+  {
+    "id": "Label_finance",
+    "messages_total": "15",
+    "messages_unread": "0",
+    "name": "Household Finance (Maria Reyes)",
+    "threads_total": "12",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_health",
+    "messages_total": "8",
+    "messages_unread": "0",
+    "name": "Health & Appointments",
+    "threads_total": "7",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_speaking",
+    "messages_total": "11",
+    "messages_unread": "1",
+    "name": "Speaking (TEDx / NLA Chicago)",
+    "threads_total": "9",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_mentees",
+    "messages_total": "6",
+    "messages_unread": "0",
+    "name": "Mentees",
+    "threads_total": "6",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_press",
+    "messages_total": "4",
+    "messages_unread": "1",
+    "name": "Press / Media",
+    "threads_total": "4",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_kitchen_reno",
+    "messages_total": "7",
+    "messages_unread": "0",
+    "name": "Home/Kitchen Reno (Andre Williams)",
+    "threads_total": "5",
+    "threads_unread": "0",
+    "type": "user"
+  },
+  {
+    "id": "Label_travel",
+    "messages_total": "5",
+    "messages_unread": "1",
+    "name": "Travel",
+    "threads_total": "1",
+    "threads_unread": "1",
+    "type": "user"
+  },
+  {
+    "id": "Label_site",
+    "messages_total": "3",
+    "messages_unread": "1",
+    "name": "Website",
+    "threads_total": "1",
+    "threads_unread": "1",
+    "type": "user"
+  }
+]

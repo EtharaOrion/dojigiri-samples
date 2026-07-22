@@ -1,0 +1,21 @@
+board_id,end_date,goal,id,name,start_date,state,__api__,__table__,__file__,__row_index__
+1,2026-01-15T00:00:00.000Z,Close out permits and final inspection scheduling for Livernois.,100,Sprint 24 — Livernois Permits Close-Out,2026-03-24T00:00:00Z,active,jira-api,sprints,/opt/mocks/jira-api/sprints.json,0
+1,2025-03-28T00:00:00Z,"Initial Livernois site survey, contractor RFPs, lease execution.",101,Sprint 1 — Livernois Site Survey & Lease,2025-03-15T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,1
+1,2025-11-30T00:00:00Z,Demolition and rough plumbing for west-side build-out.,102,Sprint 2 — Demolition & Rough Plumbing,2025-10-15T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,2
+1,2025-12-19T00:00:00Z,Electrical rough-in and HVAC duct routing.,103,Sprint 3 — Electrical & HVAC Rough-In,2025-12-01T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,3
+1,2026-01-16T00:00:00Z,"Drywall, mudding, prep for paint.",104,Sprint 4 — Drywall & Prep,2025-12-22T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,4
+1,2026-02-13T00:00:00Z,"Paint, base trim, flooring underlayment.",105,Sprint 5 — Paint & Trim,2026-01-19T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,5
+1,2026-03-13T00:00:00Z,"Flooring install, fixtures, classroom millwork.",106,Sprint 6 — Flooring & Classroom Millwork,2026-02-16T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,6
+2,2026-01-15T00:00:00.000Z,Track contractor milestone payments against Greenfield restricted fund.,201,Payments Sprint — Q1 Contractor Milestones,2026-01-05T00:00:00Z,active,jira-api,sprints,/opt/mocks/jira-api/sprints.json,7
+2,2026-01-02T00:00:00Z,Q4 contractor milestone payments to Detroit Home Pros.,202,Payments Sprint — Q4 2025 Contractor Milestones,2025-10-06T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,8
+3,2026-02-27T00:00:00Z,"Procure showcase signage, donor wall, and program brochures.",301,Procurement Sprint — Showcase Assets,2026-02-02T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,9
+3,2026-01-15T00:00:00.000Z,"Procure final fixtures for Livernois grand opening — chairs, lighting, sound.",302,Procurement Sprint — Grand Opening Fixtures,2026-03-09T00:00:00Z,active,jira-api,sprints,/opt/mocks/jira-api/sprints.json,10
+4,2026-01-15T00:00:00.000Z,Close out permits and final inspection scheduling for Livernois.,303,Sprint 24 — Livernois Permits Close-Out,2026-03-24T00:00:00Z,active,jira-api,sprints,/opt/mocks/jira-api/sprints.json,11
+5,2025-03-28T00:00:00Z,"Initial Livernois site survey, contractor RFPs, lease execution.",304,Sprint 1 — Livernois Site Survey & Lease,2025-03-15T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,12
+6,2025-11-30T00:00:00Z,Demolition and rough plumbing for west-side build-out.,305,Sprint 2 — Demolition & Rough Plumbing,2025-10-15T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,13
+7,2025-12-19T00:00:00Z,Electrical rough-in and HVAC duct routing.,306,Sprint 3 — Electrical & HVAC Rough-In,2025-12-01T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,14
+8,2026-01-16T00:00:00Z,"Drywall, mudding, prep for paint.",307,Sprint 4 — Drywall & Prep,2025-12-22T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,15
+9,2026-02-13T00:00:00Z,"Paint, base trim, flooring underlayment.",308,Sprint 5 — Paint & Trim,2026-01-19T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,16
+10,2026-03-13T00:00:00Z,"Flooring install, fixtures, classroom millwork.",309,Sprint 6 — Flooring & Classroom Millwork,2026-02-16T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,17
+11,2026-01-15T00:00:00.000Z,Track contractor milestone payments against Greenfield restricted fund.,310,Payments Sprint — Q1 Contractor Milestones,2026-01-05T00:00:00Z,active,jira-api,sprints,/opt/mocks/jira-api/sprints.json,18
+12,2026-01-02T00:00:00Z,Q4 contractor milestone payments to Detroit Home Pros.,311,Payments Sprint — Q4 2025 Contractor Milestones,2025-10-06T00:00:00Z,closed,jira-api,sprints,/opt/mocks/jira-api/sprints.json,19

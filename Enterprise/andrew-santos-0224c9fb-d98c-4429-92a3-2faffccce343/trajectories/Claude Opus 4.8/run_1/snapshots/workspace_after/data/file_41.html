@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Program Catalog, Detroit Youth Arts Alliance</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;background:#1a1226;color:#efe9f7}
+  header.site{padding:44px 26px 30px;text-align:center;
+    background:radial-gradient(circle at top,#3b1f5c,#1a1226)}
+  header.site h1{font-size:2.3rem;color:#fff;letter-spacing:.6px}
+  header.site p{color:#c9b6e6;margin-top:8px}
+  .filters{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;padding:24px 16px}
+  .filters button{background:#2c1d44;color:#d8c6f0;border:1px solid #4a3168;padding:9px 18px;
+    border-radius:22px;cursor:pointer;font-size:.9rem;transition:all .25s}
+  .filters button:hover,.filters button.active{background:#a06bd6;color:#1a1226;border-color:#a06bd6;transform:scale(1.05)}
+  main{max-width:1080px;margin:0 auto;padding:6px 26px 56px}
+  .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:20px}
+  .card{background:linear-gradient(160deg,#2c1d44,#241733);border-radius:14px;overflow:hidden;
+    border:1px solid #3d2858;transition:transform .3s,box-shadow .3s;animation:fade .5s ease both}
+  .card:hover{transform:translateY(-6px);box-shadow:0 16px 30px rgba(160,107,214,.25)}
+  @keyframes fade{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:none}}
+  .swatch{height:120px;display:flex;align-items:center;justify-content:center;font-size:2.4rem;color:#fff;font-weight:bold}
+  .v{background:linear-gradient(135deg,#d6604d,#a03326)}
+  .m{background:linear-gradient(135deg,#3f8fd1,#225a86)}
+  .w{background:linear-gradient(135deg,#5db98a,#2f7a55)}
+  .d{background:linear-gradient(135deg,#e0a23a,#a06b18)}
+  .f{background:linear-gradient(135deg,#a06bd6,#5e3b94)}
+  .card .body{padding:18px}
+  .card h3{font-size:1.15rem;color:#fff;margin-bottom:4px}
+  .card .tag{display:inline-block;font-size:.72rem;text-transform:uppercase;letter-spacing:.6px;
+    color:#1a1226;background:#c9b6e6;padding:3px 9px;border-radius:10px;margin-bottom:10px}
+  .card p{color:#c9b6e6;font-size:.88rem;line-height:1.5}
+  .card .meta{margin-top:12px;color:#9d86c0;font-size:.8rem;border-top:1px solid #3d2858;padding-top:8px}
+  .count{text-align:center;color:#9d86c0;font-size:.86rem;margin:6px 0 18px}
+  footer.site{background:#130d1c;color:#9d86c0;text-align:center;padding:24px;font-size:.85rem}
+  @media(max-width:520px){header.site h1{font-size:1.7rem}}
+</style>
+</head>
+<body>
+<header class="site">
+  <h1>Program Catalog</h1>
+  <p>Detroit Youth Arts Alliance &nbsp;|&nbsp; After-School and Summer Studios for Ages 10 to 18</p>
+</header>
+<div class="filters">
+  <button class="active" data-f="all">All Studios</button>
+  <button data-f="visual">Visual</button>
+  <button data-f="music">Music</button>
+  <button data-f="word">Spoken Word</button>
+  <button data-f="dance">Dance</button>
+  <button data-f="film">Filmmaking</button>
+</div>
+<main>
+  <div class="count" id="count"></div>
+  <div class="gallery" id="gal"></div>
+</main>
+<footer class="site">
+  Detroit Youth Arts Alliance &nbsp;|&nbsp; Cass Avenue and Livernois Avenue &nbsp;|&nbsp; Copyright 2026 &nbsp;|&nbsp; andrew.santos@Greenridertech.co
+</footer>
+<script>
+  var items=[
+    {t:"Open Studio Painting",f:"visual",c:"v",tag:"Visual",d:"Canvas, color theory, and a wall for the year-end show. Built around what each artist wants to say.",m:"Tuesdays and Thursdays"},
+    {t:"Mixed Media Lab",f:"visual",c:"v",tag:"Visual",d:"Collage, print, and found material work that ends up in the showcase gallery.",m:"Saturdays, summer"},
+    {t:"Strings Ensemble",f:"music",c:"m",tag:"Music",d:"Group lessons and ensemble play, with a path toward the youth symphony for those who want it.",m:"Wednesdays"},
+    {t:"Beats and Production",f:"music",c:"m",tag:"Music",d:"Songwriting and home-studio production using the cloud drive to share tracks.",m:"Mondays"},
+    {t:"Spoken Word Circle",f:"word",c:"w",tag:"Spoken Word",d:"Writing, revision, and the courage to read out loud. Ends in a community open night.",m:"Fridays"},
+    {t:"Page to Stage",f:"word",c:"w",tag:"Spoken Word",d:"Personal essay and performance poetry for older teens building a portfolio.",m:"Summer intensive"},
+    {t:"Movement Foundations",f:"dance",c:"d",tag:"Dance",d:"Contemporary and street styles, taught as a way to take up space with confidence.",m:"Tuesdays"},
+    {t:"Showcase Choreography",f:"dance",c:"d",tag:"Dance",d:"A company piece built across the fall for the November showcase stage.",m:"Thursdays, fall"},
+    {t:"Documentary Workshop",f:"film",c:"f",tag:"Filmmaking",d:"Short neighborhood documentaries shot and edited by the young filmmakers themselves.",m:"Saturdays"},
+    {t:"Story and Edit",f:"film",c:"f",tag:"Filmmaking",d:"Script, shoot, and cut a three-minute film over an eight-week run.",m:"Summer"}
+  ];
+  var gal=document.getElementById('gal'),count=document.getElementById('count');
+  function render(filter){
+    gal.innerHTML='';var shown=0;
+    items.forEach(function(it){
+      if(filter!=='all'&&it.f!==filter)return;shown++;
+      var card=document.createElement('div');card.className='card';
+      card.innerHTML='<div class="swatch '+it.c+'">'+it.tag.charAt(0)+'</div>'+
+        '<div class="body"><span class="tag">'+it.tag+'</span><h3>'+it.t+'</h3>'+
+        '<p>'+it.d+'</p><div class="meta">Meets '+it.m+'</div></div>';
+      gal.appendChild(card);
+    });
+    count.textContent='Showing '+shown+' of '+items.length+' studios';
+  }
+  render('all');
+  document.querySelectorAll('.filters button').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('.filters button').forEach(function(x){x.classList.remove('active')});
+      b.classList.add('active');render(b.dataset.f);
+    });
+  });
+</script>
+</body>
+</html>

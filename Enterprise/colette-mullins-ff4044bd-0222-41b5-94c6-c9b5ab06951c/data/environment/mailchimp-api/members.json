@@ -1,0 +1,930 @@
+[
+  {
+    "email_address": "etienne.mullins.lcsw@gmail.com",
+    "full_name": "Étienne Mullins",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2025-07-07T05:55:43+00:00"
+  },
+  {
+    "email_address": "margaux.mullins@lakelandreserve.edu",
+    "full_name": "Margaux Mullins",
+    "list_id": "list-product",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2025-06-16T21:59:47+00:00"
+  },
+  {
+    "email_address": "jmullins@ashfieldcollege.edu",
+    "full_name": "Julien Mullins",
+    "list_id": "list-events",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2025-06-05T14:26:02+00:00"
+  },
+  {
+    "email_address": "slevin@gracechapelpgh.org",
+    "full_name": "Sophie Mullins",
+    "list_id": "list-customer-stories",
+    "member_rating": 5,
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-08-31T12:37:52+00:00"
+  },
+  {
+    "email_address": "slevin+list-tips@gracechapelpgh.org",
+    "full_name": "Rev. Sarah Levin",
+    "list_id": "list-tips",
+    "member_rating": 2,
+    "status": "cleaned",
+    "timestamp_signup": "2025-06-15T07:58:47+00:00"
+  },
+  {
+    "email_address": "rstern@stgenevievecle.org",
+    "full_name": "Rachel Stern",
+    "list_id": "list-newsletter-pad01",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-02T15:20:30+00:00"
+  },
+  {
+    "email_address": "hblumberg@blumberglaw.com",
+    "full_name": "Howard Blumberg",
+    "list_id": "list-product-pad01",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2025-08-05T21:58:41+00:00"
+  },
+  {
+    "email_address": "bklein@stgenevievecle.org",
+    "full_name": "Barbara Klein",
+    "list_id": "list-events-pad01",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2025-07-03T12:21:25+00:00"
+  },
+  {
+    "email_address": "frmurphy@staugcle.org",
+    "full_name": "Father Thomas Murphy",
+    "list_id": "list-customer-stories-pad01",
+    "member_rating": 2,
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-07-05T23:01:14+00:00"
+  },
+  {
+    "email_address": "rhassan@clevelandic.org",
+    "full_name": "Imam Rashid Hassan",
+    "list_id": "list-tips-pad01",
+    "member_rating": 3,
+    "status": "cleaned",
+    "timestamp_signup": "2025-08-22T19:59:06+00:00"
+  },
+  {
+    "email_address": "ncohen@shakermedical.com",
+    "full_name": "Dr. Nathan Cohen",
+    "list_id": "list-newsletter-pad02",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2025-07-27T23:41:23+00:00"
+  },
+  {
+    "email_address": "office@novaksons.com",
+    "full_name": "Mark Novak",
+    "list_id": "list-product-pad02",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-13T16:47:20+00:00"
+  },
+  {
+    "email_address": "info@katzcpa.com",
+    "full_name": "David Katz",
+    "list_id": "list-events-pad02",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2025-08-07T18:33:01+00:00"
+  },
+  {
+    "email_address": "design@bravermanarch.com",
+    "full_name": "Linda Braverman",
+    "list_id": "list-customer-stories-pad02",
+    "member_rating": 3,
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-08-23T15:50:12+00:00"
+  },
+  {
+    "email_address": "daniel.sterling.cle@gmail.com",
+    "full_name": "Sophie Greenwald",
+    "list_id": "list-tips-pad02",
+    "member_rating": 4,
+    "status": "cleaned",
+    "timestamp_signup": "2025-08-23T11:59:01+00:00"
+  },
+  {
+    "email_address": "jmullins+list-newsletter-pad03@ashfieldcollege.edu",
+    "full_name": "Jacob Weiss",
+    "list_id": "list-newsletter-pad03",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2025-08-19T04:55:50+00:00"
+  },
+  {
+    "email_address": "rstern+list-product-pad03@stgenevievecle.org",
+    "full_name": "Abigail Roth",
+    "list_id": "list-product-pad03",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-10T12:02:29+00:00"
+  },
+  {
+    "email_address": "office@cedarfairmountdental.com",
+    "full_name": "Dr. Maya Grossman",
+    "list_id": "list-events-pad03",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-12T23:27:27+00:00"
+  },
+  {
+    "email_address": "colette.mullins@Greenridertech.com",
+    "full_name": "Margaret O'Connell",
+    "list_id": "list-customer-stories-pad03",
+    "member_rating": 4,
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-09-03T22:32:32+00:00"
+  },
+  {
+    "email_address": "moconnell.cleveland@gmail.com",
+    "full_name": "Eleanor Whitlock",
+    "list_id": "list-tips-pad03",
+    "member_rating": 5,
+    "status": "cleaned",
+    "timestamp_signup": "2025-09-14T04:58:59+00:00"
+  },
+  {
+    "email_address": "ncohen+list-newsletter-pad04@shakermedical.com",
+    "full_name": "Patricia Brennan",
+    "list_id": "list-newsletter-pad04",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-15T00:00:00+00:00"
+  },
+  {
+    "email_address": "daniel.sterling.cle+list-product-pad04@gmail.com",
+    "full_name": "Joseph Caldwell",
+    "list_id": "list-product-pad04",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-17T19:19:32+00:00"
+  },
+  {
+    "email_address": "etienne.mullins.lcsw+list-newsletter-pad05@gmail.com",
+    "full_name": "Étienne Mullins",
+    "list_id": "list-newsletter-pad05",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2025-07-07T05:55:43+00:00"
+  },
+  {
+    "email_address": "margaux.mullins+list-product-pad05@lakelandreserve.edu",
+    "full_name": "Margaux Mullins",
+    "list_id": "list-product-pad05",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2025-06-16T21:59:47+00:00"
+  },
+  {
+    "email_address": "jmullins+list-events-pad04@ashfieldcollege.edu",
+    "full_name": "Julien Mullins",
+    "list_id": "list-events-pad04",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2025-06-05T14:26:02+00:00"
+  },
+  {
+    "email_address": "slevin+list-customer-stories-pad04@gracechapelpgh.org",
+    "full_name": "Sophie Mullins",
+    "list_id": "list-customer-stories-pad04",
+    "member_rating": 5,
+    "status": "unsubscribed",
+    "timestamp_signup": "2025-08-31T12:37:52+00:00"
+  },
+  {
+    "email_address": "slevin+list-tips-pad04@gracechapelpgh.org",
+    "full_name": "Rev. Sarah Levin",
+    "list_id": "list-tips-pad04",
+    "member_rating": 2,
+    "status": "cleaned",
+    "timestamp_signup": "2025-06-15T07:58:47+00:00"
+  },
+  {
+    "email_address": "rstern+list-newsletter-pad06@stgenevievecle.org",
+    "full_name": "Rachel Stern",
+    "list_id": "list-newsletter-pad06",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2025-09-02T15:20:30+00:00"
+  },
+  {
+    "email_address": "ruth.greenwald@gmail.com",
+    "full_name": "Ruth Greenwald",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-02T06:30:00+00:00"
+  },
+  {
+    "email_address": "nathaniel.sorensen@gmail.com",
+    "full_name": "Nathaniel Sorensen",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-02T18:07:00+00:00"
+  },
+  {
+    "email_address": "esther.cole@gmail.com",
+    "full_name": "Esther Cole",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-03T04:44:00+00:00"
+  },
+  {
+    "email_address": "josiah.larsen@gmail.com",
+    "full_name": "Josiah Larsen",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-03T16:21:00+00:00"
+  },
+  {
+    "email_address": "naomi.kowalski@gmail.com",
+    "full_name": "Naomi Kowalski",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-04T02:58:00+00:00"
+  },
+  {
+    "email_address": "ezra.sullivan@gmail.com",
+    "full_name": "Ezra Sullivan",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-04T13:35:00+00:00"
+  },
+  {
+    "email_address": "lydia.donnelly@gmail.com",
+    "full_name": "Lydia Donnelly",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-05T01:12:00+00:00"
+  },
+  {
+    "email_address": "caleb.weiss@gmail.com",
+    "full_name": "Caleb Weiss",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-05T11:49:00+00:00"
+  },
+  {
+    "email_address": "phoebe.delacroix@gmail.com",
+    "full_name": "Phoebe Delacroix",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-05T23:26:00+00:00"
+  },
+  {
+    "email_address": "silas.alvarez@gmail.com",
+    "full_name": "Silas Alvarez",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-06T10:03:00+00:00"
+  },
+  {
+    "email_address": "tabitha.okonkwo@gmail.com",
+    "full_name": "Tabitha Okonkwo",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-06T20:40:00+00:00"
+  },
+  {
+    "email_address": "amos.fitzgerald@gmail.com",
+    "full_name": "Amos Fitzgerald",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-07T08:17:00+00:00"
+  },
+  {
+    "email_address": "miriam.bergstrom@gmail.com",
+    "full_name": "Miriam Bergstrom",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-07T18:54:00+00:00"
+  },
+  {
+    "email_address": "jonah.haddad@gmail.com",
+    "full_name": "Jonah Haddad",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-08T05:31:00+00:00"
+  },
+  {
+    "email_address": "hannah.roth@gmail.com",
+    "full_name": "Hannah Roth",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-08T17:08:00+00:00"
+  },
+  {
+    "email_address": "levi.whitfield@gmail.com",
+    "full_name": "Levi Whitfield",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-09T03:45:00+00:00"
+  },
+  {
+    "email_address": "deborah.marsh@gmail.com",
+    "full_name": "Deborah Marsh",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-09T15:22:00+00:00"
+  },
+  {
+    "email_address": "simon.bianchi@gmail.com",
+    "full_name": "Simon Bianchi",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-10T01:59:00+00:00"
+  },
+  {
+    "email_address": "joanna.nakamura@gmail.com",
+    "full_name": "Joanna Nakamura",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-10T12:36:00+00:00"
+  },
+  {
+    "email_address": "thomas.chukwu@gmail.com",
+    "full_name": "Thomas Chukwu",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-11T00:13:00+00:00"
+  },
+  {
+    "email_address": "rebecca.greenwald@gmail.com",
+    "full_name": "Rebecca Greenwald",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-11T10:50:00+00:00"
+  },
+  {
+    "email_address": "andrew.sorensen@gmail.com",
+    "full_name": "Andrew Sorensen",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-11T22:27:00+00:00"
+  },
+  {
+    "email_address": "martha.cole@gmail.com",
+    "full_name": "Martha Cole",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-12T09:04:00+00:00"
+  },
+  {
+    "email_address": "philip.larsen@gmail.com",
+    "full_name": "Philip Larsen",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-12T19:41:00+00:00"
+  },
+  {
+    "email_address": "anna.kowalski@gmail.com",
+    "full_name": "Anna Kowalski",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-13T07:18:00+00:00"
+  },
+  {
+    "email_address": "mark.sullivan@gmail.com",
+    "full_name": "Mark Sullivan",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-13T17:55:00+00:00"
+  },
+  {
+    "email_address": "susanna.donnelly@gmail.com",
+    "full_name": "Susanna Donnelly",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-14T04:32:00+00:00"
+  },
+  {
+    "email_address": "aaron.weiss@gmail.com",
+    "full_name": "Aaron Weiss",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-14T16:09:00+00:00"
+  },
+  {
+    "email_address": "lois.delacroix@gmail.com",
+    "full_name": "Lois Delacroix",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-15T02:46:00+00:00"
+  },
+  {
+    "email_address": "barnabas.alvarez@gmail.com",
+    "full_name": "Barnabas Alvarez",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-15T14:23:00+00:00"
+  },
+  {
+    "email_address": "dorothy.okonkwo@gmail.com",
+    "full_name": "Dorothy Okonkwo",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-16T01:00:00+00:00"
+  },
+  {
+    "email_address": "samuel.fitzgerald@gmail.com",
+    "full_name": "Samuel Fitzgerald",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-16T11:37:00+00:00"
+  },
+  {
+    "email_address": "ruth.chukwu@gmail.com",
+    "full_name": "Ruth Chukwu",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-16T23:14:00+00:00"
+  },
+  {
+    "email_address": "nathaniel.greenwald@gmail.com",
+    "full_name": "Nathaniel Greenwald",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-17T09:51:00+00:00"
+  },
+  {
+    "email_address": "esther.sorensen@gmail.com",
+    "full_name": "Esther Sorensen",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-17T21:28:00+00:00"
+  },
+  {
+    "email_address": "josiah.cole@gmail.com",
+    "full_name": "Josiah Cole",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-18T08:05:00+00:00"
+  },
+  {
+    "email_address": "naomi.larsen@gmail.com",
+    "full_name": "Naomi Larsen",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-18T18:42:00+00:00"
+  },
+  {
+    "email_address": "ezra.kowalski@gmail.com",
+    "full_name": "Ezra Kowalski",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-19T06:19:00+00:00"
+  },
+  {
+    "email_address": "lydia.sullivan@gmail.com",
+    "full_name": "Lydia Sullivan",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-19T16:56:00+00:00"
+  },
+  {
+    "email_address": "caleb.donnelly@gmail.com",
+    "full_name": "Caleb Donnelly",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-20T03:33:00+00:00"
+  },
+  {
+    "email_address": "phoebe.weiss@gmail.com",
+    "full_name": "Phoebe Weiss",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-20T15:10:00+00:00"
+  },
+  {
+    "email_address": "silas.delacroix@gmail.com",
+    "full_name": "Silas Delacroix",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-21T01:47:00+00:00"
+  },
+  {
+    "email_address": "tabitha.alvarez@gmail.com",
+    "full_name": "Tabitha Alvarez",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-21T13:24:00+00:00"
+  },
+  {
+    "email_address": "amos.okonkwo@gmail.com",
+    "full_name": "Amos Okonkwo",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-22T00:01:00+00:00"
+  },
+  {
+    "email_address": "miriam.fitzgerald@gmail.com",
+    "full_name": "Miriam Fitzgerald",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-22T10:38:00+00:00"
+  },
+  {
+    "email_address": "jonah.bergstrom@gmail.com",
+    "full_name": "Jonah Bergstrom",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-22T22:15:00+00:00"
+  },
+  {
+    "email_address": "hannah.haddad@gmail.com",
+    "full_name": "Hannah Haddad",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-23T08:52:00+00:00"
+  },
+  {
+    "email_address": "levi.roth@gmail.com",
+    "full_name": "Levi Roth",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-23T20:29:00+00:00"
+  },
+  {
+    "email_address": "deborah.whitfield@gmail.com",
+    "full_name": "Deborah Whitfield",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-24T07:06:00+00:00"
+  },
+  {
+    "email_address": "simon.marsh@gmail.com",
+    "full_name": "Simon Marsh",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-24T17:43:00+00:00"
+  },
+  {
+    "email_address": "joanna.bianchi@gmail.com",
+    "full_name": "Joanna Bianchi",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-25T05:20:00+00:00"
+  },
+  {
+    "email_address": "thomas.nakamura@gmail.com",
+    "full_name": "Thomas Nakamura",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-25T15:57:00+00:00"
+  },
+  {
+    "email_address": "rebecca.chukwu@gmail.com",
+    "full_name": "Rebecca Chukwu",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-26T02:34:00+00:00"
+  },
+  {
+    "email_address": "andrew.greenwald@gmail.com",
+    "full_name": "Andrew Greenwald",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-26T14:11:00+00:00"
+  },
+  {
+    "email_address": "martha.sorensen@gmail.com",
+    "full_name": "Martha Sorensen",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-27T00:48:00+00:00"
+  },
+  {
+    "email_address": "philip.cole@gmail.com",
+    "full_name": "Philip Cole",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-27T12:25:00+00:00"
+  },
+  {
+    "email_address": "anna.larsen@gmail.com",
+    "full_name": "Anna Larsen",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-27T23:02:00+00:00"
+  },
+  {
+    "email_address": "mark.kowalski@gmail.com",
+    "full_name": "Mark Kowalski",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-28T09:39:00+00:00"
+  },
+  {
+    "email_address": "susanna.sullivan@gmail.com",
+    "full_name": "Susanna Sullivan",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-02-28T21:16:00+00:00"
+  },
+  {
+    "email_address": "aaron.donnelly@gmail.com",
+    "full_name": "Aaron Donnelly",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-01T07:53:00+00:00"
+  },
+  {
+    "email_address": "lois.weiss@gmail.com",
+    "full_name": "Lois Weiss",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-01T18:30:00+00:00"
+  },
+  {
+    "email_address": "barnabas.delacroix@gmail.com",
+    "full_name": "Barnabas Delacroix",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-02T06:07:00+00:00"
+  },
+  {
+    "email_address": "dorothy.alvarez@gmail.com",
+    "full_name": "Dorothy Alvarez",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-02T16:44:00+00:00"
+  },
+  {
+    "email_address": "samuel.okonkwo@gmail.com",
+    "full_name": "Samuel Okonkwo",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-03T04:21:00+00:00"
+  },
+  {
+    "email_address": "ruth.nakamura@gmail.com",
+    "full_name": "Ruth Nakamura",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-03T14:58:00+00:00"
+  },
+  {
+    "email_address": "nathaniel.chukwu@gmail.com",
+    "full_name": "Nathaniel Chukwu",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-04T01:35:00+00:00"
+  },
+  {
+    "email_address": "esther.greenwald@gmail.com",
+    "full_name": "Esther Greenwald",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-04T13:12:00+00:00"
+  },
+  {
+    "email_address": "josiah.sorensen@gmail.com",
+    "full_name": "Josiah Sorensen",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-04T23:49:00+00:00"
+  },
+  {
+    "email_address": "naomi.cole@gmail.com",
+    "full_name": "Naomi Cole",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-05T11:26:00+00:00"
+  },
+  {
+    "email_address": "ezra.larsen@gmail.com",
+    "full_name": "Ezra Larsen",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-05T22:03:00+00:00"
+  },
+  {
+    "email_address": "lydia.kowalski@gmail.com",
+    "full_name": "Lydia Kowalski",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-06T08:40:00+00:00"
+  },
+  {
+    "email_address": "caleb.sullivan@gmail.com",
+    "full_name": "Caleb Sullivan",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-06T20:17:00+00:00"
+  },
+  {
+    "email_address": "phoebe.donnelly@gmail.com",
+    "full_name": "Phoebe Donnelly",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-07T06:54:00+00:00"
+  },
+  {
+    "email_address": "silas.weiss@gmail.com",
+    "full_name": "Silas Weiss",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-07T17:31:00+00:00"
+  },
+  {
+    "email_address": "tabitha.delacroix@gmail.com",
+    "full_name": "Tabitha Delacroix",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-08T05:08:00+00:00"
+  },
+  {
+    "email_address": "amos.alvarez@gmail.com",
+    "full_name": "Amos Alvarez",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-08T15:45:00+00:00"
+  },
+  {
+    "email_address": "miriam.okonkwo@gmail.com",
+    "full_name": "Miriam Okonkwo",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-09T03:22:00+00:00"
+  },
+  {
+    "email_address": "jonah.fitzgerald@gmail.com",
+    "full_name": "Jonah Fitzgerald",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-09T13:59:00+00:00"
+  },
+  {
+    "email_address": "hannah.bergstrom@gmail.com",
+    "full_name": "Hannah Bergstrom",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-10T00:36:00+00:00"
+  },
+  {
+    "email_address": "levi.haddad@gmail.com",
+    "full_name": "Levi Haddad",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-10T12:13:00+00:00"
+  },
+  {
+    "email_address": "deborah.roth@gmail.com",
+    "full_name": "Deborah Roth",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-10T22:50:00+00:00"
+  },
+  {
+    "email_address": "simon.whitfield@gmail.com",
+    "full_name": "Simon Whitfield",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-11T10:27:00+00:00"
+  },
+  {
+    "email_address": "joanna.marsh@gmail.com",
+    "full_name": "Joanna Marsh",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-11T21:04:00+00:00"
+  },
+  {
+    "email_address": "thomas.bianchi@gmail.com",
+    "full_name": "Thomas Bianchi",
+    "list_id": "list-newsletter",
+    "member_rating": 4,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-12T07:41:00+00:00"
+  },
+  {
+    "email_address": "rebecca.nakamura@gmail.com",
+    "full_name": "Rebecca Nakamura",
+    "list_id": "list-newsletter",
+    "member_rating": 5,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-12T19:18:00+00:00"
+  },
+  {
+    "email_address": "andrew.chukwu@gmail.com",
+    "full_name": "Andrew Chukwu",
+    "list_id": "list-newsletter",
+    "member_rating": 1,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-13T05:55:00+00:00"
+  },
+  {
+    "email_address": "martha.greenwald@gmail.com",
+    "full_name": "Martha Greenwald",
+    "list_id": "list-newsletter",
+    "member_rating": 2,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-13T16:32:00+00:00"
+  },
+  {
+    "email_address": "philip.sorensen@gmail.com",
+    "full_name": "Philip Sorensen",
+    "list_id": "list-newsletter",
+    "member_rating": 3,
+    "status": "subscribed",
+    "timestamp_signup": "2026-03-14T04:09:00+00:00"
+  }
+]

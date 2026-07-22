@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Andrew Santos, Nonprofit Leadership</title>
+<style>
+  :root{
+    --sand:#f6efe3; --clay:#b6531f; --clay-dark:#7e3712; --ink:#2b2016; --olive:#5d6b3a; --cream:#fffaf2;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Georgia,'Times New Roman',serif;background:var(--sand);color:var(--ink);line-height:1.6}
+  header.site{
+    background:linear-gradient(135deg,var(--clay),var(--clay-dark));color:var(--cream);
+    padding:48px 24px 56px;position:relative;overflow:hidden;
+  }
+  header.site::after{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;
+    border-radius:50%;background:rgba(255,255,255,.08);animation:drift 9s ease-in-out infinite}
+  @keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(18px)}}
+  header.site h1{font-size:2.6rem;letter-spacing:.5px}
+  header.site .role{font-size:1.15rem;opacity:.92;margin-top:6px}
+  header.site .contact{margin-top:14px;font-size:.95rem;font-family:Verdana,Geneva,sans-serif}
+  nav{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
+  nav button{background:rgba(255,255,255,.14);color:var(--cream);border:1px solid rgba(255,255,255,.4);
+    padding:9px 16px;border-radius:24px;cursor:pointer;font-size:.95rem;transition:all .25s ease}
+  nav button:hover,nav button.active{background:var(--cream);color:var(--clay-dark);transform:translateY(-2px)}
+  main{max-width:980px;margin:0 auto;padding:30px 24px 60px}
+  section.panel{display:none;animation:fade .5s ease}
+  section.panel.show{display:block}
+  @keyframes fade{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  h2{color:var(--clay-dark);font-size:1.7rem;margin:18px 0 12px;border-bottom:3px solid var(--olive);padding-bottom:6px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin-top:14px}
+  .card{background:var(--cream);border-radius:12px;padding:20px;box-shadow:0 6px 18px rgba(126,55,18,.12);
+    border-left:5px solid var(--clay);transition:transform .25s ease}
+  .card:hover{transform:translateY(-5px)}
+  .card h3{color:var(--olive);font-size:1.1rem;margin-bottom:6px}
+  .stat{font-size:2rem;color:var(--clay);font-weight:bold;font-family:Verdana,sans-serif}
+  ul.clean{list-style:none}
+  ul.clean li{padding:8px 0;border-bottom:1px dashed #d8c8b0}
+  ul.clean li::before{content:"\2022";color:var(--olive);font-weight:bold;margin-right:10px}
+  .timeline div{padding:10px 0 10px 22px;border-left:3px solid var(--olive);margin-left:8px;position:relative}
+  .timeline div::before{content:"";position:absolute;left:-9px;top:14px;width:14px;height:14px;
+    background:var(--clay);border-radius:50%}
+  .year{font-family:Verdana,sans-serif;font-weight:bold;color:var(--clay-dark)}
+  footer.site{background:var(--ink);color:#e8ddca;text-align:center;padding:26px 24px;font-family:Verdana,sans-serif;font-size:.9rem}
+  footer.site a{color:#f0b988;text-decoration:none}
+  @media(max-width:600px){header.site h1{font-size:2rem}main{padding:20px 16px}}
+</style>
+</head>
+<body>
+<header class="site">
+  <h1>Andrew Santos</h1>
+  <div class="role">Executive Director, Detroit Youth Arts Alliance</div>
+  <div class="contact">Midtown Detroit, Michigan &nbsp;|&nbsp; andrew.santos@dyaa.org &nbsp;|&nbsp; office on Cass Avenue</div>
+  <nav>
+    <button class="active" data-tab="about">About</button>
+    <button data-tab="impact">Impact</button>
+    <button data-tab="path">Path</button>
+    <button data-tab="speaking">Speaking</button>
+  </nav>
+</header>
+<main>
+  <section class="panel show" id="about">
+    <h2>Who I Am</h2>
+    <p>I lead a Midtown nonprofit that serves more than four hundred young people each year, ages ten to eighteen, across visual arts, music, spoken word, dance, and filmmaking. Every decision I make passes through one question: how does this serve our kids? I have held this work for eight years, with two years in city cultural affairs before that.</p>
+    <div class="grid">
+      <div class="card"><h3>Mission</h3><p>Arts as something the next generation inherits and builds, not something they have to choose against.</p></div>
+      <div class="card"><h3>Roots</h3><p>First-generation Portuguese-Brazilian American, raised in Mexicantown, now in Palmer Woods with my family.</p></div>
+      <div class="card"><h3>Craft</h3><p>Grant writing is my quiet superpower. I build the case and the building, the program and the bus.</p></div>
+    </div>
+  </section>
+  <section class="panel" id="impact">
+    <h2>By the Numbers</h2>
+    <div class="grid">
+      <div class="card"><div class="stat">400+</div><h3>Youth Served Yearly</h3><p>Ages ten to eighteen, after-school and summer.</p></div>
+      <div class="card"><div class="stat">14</div><h3>Full-Time Staff</h3><p>Six teaching artists, three coordinators, a program director, and more.</p></div>
+      <div class="card"><div class="stat">850K</div><h3>Operating Budget (USD)</h3><p>Roughly sixty percent grants, twenty percent individual donors.</p></div>
+      <div class="card"><div class="stat">2</div><h3>Program Sites</h3><p>The Cass Avenue home and a new west-side facility on Livernois Avenue.</p></div>
+    </div>
+    <ul class="clean">
+      <li>Annual Youth Arts Showcase at the Great Lakes Discovery Center, our flagship fundraiser.</li>
+      <li>Greenfield Foundation two-year award of 150,000 USD funding the west-side renovation.</li>
+      <li>Grand opening of the Livernois Avenue site planned for November 21, 2026.</li>
+    </ul>
+  </section>
+  <section class="panel" id="path">
+    <h2>The Path</h2>
+    <div class="timeline">
+      <div><span class="year">2005</span> BA in Sociology, Westfield University, mentored into the sector by Dr. Kwame Asante.</div>
+      <div><span class="year">2008</span> MA in Public Policy, Motor City State University. Began at the Westfield Neighborhood Council.</div>
+      <div><span class="year">2016</span> Policy Analyst, City of Detroit Office of Cultural Affairs.</div>
+      <div><span class="year">2018</span> Stepped into the Executive Director role at the Alliance.</div>
+      <div><span class="year">2027</span> Building toward a full second-site program year on the west side.</div>
+    </div>
+  </section>
+  <section class="panel" id="speaking">
+    <h2>Speaking and Mentoring</h2>
+    <div class="grid">
+      <div class="card"><h3>TEDx Detroit, 2024</h3><p>A talk on culture as inheritance and the rooms where young artists find their voice.</p></div>
+      <div class="card"><h3>Leadership Conference, Chicago</h3><p>On the place-based arts funding panel, October 21 to 23, 2026.</p></div>
+      <div class="card"><h3>Mentoring</h3><p>Three young nonprofit professionals through the sector network, a year-round commitment.</p></div>
+    </div>
+    <p style="margin-top:16px">Want me at your table? Reach out and we will find a date that works.</p>
+  </section>
+</main>
+<footer class="site">
+  Andrew Santos &nbsp;|&nbsp; Detroit, Michigan &nbsp;|&nbsp; Copyright 2026 &nbsp;|&nbsp;
+  <a href="mailto:andrew.santos@dyaa.org">andrew.santos@dyaa.org</a>
+</footer>
+<script>
+  var btns=document.querySelectorAll('nav button');
+  var panels=document.querySelectorAll('section.panel');
+  btns.forEach(function(b){
+    b.addEventListener('click',function(){
+      btns.forEach(function(x){x.classList.remove('active')});
+      panels.forEach(function(p){p.classList.remove('show')});
+      b.classList.add('active');
+      document.getElementById(b.dataset.tab).classList.add('show');
+    });
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+{
+  "CompanyName": "Driftwood Brewing Company",
+  "LegalName": "Driftwood Brewing Company LLC",
+  "CompanyAddr": {
+    "Line1": "2245 E Burnside St",
+    "City": "Portland",
+    "CountrySubDivisionCode": "OR",
+    "PostalCode": "97214"
+  },
+  "Email": {
+    "Address": "hello@driftwoodbrewingcompany.com"
+  },
+  "PrimaryPhone": {
+    "FreeFormNumber": "(503) 555-0100"
+  },
+  "FiscalYearStartMonth": "January",
+  "Country": "US",
+  "IndustryType": "Breweries",
+  "NameValue": [
+    {
+      "Name": "OwnerName",
+      "Value": "Stuart Myer"
+    },
+    {
+      "Name": "CoOwnerName",
+      "Value": "Jake Callahan"
+    },
+    {
+      "Name": "OwnershipSplit",
+      "Value": "Stuart 50% / Jake 50%"
+    }
+  ],
+  "MetaData": {
+    "CreateTime": "2023-04-03T10:00:00-07:00",
+    "LastUpdatedTime": "2025-12-27T09:15:00-07:00"
+  }
+}

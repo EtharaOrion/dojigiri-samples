@@ -1,0 +1,8 @@
+created,creator,id,is_archived,is_private,name,num_members,purpose,topic,__api__,__table__,__file__,__row_index__
+1719858600,U001PERSONA,C001GENERA,False,False,general,17,All-staff updates and announcements,DYAA all-staff — Cass Avenue + Livernois,slack-api,channels,/opt/mocks/slack-api/channels.json,0
+1719858600,U001PERSONA,C002RANDOM,False,False,random,17,"Off-topic chatter, kid milestones, staff celebrations",Watercooler — keep it kind,slack-api,channels,/opt/mocks/slack-api/channels.json,1
+1719858600,U002MARCUS,C003PROGRA,False,False,program-team,10,"Teaching artists, program coordinators, curriculum hand-offs",Marcus runs point — surface to Andrew when needed,slack-api,channels,/opt/mocks/slack-api/channels.json,2
+1722547200,U001PERSONA,C004GRANTS,False,True,grants-and-donors,5,"Grant deadlines, sponsor commitments, donor stewardship — restricted",Andrew + Devon + Marcus only; no youth detail,slack-api,channels,/opt/mocks/slack-api/channels.json,3
+1738368000,U001PERSONA,C005SHOWCA,False,False,showcase-2026,12,"Showcase production, sponsors, venue ops — Great Lakes Discovery Center",Showcase week countdown lives here,slack-api,channels,/opt/mocks/slack-api/channels.json,4
+1735689600,U001PERSONA,C006LIVERN,False,False,livernois-launch,9,"Livernois Avenue facility build-out, hiring, and grand opening",Grand opening 2026-11-21,slack-api,channels,/opt/mocks/slack-api/channels.json,5
+1730419200,U001PERSONA,C007ANNOUN,False,False,announcements,17,"Read-only org announcements, posted by Andrew or Marcus",Pinned: Q3 board meeting Oct 27,slack-api,channels,/opt/mocks/slack-api/channels.json,6

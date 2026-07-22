@@ -1,0 +1,674 @@
+[
+  {
+    "answer": "Gregory Paulson",
+    "field_id": "fld-cfcd208495",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-cfcd208495"
+  },
+  {
+    "answer": "gregory.paulson@bellmark.com",
+    "field_id": "fld-c4ca4238a0",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-cfcd208495"
+  },
+  {
+    "answer": "Fitness classes",
+    "field_id": "fld-c81e728d9d",
+    "field_type": "multiple_choice",
+    "ref": "wellness_interest",
+    "response_id": "resp-cfcd208495"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-eccbc87e4b",
+    "field_type": "rating",
+    "ref": "balance_rating",
+    "response_id": "resp-cfcd208495"
+  },
+  {
+    "answer": "Tamara Vance",
+    "field_id": "fld-cfcd208495",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-c4ca4238a0"
+  },
+  {
+    "answer": "tamara.vance@bellmark.com",
+    "field_id": "fld-c4ca4238a0",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-c4ca4238a0"
+  },
+  {
+    "answer": "Mental health resources",
+    "field_id": "fld-c81e728d9d",
+    "field_type": "multiple_choice",
+    "ref": "wellness_interest",
+    "response_id": "resp-c4ca4238a0"
+  },
+  {
+    "answer": 7,
+    "field_id": "fld-eccbc87e4b",
+    "field_type": "rating",
+    "ref": "balance_rating",
+    "response_id": "resp-c4ca4238a0"
+  },
+  {
+    "answer": "Derrick Osei",
+    "field_id": "fld-cfcd208495",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-c81e728d9d"
+  },
+  {
+    "answer": "derrick.osei@bellmark.com",
+    "field_id": "fld-c4ca4238a0",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-c81e728d9d"
+  },
+  {
+    "answer": "Health screenings",
+    "field_id": "fld-c81e728d9d",
+    "field_type": "multiple_choice",
+    "ref": "wellness_interest",
+    "response_id": "resp-c81e728d9d"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-eccbc87e4b",
+    "field_type": "rating",
+    "ref": "balance_rating",
+    "response_id": "resp-c81e728d9d"
+  },
+  {
+    "answer": "Meredith Cho",
+    "field_id": "fld-cfcd208495",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-f899139df5"
+  },
+  {
+    "answer": "meredith.cho@bellmark.com",
+    "field_id": "fld-c4ca4238a0",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-f899139df5"
+  },
+  {
+    "answer": "Nutrition coaching",
+    "field_id": "fld-c81e728d9d",
+    "field_type": "multiple_choice",
+    "ref": "wellness_interest",
+    "response_id": "resp-f899139df5"
+  },
+  {
+    "answer": 6,
+    "field_id": "fld-eccbc87e4b",
+    "field_type": "rating",
+    "ref": "balance_rating",
+    "response_id": "resp-f899139df5"
+  },
+  {
+    "answer": "Aaron Kessler",
+    "field_id": "fld-d3d9446802",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-38b3eff8ba"
+  },
+  {
+    "answer": "aaron.kessler@bellmark.com",
+    "field_id": "fld-6512bd43d9",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-38b3eff8ba"
+  },
+  {
+    "answer": "PPO",
+    "field_id": "fld-c20ad4d76f",
+    "field_type": "multiple_choice",
+    "ref": "plan_selected",
+    "response_id": "resp-38b3eff8ba"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-c51ce410c1",
+    "field_type": "rating",
+    "ref": "clarity_rating",
+    "response_id": "resp-38b3eff8ba"
+  },
+  {
+    "answer": "Nadia Petrov",
+    "field_id": "fld-d3d9446802",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-ec8956637a"
+  },
+  {
+    "answer": "nadia.petrov@bellmark.com",
+    "field_id": "fld-6512bd43d9",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-ec8956637a"
+  },
+  {
+    "answer": "HDHP with HSA",
+    "field_id": "fld-c20ad4d76f",
+    "field_type": "multiple_choice",
+    "ref": "plan_selected",
+    "response_id": "resp-ec8956637a"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-c51ce410c1",
+    "field_type": "rating",
+    "ref": "clarity_rating",
+    "response_id": "resp-ec8956637a"
+  },
+  {
+    "answer": "Curtis Rhodes",
+    "field_id": "fld-d3d9446802",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-3644a684f9"
+  },
+  {
+    "answer": "curtis.rhodes@bellmark.com",
+    "field_id": "fld-6512bd43d9",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-3644a684f9"
+  },
+  {
+    "answer": "HMO",
+    "field_id": "fld-c20ad4d76f",
+    "field_type": "multiple_choice",
+    "ref": "plan_selected",
+    "response_id": "resp-3644a684f9"
+  },
+  {
+    "answer": 7,
+    "field_id": "fld-c51ce410c1",
+    "field_type": "rating",
+    "ref": "clarity_rating",
+    "response_id": "resp-3644a684f9"
+  },
+  {
+    "answer": "Yvonne Baptiste",
+    "field_id": "fld-d3d9446802",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-757b505cfd"
+  },
+  {
+    "answer": "yvonne.baptiste@bellmark.com",
+    "field_id": "fld-6512bd43d9",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-757b505cfd"
+  },
+  {
+    "answer": "PPO",
+    "field_id": "fld-c20ad4d76f",
+    "field_type": "multiple_choice",
+    "ref": "plan_selected",
+    "response_id": "resp-757b505cfd"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-c51ce410c1",
+    "field_type": "rating",
+    "ref": "clarity_rating",
+    "response_id": "resp-757b505cfd"
+  },
+  {
+    "answer": "Franklin Ide",
+    "field_id": "fld-98f1370821",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-854d6fae5e"
+  },
+  {
+    "answer": "franklin.ide@bellmark.com",
+    "field_id": "fld-3c59dc048e",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-854d6fae5e"
+  },
+  {
+    "answer": "1-3 years",
+    "field_id": "fld-b6d767d2f8",
+    "field_type": "multiple_choice",
+    "ref": "tenure",
+    "response_id": "resp-854d6fae5e"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-37693cfc74",
+    "field_type": "rating",
+    "ref": "recommend_rating",
+    "response_id": "resp-854d6fae5e"
+  },
+  {
+    "answer": "Bethany Cruz",
+    "field_id": "fld-98f1370821",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-94f6d7e04a"
+  },
+  {
+    "answer": "bethany.cruz@bellmark.com",
+    "field_id": "fld-3c59dc048e",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-94f6d7e04a"
+  },
+  {
+    "answer": "5+ years",
+    "field_id": "fld-b6d767d2f8",
+    "field_type": "multiple_choice",
+    "ref": "tenure",
+    "response_id": "resp-94f6d7e04a"
+  },
+  {
+    "answer": 10,
+    "field_id": "fld-37693cfc74",
+    "field_type": "rating",
+    "ref": "recommend_rating",
+    "response_id": "resp-94f6d7e04a"
+  },
+  {
+    "answer": "Owen Maddox",
+    "field_id": "fld-98f1370821",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-34ed066df3"
+  },
+  {
+    "answer": "owen.maddox@bellmark.com",
+    "field_id": "fld-3c59dc048e",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-34ed066df3"
+  },
+  {
+    "answer": "Under 1 year",
+    "field_id": "fld-b6d767d2f8",
+    "field_type": "multiple_choice",
+    "ref": "tenure",
+    "response_id": "resp-34ed066df3"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-37693cfc74",
+    "field_type": "rating",
+    "ref": "recommend_rating",
+    "response_id": "resp-34ed066df3"
+  },
+  {
+    "answer": "Simone Clark",
+    "field_id": "fld-98f1370821",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-577bcc914f"
+  },
+  {
+    "answer": "simone.clark@bellmark.com",
+    "field_id": "fld-3c59dc048e",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-577bcc914f"
+  },
+  {
+    "answer": "3-5 years",
+    "field_id": "fld-b6d767d2f8",
+    "field_type": "multiple_choice",
+    "ref": "tenure",
+    "response_id": "resp-577bcc914f"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-37693cfc74",
+    "field_type": "rating",
+    "ref": "recommend_rating",
+    "response_id": "resp-577bcc914f"
+  },
+  {
+    "answer": "Devin Pratt",
+    "field_id": "fld-34173cb38f",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-18d8042386"
+  },
+  {
+    "answer": "devin.pratt@bellmark.com",
+    "field_id": "fld-c16a5320fa",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-18d8042386"
+  },
+  {
+    "answer": "Corporate",
+    "field_id": "fld-6364d3f0f4",
+    "field_type": "multiple_choice",
+    "ref": "department",
+    "response_id": "resp-18d8042386"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-182be0c5cd",
+    "field_type": "rating",
+    "ref": "onboarding_rating",
+    "response_id": "resp-18d8042386"
+  },
+  {
+    "answer": "Harriet Nguyen",
+    "field_id": "fld-34173cb38f",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-816b112c61"
+  },
+  {
+    "answer": "harriet.nguyen@bellmark.com",
+    "field_id": "fld-c16a5320fa",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-816b112c61"
+  },
+  {
+    "answer": "Manufacturing",
+    "field_id": "fld-6364d3f0f4",
+    "field_type": "multiple_choice",
+    "ref": "department",
+    "response_id": "resp-816b112c61"
+  },
+  {
+    "answer": 7,
+    "field_id": "fld-182be0c5cd",
+    "field_type": "rating",
+    "ref": "onboarding_rating",
+    "response_id": "resp-816b112c61"
+  },
+  {
+    "answer": "Roland Diaz",
+    "field_id": "fld-34173cb38f",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-69cb3ea317"
+  },
+  {
+    "answer": "roland.diaz@bellmark.com",
+    "field_id": "fld-c16a5320fa",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-69cb3ea317"
+  },
+  {
+    "answer": "Sales",
+    "field_id": "fld-6364d3f0f4",
+    "field_type": "multiple_choice",
+    "ref": "department",
+    "response_id": "resp-69cb3ea317"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-182be0c5cd",
+    "field_type": "rating",
+    "ref": "onboarding_rating",
+    "response_id": "resp-69cb3ea317"
+  },
+  {
+    "answer": "Paula Fenwick",
+    "field_id": "fld-34173cb38f",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-cee631121c"
+  },
+  {
+    "answer": "paula.fenwick@bellmark.com",
+    "field_id": "fld-c16a5320fa",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-cee631121c"
+  },
+  {
+    "answer": "Distribution",
+    "field_id": "fld-6364d3f0f4",
+    "field_type": "multiple_choice",
+    "ref": "department",
+    "response_id": "resp-cee631121c"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-182be0c5cd",
+    "field_type": "rating",
+    "ref": "onboarding_rating",
+    "response_id": "resp-cee631121c"
+  },
+  {
+    "answer": "Neil Abernathy",
+    "field_id": "fld-d645920e39",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-5b69b9cb83"
+  },
+  {
+    "answer": "neil.abernathy@bellmark.com",
+    "field_id": "fld-3416a75f4c",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-5b69b9cb83"
+  },
+  {
+    "answer": "Agree",
+    "field_id": "fld-a1d0c6e83f",
+    "field_type": "multiple_choice",
+    "ref": "belonging",
+    "response_id": "resp-5b69b9cb83"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-17e62166fc",
+    "field_type": "rating",
+    "ref": "inclusion_rating",
+    "response_id": "resp-5b69b9cb83"
+  },
+  {
+    "answer": "Gloria Mensah",
+    "field_id": "fld-d645920e39",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-b5b41fac03"
+  },
+  {
+    "answer": "gloria.mensah@bellmark.com",
+    "field_id": "fld-3416a75f4c",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-b5b41fac03"
+  },
+  {
+    "answer": "Strongly agree",
+    "field_id": "fld-a1d0c6e83f",
+    "field_type": "multiple_choice",
+    "ref": "belonging",
+    "response_id": "resp-b5b41fac03"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-17e62166fc",
+    "field_type": "rating",
+    "ref": "inclusion_rating",
+    "response_id": "resp-b5b41fac03"
+  },
+  {
+    "answer": "Sean Whitaker",
+    "field_id": "fld-d645920e39",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-2eb2c1f3d4"
+  },
+  {
+    "answer": "sean.whitaker@bellmark.com",
+    "field_id": "fld-3416a75f4c",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-2eb2c1f3d4"
+  },
+  {
+    "answer": "Neutral",
+    "field_id": "fld-a1d0c6e83f",
+    "field_type": "multiple_choice",
+    "ref": "belonging",
+    "response_id": "resp-2eb2c1f3d4"
+  },
+  {
+    "answer": 7,
+    "field_id": "fld-17e62166fc",
+    "field_type": "rating",
+    "ref": "inclusion_rating",
+    "response_id": "resp-2eb2c1f3d4"
+  },
+  {
+    "answer": "Camille Roux",
+    "field_id": "fld-d645920e39",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-7ac9e0b118"
+  },
+  {
+    "answer": "camille.roux@bellmark.com",
+    "field_id": "fld-3416a75f4c",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-7ac9e0b118"
+  },
+  {
+    "answer": "Agree",
+    "field_id": "fld-a1d0c6e83f",
+    "field_type": "multiple_choice",
+    "ref": "belonging",
+    "response_id": "resp-7ac9e0b118"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-17e62166fc",
+    "field_type": "rating",
+    "ref": "inclusion_rating",
+    "response_id": "resp-7ac9e0b118"
+  },
+  {
+    "answer": "Bruce Tanaka",
+    "field_id": "fld-c0c7c76d30",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-4d1f6a9c22"
+  },
+  {
+    "answer": "bruce.tanaka@bellmark.com",
+    "field_id": "fld-2838023a77",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-4d1f6a9c22"
+  },
+  {
+    "answer": "Live workshops",
+    "field_id": "fld-9a1158154d",
+    "field_type": "multiple_choice",
+    "ref": "format_pref",
+    "response_id": "resp-4d1f6a9c22"
+  },
+  {
+    "answer": 8,
+    "field_id": "fld-d82c8d1619",
+    "field_type": "rating",
+    "ref": "growth_rating",
+    "response_id": "resp-4d1f6a9c22"
+  },
+  {
+    "answer": "Wendy Salazar",
+    "field_id": "fld-c0c7c76d30",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-90bce3d112"
+  },
+  {
+    "answer": "wendy.salazar@bellmark.com",
+    "field_id": "fld-2838023a77",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-90bce3d112"
+  },
+  {
+    "answer": "Online courses",
+    "field_id": "fld-9a1158154d",
+    "field_type": "multiple_choice",
+    "ref": "format_pref",
+    "response_id": "resp-90bce3d112"
+  },
+  {
+    "answer": 9,
+    "field_id": "fld-d82c8d1619",
+    "field_type": "rating",
+    "ref": "growth_rating",
+    "response_id": "resp-90bce3d112"
+  },
+  {
+    "answer": "Malik Grant",
+    "field_id": "fld-c0c7c76d30",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-11aa22bb33"
+  },
+  {
+    "answer": "malik.grant@bellmark.com",
+    "field_id": "fld-2838023a77",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-11aa22bb33"
+  },
+  {
+    "answer": "Mentorship",
+    "field_id": "fld-9a1158154d",
+    "field_type": "multiple_choice",
+    "ref": "format_pref",
+    "response_id": "resp-11aa22bb33"
+  },
+  {
+    "answer": 10,
+    "field_id": "fld-d82c8d1619",
+    "field_type": "rating",
+    "ref": "growth_rating",
+    "response_id": "resp-11aa22bb33"
+  },
+  {
+    "answer": "Erin Donovan",
+    "field_id": "fld-c0c7c76d30",
+    "field_type": "short_text",
+    "ref": "respondent_name",
+    "response_id": "resp-44cc55dd66"
+  },
+  {
+    "answer": "erin.donovan@bellmark.com",
+    "field_id": "fld-2838023a77",
+    "field_type": "email",
+    "ref": "work_email",
+    "response_id": "resp-44cc55dd66"
+  },
+  {
+    "answer": "Lunch and learns",
+    "field_id": "fld-9a1158154d",
+    "field_type": "multiple_choice",
+    "ref": "format_pref",
+    "response_id": "resp-44cc55dd66"
+  },
+  {
+    "answer": 7,
+    "field_id": "fld-d82c8d1619",
+    "field_type": "rating",
+    "ref": "growth_rating",
+    "response_id": "resp-44cc55dd66"
+  }
+]

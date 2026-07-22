@@ -1,0 +1,13 @@
+{
+  "context": "Expense reimbursement",
+  "policy_name": "DYAA Reimbursement Policy",
+  "validation_rules": [
+    {
+      "action": "submit_receipt",
+      "notes": "Receipts must be submitted within 30 days.",
+      "requirement": "itemized_receipt_required",
+      "rule": "approval_required_over_500_USD"
+    }
+  ],
+  "version": "1.0"
+}

@@ -1,0 +1,21 @@
+ContactID,Name,FirstName,LastName,EmailAddress,IsCustomer,IsSupplier,ContactStatus,AccountNumber,_pk
+c0000001-0000-0000-0000-000000000001,Jessica Marie Taylor,Jessica,Taylor,jessica.taylor@Finthesiss.ai,True,False,ACTIVE,VAND-001,
+c0000002-0000-0000-0000-000000000002,Initech LLC,Bill,Lumbergh,accounts@initech.com,True,False,ACTIVE,INIT-002,
+c0000003-0000-0000-0000-000000000003,Mia Petrov,Mia,Petrov,mia.petrov.la@gmail.com,True,False,ACTIVE,GLOB-003,
+c0000004-0000-0000-0000-000000000004,Tomas Varga,Tomas,Varga,tomas.varga.sf@gmail.com,False,True,ACTIVE,Verdant-004,
+c0000005-0000-0000-0000-000000000005,Nina Okafor,Nina,Okafor,nina@bloomskinco.com,True,False,ACTIVE,STARK-005,
+c0000006-0000-0000-0000-000000000006,Ray Mitchell,Ray,Mitchell,ray.mitchell.design@gmail.com,False,True,ACTIVE,WONK-006,
+c0000007-0000-0000-0000-000000000007,Hooli Inc,Gavin,Belson,ar@hooli.com,True,False,ARCHIVED,HOOL-007,
+c0000001-0000-0000-0000-000000000001,Aria Chen,Helen,Brooks,scheduling@verdantprovisions.com,True,False,ACTIVE,VAND-001,c0000001-0000-0000-0000-000000000001#7
+c0000002-0000-0000-0000-000000000002,Verdant Provisions,Verdant,Provisions,hello@verdantprovisions.com,True,False,ACTIVE,INIT-002,c0000002-0000-0000-0000-000000000002#8
+c0000003-0000-0000-0000-000000000003,Pinnacle Collective,Pinnacle,Collective,mia.petrov.la@gmail.com,True,False,ACTIVE,GLOB-003,c0000003-0000-0000-0000-000000000003#9
+c0000004-0000-0000-0000-000000000004,Grace Taylor,Grace,Taylor,tomas.varga.sf@gmail.com,False,True,ACTIVE,Verdant-004,c0000004-0000-0000-0000-000000000004#10
+c0000005-0000-0000-0000-000000000005,David Taylor,David,Taylor,nina@bloomskinco.com,True,False,ACTIVE,STARK-005,c0000005-0000-0000-0000-000000000005#11
+c0000006-0000-0000-0000-000000000006,Mia Petrov,Mia,Petrov,ray.mitchell.design@gmail.com,False,True,ACTIVE,WONK-006,c0000006-0000-0000-0000-000000000006#12
+c0000007-0000-0000-0000-000000000007,Tomas Varga,Tomas,Varga,tomas.varga.sf@gmail.com,True,False,ARCHIVED,HOOL-007,c0000007-0000-0000-0000-000000000007#13
+c0000001-0000-0000-0000-000000000001,Nina Okafor,Nina,Okafor,nina@bloomskinco.com,True,False,ACTIVE,VAND-001,c0000001-0000-0000-0000-000000000001#14
+c0000002-0000-0000-0000-000000000002,Ray Mitchell,Ray,Mitchell,ray.mitchell.design@gmail.com,True,False,ACTIVE,INIT-002,c0000002-0000-0000-0000-000000000002#15
+c0000003-0000-0000-0000-000000000003,Marcus Reeves,Jennifer,Moss,mia.petrov.la@gmail.com,True,False,ACTIVE,GLOB-003,c0000003-0000-0000-0000-000000000003#16
+c0000004-0000-0000-0000-000000000004,Aria Chen,Helen,Brooks,tomas.varga.sf@gmail.com,False,True,ACTIVE,Verdant-004,c0000004-0000-0000-0000-000000000004#17
+c0000005-0000-0000-0000-000000000005,Verdant Provisions,Verdant,Provisions,nina@bloomskinco.com,True,False,ACTIVE,STARK-005,c0000005-0000-0000-0000-000000000005#18
+c0000006-0000-0000-0000-000000000006,Pinnacle Collective,Pinnacle,Collective,ray.mitchell.design@gmail.com,False,True,ACTIVE,WONK-006,c0000006-0000-0000-0000-000000000006#19

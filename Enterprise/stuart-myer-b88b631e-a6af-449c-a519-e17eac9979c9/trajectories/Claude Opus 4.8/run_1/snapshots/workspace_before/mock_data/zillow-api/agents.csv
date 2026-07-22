@@ -1,0 +1,4 @@
+active_listings,agent_id,brokerage,email,license_number,name,phone,rating,reviews,sold_last_12mo,__api__,__table__,__file__,__row_index__
+9,agent-1000,Portland Realty Group,maria.vasquez@homeward-realty.com,OR-RE-100200,Maria Vasquez,+15270102772,4.62,161,17,zillow-api,agents,/opt/mocks/zillow-api/agents.json,0
+7,agent-1001,Portland Realty Group,daniel.choi@homeward-realty.com,OR-RE-100201,Daniel Choi,+16351037627,4.42,55,9,zillow-api,agents,/opt/mocks/zillow-api/agents.json,1
+9,agent-1002,Portland Realty Group,priya.iyer@homeward-realty.com,OR-RE-100202,Priya Iyer,+13517582658,4.64,77,35,zillow-api,agents,/opt/mocks/zillow-api/agents.json,2

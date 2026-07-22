@@ -1,0 +1,8 @@
+city,company,country,email,is_residential,name,object_id,phone,state,street1,street2,validated,zip,__api__,__table__,__file__,__row_index__
+Beaverton,Conway Dermatology Associates,US,catherine.conway@Greenridertech.co,False,Catherine Conway,addr-3d88def86959,+15035550100,OR,586 Main Street,Suite 200,True,97005,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,0
+Lake Oswego,Conway Dermatology Associates,US,patrick.conway@gmail.com,True,Patrick Conway,addr-88390fdd8067,+15035550412,OR,190 Birch St,"Studio entrance, rear",True,97005,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,1
+Lake Oswego,Conway Dermatology Associates,US,eileen.conway@gmail.com,True,Eileen Conway,addr-3fb2ee0de6ca,+15035550419,OR,794 Pine St,Suite 140,True,97005,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,2
+Beaverton,Conway Dermatology Associates,US,declan.conway@gmail.com,True,Declan Conway,addr-1df96a58f2d6,+15035550426,OR,256 Pine St,Apt 3B,True,97005,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,3
+Eugene,Brightpath Heart Associates,US,brian.mitchell@gmail.com,True,Brian Mitchell,addr-e2010fbc90f2,+15415550433,OR,914 Birch St,Unit 7,True,97005,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,4
+Seattle,Ridgecrest Engineering,US,sean.conway@gmail.com,True,Sean Conway,addr-11bbab4d05cc,+12065550440,WA,217 Birch St,Suite 210,True,98101,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,5
+Dublin,Conway Dermatology Associates,US,bridget.gallagher@gmail.com,True,Bridget Gallagher,addr-844ec4a2ec70,+35315550447,OR,552 Oak St,Building C,True,97005,shippo-api,addresses,/opt/mocks/shippo-api/addresses.json,6

@@ -1,0 +1,11 @@
+company_id,department,email,first_name,flsa_status,id,job_title,last_name,payment_unit,rate,start_date,terminated,__api__,__table__,__file__,__row_index__
+co-0000f7b97211,Clinical,catherine.conway@Greenridertech.co,Catherine,Exempt,emp-9db1b05f,Founder & Lead Dermatologist,Conway,Year,320000.0,2015-01-05,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,0
+co-0000f7b97211,Clinical,rachel.hoffman@Greenridertech.co,Rachel,Exempt,emp-3219fe72,Partner Dermatologist,Hoffman,Year,295000.0,2017-06-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,1
+co-0000f7b97211,Nursing,lauren.bell@Greenridertech.co,Lauren,Exempt,emp-e9e15fcb,Nurse Practitioner,Bell,Year,128000.0,2019-03-04,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,2
+co-0000f7b97211,Nursing,marcus.grant@Greenridertech.co,Marcus,Exempt,emp-10e7420c,Nurse Practitioner,Grant,Year,122000.0,2021-01-11,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,3
+co-0000f7b97211,Admin,diane.kowalski@Greenridertech.co,Diane,Exempt,emp-2286b15c,Office Manager,Kowalski,Year,78000.0,2016-02-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,4
+co-0000f7b97211,Clinical,sofia.ramirez@Greenridertech.co,Sofia,Non-Exempt,emp-a20539b8,Medical Assistant,Ramirez,Year,46000.0,2020-05-11,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,5
+co-0000f7b97211,Clinical,kayla.nguyen@Greenridertech.co,Kayla,Non-Exempt,emp-11efe83a,Medical Assistant,Nguyen,Year,44000.0,2018-03-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,6
+co-0000f7b97211,Clinical,andre.willis@Greenridertech.co,Andre,Non-Exempt,emp-979e0af2,Medical Assistant,Willis,Year,43000.0,2019-05-06,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,7
+co-0000f7b97211,Front Office,heather.doyle@Greenridertech.co,Heather,Non-Exempt,emp-8bcb5761,Front Desk Coordinator,Doyle,Year,40000.0,2018-07-09,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,8
+co-0000f7b97211,Front Office,priya.shah@Greenridertech.co,Priya,Non-Exempt,emp-476cff32,Front Desk Coordinator,Shah,Year,39000.0,2021-06-14,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,9

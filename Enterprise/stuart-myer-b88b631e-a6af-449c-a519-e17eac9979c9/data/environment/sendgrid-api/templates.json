@@ -1,0 +1,47 @@
+[
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Driftwood Brewing Company.</p>",
+    "id": "d-00000000000004",
+    "name": "welcome",
+    "subject": "Welcome to Driftwood Brewing Company, {{first_name}}!",
+    "updated_at": "2025-10-29T12:26:35+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-00000000000008",
+    "name": "password-reset",
+    "subject": "Reset your Driftwood Brewing Company password",
+    "updated_at": "2025-12-07T18:38:46+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-0000000000000d",
+    "name": "monthly-news",
+    "subject": "Driftwood Brewing Company — {{month}} highlights",
+    "updated_at": "2025-12-20T23:29:11+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-00000000000011",
+    "name": "invoice",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2025-12-26T22:09:41+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-00000000000015",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-12-11T19:42:01+00:00"
+  }
+]

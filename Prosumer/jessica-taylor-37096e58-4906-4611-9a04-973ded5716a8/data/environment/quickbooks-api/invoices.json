@@ -1,0 +1,1962 @@
+[
+  {
+    "Id": "inv-2026-101",
+    "DocNumber": "INV-2026101",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-12-13",
+    "DueDate": "2027-01-13",
+    "TotalAmt": 6500.0,
+    "Balance": 6500.0,
+    "Line": [
+      {
+        "Amount": 6500.0,
+        "Description": "Brand refresh — final deliverables",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-2026-102",
+    "DocNumber": "INV-2026102",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-11-28",
+    "DueDate": "2026-12-27",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Logo package draft round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-2026-103",
+    "DocNumber": "INV-2026103",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TxnDate": "2026-11-10",
+    "DueDate": "2026-12-09",
+    "TotalAmt": 3800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "Description": "Fall packaging final files",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-2026-104",
+    "DocNumber": "INV-2026104",
+    "CustomerRef": {
+      "value": "cust-hillroad",
+      "name": "Hill Road Coffee"
+    },
+    "TxnDate": "2026-10-26",
+    "DueDate": "2026-11-26",
+    "TotalAmt": 2800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Menu design final",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-2026-105",
+    "DocNumber": "INV-2026105",
+    "CustomerRef": {
+      "value": "cust-sunroom",
+      "name": "Sunroom Nonprofit"
+    },
+    "TxnDate": "2026-10-02",
+    "DueDate": "2026-11-02",
+    "TotalAmt": 3500.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3500.0,
+        "Description": "Annual report layout",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-2026-106",
+    "DocNumber": "INV-2026106",
+    "CustomerRef": {
+      "value": "cust-verdant",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-10-14",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Discovery sprint retainer",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-2026-107",
+    "DocNumber": "INV-2026107",
+    "CustomerRef": {
+      "value": "cust-bloomskin",
+      "name": "Bloom Skin Co."
+    },
+    "TxnDate": "2026-02-11",
+    "DueDate": "2026-03-13",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Holiday sticker set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-2026-108",
+    "DocNumber": "INV-2026108",
+    "CustomerRef": {
+      "value": "cust-pinnacle",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-01-12",
+    "DueDate": "2026-02-11",
+    "TotalAmt": 5200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 5200.0,
+        "Description": "Signage handoff milestone",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-200",
+    "DocNumber": "INV-20260200",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-11-01",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Brand identity — discovery + moodboard",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-201",
+    "DocNumber": "INV-20260201",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-02",
+    "DueDate": "2026-11-02",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 1",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-202",
+    "DocNumber": "INV-20260202",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-03",
+    "DueDate": "2026-11-03",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-203",
+    "DocNumber": "INV-20260203",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-04",
+    "DueDate": "2026-11-04",
+    "TotalAmt": 2800.0,
+    "Balance": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand identity — finalization + guidelines",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-204",
+    "DocNumber": "INV-20260204",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-05",
+    "DueDate": "2026-11-05",
+    "TotalAmt": 3200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Packaging — dielines + comps",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-205",
+    "DocNumber": "INV-20260205",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-06",
+    "DueDate": "2026-11-06",
+    "TotalAmt": 2400.0,
+    "Balance": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Packaging — print-ready file package",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-206",
+    "DocNumber": "INV-20260206",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-07",
+    "DueDate": "2026-11-07",
+    "TotalAmt": 2600.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "Description": "Signage — design system",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-207",
+    "DocNumber": "INV-20260207",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-08",
+    "DueDate": "2026-11-08",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Signage — vendor coordination",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-208",
+    "DocNumber": "INV-20260208",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-09",
+    "DueDate": "2026-11-09",
+    "TotalAmt": 3400.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Web — landing page design",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-209",
+    "DocNumber": "INV-20260209",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-10",
+    "DueDate": "2026-11-10",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Web — microsite build",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-210",
+    "DocNumber": "INV-20260210",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-11",
+    "DueDate": "2026-11-11",
+    "TotalAmt": 3800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "Description": "DTC — Shopify theme refresh",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-211",
+    "DocNumber": "INV-20260211",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-12",
+    "DueDate": "2026-11-12",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Print — trade show booth graphics",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-212",
+    "DocNumber": "INV-20260212",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-13",
+    "DueDate": "2026-11-13",
+    "TotalAmt": 900.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "Description": "Print — sell sheet + one-pager",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-213",
+    "DocNumber": "INV-20260213",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-14",
+    "DueDate": "2026-11-14",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Illustration — icon set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-214",
+    "DocNumber": "INV-20260214",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-15",
+    "DueDate": "2026-11-15",
+    "TotalAmt": 2800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand book — chapter set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-215",
+    "DocNumber": "INV-20260215",
+    "CustomerRef": {
+      "value": "cust-verdant-provisions",
+      "name": "Verdant Provisions"
+    },
+    "TxnDate": "2026-10-16",
+    "DueDate": "2026-11-16",
+    "TotalAmt": 4500.0,
+    "Balance": 4500.0,
+    "Line": [
+      {
+        "Amount": 4500.0,
+        "Description": "Retainer — quarterly design retainer",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-216",
+    "DocNumber": "INV-20260216",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-17",
+    "DueDate": "2026-11-17",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Brand identity — discovery + moodboard",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-217",
+    "DocNumber": "INV-20260217",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-18",
+    "DueDate": "2026-11-18",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 1",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-218",
+    "DocNumber": "INV-20260218",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-19",
+    "DueDate": "2026-11-19",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-219",
+    "DocNumber": "INV-20260219",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-20",
+    "DueDate": "2026-11-20",
+    "TotalAmt": 2800.0,
+    "Balance": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand identity — finalization + guidelines",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-220",
+    "DocNumber": "INV-20260220",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-21",
+    "DueDate": "2026-11-21",
+    "TotalAmt": 3200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Packaging — dielines + comps",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-221",
+    "DocNumber": "INV-20260221",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-22",
+    "DueDate": "2026-11-22",
+    "TotalAmt": 2400.0,
+    "Balance": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Packaging — print-ready file package",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-222",
+    "DocNumber": "INV-20260222",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-23",
+    "DueDate": "2026-11-23",
+    "TotalAmt": 2600.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "Description": "Signage — design system",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-223",
+    "DocNumber": "INV-20260223",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-24",
+    "DueDate": "2026-11-24",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Signage — vendor coordination",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-224",
+    "DocNumber": "INV-20260224",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-25",
+    "DueDate": "2026-11-25",
+    "TotalAmt": 3400.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Web — landing page design",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-225",
+    "DocNumber": "INV-20260225",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-26",
+    "DueDate": "2026-11-26",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Web — microsite build",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-226",
+    "DocNumber": "INV-20260226",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-27",
+    "DueDate": "2026-11-27",
+    "TotalAmt": 3800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "Description": "DTC — Shopify theme refresh",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-227",
+    "DocNumber": "INV-20260227",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-28",
+    "DueDate": "2026-11-28",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Print — trade show booth graphics",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-228",
+    "DocNumber": "INV-20260228",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-29",
+    "DueDate": "2026-11-29",
+    "TotalAmt": 900.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "Description": "Print — sell sheet + one-pager",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-229",
+    "DocNumber": "INV-20260229",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-10-30",
+    "DueDate": "2026-11-30",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Illustration — icon set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-230",
+    "DocNumber": "INV-20260230",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-31",
+    "TotalAmt": 2800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand book — chapter set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-231",
+    "DocNumber": "INV-20260231",
+    "CustomerRef": {
+      "value": "cust-pinnacle-collective",
+      "name": "Pinnacle Collective"
+    },
+    "TxnDate": "2026-11-02",
+    "DueDate": "2026-12-01",
+    "TotalAmt": 4500.0,
+    "Balance": 4500.0,
+    "Line": [
+      {
+        "Amount": 4500.0,
+        "Description": "Retainer — quarterly design retainer",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-232",
+    "DocNumber": "INV-20260232",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-03",
+    "DueDate": "2026-12-02",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Brand identity — discovery + moodboard",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-233",
+    "DocNumber": "INV-20260233",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-04",
+    "DueDate": "2026-12-03",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 1",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-234",
+    "DocNumber": "INV-20260234",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-05",
+    "DueDate": "2026-12-04",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-235",
+    "DocNumber": "INV-20260235",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-06",
+    "DueDate": "2026-12-05",
+    "TotalAmt": 2800.0,
+    "Balance": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand identity — finalization + guidelines",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-236",
+    "DocNumber": "INV-20260236",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-07",
+    "DueDate": "2026-12-06",
+    "TotalAmt": 3200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Packaging — dielines + comps",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-237",
+    "DocNumber": "INV-20260237",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-08",
+    "DueDate": "2026-12-07",
+    "TotalAmt": 2400.0,
+    "Balance": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Packaging — print-ready file package",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-238",
+    "DocNumber": "INV-20260238",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-09",
+    "DueDate": "2026-12-08",
+    "TotalAmt": 2600.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "Description": "Signage — design system",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-239",
+    "DocNumber": "INV-20260239",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-10",
+    "DueDate": "2026-12-09",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Signage — vendor coordination",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-240",
+    "DocNumber": "INV-20260240",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-11",
+    "DueDate": "2026-12-10",
+    "TotalAmt": 3400.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Web — landing page design",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-241",
+    "DocNumber": "INV-20260241",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-12",
+    "DueDate": "2026-12-11",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Web — microsite build",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-242",
+    "DocNumber": "INV-20260242",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-13",
+    "DueDate": "2026-12-12",
+    "TotalAmt": 3800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "Description": "DTC — Shopify theme refresh",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-243",
+    "DocNumber": "INV-20260243",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-14",
+    "DueDate": "2026-12-13",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Print — trade show booth graphics",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-244",
+    "DocNumber": "INV-20260244",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-15",
+    "DueDate": "2026-12-14",
+    "TotalAmt": 900.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "Description": "Print — sell sheet + one-pager",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-245",
+    "DocNumber": "INV-20260245",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-16",
+    "DueDate": "2026-12-15",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Illustration — icon set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-246",
+    "DocNumber": "INV-20260246",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-17",
+    "DueDate": "2026-12-16",
+    "TotalAmt": 2800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand book — chapter set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-247",
+    "DocNumber": "INV-20260247",
+    "CustomerRef": {
+      "value": "cust-bloom-skin-co",
+      "name": "Bloom Skin Co"
+    },
+    "TxnDate": "2026-11-18",
+    "DueDate": "2026-12-17",
+    "TotalAmt": 4500.0,
+    "Balance": 4500.0,
+    "Line": [
+      {
+        "Amount": 4500.0,
+        "Description": "Retainer — quarterly design retainer",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-248",
+    "DocNumber": "INV-20260248",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-19",
+    "DueDate": "2026-12-18",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Brand identity — discovery + moodboard",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-249",
+    "DocNumber": "INV-20260249",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-20",
+    "DueDate": "2026-12-19",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 1",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-250",
+    "DocNumber": "INV-20260250",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-21",
+    "DueDate": "2026-12-20",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-251",
+    "DocNumber": "INV-20260251",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-22",
+    "DueDate": "2026-12-21",
+    "TotalAmt": 2800.0,
+    "Balance": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand identity — finalization + guidelines",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-252",
+    "DocNumber": "INV-20260252",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-23",
+    "DueDate": "2026-12-22",
+    "TotalAmt": 3200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Packaging — dielines + comps",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-253",
+    "DocNumber": "INV-20260253",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-24",
+    "DueDate": "2026-12-23",
+    "TotalAmt": 2400.0,
+    "Balance": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Packaging — print-ready file package",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-254",
+    "DocNumber": "INV-20260254",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-25",
+    "DueDate": "2026-12-24",
+    "TotalAmt": 2600.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "Description": "Signage — design system",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-255",
+    "DocNumber": "INV-20260255",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-26",
+    "DueDate": "2026-12-25",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Signage — vendor coordination",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-256",
+    "DocNumber": "INV-20260256",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-27",
+    "DueDate": "2026-12-26",
+    "TotalAmt": 3400.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Web — landing page design",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-257",
+    "DocNumber": "INV-20260257",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-28",
+    "DueDate": "2026-12-27",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Web — microsite build",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-258",
+    "DocNumber": "INV-20260258",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-29",
+    "DueDate": "2026-12-28",
+    "TotalAmt": 3800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "Description": "DTC — Shopify theme refresh",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-259",
+    "DocNumber": "INV-20260259",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-30",
+    "DueDate": "2026-12-29",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Print — trade show booth graphics",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-260",
+    "DocNumber": "INV-20260260",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-11-31",
+    "DueDate": "2026-12-30",
+    "TotalAmt": 900.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "Description": "Print — sell sheet + one-pager",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-261",
+    "DocNumber": "INV-20260261",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-31",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Illustration — icon set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-262",
+    "DocNumber": "INV-20260262",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-12-02",
+    "DueDate": "2027-01-01",
+    "TotalAmt": 2800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand book — chapter set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-263",
+    "DocNumber": "INV-20260263",
+    "CustomerRef": {
+      "value": "cust-aurora-bistro-llc",
+      "name": "Aurora Bistro LLC"
+    },
+    "TxnDate": "2026-12-03",
+    "DueDate": "2027-01-02",
+    "TotalAmt": 4500.0,
+    "Balance": 4500.0,
+    "Line": [
+      {
+        "Amount": 4500.0,
+        "Description": "Retainer — quarterly design retainer",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-264",
+    "DocNumber": "INV-20260264",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-04",
+    "DueDate": "2027-01-03",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Brand identity — discovery + moodboard",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-265",
+    "DocNumber": "INV-20260265",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-05",
+    "DueDate": "2027-01-04",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 1",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-266",
+    "DocNumber": "INV-20260266",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-06",
+    "DueDate": "2027-01-05",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-267",
+    "DocNumber": "INV-20260267",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-07",
+    "DueDate": "2027-01-06",
+    "TotalAmt": 2800.0,
+    "Balance": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand identity — finalization + guidelines",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-268",
+    "DocNumber": "INV-20260268",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-08",
+    "DueDate": "2027-01-07",
+    "TotalAmt": 3200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Packaging — dielines + comps",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-269",
+    "DocNumber": "INV-20260269",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-09",
+    "DueDate": "2027-01-08",
+    "TotalAmt": 2400.0,
+    "Balance": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Packaging — print-ready file package",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-270",
+    "DocNumber": "INV-20260270",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-10",
+    "DueDate": "2027-01-09",
+    "TotalAmt": 2600.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "Description": "Signage — design system",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-271",
+    "DocNumber": "INV-20260271",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-11",
+    "DueDate": "2027-01-10",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Signage — vendor coordination",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-272",
+    "DocNumber": "INV-20260272",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-12",
+    "DueDate": "2027-01-11",
+    "TotalAmt": 3400.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Web — landing page design",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-273",
+    "DocNumber": "INV-20260273",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-13",
+    "DueDate": "2027-01-12",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Web — microsite build",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-274",
+    "DocNumber": "INV-20260274",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-14",
+    "DueDate": "2027-01-13",
+    "TotalAmt": 3800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3800.0,
+        "Description": "DTC — Shopify theme refresh",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-275",
+    "DocNumber": "INV-20260275",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-15",
+    "DueDate": "2027-01-14",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Print — trade show booth graphics",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-276",
+    "DocNumber": "INV-20260276",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-16",
+    "DueDate": "2027-01-15",
+    "TotalAmt": 900.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 900.0,
+        "Description": "Print — sell sheet + one-pager",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-277",
+    "DocNumber": "INV-20260277",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-17",
+    "DueDate": "2027-01-16",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Illustration — icon set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-278",
+    "DocNumber": "INV-20260278",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-18",
+    "DueDate": "2027-01-17",
+    "TotalAmt": 2800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand book — chapter set",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-279",
+    "DocNumber": "INV-20260279",
+    "CustomerRef": {
+      "value": "cust-kiln-+-loom-ceramics",
+      "name": "Kiln + Loom Ceramics"
+    },
+    "TxnDate": "2026-12-19",
+    "DueDate": "2027-01-18",
+    "TotalAmt": 4500.0,
+    "Balance": 4500.0,
+    "Line": [
+      {
+        "Amount": 4500.0,
+        "Description": "Retainer — quarterly design retainer",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-280",
+    "DocNumber": "INV-20260280",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-20",
+    "DueDate": "2027-01-19",
+    "TotalAmt": 1800.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Brand identity — discovery + moodboard",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-281",
+    "DocNumber": "INV-20260281",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-21",
+    "DueDate": "2027-01-20",
+    "TotalAmt": 2200.0,
+    "Balance": 2200.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 1",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-282",
+    "DocNumber": "INV-20260282",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-22",
+    "DueDate": "2027-01-21",
+    "TotalAmt": 2200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2200.0,
+        "Description": "Brand identity — concept round 2",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-283",
+    "DocNumber": "INV-20260283",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-23",
+    "DueDate": "2027-01-22",
+    "TotalAmt": 2800.0,
+    "Balance": 2800.0,
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Brand identity — finalization + guidelines",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-284",
+    "DocNumber": "INV-20260284",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-24",
+    "DueDate": "2027-01-23",
+    "TotalAmt": 3200.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3200.0,
+        "Description": "Packaging — dielines + comps",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-285",
+    "DocNumber": "INV-20260285",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-25",
+    "DueDate": "2027-01-24",
+    "TotalAmt": 2400.0,
+    "Balance": 2400.0,
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Packaging — print-ready file package",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-286",
+    "DocNumber": "INV-20260286",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-26",
+    "DueDate": "2027-01-25",
+    "TotalAmt": 2600.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 2600.0,
+        "Description": "Signage — design system",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-287",
+    "DocNumber": "INV-20260287",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-27",
+    "DueDate": "2027-01-26",
+    "TotalAmt": 1400.0,
+    "Balance": 1400.0,
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Signage — vendor coordination",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  },
+  {
+    "Id": "inv-288",
+    "DocNumber": "INV-20260288",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-28",
+    "DueDate": "2027-01-27",
+    "TotalAmt": 3400.0,
+    "Balance": 0.0,
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Web — landing page design",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Paid"
+  },
+  {
+    "Id": "inv-289",
+    "DocNumber": "INV-20260289",
+    "CustomerRef": {
+      "value": "cust-coastwise-nonprofit",
+      "name": "Coastwise Nonprofit"
+    },
+    "TxnDate": "2026-12-29",
+    "DueDate": "2027-01-28",
+    "TotalAmt": 4800.0,
+    "Balance": 4800.0,
+    "Line": [
+      {
+        "Amount": 4800.0,
+        "Description": "Web — microsite build",
+        "DetailType": "SalesItemLineDetail"
+      }
+    ],
+    "Status": "Open"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "Id": "4001",
+    "TxnDate": "2025-01-04",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Finley, Gerald"
+    },
+    "TotalAmt": 150.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 150.0
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  },
+  {
+    "Id": "4002",
+    "TxnDate": "2025-02-05",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Nadella, Priya"
+    },
+    "TotalAmt": 240.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 240.0
+      }
+    ],
+    "PrivateNote": "Zelle transfer"
+  },
+  {
+    "Id": "4003",
+    "TxnDate": "2025-04-07",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Colbert, Renee"
+    },
+    "TotalAmt": 180.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 180.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4004",
+    "TxnDate": "2025-05-08",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Marston, Anthony"
+    },
+    "TotalAmt": 400.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 400.0
+      }
+    ],
+    "PrivateNote": "Bank transfer"
+  },
+  {
+    "Id": "4005",
+    "TxnDate": "2025-07-10",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Redmond, Curtis"
+    },
+    "TotalAmt": 130.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 130.0
+      }
+    ],
+    "PrivateNote": "Check #1618"
+  },
+  {
+    "Id": "4006",
+    "TxnDate": "2025-08-11",
+    "CustomerRef": {
+      "value": "8",
+      "name": "Freeman, Yolanda"
+    },
+    "TotalAmt": 600.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5008",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 600.0
+      }
+    ],
+    "PrivateNote": "Card payment"
+  },
+  {
+    "Id": "4007",
+    "TxnDate": "2025-10-13",
+    "CustomerRef": {
+      "value": "10",
+      "name": "Barrera, Alicia"
+    },
+    "TotalAmt": 160.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5010",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 160.0
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  },
+  {
+    "Id": "4008",
+    "TxnDate": "2025-11-14",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Cobb, Nathaniel"
+    },
+    "TotalAmt": 624.9,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5011",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 624.9
+      }
+    ],
+    "PrivateNote": "Zelle transfer"
+  },
+  {
+    "Id": "4009",
+    "TxnDate": "2026-01-16",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Castellano, Owen"
+    },
+    "TotalAmt": 150.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5013",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 150.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4010",
+    "TxnDate": "2026-02-17",
+    "CustomerRef": {
+      "value": "14",
+      "name": "Simmons, Harold"
+    },
+    "TotalAmt": 240.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5014",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 240.0
+      }
+    ],
+    "PrivateNote": "Bank transfer"
+  },
+  {
+    "Id": "4011",
+    "TxnDate": "2025-01-19",
+    "CustomerRef": {
+      "value": "16",
+      "name": "Maple Street Realty"
+    },
+    "TotalAmt": 180.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5016",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 180.0
+      }
+    ],
+    "PrivateNote": "Check #1618"
+  },
+  {
+    "Id": "4012",
+    "TxnDate": "2025-02-20",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Hillsboro HR Roundtable"
+    },
+    "TotalAmt": 400.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5017",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 400.0
+      }
+    ],
+    "PrivateNote": "Card payment"
+  },
+  {
+    "Id": "4013",
+    "TxnDate": "2025-04-22",
+    "CustomerRef": {
+      "value": "19",
+      "name": "Calvary Hill Church"
+    },
+    "TotalAmt": 130.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5019",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 130.0
+      }
+    ],
+    "PrivateNote": "Check #1204"
+  },
+  {
+    "Id": "4014",
+    "TxnDate": "2025-05-23",
+    "CustomerRef": {
+      "value": "20",
+      "name": "Estes, Roland"
+    },
+    "TotalAmt": 600.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5020",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 600.0
+      }
+    ],
+    "PrivateNote": "Zelle transfer"
+  },
+  {
+    "Id": "4015",
+    "TxnDate": "2025-07-25",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Nadella, Priya"
+    },
+    "TotalAmt": 160.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5022",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 160.0
+      }
+    ],
+    "PrivateNote": "Venmo transfer"
+  },
+  {
+    "Id": "4016",
+    "TxnDate": "2025-08-26",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Webb, Marcus"
+    },
+    "TotalAmt": 624.9,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5023",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 624.9
+      }
+    ],
+    "PrivateNote": "Bank transfer"
+  }
+]

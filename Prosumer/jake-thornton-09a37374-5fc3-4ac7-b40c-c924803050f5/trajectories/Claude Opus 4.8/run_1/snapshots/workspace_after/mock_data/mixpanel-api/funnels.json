@@ -1,0 +1,222 @@
+{
+  "7468301": {
+    "funnel_id": "7468301",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 1,
+        "event": "signup_completed",
+        "count": 2058
+      }
+    ]
+  },
+  "7477301": {
+    "funnel_id": "7477301",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 2,
+        "event": "feature_used",
+        "count": 1307
+      }
+    ]
+  },
+  "7477302": {
+    "funnel_id": "7477302",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 3,
+        "event": "checkout_started",
+        "count": 822
+      }
+    ]
+  },
+  "7477303": {
+    "funnel_id": "7477303",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 4,
+        "event": "purchase",
+        "count": 443
+      }
+    ]
+  },
+  "7468302": {
+    "funnel_id": "7468302",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 1,
+        "event": "page_view",
+        "count": 1566
+      }
+    ]
+  },
+  "7477304": {
+    "funnel_id": "7477304",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 2,
+        "event": "checkout_started",
+        "count": 941
+      }
+    ]
+  },
+  "7477305": {
+    "funnel_id": "7477305",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 3,
+        "event": "purchase",
+        "count": 549
+      }
+    ]
+  },
+  "7477306": {
+    "funnel_id": "7477306",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 4,
+        "event": "subscription_started",
+        "count": 240
+      }
+    ]
+  },
+  "d0fca63": {
+    "funnel_id": "d0fca63",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 1,
+        "event": "signup_completed",
+        "count": 2073
+      }
+    ]
+  },
+  "deaf1a9": {
+    "funnel_id": "deaf1a9",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 2,
+        "event": "feature_used",
+        "count": 1322
+      }
+    ]
+  },
+  "96a76c6": {
+    "funnel_id": "96a76c6",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 3,
+        "event": "checkout_started",
+        "count": 837
+      }
+    ]
+  },
+  "f7474d0": {
+    "funnel_id": "f7474d0",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 4,
+        "event": "purchase",
+        "count": 458
+      }
+    ]
+  },
+  "0b7c4b0": {
+    "funnel_id": "0b7c4b0",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 1,
+        "event": "page_view",
+        "count": 1581
+      }
+    ]
+  },
+  "b21cad4": {
+    "funnel_id": "b21cad4",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 2,
+        "event": "checkout_started",
+        "count": 956
+      }
+    ]
+  },
+  "ae0f381": {
+    "funnel_id": "ae0f381",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 3,
+        "event": "purchase",
+        "count": 564
+      }
+    ]
+  },
+  "9f9224a": {
+    "funnel_id": "9f9224a",
+    "name": "Purchase Funnel",
+    "steps": [
+      {
+        "order": 4,
+        "event": "subscription_started",
+        "count": 255
+      }
+    ]
+  },
+  "588e33c": {
+    "funnel_id": "588e33c",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 1,
+        "event": "signup_completed",
+        "count": 2080
+      }
+    ]
+  },
+  "2f0af47": {
+    "funnel_id": "2f0af47",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 2,
+        "event": "feature_used",
+        "count": 1329
+      }
+    ]
+  },
+  "b5f8322": {
+    "funnel_id": "b5f8322",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 3,
+        "event": "checkout_started",
+        "count": 844
+      }
+    ]
+  },
+  "5237832": {
+    "funnel_id": "5237832",
+    "name": "Activation Funnel",
+    "steps": [
+      {
+        "order": 4,
+        "event": "purchase",
+        "count": 465
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+start_time,end_time,timezone,owner,weekday,__api__,__table__,__file__,__row_index__,_pk
+18:30,20:00,America/New_York,user-jake-thornton,monday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,0,user-jake-thornton@monday@18:30
+18:30,20:00,America/New_York,user-jake-thornton,tuesday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,1,user-jake-thornton@tuesday@18:30
+12:00,16:00,America/New_York,user-jake-thornton,wednesday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,2,user-jake-thornton@wednesday@12:00
+18:30,20:00,America/New_York,user-jake-thornton,thursday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,3,user-jake-thornton@thursday@18:30
+10:00,16:00,America/New_York,user-jake-thornton,friday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,4,user-jake-thornton@friday@10:00
+13:00,17:00,America/New_York,user-jake-thornton,saturday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,5,user-jake-thornton@saturday@13:00
+11:00,15:00,America/New_York,user-jake-thornton,sunday,calendly-api,availability,/opt/mocks/calendly-api/availability.json,6,user-jake-thornton@sunday@11:00

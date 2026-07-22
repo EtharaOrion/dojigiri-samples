@@ -1,0 +1,9 @@
+contact_count,created_at,id,name,__api__,__table__,__file__,__row_index__
+3,2025-10-27T22:03:32+00:00,list-vip-cust0,VIP customers,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,0
+4,2026-03-14T18:58:42+00:00,list-monthly-1,Monthly newsletter,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,1
+5,2025-11-28T23:18:45+00:00,list-product-2,Product updates,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,2
+6,2025-10-10T22:15:27+00:00,list-renewals3,Renewals Q4,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,3
+7,2025-12-23T15:18:18+00:00,list-trial-us4,Trial users,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,4
+8,2025-11-14T04:57:50+00:00,list-partners5,Partners and resellers,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,5
+9,2025-12-19T01:07:58+00:00,list-event-at6,Event attendees,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,6
+10,2025-11-25T04:59:39+00:00,list-inactive7,Inactive 90+ days,sendgrid-api,lists,/opt/mocks/sendgrid-api/lists.json,7

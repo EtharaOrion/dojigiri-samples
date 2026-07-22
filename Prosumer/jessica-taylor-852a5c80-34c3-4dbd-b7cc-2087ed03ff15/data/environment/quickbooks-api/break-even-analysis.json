@@ -1,0 +1,78 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Jessica Marie Taylor",
+    "PreparedDate": "2026-11-17",
+    "Context": "Freelance rate-strategy review ahead of Ray Mitchell mentor coffee. Question: is the $75/hr rate covering all costs or leaving me short?",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "TotalMonthlyRevenue": 8900,
+        "DropIns": {
+          "AvgMonthly": 90
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 60
+        },
+        "MembershipDues": {
+          "Members": 55,
+          "Rate": 95,
+          "Total": 5225
+        }
+      },
+      "MonthlyExpenses": {
+        "Rent": 1650,
+        "Utilities": {
+          "Electric": 165,
+          "Water": 55,
+          "Total": 220
+        },
+        "TotalMonthlyExpenses": 3403,
+        "Cleaning": {
+          "BiWeekly": 140,
+          "Monthly": 280
+        },
+        "InstructorPay_Raj": 1100,
+        "Insurance": {
+          "Quarterly": 840,
+          "Monthly": 280
+        },
+        "Marketing": {
+          "AvgMonthly": 40
+        },
+        "Supplies": {
+          "AvgMonthly": 100
+        }
+      },
+      "MonthlyNetIncome": 5497,
+      "Note": "Baseline built from 2026 YTD averages. Rate raise to $95/hr would shift buffer to ~$1,900.",
+      "AaronDrawFromNet": 700,
+      "RetainedForReserves": 2005
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Rent increases to $750/mo if property tax passes through",
+        "NewRent": 750,
+        "RentIncrease": 100,
+        "NewTotalExpenses": 2770,
+        "NewNetIncome": 2605,
+        "BreakEvenMembers": 30,
+        "BreakEvenCalculation": "Fixed costs $2,670 + $100 increase = $2,770. At $95/member, $2,770 / $95 = 29.2 → 30 members minimum.",
+        "Impact": "Minimal. Well within buffer at 55 members."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case - rent to $850/mo (unlikely per Iverson)",
+        "NewRent": 850,
+        "RentIncrease": 200,
+        "NewTotalExpenses": 2870,
+        "NewNetIncome": 2505,
+        "BreakEvenMembers": 31,
+        "Impact": "Still fine. Iverson said this was unlikely but wanted to stress test."
+      }
+    },
+    "KeyInsight": "Rate raise is the most direct lever. Client mix (5 clients across 3 tiers) is stable — the constraint is $/hr, not utilization.",
+    "ActionItems": [
+      "Raise Verdant and Pinnacle retainers at renewal (Q1 2027)",
+      "Draft new rate sheet before Ray coffee (Oct 23)",
+      "Model Q4 2026 tax impact of higher revenue before raising"
+    ]
+  }
+}

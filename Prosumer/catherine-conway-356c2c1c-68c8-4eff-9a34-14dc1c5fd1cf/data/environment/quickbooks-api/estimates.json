@@ -1,0 +1,319 @@
+[
+  {
+    "Id": "4001",
+    "DocNumber": "E-1001",
+    "TxnDate": "2025-02-01",
+    "ExpirationDate": "2025-03-03",
+    "CustomerRef": {
+      "value": "9241",
+      "name": "Ashvale Arts Center"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 4200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Wild Botanica - six-plate native wildflower suite, framed",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 4200.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 4200.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-02-01T10:00:00-05:00",
+      "LastUpdatedTime": "2025-03-07T10:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "E-1002",
+    "TxnDate": "2025-02-10",
+    "ExpirationDate": "2025-03-12",
+    "CustomerRef": {
+      "value": "9316",
+      "name": "Timberline Wellness Group"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3600.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Reception commission - three botanical panels, 24x36",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 3600.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 3600.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-02-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "1010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-02-10T14:00:00-05:00",
+      "LastUpdatedTime": "2025-03-05T13:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "E-1003",
+    "TxnDate": "2025-03-01",
+    "ExpirationDate": "2025-03-31",
+    "CustomerRef": {
+      "value": "9340",
+      "name": "Beaverton Community Library Trust"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1750.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Reading-room panel - Oregon grape study, archival",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 1750.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 1750.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-03-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "1021",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-03-01T11:00:00-05:00",
+      "LastUpdatedTime": "2025-04-03T11:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4004",
+    "DocNumber": "E-1004",
+    "TxnDate": "2025-03-15",
+    "ExpirationDate": "2025-04-14",
+    "CustomerRef": {
+      "value": "9253",
+      "name": "Willamette Botanical Society"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Journal plate series - four native meadow species",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 2400.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 500.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Implementation and planting",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Mulch Installation"
+          },
+          "UnitPrice": 85.0,
+          "Qty": 5
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2025-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-03-15T15:00:00-05:00",
+      "LastUpdatedTime": "2025-03-15T15:00:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4005",
+    "DocNumber": "E-1005",
+    "TxnDate": "2025-03-20",
+    "ExpirationDate": "2025-04-19",
+    "CustomerRef": {
+      "value": "9352",
+      "name": "Corvallis Fine Art Guild"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1280.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Two-day botanical watercolour workshop - guild rate",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 1280.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 1280.0,
+    "TxnStatus": "Closed",
+    "AcceptedDate": "2025-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-03-20T09:00:00-04:00",
+      "LastUpdatedTime": "2025-04-01T10:00:00-04:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4006",
+    "DocNumber": "E-1006",
+    "TxnDate": "2025-04-01",
+    "ExpirationDate": "2025-05-01",
+    "CustomerRef": {
+      "value": "9259",
+      "name": "Cascade Print Editions LLC"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 980.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Giclee edition setup - vine maple plate, run of 50",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 980.0,
+          "Qty": 1
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 1750.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Zen garden materials and installation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "5",
+            "name": "Mulch Installation"
+          },
+          "UnitPrice": 85.0,
+          "Qty": 20
+        }
+      }
+    ],
+    "TotalAmt": 980.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2025-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-04-01T14:00:00-04:00",
+      "LastUpdatedTime": "2025-04-01T14:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4007",
+    "DocNumber": "E-1007",
+    "TxnDate": "2025-04-10",
+    "ExpirationDate": "2025-05-10",
+    "CustomerRef": {
+      "value": "9268",
+      "name": "Rose City Framing Co"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1150.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Wholesale note-card sets - eight designs",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Commission Income"
+          },
+          "UnitPrice": 1150.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 1150.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2025-02-05",
+    "LinkedTxn": [
+      {
+        "TxnId": "1011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-04-10T10:30:00-04:00",
+      "LastUpdatedTime": "2025-04-10T10:30:00-04:00"
+    },
+    "SyncToken": "0"
+  }
+]

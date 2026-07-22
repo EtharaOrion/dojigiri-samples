@@ -1,0 +1,23 @@
+board_id,color,group_id,position,title,_pk
+board-1,#A0A0A0,backlog,0,Backlog,board-1@backlog
+board-1,#FDAB3D,in_progress,1,In progress,board-1@in_progress
+board-1,#0086C0,review,2,In review,board-1@review
+board-1,#00C875,done,3,Done,board-1@done
+board-2,#A0A0A0,backlog_b2,0,Backlog,board-2@backlog_b2
+board-2,#FDAB3D,in_progress_b2,1,In progress,board-2@in_progress_b2
+board-2,#0086C0,review_b2,2,In review,board-2@review_b2
+board-2,#00C875,done_b2,3,Done,board-2@done_b2
+board-3,#A0A0A0,backlog_b3,0,Backlog,board-3@backlog_b3
+board-3,#FDAB3D,in_progress_b3,1,In progress,board-3@in_progress_b3
+board-3,#0086C0,review_b3,2,In review,board-3@review_b3
+board-3,#00C875,done_b3,3,Done,board-3@done_b3
+board-9232,#00C875,tdb2,3,Board pre-read for finance committee,board-9232@tdb2
+board-4911,#A0A0A0,710apjf,0,Livernois Renovation — milestones,board-4911@710apjf
+board-2491,#0086C0,qljrcd,2,TEDx Detroit alumni dinner,board-2491@qljrcd
+board-2332,#A0A0A0,he7ju5t,0,Hartwell site visit logistics,board-2332@he7ju5t
+board-3493,#FDAB3D,wm_97d4wzv7,1,Livernois grand opening — punch list,board-3493@wm_97d4wzv7
+board-1402,#0086C0,tug8w7,2,City of Detroit Cultural Affairs renewal,board-1402@tug8w7
+board-9605,#FDAB3D,px_z57a8861,1,Hartwell site visit logistics,board-9605@px_z57a8861
+board-4020,#A0A0A0,4ub74vs,0,Livernois ribbon-cutting RSVP,board-4020@4ub74vs
+board-6682,#0086C0,rd8w3j,2,Livernois grand opening — punch list,board-6682@rd8w3j
+board-9958,#A0A0A0,e32k8md,0,Year-end appeal — review queue,board-9958@e32k8md

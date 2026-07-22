@@ -1,0 +1,113 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 19,
+      "passed": 10,
+      "failed": 9,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0
+    },
+    "tests": [
+      {
+        "name": "<module>::test_campaign_readiness_exists_and_structured",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_campaign_readiness_names_hearing_date",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_cashflow_names_ar_and_ap_controls",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_cashflow_names_operating_checking_balance",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_cashflow_pins_winning_malt_quantity",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_cashflow_reconciliation_exists_and_structured",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_confluence_water_record_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_distractor_apis_touched",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_docusign_envelope_dispatched",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_gmail_message_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_hearing_brief_covers_all_fourteen_sites",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_hearing_brief_names_fairview_exceedance",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_hearing_brief_names_site9_nearmiss_value",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_hearing_evidence_brief_exists_and_structured",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_quickbooks_ledger_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_quickbooks_malt_order_logged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_sendgrid_mail_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_servicenow_incident_created",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "<module>::test_submission_note_exists_and_structured",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

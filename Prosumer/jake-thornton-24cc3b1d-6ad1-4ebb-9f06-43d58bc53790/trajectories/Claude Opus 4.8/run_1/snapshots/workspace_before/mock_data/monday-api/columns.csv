@@ -1,0 +1,5 @@
+board_id,column_id,title,type,position,_pk
+board-7301,status,Status,status,0,board-7301@status
+board-7301,owner,Owner,person,1,board-7301@owner
+board-7301,date,Date,date,2,board-7301@date
+board-7301,notes,Notes,long-text,3,board-7301@notes

@@ -1,0 +1,23 @@
+body_text,category,header_text,language,name,status
+"Hi {{1}}, a reminder that {{2}} at Calvary Hill is on {{3}}. We look forward to seeing you there.",UTILITY,Calvary Hill event,en_US,church_event_reminder,APPROVED
+Reminder: your appointment on {{1}} at {{2}} is confirmed.,UTILITY,Appointment reminder,en_US,appointment_reminder,APPROVED
+"Hi {{1}}, thank you for volunteering with {{2}}. Your time and heart make a real difference in our community.",UTILITY,Thank you for volunteering,en_US,volunteer_thanks,APPROVED
+Your verification code is {{1}}. It expires in 10 minutes.,AUTHENTICATION,Verification code,en_US,otp_verify,APPROVED
+"Hi {{1}}, did our support team resolve your issue today?",UTILITY,Support follow-up,en_US,support_followup,PENDING
+"Hi {{1}}, your interview for the {{2}} role is scheduled for {{3}}. Reply YES to confirm.",UTILITY,Interview scheduled,en_US,interview_invite,APPROVED
+"Hi {{1}}, open enrollment closes {{2}}. Please complete your benefit elections in the portal.",UTILITY,Benefits enrollment,en_US,benefits_enrollment,APPROVED
+"Welcome to the team, {{1}}! Your first day is {{2}}. We are glad to have you with us.",UTILITY,Welcome aboard,en_US,onboarding_welcome,APPROVED
+"Hi {{1}}, this is a reminder that your shift starts at {{2}} on {{3}}.",UTILITY,Shift reminder,en_US,shift_reminder,APPROVED
+"Hi {{1}}, your payslip for {{2}} is now available in the employee portal.",UTILITY,Payslip available,en_US,payslip_ready,APPROVED
+"Hi {{1}}, your required training {{2}} is due by {{3}}. Please complete it on time.",UTILITY,Training reminder,en_US,training_reminder,APPROVED
+Your password reset code is {{1}}. Do not share this code with anyone.,AUTHENTICATION,Password reset,en_US,password_reset,APPROVED
+"We detected a new sign-in for {{1}}. If this was not you, reset your password now.",AUTHENTICATION,Security alert,en_US,login_alert,APPROVED
+"Hi {{1}}, just a reminder about {{2}} this weekend. Let me know if you can make it.",UTILITY,Family reminder,en_US,family_reminder,APPROVED
+"Thank you {{1}}, we have received your payment of {{2}}. Reference number {{3}}.",UTILITY,Payment received,en_US,payment_receipt,APPROVED
+"Hi {{1}}, invoice {{2}} for {{3}} is due on {{4}}. Please arrange payment.",UTILITY,Invoice due,en_US,invoice_due,APPROVED
+"Hi {{1}}, please take two minutes to share feedback on your recent experience with us.",MARKETING,We value your feedback,en_US,survey_request,PENDING
+"Hi {{1}}, join us for {{2}} on {{3}}. Reply to this message to reserve your seat.",MARKETING,You are invited,en_US,event_invite,APPROVED
+"Hi {{1}}, our offices will have adjusted hours on {{2}}. Thank you for your patience.",UTILITY,Holiday hours,en_US,holiday_hours,APPROVED
+"Hi {{1}}, your appointment on {{2}} has been cancelled. Reply to reschedule a new time.",UTILITY,Appointment cancelled,en_US,appointment_cancelled,APPROVED
+"Hi {{1}}, your wellness check-in for {{2}} is ready. Log your progress today.",UTILITY,Wellness program,en_US,wellness_checkin,APPROVED
+"Hi {{1}}, document {{2}} is awaiting your signature. Please review and sign it.",UTILITY,Signature required,en_US,document_signature,APPROVED

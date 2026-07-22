@@ -1,0 +1,302 @@
+[
+  {
+    "Id": "5201",
+    "TxnDate": "2024-10-01",
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Description": "Mailchimp - Monthly newsletter subscription",
+        "Amount": 6500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-01T09:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5202",
+    "TxnDate": "2024-10-01",
+    "TotalAmt": 42000.0,
+    "Line": [
+      {
+        "Description": "Canva - Pro annual renewal",
+        "Amount": 42000.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-01T09:05:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5203",
+    "TxnDate": "2024-10-05",
+    "TotalAmt": 5400.0,
+    "Line": [
+      {
+        "Description": "Canva Pro - Monthly design subscription",
+        "Amount": 5400.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-05T10:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5204",
+    "TxnDate": "2024-10-08",
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Description": "Amazon NG - USB audio interface cable",
+        "Amount": 3200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-08T11:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5205",
+    "TxnDate": "2024-10-10",
+    "TotalAmt": 95000.0,
+    "Line": [
+      {
+        "Description": "Costco Wholesale - Akai MPK Mini MK3 + Audio-Technica M20x + XLR Cable",
+        "Amount": 95000.0
+      }
+    ],
+    "PrivateNote": "Entered at subtotal 95000 before discount. Receipt SMS-2045 shows 90000 after 5000 discount.",
+    "MetaData": {
+      "CreateTime": "2024-10-10T14:00:00"
+    }
+  },
+  {
+    "Id": "5206",
+    "TxnDate": "2024-10-15",
+    "TotalAmt": 6800.0,
+    "Line": [
+      {
+        "Description": "Spotify Pro - Monthly distribution plan",
+        "Amount": 6800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-15T09:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5207",
+    "TxnDate": "2024-10-20",
+    "TotalAmt": 9600.0,
+    "Line": [
+      {
+        "Description": "Dropbox Business - Cloud storage monthly",
+        "Amount": 9600.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-20T10:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5214",
+    "TxnDate": "2024-10-08",
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Description": "Mailchimp - Monthly newsletter subscription",
+        "Amount": 6500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-08T09:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5228",
+    "TxnDate": "2024-10-15",
+    "TotalAmt": 42000.0,
+    "Line": [
+      {
+        "Description": "Canva - Pro annual renewal",
+        "Amount": 42000.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-15T09:05:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5242",
+    "TxnDate": "2024-10-26",
+    "TotalAmt": 5400.0,
+    "Line": [
+      {
+        "Description": "Canva Pro - Monthly design subscription",
+        "Amount": 5400.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-26T10:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5256",
+    "TxnDate": "2024-11-05",
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Description": "Amazon NG - USB audio interface cable",
+        "Amount": 3200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-11-05T11:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5270",
+    "TxnDate": "2024-11-14",
+    "TotalAmt": 95000.0,
+    "Line": [
+      {
+        "Description": "Costco Wholesale - Akai MPK Mini MK3 + Audio-Technica M20x + XLR Cable",
+        "Amount": 95000.0
+      }
+    ],
+    "PrivateNote": "Entered at subtotal 95000 before discount. Receipt SMS-2045 shows 90000 after 5000 discount.",
+    "MetaData": {
+      "CreateTime": "2024-11-14T14:00:00"
+    }
+  },
+  {
+    "Id": "5284",
+    "TxnDate": "2024-11-26",
+    "TotalAmt": 6800.0,
+    "Line": [
+      {
+        "Description": "Spotify Pro - Monthly distribution plan",
+        "Amount": 6800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-11-26T09:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5298",
+    "TxnDate": "2024-12-08",
+    "TotalAmt": 9600.0,
+    "Line": [
+      {
+        "Description": "Dropbox Business - Cloud storage monthly",
+        "Amount": 9600.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-12-08T10:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5305",
+    "TxnDate": "2024-11-26",
+    "TotalAmt": 6500.0,
+    "Line": [
+      {
+        "Description": "Mailchimp - Monthly newsletter subscription",
+        "Amount": 6500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-11-26T09:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5319",
+    "TxnDate": "2024-12-03",
+    "TotalAmt": 42000.0,
+    "Line": [
+      {
+        "Description": "Canva - Pro annual renewal",
+        "Amount": 42000.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-12-03T09:05:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5333",
+    "TxnDate": "2024-12-14",
+    "TotalAmt": 5400.0,
+    "Line": [
+      {
+        "Description": "Canva Pro - Monthly design subscription",
+        "Amount": 5400.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-12-14T10:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5347",
+    "TxnDate": "2024-12-24",
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "Description": "Amazon NG - USB audio interface cable",
+        "Amount": 3200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-12-24T11:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  },
+  {
+    "Id": "5361",
+    "TxnDate": "2025-01-02",
+    "TotalAmt": 95000.0,
+    "Line": [
+      {
+        "Description": "Costco Wholesale - Akai MPK Mini MK3 + Audio-Technica M20x + XLR Cable",
+        "Amount": 95000.0
+      }
+    ],
+    "PrivateNote": "Entered at subtotal 95000 before discount. Receipt SMS-2045 shows 90000 after 5000 discount.",
+    "MetaData": {
+      "CreateTime": "2025-01-02T14:00:00"
+    }
+  },
+  {
+    "Id": "5375",
+    "TxnDate": "2025-01-14",
+    "TotalAmt": 6800.0,
+    "Line": [
+      {
+        "Description": "Spotify Pro - Monthly distribution plan",
+        "Amount": 6800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-01-14T09:00:00"
+    },
+    "PrivateNote": "Jake’s Table bookkeeping — reconciled in QuickBooks."
+  }
+]

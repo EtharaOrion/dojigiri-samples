@@ -1,0 +1,222 @@
+[
+  {
+    "account_number": "ACC-1000",
+    "contact_id": "bd5e9cd8-cf22-7d93-4620-092ed80abb44",
+    "email": "etienne.mullins.lcsw@gmail.com",
+    "first_name": "Étienne",
+    "is_customer": true,
+    "is_supplier": true,
+    "last_name": "Mullins",
+    "name": "Étienne Mullins",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1001",
+    "contact_id": "2a18b54c-e125-3680-4abd-c869c091853c",
+    "email": "margaux.mullins@lakelandreserve.edu",
+    "first_name": "Margaux",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Mullins",
+    "name": "Margaux Mullins",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1002",
+    "contact_id": "aae06882-10b1-4a86-433d-024a166d8922",
+    "email": "jmullins@ashfieldcollege.edu",
+    "first_name": "Julien",
+    "is_customer": false,
+    "is_supplier": false,
+    "last_name": "Mullins",
+    "name": "Julien Mullins",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1003",
+    "contact_id": "0112adc3-4353-58b7-494c-2b254b93d7b4",
+    "email": "helena.volkov.choir@gmail.com",
+    "first_name": "Sophie",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Mullins",
+    "name": "Sophie Mullins",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1004",
+    "contact_id": "e4c35e7a-b3e9-e0aa-42e9-843bdd02663d",
+    "email": "slevin@gracechapelpgh.org",
+    "first_name": "Rev.",
+    "is_customer": true,
+    "is_supplier": true,
+    "last_name": "Sarah Levin",
+    "name": "Rev. Sarah Levin",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1005",
+    "contact_id": "4b6cb64e-d17f-7b90-4607-705d40c49f33",
+    "email": "rstern@stgenevievecle.org",
+    "first_name": "Rachel",
+    "is_customer": false,
+    "is_supplier": false,
+    "last_name": "Stern",
+    "name": "Rachel Stern",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1006",
+    "contact_id": "babc8af8-c8c5-c891-4412-73d91ebc8b22",
+    "email": "hblumberg@blumberglaw.com",
+    "first_name": "Howard",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Blumberg",
+    "name": "Howard Blumberg",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1007",
+    "contact_id": "17bc1c9e-300e-429f-4f9c-b65669403aae",
+    "email": "bklein@stgenevievecle.org",
+    "first_name": "Barbara",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Klein",
+    "name": "Barbara Klein",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1008",
+    "contact_id": "3a48cbd4-05c7-3eb2-4111-8b517c42090c",
+    "email": "frmurphy@staugcle.org",
+    "first_name": "Father",
+    "is_customer": false,
+    "is_supplier": true,
+    "last_name": "Thomas Murphy",
+    "name": "Father Thomas Murphy",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1009",
+    "contact_id": "0b322810-542a-d192-4824-24f204e594b7",
+    "email": "rhassan@clevelandic.org",
+    "first_name": "Imam",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Rashid Hassan",
+    "name": "Imam Rashid Hassan",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1010",
+    "contact_id": "993d23c3-129b-e18e-45e3-b757cb102e1c",
+    "email": "ncohen@shakermedical.com",
+    "first_name": "Dr.",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Nathan Cohen",
+    "name": "Dr. Nathan Cohen",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1011",
+    "contact_id": "eefc4a99-aaa9-5291-4f32-5dfc8981e976",
+    "email": "office@novaksons.com",
+    "first_name": "Mark",
+    "is_customer": false,
+    "is_supplier": false,
+    "last_name": "Novak",
+    "name": "Mark Novak",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1012",
+    "contact_id": "3e5de2ac-adcf-cea3-406e-d1afaed90631",
+    "email": "info@katzcpa.com",
+    "first_name": "David",
+    "is_customer": true,
+    "is_supplier": true,
+    "last_name": "Katz",
+    "name": "David Katz",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1013",
+    "contact_id": "ad97449a-0d55-5895-46fc-caa29da46604",
+    "email": "design@bravermanarch.com",
+    "first_name": "Linda",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Braverman",
+    "name": "Linda Braverman",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1014",
+    "contact_id": "b2c28480-945c-c2b3-4805-c6e2bcede4bb",
+    "email": "audrey.lin.parishioner@gmail.com",
+    "first_name": "Sophie",
+    "is_customer": false,
+    "is_supplier": false,
+    "last_name": "Greenwald",
+    "name": "Sophie Greenwald",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1015",
+    "contact_id": "8ff33896-41e4-008a-400e-5a59cf258724",
+    "email": "theodore.sinclair@gmail.com",
+    "first_name": "Jacob",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Weiss",
+    "name": "Jacob Weiss",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1016",
+    "contact_id": "abf1d8a1-d44d-cea6-481f-40e39c8a6ac1",
+    "email": "margaux.mullins@lakelandreserve.edu",
+    "first_name": "Abigail",
+    "is_customer": true,
+    "is_supplier": true,
+    "last_name": "Roth",
+    "name": "Abigail Roth",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1017",
+    "contact_id": "6ca87e58-1eeb-03b5-4510-a1b686238419",
+    "email": "office@cedarfairmountdental.com",
+    "first_name": "Dr.",
+    "is_customer": false,
+    "is_supplier": false,
+    "last_name": "Maya Grossman",
+    "name": "Dr. Maya Grossman",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1018",
+    "contact_id": "b4e4cdab-a9bf-7782-4931-ef61e34e72be",
+    "email": "sophie.mullins.guitar@gmail.com",
+    "first_name": "Margaret",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "O'Connell",
+    "name": "Margaret O'Connell",
+    "status": "ACTIVE"
+  },
+  {
+    "account_number": "ACC-1019",
+    "contact_id": "4e25fe39-2ac9-cc92-4819-c0a84b9c5b86",
+    "email": "eleanor.whitlock@yahoo.com",
+    "first_name": "Eleanor",
+    "is_customer": true,
+    "is_supplier": false,
+    "last_name": "Whitlock",
+    "name": "Eleanor Whitlock",
+    "status": "ACTIVE"
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "QueryResponse": {
+    "Customer": [
+      {
+        "Id": "9234",
+        "DisplayName": "Meridian Gallery Collective",
+        "PrimaryEmailAddr": {
+          "Address": "gallery@meridiangallerycollective.com"
+        },
+        "Balance": "600.00",
+        "Active": true,
+        "Notes": "Represents Catherine's botanical work; pays net commission splits on sold pieces."
+      },
+      {
+        "Id": "9241",
+        "DisplayName": "Ashvale Arts Center",
+        "PrimaryEmailAddr": {
+          "Address": "programs@ashvalearts.org"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Hosts the annual Wild Botanica exhibition; purchases prints for gift shop."
+      },
+      {
+        "Id": "9247",
+        "DisplayName": "St. Brendan's Church",
+        "PrimaryEmailAddr": {
+          "Address": "office@stbrendansbeaverton.org"
+        },
+        "Balance": "130.00",
+        "Active": true,
+        "Notes": "Commissions the fellowship-hall wildflower series and hosts quarterly workshops."
+      },
+      {
+        "Id": "9253",
+        "DisplayName": "Willamette Botanical Society",
+        "PrimaryEmailAddr": {
+          "Address": "contact@willamettebotanical.org"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Buys prints and note cards for member events and outreach."
+      },
+      {
+        "Id": "9259",
+        "DisplayName": "Cascade Print Editions LLC",
+        "PrimaryEmailAddr": {
+          "Address": "orders@cascadeprints.com"
+        },
+        "Balance": "45.00",
+        "Active": true,
+        "Notes": "Wholesale account for open-edition botanical prints."
+      },
+      {
+        "Id": "9268",
+        "DisplayName": "Rose City Framing Co",
+        "PrimaryEmailAddr": {
+          "Address": "hello@rosecityframing.com"
+        },
+        "Balance": "28.00",
+        "Active": true,
+        "Notes": "Retails boxed note-card sets and small prints."
+      },
+      {
+        "Id": "9274",
+        "DisplayName": "Harper, Diane",
+        "PrimaryEmailAddr": {
+          "Address": "diane.harper@gmail.com"
+        },
+        "Balance": "1200.00",
+        "Active": true,
+        "Notes": "Private commission client - camas meadow panel series."
+      },
+      {
+        "Id": "9280",
+        "DisplayName": "Whitfield, Grace",
+        "PrimaryEmailAddr": {
+          "Address": "grace.whitfield@gmail.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Wedding botanical print client - Oregon natives."
+      },
+      {
+        "Id": "9286",
+        "DisplayName": "Nakamura, Lisa",
+        "PrimaryEmailAddr": {
+          "Address": "lisa.nakamura@gmail.com"
+        },
+        "Balance": "1200.00",
+        "Active": true,
+        "Notes": "Private commission client - penstemon and trillium studies."
+      },
+      {
+        "Id": "9292",
+        "DisplayName": "Bennett, Claire",
+        "PrimaryEmailAddr": {
+          "Address": "claire.bennett@gmail.com"
+        },
+        "Balance": "850.00",
+        "Active": true,
+        "Notes": "Wedding botanical print client."
+      },
+      {
+        "Id": "9298",
+        "DisplayName": "Osei, Thomas",
+        "PrimaryEmailAddr": {
+          "Address": "thomas.osei@gmail.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Commission client - vine maple leaf plate."
+      },
+      {
+        "Id": "9304",
+        "DisplayName": "Larsen, Rebecca",
+        "PrimaryEmailAddr": {
+          "Address": "rebecca.larsen@gmail.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Self-pay cosmetic dermatology account; also buys prints."
+      },
+      {
+        "Id": "9310",
+        "DisplayName": "Fitzgerald, Owen",
+        "PrimaryEmailAddr": {
+          "Address": "owen.fitzgerald@gmail.com"
+        },
+        "Balance": "1200.00",
+        "Active": true,
+        "Notes": "Commission client - Douglas aster and bleeding heart panels."
+      },
+      {
+        "Id": "9316",
+        "DisplayName": "Timberline Wellness Group",
+        "PrimaryEmailAddr": {
+          "Address": "accounts@timberlinewellness.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Purchases framed botanical panels for treatment rooms."
+      },
+      {
+        "Id": "9322",
+        "DisplayName": "Pettigrew, Alan",
+        "PrimaryEmailAddr": {
+          "Address": "alan.pettigrew@gmail.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Commission client - wood sorrel study."
+      },
+      {
+        "Id": "9328",
+        "DisplayName": "Sorensen, Marta",
+        "PrimaryEmailAddr": {
+          "Address": "marta.sorensen@gmail.com"
+        },
+        "Balance": "1500.00",
+        "Active": true,
+        "Notes": "Commission client - western columbine composition, progress billed."
+      },
+      {
+        "Id": "9334",
+        "DisplayName": "Halvorsen, Erik",
+        "PrimaryEmailAddr": {
+          "Address": "erik.halvorsen@gmail.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Commission client - Pacific bleeding heart plate."
+      },
+      {
+        "Id": "9340",
+        "DisplayName": "Beaverton Community Library Trust",
+        "PrimaryEmailAddr": {
+          "Address": "foundation@beavertonlibrary.org"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Commissioned a native-wildflower series for the reading room."
+      },
+      {
+        "Id": "9346",
+        "DisplayName": "Delaney, Rowan",
+        "PrimaryEmailAddr": {
+          "Address": "rowan.delaney@gmail.com"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Commission client - camas and buttercup meadow."
+      },
+      {
+        "Id": "9352",
+        "DisplayName": "Corvallis Fine Art Guild",
+        "PrimaryEmailAddr": {
+          "Address": "guild@corvallisartguild.org"
+        },
+        "Balance": "0.00",
+        "Active": true,
+        "Notes": "Buys open-edition prints for member gallery sales."
+      }
+    ]
+  }
+}

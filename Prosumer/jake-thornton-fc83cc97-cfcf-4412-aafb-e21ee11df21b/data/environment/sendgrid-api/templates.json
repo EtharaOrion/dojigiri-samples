@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sg_ef529bfdae5745",
+    "name": "welcome",
+    "generation": "dynamic",
+    "subject": "Welcome to Magnolia Women's Health, {{first_name}}!",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Magnolia Women's Health.</p>",
+    "active": "true",
+    "updated_at": "2026-11-13T03:32:18+00:00"
+  },
+  {
+    "id": "sg_9efad69f636029",
+    "name": "password-reset",
+    "generation": "dynamic",
+    "subject": "Reset your Magnolia Women's Health password",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "active": "true",
+    "updated_at": "2026-12-26T03:09:07+00:00"
+  },
+  {
+    "id": "sg_ad5880e9bb5333",
+    "name": "monthly-news",
+    "generation": "dynamic",
+    "subject": "Magnolia Women's Health — {{month}} highlights",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "active": "true",
+    "updated_at": "2026-12-13T01:26:48+00:00"
+  },
+  {
+    "id": "sg_4cebea75d18028",
+    "name": "invoice",
+    "generation": "dynamic",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "active": "true",
+    "updated_at": "2026-12-17T13:40:12+00:00"
+  },
+  {
+    "id": "sg_c994ec0b5d4417",
+    "name": "trial-end",
+    "generation": "dynamic",
+    "subject": "Your trial ends in {{days}} days",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "active": "true",
+    "updated_at": "2026-12-15T15:23:35+00:00"
+  }
+]

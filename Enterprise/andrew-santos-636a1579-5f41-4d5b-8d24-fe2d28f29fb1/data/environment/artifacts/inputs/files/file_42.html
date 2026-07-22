@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Showcase Fundraising Dashboard</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Segoe UI',Tahoma,sans-serif;background:#0d1b2a;color:#e0e6ed}
+  header.bar{background:#1b2a3a;padding:22px 28px;border-bottom:3px solid #3fb6c4;
+    display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+  header.bar h1{font-size:1.5rem;color:#fff;letter-spacing:.4px}
+  header.bar .sub{color:#9fb3c8;font-size:.85rem;margin-top:3px}
+  header.bar .who{text-align:right;color:#9fb3c8;font-size:.82rem}
+  .controls{padding:18px 28px;display:flex;gap:10px;flex-wrap:wrap;background:#13243a}
+  .controls button{background:#23394f;color:#cfe2f3;border:1px solid #3a5269;padding:9px 18px;
+    border-radius:6px;cursor:pointer;font-size:.9rem;transition:background .2s,transform .2s}
+  .controls button:hover{transform:translateY(-2px)}
+  .controls button.active{background:#3fb6c4;color:#06222a;font-weight:600;border-color:#3fb6c4}
+  main{padding:24px 28px 50px;max-width:1100px;margin:0 auto}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-bottom:26px}
+  .kpi{background:linear-gradient(160deg,#1b2a3a,#22384e);border-radius:10px;padding:20px;
+    border-left:4px solid #3fb6c4;animation:rise .6s ease both}
+  @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+  .kpi .big{font-size:1.9rem;color:#fff;font-weight:700}
+  .kpi .lbl{color:#9fb3c8;font-size:.82rem;margin-top:4px;text-transform:uppercase;letter-spacing:.6px}
+  .kpi .bar{height:7px;background:#0d1b2a;border-radius:4px;margin-top:12px;overflow:hidden}
+  .kpi .bar span{display:block;height:100%;background:#3fb6c4;width:0;transition:width 1.1s ease}
+  .panels{display:grid;grid-template-columns:1.4fr 1fr;gap:20px}
+  .box{background:#15263a;border-radius:10px;padding:20px}
+  .box h2{font-size:1.05rem;color:#cfe2f3;margin-bottom:14px;border-bottom:1px solid #2c4055;padding-bottom:8px}
+  canvas{width:100%;height:240px;display:block}
+  table{width:100%;border-collapse:collapse;font-size:.88rem}
+  th,td{text-align:left;padding:9px 8px;border-bottom:1px solid #2c4055}
+  th{color:#9fb3c8;text-transform:uppercase;font-size:.74rem;letter-spacing:.5px}
+  td .pill{padding:3px 10px;border-radius:12px;font-size:.76rem}
+  .ok{background:#1d4a3a;color:#6ee7b7}
+  .wait{background:#4a3a1d;color:#fcd34d}
+  footer.bar{background:#1b2a3a;color:#7e93a8;text-align:center;padding:20px;font-size:.84rem;border-top:1px solid #2c4055}
+  @media(max-width:760px){.panels{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="bar">
+  <div>
+    <h1>Annual Youth Arts Showcase, Fundraising View</h1>
+    <div class="sub">Detroit Youth Arts Alliance &nbsp;|&nbsp; Great Lakes Discovery Center</div>
+  </div>
+  <div class="who">Prepared for Andrew Santos<br>Executive Director<br>(313) 555 0186 desk line</div>
+</header>
+<div class="controls">
+  <button class="active" data-view="raised">Funds Raised</button>
+  <button data-view="budget">Event Budget</button>
+  <button data-view="sources">Revenue Mix</button>
+</div>
+<main>
+  <div class="kpis">
+    <div class="kpi"><div class="big" id="k1">120,000</div><div class="lbl">Goal (USD)</div><div class="bar"><span data-w="100"></span></div></div>
+    <div class="kpi"><div class="big" id="k2">25,000</div><div class="lbl">Headline Sponsor</div><div class="bar"><span data-w="21"></span></div></div>
+    <div class="kpi"><div class="big" id="k3">45,000</div><div class="lbl">Event Budget (USD)</div><div class="bar"><span data-w="37"></span></div></div>
+    <div class="kpi"><div class="big" id="k4">75</div><div class="lbl">Ticket Price (USD)</div><div class="bar"><span data-w="55"></span></div></div>
+  </div>
+  <div class="panels">
+    <div class="box">
+      <h2 id="chartTitle">Funds Raised Toward Goal</h2>
+      <canvas id="chart" width="640" height="240"></canvas>
+    </div>
+    <div class="box">
+      <h2>Sponsor Pipeline</h2>
+      <table>
+        <thead><tr><th>Sponsor</th><th>USD</th><th>Stage</th></tr></thead>
+        <tbody>
+          <tr><td>Great Lakes Power Foundation</td><td>25,000</td><td><span class="pill ok">Confirmed</span></td></tr>
+          <tr><td>West Side Partner</td><td>10,000</td><td><span class="pill wait">Scheduled</span></td></tr>
+          <tr><td>Community Partner</td><td>10,000</td><td><span class="pill wait">Intro Made</span></td></tr>
+          <tr><td>Local Business Circle</td><td>10,000</td><td><span class="pill wait">Open</span></td></tr>
+        </tbody>
+      </table>
+      <p style="margin-top:14px;color:#9fb3c8;font-size:.84rem">Three more sponsors at 10,000 USD each still needed to close the gap.</p>
+    </div>
+  </div>
+</main>
+<footer class="bar">
+  Detroit Youth Arts Alliance &nbsp;|&nbsp; Midtown Detroit, Michigan &nbsp;|&nbsp; Copyright 2026 &nbsp;|&nbsp; andrew.santos@Greenridertech.co
+</footer>
+<script>
+  var data={
+    raised:{title:"Funds Raised Toward Goal",labels:["Tickets","Sponsors","Auction","Goal"],vals:[30000,55000,20000,120000],color:"#3fb6c4"},
+    budget:{title:"Event Budget Breakdown (USD)",labels:["Venue","Catering","Production","Marketing","Supplies"],vals:[12000,8000,10000,5000,10000],color:"#f0a04b"},
+    sources:{title:"Operating Revenue Mix (percent)",labels:["Grants","Donors","Events","Fees"],vals:[60,20,15,5],color:"#8b7cf0"}
+  };
+  var cv=document.getElementById('chart'),ctx=cv.getContext('2d');
+  function draw(key){
+    var d=data[key];document.getElementById('chartTitle').textContent=d.title;
+    var w=cv.width,h=cv.height;ctx.clearRect(0,0,w,h);
+    var pad=40,max=Math.max.apply(null,d.vals),n=d.vals.length;
+    var bw=(w-pad*2)/n*0.6,gap=(w-pad*2)/n;
+    ctx.strokeStyle="#2c4055";ctx.beginPath();ctx.moveTo(pad,10);ctx.lineTo(pad,h-pad);ctx.lineTo(w-10,h-pad);ctx.stroke();
+    for(var i=0;i<n;i++){
+      var bh=(d.vals[i]/max)*(h-pad-20);
+      var x=pad+gap*i+(gap-bw)/2,y=h-pad-bh;
+      ctx.fillStyle=d.color;ctx.fillRect(x,y,bw,bh);
+      ctx.fillStyle="#cfe2f3";ctx.font="11px Segoe UI";ctx.textAlign="center";
+      ctx.fillText(d.labels[i],x+bw/2,h-pad+16);
+      ctx.fillStyle="#fff";ctx.fillText(d.vals[i].toLocaleString(),x+bw/2,y-6);
+    }
+  }
+  draw('raised');
+  document.querySelectorAll('.controls button').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('.controls button').forEach(function(x){x.classList.remove('active')});
+      b.classList.add('active');draw(b.dataset.view);
+    });
+  });
+  setTimeout(function(){document.querySelectorAll('.kpi .bar span').forEach(function(s){s.style.width=s.dataset.w+'%'})},200);
+</script>
+</body>
+</html>

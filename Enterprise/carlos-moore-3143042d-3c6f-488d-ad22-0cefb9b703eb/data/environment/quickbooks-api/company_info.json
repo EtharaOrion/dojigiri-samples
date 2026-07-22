@@ -1,0 +1,37 @@
+{
+  "CompanyName": "Carlos & Maria Moore Household",
+  "LegalName": "Carlos & Maria Moore",
+  "CompanyAddr": {
+    "Line1": "742 Sawyer Brown Road",
+    "City": "Nashville",
+    "CountrySubDivisionCode": "TN",
+    "PostalCode": "37221"
+  },
+  "Email": {
+    "Address": "carlos.moore@Finthesiss.ai"
+  },
+  "PrimaryPhone": {
+    "FreeFormNumber": "(615) 555-0110"
+  },
+  "FiscalYearStartMonth": "January",
+  "Country": "US",
+  "IndustryType": "Personal Financial Management",
+  "NameValue": [
+    {
+      "Name": "PrimaryMember",
+      "Value": "Carlos Moore"
+    },
+    {
+      "Name": "SecondaryMember",
+      "Value": "Maria Moore"
+    },
+    {
+      "Name": "Purpose",
+      "Value": "Church committee bookkeeping and household budgeting"
+    }
+  ],
+  "MetaData": {
+    "CreateTime": "2021-03-15T10:00:00-06:00",
+    "LastUpdatedTime": "2026-03-20T09:15:00-05:00"
+  }
+}

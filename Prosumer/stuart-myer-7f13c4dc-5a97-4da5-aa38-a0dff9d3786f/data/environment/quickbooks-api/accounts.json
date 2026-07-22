@@ -1,0 +1,189 @@
+{
+  "QueryResponse": {
+    "Account": [
+      {
+        "Id": "1",
+        "Name": "Operating Checking",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 35024.75,
+        "Active": true,
+        "Description": "Primary operating account - First Bank of Portland"
+      },
+      {
+        "Id": "2",
+        "Name": "Business Savings",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 12500.0,
+        "Active": true,
+        "Description": "Tax and equipment reserve - First Bank of Portland"
+      },
+      {
+        "Id": "3",
+        "Name": "Taproom Sales",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Taproom draft and to-go sales via Square POS"
+      },
+      {
+        "Id": "4",
+        "Name": "Wholesale Beer Sales",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Self-distribution to Portland bars and restaurants"
+      },
+      {
+        "Id": "5",
+        "Name": "Merchandise Sales",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Apparel, glassware, and limited can releases"
+      },
+      {
+        "Id": "6",
+        "Name": "COGS - Malt",
+        "AccountType": "Cost of Goods Sold",
+        "AccountSubType": "SuppliesMaterialsCogs",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Base and specialty malt from Pacific Malt Company"
+      },
+      {
+        "Id": "7",
+        "Name": "Rent Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "RentOrLeaseOfBuildings",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Monthly lease - E Burnside warehouse brewhouse"
+      },
+      {
+        "Id": "8",
+        "Name": "Utilities",
+        "AccountType": "Expense",
+        "AccountSubType": "Utilities",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Portland General Electric, NW Natural, water and sewer"
+      },
+      {
+        "Id": "9",
+        "Name": "COGS - Hops",
+        "AccountType": "Cost of Goods Sold",
+        "AccountSubType": "SuppliesMaterialsCogs",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Hops from Crosby Hops"
+      },
+      {
+        "Id": "10",
+        "Name": "Payroll Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "PayrollExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Taproom and cellar staff wages via Gusto"
+      },
+      {
+        "Id": "11",
+        "Name": "Packaging & Cans",
+        "AccountType": "Cost of Goods Sold",
+        "AccountSubType": "SuppliesMaterialsCogs",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Cans, kegs, labels, and packaging materials"
+      },
+      {
+        "Id": "12",
+        "Name": "OLCC & Excise Tax",
+        "AccountType": "Expense",
+        "AccountSubType": "TaxesPaid",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Oregon liquor licensing and federal excise tax"
+      },
+      {
+        "Id": "13",
+        "Name": "Accounts Receivable",
+        "AccountType": "Accounts Receivable",
+        "AccountSubType": "AccountsReceivable",
+        "CurrentBalance": 8240.0,
+        "Active": true,
+        "Description": "Outstanding wholesale and distribution invoices"
+      },
+      {
+        "Id": "14",
+        "Name": "Accounts Payable",
+        "AccountType": "Accounts Payable",
+        "AccountSubType": "AccountsPayable",
+        "CurrentBalance": 5120.0,
+        "Active": true,
+        "Description": "Outstanding supplier and vendor bills"
+      },
+      {
+        "Id": "15",
+        "Name": "Inventory Asset",
+        "AccountType": "Other Current Asset",
+        "AccountSubType": "Inventory",
+        "CurrentBalance": 18650.0,
+        "Active": true,
+        "Description": "Raw materials and finished beer/merchandise inventory"
+      },
+      {
+        "Id": "16",
+        "Name": "Brewing Equipment",
+        "AccountType": "Fixed Asset",
+        "AccountSubType": "MachineryAndEquipment",
+        "CurrentBalance": 96400.0,
+        "Active": true,
+        "Description": "Brewhouse, fermenters, and canning line"
+      },
+      {
+        "Id": "17",
+        "Name": "Accumulated Depreciation",
+        "AccountType": "Fixed Asset",
+        "AccountSubType": "AccumulatedDepreciation",
+        "CurrentBalance": -12400.0,
+        "Active": true,
+        "Description": "Accumulated depreciation on brewing equipment"
+      },
+      {
+        "Id": "18",
+        "Name": "Merchant & Card Fees",
+        "AccountType": "Expense",
+        "AccountSubType": "BankCharges",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Square and Stripe payment processing fees"
+      },
+      {
+        "Id": "19",
+        "Name": "Marketing & Events",
+        "AccountType": "Expense",
+        "AccountSubType": "AdvertisingPromotional",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Taproom events, releases, and coalition sponsorships"
+      },
+      {
+        "Id": "20",
+        "Name": "Repairs & Maintenance",
+        "AccountType": "Expense",
+        "AccountSubType": "RepairsMaintenance",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Brewery equipment repairs and facility upkeep"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 20,
+    "totalCount": 20
+  }
+}

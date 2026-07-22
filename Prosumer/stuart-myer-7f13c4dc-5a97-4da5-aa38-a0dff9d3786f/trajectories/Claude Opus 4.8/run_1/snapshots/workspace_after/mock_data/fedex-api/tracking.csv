@@ -1,0 +1,21 @@
+tracking_number,status_code,status_description,carrier_code,service_name,ship_date,estimated_delivery,latest_event,latest_event_location,latest_event_time
+794612035840,DL,Delivered,FDXG,FedEx Ground,2025-12-17,2025-12-20,Package delivered to recipient,10001,2025-12-25T16:00:00Z
+794612035851,OD,Out for delivery,FDXE,FedEx 2Day,2025-12-19,2025-12-21,On FedEx vehicle for delivery,94103,2025-12-26T08:00:00Z
+794612035862,IT,In transit,FDXE,FedEx Priority Overnight,2025-12-18,2025-12-19,Departed FedEx location,60601,2025-12-25T13:00:00Z
+794612035873,AR,Arrived at FedEx location,FDXE,FedEx Express Saver,2025-12-24,2025-12-27,Arrived at FedEx hub,30303,2025-12-25T16:00:00Z
+794612035884,DL,Delivered,FDXE,FedEx Standard Overnight,2025-12-19,2025-12-20,Package delivered to recipient,98101,2025-12-26T09:00:00Z
+794612035895,OD,Out for delivery,FDXG,FedEx Ground,2025-12-13,2025-12-16,On FedEx vehicle for delivery,78701,2025-12-26T02:00:00Z
+794612035906,IT,In transit,FDXE,FedEx 2Day,2025-12-17,2025-12-19,Departed FedEx location,10001,2025-12-26T16:00:00Z
+794612035917,AR,Arrived at FedEx location,FDXE,FedEx Priority Overnight,2025-12-16,2025-12-17,Arrived at FedEx hub,94103,2025-12-26T08:00:00Z
+794612035928,DL,Delivered,FDXE,FedEx Express Saver,2025-12-26,2025-12-29,Package delivered to recipient,60601,2025-12-26T19:00:00Z
+794612035939,OD,Out for delivery,FDXE,FedEx Standard Overnight,2025-12-22,2025-12-23,On FedEx vehicle for delivery,30303,2025-12-26T09:00:00Z
+794612035950,IT,In transit,FDXG,FedEx Ground,2025-12-20,2025-12-23,Departed FedEx location,98101,2025-12-26T11:00:00Z
+794612035961,AR,Arrived at FedEx location,FDXE,FedEx 2Day,2025-12-15,2025-12-17,Arrived at FedEx hub,78701,2025-12-26T15:00:00Z
+794612035972,DL,Delivered,FDXE,FedEx Priority Overnight,2025-12-22,2025-12-23,Package delivered to recipient,10001,2025-12-26T16:00:00Z
+794612035983,OD,Out for delivery,FDXE,FedEx Express Saver,2025-12-19,2025-12-22,On FedEx vehicle for delivery,94103,2025-12-26T17:00:00Z
+794612035994,IT,In transit,FDXE,FedEx Standard Overnight,2025-12-14,2025-12-15,Departed FedEx location,60601,2025-12-25T14:00:00Z
+794612035841,DL,Delivered,FDXG,FedEx Ground,2025-12-17,2025-12-20,Package delivered to recipient,10001,2025-12-25T16:00:00Z
+794612035852,OD,Out for delivery,FDXE,FedEx 2Day,2025-12-19,2025-12-21,On FedEx vehicle for delivery,94103,2025-12-26T08:00:00Z
+794612035863,IT,In transit,FDXE,FedEx Priority Overnight,2025-12-18,2025-12-19,Departed FedEx location,60601,2025-12-25T13:00:00Z
+794612035874,AR,Arrived at FedEx location,FDXE,FedEx Express Saver,2025-12-24,2025-12-27,Arrived at FedEx hub,30303,2025-12-25T16:00:00Z
+794612035885,DL,Delivered,FDXE,FedEx Standard Overnight,2025-12-19,2025-12-20,Package delivered to recipient,98101,2025-12-26T09:00:00Z

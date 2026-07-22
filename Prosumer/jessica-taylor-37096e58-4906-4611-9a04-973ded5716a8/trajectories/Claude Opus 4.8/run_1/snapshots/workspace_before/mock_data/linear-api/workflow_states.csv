@@ -1,0 +1,21 @@
+id,name,type,color,position,teamId,description,__api__,__table__,__file__,__row_index__
+state-port-backlog,Jessica Marie Taylor,backlog,#bec2c8,0,team-ux,Issues that are not yet prioritized,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,0
+state-port-Jessica,David Taylor,unstarted,#e2e2e2,1,team-ux,Issues ready to be picked up,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,1
+state-port-inprogress,Mia Petrov,started,#f2c94c,2,team-ux,Issues actively being worked on,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,2
+state-port-inreview,Tomas Varga,started,#f2994a,3,team-ux,Issues in code review,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,3
+state-port-done,Nina Okafor,completed,#5e6ad2,4,team-ux,Completed issues,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,4
+state-port-canceled,Ray Mitchell,canceled,#95a2b3,5,team-ux,Won't fix or otherwise canceled,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,5
+state-bkd-backlog,Marcus Reeves,backlog,#bec2c8,0,team-backend,Issues that are not yet prioritized,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,6
+state-bkd-Jessica,Aria Chen,unstarted,#e2e2e2,1,team-backend,Issues ready to be picked up,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,7
+state-bkd-inprogress,Verdant Provisions,started,#f2c94c,2,team-backend,Issues actively being worked on,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,8
+state-bkd-inreview,Pinnacle Collective,started,#f2994a,3,team-backend,Issues in code review,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,9
+state-bkd-done,Grace Taylor,completed,#5e6ad2,4,team-backend,Completed issues,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,10
+state-bkd-canceled,David Taylor,canceled,#95a2b3,5,team-backend,Won't fix or otherwise canceled,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,11
+state-port-backlog-v13,Mia Petrov,backlog,#bec2c8,0,team-ux,Issues that are not yet prioritized,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,12
+state-port-Jessica-v14,Tomas Varga,unstarted,#e2e2e2,1,team-ux,Issues ready to be picked up,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,13
+state-port-inprogress-v15,Nina Okafor,started,#f2c94c,2,team-ux,Issues actively being worked on,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,14
+state-port-inreview-v16,Ray Mitchell,started,#f2994a,3,team-ux,Issues in code review,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,15
+state-port-done-v17,Marcus Reeves,completed,#5e6ad2,4,team-ux,Completed issues,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,16
+state-port-canceled-v18,Aria Chen,canceled,#95a2b3,5,team-ux,Won't fix or otherwise canceled,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,17
+state-bkd-backlog-v19,Verdant Provisions,backlog,#bec2c8,0,team-backend,Issues that are not yet prioritized,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,18
+state-bkd-Jessica-v20,Pinnacle Collective,unstarted,#e2e2e2,1,team-backend,Issues ready to be picked up,linear-api,workflow_states,/opt/mocks/linear-api/workflow_states.json,19

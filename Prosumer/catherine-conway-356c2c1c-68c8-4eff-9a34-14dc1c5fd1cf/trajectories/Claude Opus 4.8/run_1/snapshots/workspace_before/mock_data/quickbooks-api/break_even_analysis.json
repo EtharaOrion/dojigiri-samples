@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Catherine Conway",
+    "PreparedDate": "2025-10-22",
+    "Context": "Quick back-of-napkin after Ridgemont mentioned archival paper pricing may rise next year. Rough studio-side numbers before a proper review with Diane.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 60,
+          "Rate": 45,
+          "Total": 2700
+        },
+        "DropIns": {
+          "AvgMonthly": 12
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 1500
+        },
+        "TotalMonthlyRevenue": 5940
+      },
+      "MonthlyExpenses": {
+        "Rent": 320,
+        "Utilities": {
+          "Electric": 165,
+          "Water": 55,
+          "Total": 220
+        },
+        "Insurance": {
+          "Quarterly": 840,
+          "Monthly": 280
+        },
+        "InstructorPay_Raj": 450,
+        "Cleaning": {
+          "BiWeekly": 120,
+          "Monthly": 280
+        },
+        "Supplies": {
+          "AvgMonthly": 100
+        },
+        "Marketing": {
+          "AvgMonthly": 120
+        },
+        "TotalMonthlyExpenses": 1370
+      },
+      "MonthlyNetIncome": 4570,
+      "AaronDrawFromNet": 2000,
+      "RetainedForReserves": 2570,
+      "Note": "Rough estimate only. Studio side only - clinic P&L is tracked separately. Revisit once 2025 actuals close."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Ridgemont raises archival paper pricing ~15%",
+        "NewRent": 260,
+        "RentIncrease": 80,
+        "NewTotalExpenses": 1450,
+        "NewNetIncome": 4490,
+        "BreakEvenMembers": 33,
+        "BreakEvenCalculation": "Fixed costs $1,370 + $80 increase = $1,450. At $45/print-equivalent, $1,450 / $45 = 32.2 -> 33 sales minimum.",
+        "Impact": "Minimal. Well within buffer at current volume."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case - Meridian raises commission split",
+        "NewRent": 650,
+        "RentIncrease": 200,
+        "NewTotalExpenses": 1570,
+        "NewNetIncome": 4370,
+        "BreakEvenMembers": 35,
+        "Impact": "Still comfortable. Margaret suggested renegotiating the framing contract if this happens."
+      }
+    },
+    "KeyInsight": "Break-even is ~30-33 print-equivalent sales per month at the current cost structure. Even in a slow winter month (December low ~40 sales) the studio stays comfortably profitable, so there is room to hold tuition and print prices where they are.",
+    "ActionItems": [
+      "Confirm Ridgemont's 2026 paper pricing before the next large commission",
+      "Revisit with Diane after year-end for proper studio P&L modeling"
+    ]
+  }
+}

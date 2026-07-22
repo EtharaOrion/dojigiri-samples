@@ -1,0 +1,245 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": 148,
+    "messages_unread": 0,
+    "threads_total": 92,
+    "threads_unread": 0
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": 62,
+    "messages_unread": 0,
+    "threads_total": 41,
+    "threads_unread": 0
+  },
+  {
+    "id": "DRAFT",
+    "name": "DRAFT",
+    "type": "system",
+    "messages_total": 5,
+    "messages_unread": 0,
+    "threads_total": 5,
+    "threads_unread": 0
+  },
+  {
+    "id": "SPAM",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": 12,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "STARRED",
+    "name": "STARRED",
+    "type": "system",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 22,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_clients",
+    "name": "Clients",
+    "type": "user",
+    "messages_total": 220,
+    "messages_unread": 0,
+    "threads_total": 140,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_wellness",
+    "name": "Wellness",
+    "type": "user",
+    "messages_total": 42,
+    "messages_unread": 0,
+    "threads_total": 34,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_finance",
+    "name": "Finance + Taxes",
+    "type": "user",
+    "messages_total": 88,
+    "messages_unread": 0,
+    "threads_total": 62,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_family",
+    "name": "Family",
+    "type": "user",
+    "messages_total": 36,
+    "messages_unread": 0,
+    "threads_total": 28,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_inspiration",
+    "name": "Inspiration + refs",
+    "type": "user",
+    "messages_total": 58,
+    "messages_unread": 0,
+    "threads_total": 44,
+    "threads_unread": 0
+  },
+  {
+    "id": "INBOX-v11",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": 148,
+    "messages_unread": 0,
+    "threads_total": 92,
+    "threads_unread": 0
+  },
+  {
+    "id": "SENT-v12",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": 62,
+    "messages_unread": 0,
+    "threads_total": 41,
+    "threads_unread": 0
+  },
+  {
+    "id": "DRAFT-v13",
+    "name": "DRAFT",
+    "type": "system",
+    "messages_total": 5,
+    "messages_unread": 0,
+    "threads_total": 5,
+    "threads_unread": 0
+  },
+  {
+    "id": "SPAM-v14",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": 12,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "STARRED-v15",
+    "name": "STARRED",
+    "type": "system",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 22,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_clients-v16",
+    "name": "Clients",
+    "type": "user",
+    "messages_total": 220,
+    "messages_unread": 0,
+    "threads_total": 140,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_wellness-v17",
+    "name": "Wellness",
+    "type": "user",
+    "messages_total": 42,
+    "messages_unread": 0,
+    "threads_total": 34,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_finance-v18",
+    "name": "Finance + Taxes",
+    "type": "user",
+    "messages_total": 88,
+    "messages_unread": 0,
+    "threads_total": 62,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_family-v19",
+    "name": "Family",
+    "type": "user",
+    "messages_total": 36,
+    "messages_unread": 0,
+    "threads_total": 28,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_inspiration-v20",
+    "name": "Inspiration + refs",
+    "type": "user",
+    "messages_total": 58,
+    "messages_unread": 0,
+    "threads_total": 44,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_verdant",
+    "name": "Verdant Provisions",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_pinnacle",
+    "name": "Pinnacle Collective",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_bloom",
+    "name": "Bloom Skin Co",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_receipts",
+    "name": "Receipts",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_friends",
+    "name": "Friends",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_mentor",
+    "name": "Ray Mitchell",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_health",
+    "name": "Health",
+    "type": "user",
+    "messages_total": 24,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  }
+]

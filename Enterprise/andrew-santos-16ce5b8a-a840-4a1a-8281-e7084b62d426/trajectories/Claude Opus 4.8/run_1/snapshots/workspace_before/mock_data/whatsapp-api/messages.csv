@@ -1,0 +1,173 @@
+conversation_id,direction,from_wa_id,message_id,sent_at,status,template_name,text,to_wa_id,type
+conv-marco-001,inbound,13138130142,msg-marco-01,1774366320,delivered,,running 10 min late grabbing the kids — start without me if you need to,13138130283,text
+conv-marco-001,outbound,13138130283,msg-marco-02,1774366440,read,,"all good, dinner's not til 7. drive safe",13138130142,text
+conv-marco-001,inbound,13138130142,msg-marco-03,1774378320,read,,"home now — Diego wants the leftovers, ok with you?",13138130283,text
+conv-diego-002,inbound,13138130153,msg-diego-01,1774200600,delivered,,"dad practice ran long, can you grab me at 5:30 instead?",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-02,1774200660,read,,on my way. west entrance.,13138130153,text
+conv-diego-002,inbound,13138130153,msg-diego-03,1774210451,read,,appreciate it. need to grab new shoes this weekend size 13,13138130283,text
+conv-sofia-003,inbound,13138130164,msg-sofia-01,1774022400,delivered,,violin lesson moved to 4:30 next tue — ok if marco picks me up?,13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-02,1774023060,read,,yes — I'll confirm with marco. have a great lesson,13138130164,text
+conv-sofia-003,inbound,13138130164,msg-sofia-03,1774028849,read,,ty 🎻,13138130283,text
+conv-elena-004,inbound,13138130175,msg-elena-01,1773926312,delivered,,mijo viene domingo? hago empanadas,13138130283,text
+conv-elena-004,outbound,13138130283,msg-elena-02,1773927720,read,,"sí mamá, around 3 — bring the kids too",13138130175,text
+conv-elena-004,inbound,13138130175,msg-elena-03,1773948612,read,,perfecto. tres leches también ❤️,13138130283,text
+conv-marco-001,inbound,13138130142,msg-marco-04,1768028400,read,,arroz con pollo tonight? I can grab peppers at Eastern Market,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-04,1768231860,read,,"practice ran long, grab me at 5:30 west entrance",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-05,1768080360,delivered,,arroz con pollo tonight? I can grab peppers at Eastern Market (week 4),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-04,1768487160,read,,violin lesson moved to 4:30 next tue — ok?,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-04,1768132320,delivered,,mijo viene domingo? hago empanadas (week 6),13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-01,1768154700,read,,showcase production walkthrough is set for Thursday,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-06,1768180680,read,,arroz con pollo tonight? I can grab peppers at Eastern Market (week 8),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-01,1768206660,read,,"jazz show at Cliff Bell's Friday, you in?",13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-05,1768487220,delivered,,violin lesson moved to 4:30 next tue — ok? (week 10),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-05,1768258620,read,,"practice ran long, grab me at 5:30 west entrance (week 11)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-07,1768281000,delivered,,"screens off at dinner, tell the kids",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-06,1768306980,read,,coach wants me at open gym Saturday morning,13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-08,1768332960,read,,"screens off at dinner, tell the kids (week 14)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-06,1768487280,read,,youth symphony rehearsal is at Orchestra Hall 10am sat,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-05,1768381320,delivered,,tres leches también ❤️,13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-02,1768407300,read,,two teaching-artist offers out for Livernois,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-09,1768433280,delivered,,"screens off at dinner, tell the kids (week 18)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-02,1768459260,read,,"saw the DYAA showcase reel, so proud of you",13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-07,1768487340,read,,youth symphony rehearsal is at Orchestra Hall 10am sat (week 20),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-07,1768507620,read,,coach wants me at open gym Saturday morning (week 21),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-10,1768533600,delivered,,Diego needs size 13 shoes before the season opener,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-08,1768559580,read,,"can we hit the art store, I'm out of gouache",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-11,1768585560,delivered,,Diego needs size 13 shoes before the season opener (week 24),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-08,1768611540,read,,can Abuela come to the winter concert?,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-06,1768633920,read,,los niños comieron bien?,13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-03,1768659900,read,,attendance is up 18% at the Cass Ave studio,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-12,1768685880,delivered,,Diego needs size 13 shoes before the season opener (week 2),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-03,1768711860,read,,coffee at Great Lakes before your board meeting?,13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-09,1768734240,delivered,,can Abuela come to the winter concert? (week 4),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-09,1768760220,read,,"can we hit the art store, I'm out of gouache (week 5)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-13,1768786200,read,,"running Belle Isle at 6, back before the kids are up",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-10,1768812180,read,,"scrimmage moved to Thursday, you coming?",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-14,1768838160,delivered,,"running Belle Isle at 6, back before the kids are up (week 8)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-10,1768860540,read,,I only want pasta tonight please,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-07,1768886520,delivered,,"necesito ir al doctor el martes, me llevas?",13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-04,1768912500,read,,Hartwell site visit deck — I'll have the program brief by the 3rd,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-15,1768938480,read,,"running Belle Isle at 6, back before the kids are up (week 12)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-04,1768960860,read,,the Georgia Street plot needs weeding this weekend,13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-11,1768986840,delivered,,I only want pasta tonight please (week 14),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-11,1769012820,read,,"scrimmage moved to Thursday, you coming? (week 15)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-16,1769038800,delivered,,can you get Sofia from violin at 4? board call ran over,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-12,1769064780,read,,put my mural photos on the DYAA insta?,13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-17,1769087160,read,,can you get Sofia from violin at 4? board call ran over (week 18),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-12,1769113140,read,,inhaler is almost empty,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-08,1769139120,delivered,,guardé el café con leche para ti,13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-05,1769165100,read,,"grand opening dress rehearsal Nov 14, full run-through",13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-18,1769191080,delivered,,can you get Sofia from violin at 4? board call ran over (week 22),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-05,1769213460,read,,brought you tomatoes from my garden,13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-13,1769239440,read,,inhaler is almost empty (week 24),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-13,1769265420,read,,put my mural photos on the DYAA insta? (week 25),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-19,1769291400,delivered,,Sofia's inhaler refill is at the Cass Ave pharmacy,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-14,1769313780,read,,SAT prep session got rescheduled to Tuesday,13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-20,1769339760,delivered,,Sofia's inhaler refill is at the Cass Ave pharmacy (week 2),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-14,1769365740,read,,can you sign the field trip form,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-09,1769391720,read,,"Navidad en Palmer Woods otra vez, sí?",13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-06,1769417700,read,,youth scholarship fund needs a sign-off,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-21,1769440080,delivered,,Sofia's inhaler refill is at the Cass Ave pharmacy (week 6),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-06,1769466060,read,,councilwoman Lawson spoke well of DYAA at the meeting,13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-15,1769492040,delivered,,can you sign the field trip form (week 8),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-15,1769518020,read,,SAT prep session got rescheduled to Tuesday (week 9),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-22,1769540400,read,,date night Friday after the showcase crunch?,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-16,1769566380,read,,need a ride to the Pistons game with the guys,13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-23,1769592360,delivered,,date night Friday after the showcase crunch? (week 12),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-16,1769618340,read,,practicing the Vivaldi for the concert,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-10,1769644320,delivered,,Diego está muy alto ya,13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-07,1769666700,read,,de-identified roll-up for the board is ready,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-24,1769692680,read,,date night Friday after the showcase crunch? (week 16),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-07,1769718660,read,,"jazz show at Cliff Bell's Friday, you in? (week 17)",13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-17,1769744640,delivered,,practicing the Vivaldi for the concert (week 18),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-17,1769770620,read,,need a ride to the Pistons game with the guys (week 19),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-25,1769793000,delivered,,"Elena wants us Sunday, empanadas apparently",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-18,1769818980,read,,"finished the linocut, want to see it at dinner",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-26,1769844960,read,,"Elena wants us Sunday, empanadas apparently (week 22)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-18,1769870940,read,,recital dress — can we go this weekend,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-11,1769893320,delivered,,"Sofia me mandó un video del violín, precioso",13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-08,1769919300,read,,Square terminals ordered for the open house,13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-27,1769945280,delivered,,"Elena wants us Sunday, empanadas apparently (week 26)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-08,1769971260,read,,"saw the DYAA showcase reel, so proud of you (week 27)",13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-19,1769997240,read,,recital dress — can we go this weekend (week 2),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-19,1770019620,read,,"finished the linocut, want to see it at dinner (week 3)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-28,1770045600,delivered,,marathon long run went well — 18 miles on the Riverwalk,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-20,1770071580,read,,college visit list — can we talk this weekend,13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-29,1770097560,delivered,,marathon long run went well — 18 miles on the Riverwalk (week 6),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-20,1770123540,read,,ty for coming to pickup 🎻,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-12,1770145920,read,,la receta de mole para Reyes,13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-09,1770171900,read,,showcase production walkthrough is set for Thursday (week 9),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-30,1770197880,delivered,,marathon long run went well — 18 miles on the Riverwalk (week 10),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-09,1770223860,read,,coffee at Great Lakes before your board meeting? (week 11),13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-21,1770246240,delivered,,ty for coming to pickup 🎻 (week 12),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-21,1770272220,read,,college visit list — can we talk this weekend (week 13),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-31,1770298200,read,,"the HVAC guy comes November, put it on the calendar",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-22,1770324180,read,,"made varsity starting five, coach just told us",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-32,1770350160,delivered,,"the HVAC guy comes November, put it on the calendar (week 16)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-22,1770372540,read,,Mr. Ortega said my intonation is better,13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-13,1770398520,delivered,,"te quiero mijo, buenas noches",13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-10,1770424500,read,,two teaching-artist offers out for Livernois (week 19),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-33,1770450480,read,,"the HVAC guy comes November, put it on the calendar (week 20)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-10,1770472860,read,,the Georgia Street plot needs weeding this weekend (week 21),13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-23,1770498840,delivered,,Mr. Ortega said my intonation is better (week 22),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-23,1770524820,read,,"made varsity starting five, coach just told us (week 23)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-34,1770550800,delivered,,"kitchen quote from Andre is 18k, want to talk it through tonight",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-24,1770576780,read,,"practice ran long, grab me at 5:30 west entrance (week 25)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-35,1770599160,read,,"kitchen quote from Andre is 18k, want to talk it through tonight (week 26)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-24,1770625140,read,,violin lesson moved to 4:30 next tue — ok? (week 27),13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-14,1770651120,delivered,,mijo viene domingo? hago empanadas (week 2),13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-11,1770677100,read,,attendance is up 18% at the Cass Ave studio (week 3),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-36,1770703080,delivered,,"kitchen quote from Andre is 18k, want to talk it through tonight (week 4)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-11,1770725460,read,,brought you tomatoes from my garden (week 5),13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-25,1770751440,read,,violin lesson moved to 4:30 next tue — ok? (week 6),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-25,1770777420,read,,"practice ran long, grab me at 5:30 west entrance (week 7)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-37,1770803400,delivered,,don't forget Diego's college-visit fund convo,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-26,1770825780,read,,coach wants me at open gym Saturday morning (week 9),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-38,1770851760,delivered,,don't forget Diego's college-visit fund convo (week 10),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-26,1770877740,read,,youth symphony rehearsal is at Orchestra Hall 10am sat (week 11),13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-15,1770903720,read,,tres leches también ❤️ (week 12),13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-12,1770929700,read,,Hartwell site visit deck — I'll have the program brief by the 3rd (week 13),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-39,1770952080,delivered,,don't forget Diego's college-visit fund convo (week 14),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-12,1770978060,read,,councilwoman Lawson spoke well of DYAA at the meeting (week 15),13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-27,1771004040,delivered,,youth symphony rehearsal is at Orchestra Hall 10am sat (week 16),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-27,1771030020,read,,coach wants me at open gym Saturday morning (week 17),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-40,1771052400,read,,"picked up Great Lakes dark roast, we were out",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-28,1771078380,read,,"can we hit the art store, I'm out of gouache (week 19)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-41,1771104360,delivered,,"picked up Great Lakes dark roast, we were out (week 20)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-28,1771130340,read,,can Abuela come to the winter concert? (week 21),13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-16,1771156320,delivered,,los niños comieron bien? (week 22),13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-13,1771178700,read,,"grand opening dress rehearsal Nov 14, full run-through (week 23)",13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-42,1771204680,read,,"picked up Great Lakes dark roast, we were out (week 24)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-13,1771230660,read,,"jazz show at Cliff Bell's Friday, you in? (week 25)",13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-29,1771256640,delivered,,can Abuela come to the winter concert? (week 26),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-29,1771282620,read,,"can we hit the art store, I'm out of gouache (week 27)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-43,1771305000,delivered,,"Sofia's winter concert is Dec 5, Orchestra Hall 7pm",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-30,1771330980,read,,"scrimmage moved to Thursday, you coming? (week 3)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-44,1771356960,read,,"Sofia's winter concert is Dec 5, Orchestra Hall 7pm (week 4)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-30,1771382940,read,,I only want pasta tonight please (week 5),13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-17,1771405320,delivered,,"necesito ir al doctor el martes, me llevas? (week 6)",13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-14,1771431300,read,,youth scholarship fund needs a sign-off (week 7),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-45,1771457280,delivered,,"Sofia's winter concert is Dec 5, Orchestra Hall 7pm (week 8)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-14,1771483260,read,,"saw the DYAA showcase reel, so proud of you (week 9)",13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-31,1771509240,read,,I only want pasta tonight please (week 10),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-31,1771531620,read,,"scrimmage moved to Thursday, you coming? (week 11)",13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-46,1771557600,delivered,,love you — long day but the Greenfield renewal landed,13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-32,1771583580,read,,put my mural photos on the DYAA insta? (week 13),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-47,1771609560,delivered,,love you — long day but the Greenfield renewal landed (week 14),13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-32,1771635540,read,,inhaler is almost empty (week 15),13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-18,1771657920,read,,guardé el café con leche para ti (week 16),13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-15,1771683900,read,,de-identified roll-up for the board is ready (week 17),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-48,1771709880,delivered,,love you — long day but the Greenfield renewal landed (week 18),13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-15,1771735860,read,,coffee at Great Lakes before your board meeting? (week 19),13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-33,1771758240,delivered,,inhaler is almost empty (week 20),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-33,1771784220,read,,put my mural photos on the DYAA insta? (week 21),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-49,1771810200,read,,"can you cover pickup Thursday, I have therapy at 7",13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-34,1771836180,read,,SAT prep session got rescheduled to Tuesday (week 23),13138130153,text
+conv-marco-001,inbound,13138130142,msg-marco-50,1771862160,delivered,,"can you cover pickup Thursday, I have therapy at 7 (week 24)",13138130283,text
+conv-sofia-003,outbound,13138130283,msg-sofia-34,1771884540,read,,can you sign the field trip form (week 25),13138130164,text
+conv-elena-004,inbound,13138130175,msg-elena-19,1771910520,delivered,,"Navidad en Palmer Woods otra vez, sí? (week 26)",13138130283,text
+conv-marcus-005,outbound,13138130283,msg-marcus-16,1771936500,read,,Square terminals ordered for the open house (week 27),13138130311,text
+conv-marco-001,inbound,13138130142,msg-marco-51,1771962480,read,,"can you cover pickup Thursday, I have therapy at 7 (week 2)",13138130283,text
+conv-rosa-006,outbound,13138130283,msg-rosa-16,1771984860,read,,the Georgia Street plot needs weeding this weekend (week 3),13138130404,text
+conv-sofia-003,inbound,13138130164,msg-sofia-35,1772010840,delivered,,can you sign the field trip form (week 4),13138130283,text
+conv-diego-002,outbound,13138130283,msg-diego-35,1772036820,read,,SAT prep session got rescheduled to Tuesday (week 5),13138130153,text

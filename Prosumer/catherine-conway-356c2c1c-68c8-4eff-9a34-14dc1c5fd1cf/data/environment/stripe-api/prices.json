@@ -1,0 +1,47 @@
+[
+  {
+    "id": "price_pzv42gq7m9fz9c",
+    "product": "prod_b61a8lewxpnaiq",
+    "unit_amount": "2500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Print Club Monthly"
+  },
+  {
+    "id": "price_v48mx6l3pmszow",
+    "product": "prod_z5dcgs02544171",
+    "unit_amount": "2800",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Note-card Society Quarterly"
+  },
+  {
+    "id": "price_evfi5njex4sz0y",
+    "product": "prod_ekuxrnycdkhr5s",
+    "unit_amount": "6500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Workshop Series Monthly"
+  },
+  {
+    "id": "price_agksgcbiwhukbo",
+    "product": "prod_aiakyqnod1imb3",
+    "unit_amount": "12000",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Studio Circle Annual"
+  },
+  {
+    "id": "price_0ekgda2amkwmh2",
+    "product": "prod_ekuxrnycdkhr5s",
+    "unit_amount": "6500",
+    "currency": "usd",
+    "recurring_interval": "one_time",
+    "active": "true",
+    "nickname": "Single Workshop Session"
+  }
+]

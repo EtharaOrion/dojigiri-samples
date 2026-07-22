@@ -1,0 +1,21 @@
+id,customer_id,location_id,line_items,total_money,state,created_at
+ORD_AURORA01,CUST_HARPER01,LOC_MAIN,"[{""catalog_object_id"": ""VAR_LATTE_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_CROISSANT_R"", ""quantity"": ""1""}]","{""amount"": 825, ""currency"": ""USD""}",CA,2026-11-20T08:14:00Z
+ORD_BOREAL02,CUST_DIEGO02,LOC_MAIN,"[{""catalog_object_id"": ""VAR_COLDBREW_R"", ""quantity"": ""1""}]","{""amount"": 500, ""currency"": ""USD""}",CA,2026-11-20T09:39:00Z
+ORD_CITRON03,CUST_MAYA03,LOC_MAIN,"[{""catalog_object_id"": ""VAR_MUG_R"", ""quantity"": ""2""}]","{""amount"": 2400, ""currency"": ""USD""}",CA,2026-11-21T10:04:00Z
+ORD_DELTA04,CUST_OMAR04,LOC_MAIN,"[{""catalog_object_id"": ""VAR_CROISSANT_R"", ""quantity"": ""1""}]","{""amount"": 375, ""currency"": ""USD""}",CA,2026-11-21T11:24:00Z
+ORD_ECHO05,CUST_LENA05,LOC_MAIN,"[{""catalog_object_id"": ""VAR_BEANS_12"", ""quantity"": ""1""}]","{""amount"": 1600, ""currency"": ""USD""}",CA,2026-11-22T11:59:00Z
+ORD_FJORD06,CUST_PRIYA06,LOC_MAIN,"[{""catalog_object_id"": ""VAR_TEA_TIN"", ""quantity"": ""1""}]","{""amount"": 900, ""currency"": ""USD""}",CA,2026-11-22T13:29:00Z
+ORD_GROVE07,CUST_TOMAS07,LOC_MAIN,"[{""catalog_object_id"": ""VAR_LATTE_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_BAGEL_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_TEA_TIN"", ""quantity"": ""1""}]","{""amount"": 1650, ""currency"": ""USD""}",CA,2026-11-23T14:09:00Z
+ORD_AURORA01-v8,CUST_HARPER01,LOC_MAIN,"[{""catalog_object_id"": ""VAR_LATTE_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_CROISSANT_R"", ""quantity"": ""1""}]","{""amount"": 825, ""currency"": ""USD""}",CA,2026-11-20T08:14:00Z
+ORD_BOREAL02-v9,CUST_DIEGO02,LOC_MAIN,"[{""catalog_object_id"": ""VAR_COLDBREW_R"", ""quantity"": ""1""}]","{""amount"": 500, ""currency"": ""USD""}",CA,2026-11-20T09:39:00Z
+ORD_CITRON03-v10,CUST_MAYA03,LOC_MAIN,"[{""catalog_object_id"": ""VAR_MUG_R"", ""quantity"": ""2""}]","{""amount"": 2400, ""currency"": ""USD""}",CA,2026-11-21T10:04:00Z
+ORD_DELTA04-v11,CUST_OMAR04,LOC_MAIN,"[{""catalog_object_id"": ""VAR_CROISSANT_R"", ""quantity"": ""1""}]","{""amount"": 375, ""currency"": ""USD""}",CA,2026-11-21T11:24:00Z
+ORD_ECHO05-v12,CUST_LENA05,LOC_MAIN,"[{""catalog_object_id"": ""VAR_BEANS_12"", ""quantity"": ""1""}]","{""amount"": 1600, ""currency"": ""USD""}",CA,2026-11-22T11:59:00Z
+ORD_FJORD06-v13,CUST_PRIYA06,LOC_MAIN,"[{""catalog_object_id"": ""VAR_TEA_TIN"", ""quantity"": ""1""}]","{""amount"": 900, ""currency"": ""USD""}",CA,2026-11-22T13:29:00Z
+ORD_GROVE07-v14,CUST_TOMAS07,LOC_MAIN,"[{""catalog_object_id"": ""VAR_LATTE_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_BAGEL_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_TEA_TIN"", ""quantity"": ""1""}]","{""amount"": 1650, ""currency"": ""USD""}",CA,2026-11-23T14:09:00Z
+ORD_AURORA01-v15,CUST_HARPER01,LOC_MAIN,"[{""catalog_object_id"": ""VAR_LATTE_R"", ""quantity"": ""1""}, {""catalog_object_id"": ""VAR_CROISSANT_R"", ""quantity"": ""1""}]","{""amount"": 825, ""currency"": ""USD""}",CA,2026-11-20T08:14:00Z
+ORD_BOREAL02-v16,CUST_DIEGO02,LOC_MAIN,"[{""catalog_object_id"": ""VAR_COLDBREW_R"", ""quantity"": ""1""}]","{""amount"": 500, ""currency"": ""USD""}",CA,2026-11-20T09:39:00Z
+ORD_CITRON03-v17,CUST_MAYA03,LOC_MAIN,"[{""catalog_object_id"": ""VAR_MUG_R"", ""quantity"": ""2""}]","{""amount"": 2400, ""currency"": ""USD""}",CA,2026-11-21T10:04:00Z
+ORD_DELTA04-v18,CUST_OMAR04,LOC_MAIN,"[{""catalog_object_id"": ""VAR_CROISSANT_R"", ""quantity"": ""1""}]","{""amount"": 375, ""currency"": ""USD""}",CA,2026-11-21T11:24:00Z
+ORD_ECHO05-v19,CUST_LENA05,LOC_MAIN,"[{""catalog_object_id"": ""VAR_BEANS_12"", ""quantity"": ""1""}]","{""amount"": 1600, ""currency"": ""USD""}",CA,2026-11-22T11:59:00Z
+ORD_FJORD06-v20,CUST_PRIYA06,LOC_MAIN,"[{""catalog_object_id"": ""VAR_TEA_TIN"", ""quantity"": ""1""}]","{""amount"": 900, ""currency"": ""USD""}",CA,2026-11-22T13:29:00Z

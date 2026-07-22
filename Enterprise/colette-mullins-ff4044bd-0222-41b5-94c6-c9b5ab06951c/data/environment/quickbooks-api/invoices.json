@@ -1,0 +1,866 @@
+[
+  {
+    "Id": "13576",
+    "DocNumber": "RENT-mullins-86cd",
+    "TxnDate": "2025-06-01",
+    "DueDate": "2025-06-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "18750",
+    "DocNumber": "RENT-mullins-4dc6",
+    "TxnDate": "2025-06-01",
+    "DueDate": "2025-06-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "15145",
+    "DocNumber": "RENT-colette-mullins-ca71",
+    "TxnDate": "2025-06-01",
+    "DueDate": "2025-06-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "9304",
+    "DocNumber": "RENT-mullins-71f0",
+    "TxnDate": "2025-07-01",
+    "DueDate": "2025-07-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "13297",
+    "DocNumber": "RENT-mullins-5280",
+    "TxnDate": "2025-07-01",
+    "DueDate": "2025-07-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "10037",
+    "DocNumber": "RENT-mullins-8e63",
+    "TxnDate": "2025-07-01",
+    "DueDate": "2025-07-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "13424",
+    "DocNumber": "RENT-mullins-8667",
+    "TxnDate": "2025-08-01",
+    "DueDate": "2025-08-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "12783",
+    "DocNumber": "RENT-mullins-1954",
+    "TxnDate": "2025-08-01",
+    "DueDate": "2025-08-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "18086",
+    "DocNumber": "RENT-mullins-3573",
+    "TxnDate": "2025-08-01",
+    "DueDate": "2025-08-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "10864",
+    "DocNumber": "RENT-colette-mullins-fc21",
+    "TxnDate": "2025-09-01",
+    "DueDate": "2025-09-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "11391",
+    "DocNumber": "RENT-colette-mullins-a996",
+    "TxnDate": "2025-09-01",
+    "DueDate": "2025-09-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "16631",
+    "DocNumber": "RENT-colette-mullins-c133",
+    "TxnDate": "2025-09-01",
+    "DueDate": "2025-09-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "14549",
+    "DocNumber": "RENT-mullins-5cbd",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "11814",
+    "DocNumber": "RENT-colette-mullins-b24b",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "13942",
+    "DocNumber": "RENT-mullins-32c0",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "14254",
+    "DocNumber": "RENT-colette-mullins-a2cf",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "17616",
+    "DocNumber": "RENT-mullins-5613",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "9379",
+    "DocNumber": "RENT-colette-mullins-d7ca",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "13694",
+    "DocNumber": "RENT-mullins-497f",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "19172",
+    "DocNumber": "RENT-mullins-01e3",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "15204",
+    "DocNumber": "RENT-mullins-327c",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "17613",
+    "DocNumber": "RENT-colette-mullins-ef63",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "9285",
+    "DocNumber": "RENT-colette-mullins-d508",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "17751",
+    "DocNumber": "RENT-mullins-8969",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "15186",
+    "DocNumber": "RENT-colette-mullins-c13a",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "18034",
+    "DocNumber": "RENT-colette-mullins-cc53",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "17694",
+    "DocNumber": "RENT-mullins-9e0b",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "17080",
+    "DocNumber": "RENT-mullins-2d46",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "16977",
+    "DocNumber": "RENT-colette-mullins-eb7b",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "11552",
+    "DocNumber": "RENT-colette-mullins-a90f",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "9640",
+    "DocNumber": "RENT-mullins-44c7",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "12013",
+    "DocNumber": "RENT-colette-mullins-fc2f",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "13774",
+    "DocNumber": "RENT-mullins-1a55",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "11431",
+    "DocNumber": "RENT-colette-mullins-af4a",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 1"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 1 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "16281",
+    "DocNumber": "RENT-colette-mullins-f3cc",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 2"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 2 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "16931",
+    "DocNumber": "RENT-mullins-629b",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-06",
+    "CustomerRef": {
+      "value": "9012",
+      "name": "Rental Tenant Property 3"
+    },
+    "Line": [
+      {
+        "Amount": 2450.0,
+        "Description": "Monthly rent — Property 3 (Shaker Heights, Cleveland, OH, FL). Managed by Tony DeLuca.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Rental Income"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2450.0,
+    "Balance": 0,
+    "Status": "Paid"
+  }
+]

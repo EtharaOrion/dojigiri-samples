@@ -1,0 +1,105 @@
+applied_at,candidate_id,current_stage,id,job_id,last_activity_at,status,__api__,__table__,__file__,__row_index__
+2026-05-29T00:00:00Z,cand-f079887a,Application Review,app-36a0fa07,job-7ec8db86,2026-06-27T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,0
+2026-05-19T00:00:00Z,cand-1b52ef48,Interview,app-6faa85d2,job-328ef02f,2026-06-26T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,1
+2026-06-22T00:00:00Z,cand-7c0c91ef,Offer,app-9584e93d,job-e9d16cfb,2026-06-27T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,2
+2026-06-17T00:00:00Z,cand-4ea04e26,Hired,app-6b46dbc7,job-a96dbef5,2026-06-24T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,3
+2026-06-17T00:00:00Z,cand-570f6859,Application Review,app-347103ec,job-862c9625,2026-06-27T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,4
+2026-06-05T00:00:00Z,cand-97dc1222,Interview,app-f7e68e1b,job-2abdc8e2,2026-06-24T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,5
+2026-05-19T00:00:00Z,cand-da5729b8,Offer,app-9f9c072c,job-039fafe2,2026-06-24T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,6
+2026-05-21T00:00:00Z,cand-1b84d191,Hired,app-ed227f1d,job-55d14a2c,2026-06-27T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,7
+2026-06-09T00:00:00Z,cand-c2f8f930,Application Review,app-dee1db42,job-b4c6289e,2026-06-27T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,8
+2026-05-14T00:00:00Z,cand-e74e9247,Interview,app-41f9de36,job-536d56b4,2026-06-25T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,9
+2026-06-15T00:00:00Z,cand-d8f530a7,Offer,app-fa7c1b12,job-67a329be,2026-06-27T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,10
+2026-06-10T00:00:00Z,cand-ecabe56b,Hired,app-a9ffa2c4,job-0ec1e48f,2026-06-26T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,11
+2026-03-05T00:00:00Z,cand-5209e382,Hired,app-e884456d,job-7ec8db86,2026-06-01T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,12
+2026-03-06T00:00:00Z,cand-56862dc2,Phone Screen,app-4510b134,job-328ef02f,2026-06-02T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,13
+2026-03-07T00:00:00Z,cand-e1b70b97,Onsite,app-b64acb8a,job-e9d16cfb,2026-06-03T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,14
+2026-03-08T00:00:00Z,cand-e3e62354,Offer,app-b5fe3601,job-a96dbef5,2026-06-04T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,15
+2026-03-09T00:00:00Z,cand-817c6ddd,Hired,app-478f4276,job-862c9625,2026-06-05T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,16
+2026-03-10T00:00:00Z,cand-bc1de53c,Application Review,app-5839aa08,job-2abdc8e2,2026-06-06T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,17
+2026-03-11T00:00:00Z,cand-389e7fe6,Phone Screen,app-88f876ff,job-039fafe2,2026-06-07T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,18
+2026-03-12T00:00:00Z,cand-b80ae9f0,Onsite,app-ea02033e,job-55d14a2c,2026-06-08T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,19
+2026-03-13T00:00:00Z,cand-db827f54,Offer,app-dc8630bb,job-b4c6289e,2026-06-09T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,20
+2026-03-14T00:00:00Z,cand-49599226,Reference Check,app-83d4b48b,job-536d56b4,2026-06-10T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,21
+2026-03-15T00:00:00Z,cand-26975646,Application Review,app-38d99945,job-67a329be,2026-06-11T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,22
+2026-03-16T00:00:00Z,cand-f7311ba2,Phone Screen,app-8ddd1168,job-0ec1e48f,2026-06-12T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,23
+2026-03-17T00:00:00Z,cand-3fe89a67,Onsite,app-496d7071,job-6f98fb38,2026-06-13T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,24
+2026-03-18T00:00:00Z,cand-e32e91cc,Offer,app-cf9aa8fc,job-f2b559f8,2026-06-14T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,25
+2026-03-19T00:00:00Z,cand-e8402919,Reference Check,app-54d2fe07,job-b6c932f6,2026-06-15T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,26
+2026-03-20T00:00:00Z,cand-5209e382,Application Review,app-352fe84c,job-b48ecdbf,2026-06-16T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,27
+2026-03-21T00:00:00Z,cand-56862dc2,Phone Screen,app-376e4eff,job-e7d42db0,2026-06-17T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,28
+2026-03-22T00:00:00Z,cand-e1b70b97,Onsite,app-7a237783,job-43a6254d,2026-06-18T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,29
+2026-03-23T00:00:00Z,cand-e3e62354,Offer,app-7f1555ec,job-835595f8,2026-06-19T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,30
+2026-03-24T00:00:00Z,cand-817c6ddd,Reference Check,app-7becf1b8,job-24fb50c8,2026-06-20T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,31
+2026-03-25T00:00:00Z,cand-bc1de53c,Hired,app-452e7551,job-ed566586,2026-06-21T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,32
+2026-03-26T00:00:00Z,cand-389e7fe6,Phone Screen,app-30c5a22e,job-d1c17fba,2026-06-22T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,33
+2026-03-27T00:00:00Z,cand-b80ae9f0,Onsite,app-e711c096,job-3833cc22,2026-06-23T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,34
+2026-03-28T00:00:00Z,cand-db827f54,Offer,app-2492b07a,job-5e2eb931,2026-06-24T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,35
+2026-03-29T00:00:00Z,cand-49599226,Reference Check,app-01ecf6a7,job-f9270eea,2026-06-25T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,36
+2026-03-30T00:00:00Z,cand-26975646,Application Review,app-914893fd,job-7ec8db86,2026-06-26T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,37
+2026-03-31T00:00:00Z,cand-f7311ba2,Hired,app-6a2a63c9,job-328ef02f,2026-06-27T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,38
+2026-04-01T00:00:00Z,cand-3fe89a67,Onsite,app-64a9037c,job-e9d16cfb,2026-06-01T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,39
+2026-04-02T00:00:00Z,cand-e32e91cc,Hired,app-f3f5db21,job-a96dbef5,2026-06-02T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,40
+2026-04-03T00:00:00Z,cand-e8402919,Reference Check,app-81b396df,job-862c9625,2026-06-03T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,41
+2026-04-04T00:00:00Z,cand-5209e382,Application Review,app-a9ac5bee,job-2abdc8e2,2026-06-04T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,42
+2026-04-05T00:00:00Z,cand-56862dc2,Phone Screen,app-b6255253,job-039fafe2,2026-06-05T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,43
+2026-04-06T00:00:00Z,cand-e1b70b97,Onsite,app-73669684,job-55d14a2c,2026-06-06T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,44
+2026-04-07T00:00:00Z,cand-e3e62354,Hired,app-cb41a3d0,job-b4c6289e,2026-06-07T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,45
+2026-04-08T00:00:00Z,cand-817c6ddd,Hired,app-2a866dea,job-536d56b4,2026-06-08T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,46
+2026-04-09T00:00:00Z,cand-bc1de53c,Hired,app-6bee45e1,job-67a329be,2026-06-09T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,47
+2026-04-10T00:00:00Z,cand-389e7fe6,Phone Screen,app-ede391b3,job-0ec1e48f,2026-06-10T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,48
+2026-04-11T00:00:00Z,cand-b80ae9f0,Onsite,app-783abb53,job-6f98fb38,2026-06-11T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,49
+2026-04-12T00:00:00Z,cand-db827f54,Offer,app-70f76bbc,job-f2b559f8,2026-06-12T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,50
+2026-04-13T00:00:00Z,cand-49599226,Hired,app-fbc27f02,job-b6c932f6,2026-06-13T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,51
+2026-04-14T00:00:00Z,cand-26975646,Hired,app-91179568,job-b48ecdbf,2026-06-14T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,52
+2026-04-15T00:00:00Z,cand-f7311ba2,Phone Screen,app-31498e66,job-e7d42db0,2026-06-15T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,53
+2026-04-16T00:00:00Z,cand-3fe89a67,Onsite,app-5e772b52,job-43a6254d,2026-06-16T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,54
+2026-04-17T00:00:00Z,cand-e32e91cc,Hired,app-ac4806c0,job-835595f8,2026-06-17T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,55
+2026-04-18T00:00:00Z,cand-e8402919,Reference Check,app-54009d12,job-24fb50c8,2026-06-18T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,56
+2026-04-19T00:00:00Z,cand-5209e382,Application Review,app-1057cde1,job-ed566586,2026-06-19T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,57
+2026-04-20T00:00:00Z,cand-56862dc2,Hired,app-ad59d836,job-d1c17fba,2026-06-20T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,58
+2026-04-21T00:00:00Z,cand-e1b70b97,Onsite,app-543557e4,job-3833cc22,2026-06-21T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,59
+2026-04-22T00:00:00Z,cand-e3e62354,Offer,app-ebeff8a1,job-5e2eb931,2026-06-22T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,60
+2026-04-23T00:00:00Z,cand-817c6ddd,Reference Check,app-b66ff7b6,job-f9270eea,2026-06-23T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,61
+2026-04-24T00:00:00Z,cand-bc1de53c,Application Review,app-608db6fb,job-7ec8db86,2026-06-24T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,62
+2026-04-25T00:00:00Z,cand-389e7fe6,Phone Screen,app-121e89b9,job-328ef02f,2026-06-25T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,63
+2026-04-26T00:00:00Z,cand-b80ae9f0,Onsite,app-32ef1824,job-e9d16cfb,2026-06-26T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,64
+2026-04-27T00:00:00Z,cand-db827f54,Offer,app-404e9d03,job-a96dbef5,2026-06-27T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,65
+2026-04-28T00:00:00Z,cand-49599226,Reference Check,app-d3fb0f1d,job-862c9625,2026-06-01T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,66
+2026-04-29T00:00:00Z,cand-26975646,Application Review,app-ff417216,job-2abdc8e2,2026-06-02T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,67
+2026-04-30T00:00:00Z,cand-f7311ba2,Phone Screen,app-67bf70ad,job-039fafe2,2026-06-03T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,68
+2026-05-01T00:00:00Z,cand-3fe89a67,Onsite,app-d947946e,job-55d14a2c,2026-06-04T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,69
+2026-05-02T00:00:00Z,cand-e32e91cc,Offer,app-ffac6eaa,job-b4c6289e,2026-06-05T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,70
+2026-05-03T00:00:00Z,cand-e8402919,Hired,app-8b3dbdce,job-536d56b4,2026-06-06T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,71
+2026-05-04T00:00:00Z,cand-5209e382,Application Review,app-7bba66af,job-67a329be,2026-06-07T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,72
+2026-05-05T00:00:00Z,cand-56862dc2,Phone Screen,app-6969f01a,job-0ec1e48f,2026-06-08T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,73
+2026-05-06T00:00:00Z,cand-e1b70b97,Onsite,app-ec5adbd0,job-6f98fb38,2026-06-09T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,74
+2026-05-07T00:00:00Z,cand-e3e62354,Offer,app-c17a5817,job-f2b559f8,2026-06-10T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,75
+2026-05-08T00:00:00Z,cand-817c6ddd,Reference Check,app-d37f0213,job-b6c932f6,2026-06-11T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,76
+2026-05-09T00:00:00Z,cand-bc1de53c,Application Review,app-241d48ce,job-b48ecdbf,2026-06-12T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,77
+2026-05-10T00:00:00Z,cand-389e7fe6,Hired,app-d1882e23,job-e7d42db0,2026-06-13T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,78
+2026-05-11T00:00:00Z,cand-b80ae9f0,Hired,app-5a9b5eab,job-43a6254d,2026-06-14T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,79
+2026-05-12T00:00:00Z,cand-db827f54,Offer,app-b3e91b72,job-835595f8,2026-06-15T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,80
+2026-05-13T00:00:00Z,cand-49599226,Reference Check,app-4668f559,job-24fb50c8,2026-06-16T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,81
+2026-05-14T00:00:00Z,cand-26975646,Application Review,app-a2f0edbd,job-ed566586,2026-06-17T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,82
+2026-05-15T00:00:00Z,cand-f7311ba2,Hired,app-92e810af,job-d1c17fba,2026-06-18T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,83
+2026-05-16T00:00:00Z,cand-3fe89a67,Onsite,app-24131700,job-3833cc22,2026-06-19T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,84
+2026-05-17T00:00:00Z,cand-e32e91cc,Offer,app-ca2f67bc,job-5e2eb931,2026-06-20T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,85
+2026-05-18T00:00:00Z,cand-e8402919,Hired,app-04e4468f,job-f9270eea,2026-06-21T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,86
+2026-05-19T00:00:00Z,cand-5209e382,Application Review,app-23b39d8b,job-7ec8db86,2026-06-22T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,87
+2026-05-20T00:00:00Z,cand-56862dc2,Hired,app-bf0d8209,job-328ef02f,2026-06-23T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,88
+2026-05-21T00:00:00Z,cand-e1b70b97,Hired,app-29161db0,job-e9d16cfb,2026-06-24T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,89
+2026-05-22T00:00:00Z,cand-e3e62354,Offer,app-c292e451,job-a96dbef5,2026-06-25T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,90
+2026-05-23T00:00:00Z,cand-817c6ddd,Hired,app-ae53aac1,job-862c9625,2026-06-26T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,91
+2026-05-24T00:00:00Z,cand-bc1de53c,Application Review,app-ad4cb272,job-2abdc8e2,2026-06-27T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,92
+2026-05-25T00:00:00Z,cand-389e7fe6,Hired,app-d5cd7da0,job-039fafe2,2026-06-01T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,93
+2026-05-26T00:00:00Z,cand-b80ae9f0,Onsite,app-b524a7fa,job-55d14a2c,2026-06-02T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,94
+2026-05-27T00:00:00Z,cand-db827f54,Hired,app-abb90e0e,job-b4c6289e,2026-06-03T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,95
+2026-05-28T00:00:00Z,cand-49599226,Reference Check,app-5f2b66f7,job-536d56b4,2026-06-04T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,96
+2026-05-29T00:00:00Z,cand-26975646,Hired,app-c704ecec,job-67a329be,2026-06-05T00:00:00Z,hired,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,97
+2026-05-30T00:00:00Z,cand-f7311ba2,Phone Screen,app-c34df71f,job-0ec1e48f,2026-06-06T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,98
+2026-05-31T00:00:00Z,cand-3fe89a67,Onsite,app-1ae97c0a,job-6f98fb38,2026-06-07T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,99
+2026-06-01T00:00:00Z,cand-e32e91cc,Offer,app-542857f4,job-f2b559f8,2026-06-08T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,100
+2026-06-02T00:00:00Z,cand-e8402919,Reference Check,app-7afe3d09,job-b6c932f6,2026-06-09T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,101
+2026-06-03T00:00:00Z,cand-5209e382,Application Review,app-c02dda68,job-b48ecdbf,2026-06-10T00:00:00Z,rejected,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,102
+2026-06-04T00:00:00Z,cand-56862dc2,Phone Screen,app-fe9a2dc2,job-e7d42db0,2026-06-11T00:00:00Z,active,greenhouse-api,applications,/opt/mocks/greenhouse-api/applications.json,103

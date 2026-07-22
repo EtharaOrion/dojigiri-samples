@@ -1,0 +1,11 @@
+[
+  {
+    "schedule_id": "PSCHED7301",
+    "name": "Weekly birth on-call",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "PPOL7301",
+    "current_oncall_user_id": "PUSER7301",
+    "oncall_start": "2027-01-01T00:00:00Z",
+    "oncall_end": "2027-01-07T00:00:00Z"
+  }
+]

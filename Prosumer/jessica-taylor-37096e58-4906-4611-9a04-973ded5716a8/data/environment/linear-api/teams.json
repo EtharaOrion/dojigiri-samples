@@ -1,0 +1,182 @@
+[
+  {
+    "id": "team-ux",
+    "name": "Jessica Marie Taylor",
+    "key": "PORT",
+    "description": "UX team building and reviewing the Cumberland patient portal redesign",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-01T10:00:00"
+  },
+  {
+    "id": "team-backend",
+    "name": "David Taylor",
+    "key": "BKD",
+    "description": "Backend services team owning API gateway, auth, and core data services",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-frontend",
+    "name": "Mia Petrov",
+    "key": "FRT",
+    "description": "Frontend team owning the web and mobile clients",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-platform",
+    "name": "Tomas Varga",
+    "key": "PLT",
+    "description": "Platform team owning infrastructure, CI/CD, and observability",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-ux-v5",
+    "name": "Nina Okafor",
+    "key": "PORT",
+    "description": "UX team building and reviewing the Cumberland patient portal redesign",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-01T10:00:00"
+  },
+  {
+    "id": "team-backend-v6",
+    "name": "Ray Mitchell",
+    "key": "BKD",
+    "description": "Backend services team owning API gateway, auth, and core data services",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-frontend-v7",
+    "name": "Marcus Reeves",
+    "key": "FRT",
+    "description": "Frontend team owning the web and mobile clients",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-platform-v8",
+    "name": "Aria Chen",
+    "key": "PLT",
+    "description": "Platform team owning infrastructure, CI/CD, and observability",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-ux-v9",
+    "name": "Verdant Provisions",
+    "key": "PORT",
+    "description": "UX team building and reviewing the Cumberland patient portal redesign",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-01T10:00:00"
+  },
+  {
+    "id": "team-backend-v10",
+    "name": "Pinnacle Collective",
+    "key": "BKD",
+    "description": "Backend services team owning API gateway, auth, and core data services",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-frontend-v11",
+    "name": "Grace Taylor",
+    "key": "FRT",
+    "description": "Frontend team owning the web and mobile clients",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-platform-v12",
+    "name": "David Taylor",
+    "key": "PLT",
+    "description": "Platform team owning infrastructure, CI/CD, and observability",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-ux-v13",
+    "name": "Mia Petrov",
+    "key": "PORT",
+    "description": "UX team building and reviewing the Cumberland patient portal redesign",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-01T10:00:00"
+  },
+  {
+    "id": "team-backend-v14",
+    "name": "Tomas Varga",
+    "key": "BKD",
+    "description": "Backend services team owning API gateway, auth, and core data services",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-frontend-v15",
+    "name": "Nina Okafor",
+    "key": "FRT",
+    "description": "Frontend team owning the web and mobile clients",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-platform-v16",
+    "name": "Ray Mitchell",
+    "key": "PLT",
+    "description": "Platform team owning infrastructure, CI/CD, and observability",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-ux-v17",
+    "name": "Marcus Reeves",
+    "key": "PORT",
+    "description": "UX team building and reviewing the Cumberland patient portal redesign",
+    "color": "#5E6AD2",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-01T10:00:00"
+  },
+  {
+    "id": "team-backend-v18",
+    "name": "Aria Chen",
+    "key": "BKD",
+    "description": "Backend services team owning API gateway, auth, and core data services",
+    "color": "#26B5CE",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-frontend-v19",
+    "name": "Verdant Provisions",
+    "key": "FRT",
+    "description": "Frontend team owning the web and mobile clients",
+    "color": "#F2C94C",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  },
+  {
+    "id": "team-platform-v20",
+    "name": "Pinnacle Collective",
+    "key": "PLT",
+    "description": "Platform team owning infrastructure, CI/CD, and observability",
+    "color": "#6FCF97",
+    "createdAt": "2026-01-15T09:00:00",
+    "updatedAt": "2026-11-10T10:00:00"
+  }
+]

@@ -1,0 +1,21 @@
+AccountID,Code,Name,Type,TaxType,Status,Description,EnablePaymentsToAccount
+a0000001-0000-0000-0000-000000000001,200,Jessica Marie Taylor,REVENUE,OUTPUT,ACTIVE,Income from any normal business activity,False
+a0000002-0000-0000-0000-000000000002,260,David Taylor,REVENUE,OUTPUT,ACTIVE,Any other income that does not relate to normal business,False
+a0000003-0000-0000-0000-000000000003,400,Mia Petrov,EXPENSE,INPUT,ACTIVE,Expenses incurred for advertising,False
+a0000004-0000-0000-0000-000000000004,404,Tomas Varga,EXPENSE,NONE,ACTIVE,Fees charged by your bank,False
+a0000005-0000-0000-0000-000000000005,090,Nina Okafor,BANK,NONE,ACTIVE,Primary operating bank account,True
+a0000006-0000-0000-0000-000000000006,610,Ray Mitchell,CURRENT,NONE,ACTIVE,Outstanding invoices owed to the business,False
+a0000007-0000-0000-0000-000000000007,800,Marcus Reeves,CURRLIAB,NONE,ACTIVE,Outstanding bills owed by the business,False
+a0000008-0000-0000-0000-000000000008,477,Aria Chen,EXPENSE,NONE,ACTIVE,Payment to employees for services,False
+a0000001-0000-0000-0000-000000000001-dup2,200,Verdant Provisions,REVENUE,OUTPUT,ACTIVE,Income from any normal business activity,False
+a0000002-0000-0000-0000-000000000002-dup2,260,Pinnacle Collective,REVENUE,OUTPUT,ACTIVE,Any other income that does not relate to normal business,False
+a0000003-0000-0000-0000-000000000003-dup2,400,Grace Taylor,EXPENSE,INPUT,ACTIVE,Expenses incurred for advertising,False
+a0000004-0000-0000-0000-000000000004-dup2,404,David Taylor,EXPENSE,NONE,ACTIVE,Fees charged by your bank,False
+a0000005-0000-0000-0000-000000000005-dup2,090,Mia Petrov,BANK,NONE,ACTIVE,Primary operating bank account,True
+a0000006-0000-0000-0000-000000000006-dup2,610,Tomas Varga,CURRENT,NONE,ACTIVE,Outstanding invoices owed to the business,False
+a0000007-0000-0000-0000-000000000007-dup2,800,Nina Okafor,CURRLIAB,NONE,ACTIVE,Outstanding bills owed by the business,False
+a0000008-0000-0000-0000-000000000008-dup2,477,Ray Mitchell,EXPENSE,NONE,ACTIVE,Payment to employees for services,False
+a0000001-0000-0000-0000-000000000001-dup3,200,Marcus Reeves,REVENUE,OUTPUT,ACTIVE,Income from any normal business activity,False
+a0000002-0000-0000-0000-000000000002-dup3,260,Aria Chen,REVENUE,OUTPUT,ACTIVE,Any other income that does not relate to normal business,False
+a0000003-0000-0000-0000-000000000003-dup3,400,Verdant Provisions,EXPENSE,INPUT,ACTIVE,Expenses incurred for advertising,False
+a0000004-0000-0000-0000-000000000004-dup3,404,Pinnacle Collective,EXPENSE,NONE,ACTIVE,Fees charged by your bank,False

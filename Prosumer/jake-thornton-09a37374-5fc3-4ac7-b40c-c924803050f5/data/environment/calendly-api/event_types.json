@@ -1,0 +1,67 @@
+[
+  {
+    "uuid": "et-home-cooking-3h",
+    "owner": "user-jake-thornton",
+    "name": "Home Cooking Class (3 hrs)",
+    "slug": "home-cooking-class",
+    "duration": "180",
+    "kind": "group",
+    "color": "#c94f2b",
+    "active": "true",
+    "description": "Southern-fusion cooking class at Jake's East Lake home kitchen. Six to eight students. $75 per person, includes recipe cards and family-style dinner.",
+    "scheduling_url": "https://calendly.com/jakes-table/home-cooking-class",
+    "created_at": "2025-11-14T10:00:00-05:00"
+  },
+  {
+    "uuid": "et-popup-cooking-3h",
+    "owner": "user-jake-thornton",
+    "name": "Pop-up Cooking Class (3 hrs)",
+    "slug": "popup-cooking-class",
+    "duration": "180",
+    "kind": "group",
+    "color": "#3f8f5b",
+    "active": "true",
+    "description": "Cooking class at a community venue (Dekalb Farmers Market teaching kitchen or partner venue). $65 per person.",
+    "scheduling_url": "https://calendly.com/jakes-table/popup-cooking-class",
+    "created_at": "2025-11-14T10:05:00-05:00"
+  },
+  {
+    "uuid": "et-private-consult-60",
+    "owner": "user-jake-thornton",
+    "name": "Private Cooking Consultation",
+    "slug": "private-consultation",
+    "duration": "60",
+    "kind": "one-on-one",
+    "color": "#8a4fbf",
+    "active": "true",
+    "description": "One-hour private cooking consult, custom pricing. Menu planning for a home dinner party or a technique lesson.",
+    "scheduling_url": "https://calendly.com/jakes-table/private-consultation",
+    "created_at": "2025-11-14T10:10:00-05:00"
+  },
+  {
+    "uuid": "et-prenatal-virtual-30",
+    "owner": "user-jake-thornton",
+    "name": "Virtual Prenatal Check-in",
+    "slug": "prenatal-virtual",
+    "duration": "30",
+    "kind": "one-on-one",
+    "color": "#2c6df5",
+    "active": "true",
+    "description": "Video visit for a traveling birth client. Zoom link generated at booking.",
+    "scheduling_url": "https://calendly.com/jakes-table/prenatal-virtual",
+    "created_at": "2025-11-14T10:15:00-05:00"
+  },
+  {
+    "uuid": "et-alumni-qa-30",
+    "owner": "user-jake-thornton",
+    "name": "Cooking Class Alumni Q&A",
+    "slug": "alumni-qa",
+    "duration": "30",
+    "kind": "one-on-one",
+    "color": "#e8a54f",
+    "active": "true",
+    "description": "Free follow-up Q&A for past students on recipes, technique, or menu planning.",
+    "scheduling_url": "https://calendly.com/jakes-table/alumni-qa",
+    "created_at": "2025-11-14T10:20:00-05:00"
+  }
+]

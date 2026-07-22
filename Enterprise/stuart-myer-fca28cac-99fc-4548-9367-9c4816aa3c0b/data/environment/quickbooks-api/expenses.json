@@ -1,0 +1,282 @@
+[
+  {
+    "Id": "9001",
+    "TxnDate": "2026-02-14",
+    "TotalAmt": 412.0,
+    "Line": [
+      {
+        "Description": "Stumptown wholesale coffee + taproom supplies [Driftwood Brewing Company]",
+        "Amount": 412.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-14T09:00:00"
+    }
+  },
+  {
+    "Id": "9002",
+    "TxnDate": "2026-03-03",
+    "TotalAmt": 1860.0,
+    "Line": [
+      {
+        "Description": "Pacific Malt Company - grain order [Driftwood Brewing Company]",
+        "Amount": 1860.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-03T09:00:00"
+    }
+  },
+  {
+    "Id": "9003",
+    "TxnDate": "2026-03-19",
+    "TotalAmt": 240.0,
+    "Line": [
+      {
+        "Description": "River City Bicycles - shop tools for keg dolly repair [Driftwood Brewing Company]",
+        "Amount": 240.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-19T09:00:00"
+    }
+  },
+  {
+    "Id": "9004",
+    "TxnDate": "2025-09-30",
+    "TotalAmt": 1240.0,
+    "Line": [
+      {
+        "Description": "Crosby Hops - pellet hops [Driftwood Brewing Company]",
+        "Amount": 1240.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-30T09:00:00"
+    }
+  },
+  {
+    "Id": "9005",
+    "TxnDate": "2025-10-19",
+    "TotalAmt": 165.0,
+    "Line": [
+      {
+        "Description": "Ekos Brewmaster subscription [Driftwood Brewing Company]",
+        "Amount": 165.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-19T09:00:00"
+    }
+  },
+  {
+    "Id": "9006",
+    "TxnDate": "2025-11-03",
+    "TotalAmt": 2380.0,
+    "Line": [
+      {
+        "Description": "BrewPack Container Co - can pallet [Driftwood Brewing Company]",
+        "Amount": 2380.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-03T09:00:00"
+    }
+  },
+  {
+    "Id": "9007",
+    "TxnDate": "2025-11-19",
+    "TotalAmt": 540.0,
+    "Line": [
+      {
+        "Description": "Portland General Electric - brewhouse power [Driftwood Brewing Company]",
+        "Amount": 540.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-19T09:00:00"
+    }
+  },
+  {
+    "Id": "9008",
+    "TxnDate": "2025-11-29",
+    "TotalAmt": 4200.0,
+    "Line": [
+      {
+        "Description": "Burnside Industrial Holdings - June lease [Driftwood Brewing Company]",
+        "Amount": 4200.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-29T09:00:00"
+    }
+  },
+  {
+    "Id": "9009",
+    "TxnDate": "2025-12-07",
+    "TotalAmt": 320.0,
+    "Line": [
+      {
+        "Description": "White Labs - yeast pitches [Driftwood Brewing Company]",
+        "Amount": 320.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-07T09:00:00"
+    }
+  },
+  {
+    "Id": "9010",
+    "TxnDate": "2025-12-13",
+    "TotalAmt": 280.0,
+    "Line": [
+      {
+        "Description": "Sauvie Island Farms - marionberries for wild ale [Driftwood Brewing Company]",
+        "Amount": 280.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-13T09:00:00"
+    }
+  },
+  {
+    "Id": "9011",
+    "TxnDate": "2025-12-18",
+    "TotalAmt": 410.0,
+    "Line": [
+      {
+        "Description": "OLCC license + privilege tax [Driftwood Brewing Company]",
+        "Amount": 410.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-18T09:00:00"
+    }
+  },
+  {
+    "Id": "9012",
+    "TxnDate": "2025-12-22",
+    "TotalAmt": 210.0,
+    "Line": [
+      {
+        "Description": "Cascade Gas & Welding - CO2 cylinders [Driftwood Brewing Company]",
+        "Amount": 210.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-22T09:00:00"
+    }
+  },
+  {
+    "Id": "9013",
+    "TxnDate": "2025-12-26",
+    "TotalAmt": 96.0,
+    "Line": [
+      {
+        "Description": "Square processing fees - taproom weekend [Driftwood Brewing Company]",
+        "Amount": 96.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-26T09:00:00"
+    }
+  },
+  {
+    "Id": "9014",
+    "TxnDate": "2026-02-14",
+    "TotalAmt": 412.0,
+    "Line": [
+      {
+        "Description": "Stumptown wholesale coffee + taproom supplies [Driftwood Brewing Company]",
+        "Amount": 412.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-14T09:00:00"
+    }
+  },
+  {
+    "Id": "9015",
+    "TxnDate": "2026-03-03",
+    "TotalAmt": 1860.0,
+    "Line": [
+      {
+        "Description": "Pacific Malt Company - grain order [Driftwood Brewing Company]",
+        "Amount": 1860.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-03T09:00:00"
+    }
+  },
+  {
+    "Id": "9016",
+    "TxnDate": "2026-03-19",
+    "TotalAmt": 240.0,
+    "Line": [
+      {
+        "Description": "River City Bicycles - shop tools for keg dolly repair [Driftwood Brewing Company]",
+        "Amount": 240.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-19T09:00:00"
+    }
+  },
+  {
+    "Id": "9017",
+    "TxnDate": "2025-09-30",
+    "TotalAmt": 1240.0,
+    "Line": [
+      {
+        "Description": "Crosby Hops - pellet hops [Driftwood Brewing Company]",
+        "Amount": 1240.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-30T09:00:00"
+    }
+  },
+  {
+    "Id": "9018",
+    "TxnDate": "2025-10-19",
+    "TotalAmt": 165.0,
+    "Line": [
+      {
+        "Description": "Ekos Brewmaster subscription [Driftwood Brewing Company]",
+        "Amount": 165.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-19T09:00:00"
+    }
+  },
+  {
+    "Id": "9019",
+    "TxnDate": "2025-11-03",
+    "TotalAmt": 2380.0,
+    "Line": [
+      {
+        "Description": "BrewPack Container Co - can pallet [Driftwood Brewing Company]",
+        "Amount": 2380.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-03T09:00:00"
+    }
+  },
+  {
+    "Id": "9020",
+    "TxnDate": "2025-11-19",
+    "TotalAmt": 540.0,
+    "Line": [
+      {
+        "Description": "Portland General Electric - brewhouse power [Driftwood Brewing Company]",
+        "Amount": 540.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-19T09:00:00"
+    }
+  }
+]

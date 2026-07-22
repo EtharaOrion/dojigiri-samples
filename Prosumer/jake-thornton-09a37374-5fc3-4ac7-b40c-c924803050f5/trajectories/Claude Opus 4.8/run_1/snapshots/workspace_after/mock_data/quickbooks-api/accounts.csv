@@ -1,0 +1,26 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description,Classification,MetaData
+1,Operating Checking,Bank,Checking,6200.0,True,Wells Fargo business checking - Jake's Table,Asset,
+2,Savings,Bank,Savings,18500.0,True,Ally business savings,Asset,
+3,Class Income,Income,SalesOfProductIncome,0,True,Cooking class seat revenue,Revenue,
+4,Merch Income,Income,SalesOfProductIncome,0,True,"Recipe cards, aprons, spice blends",Revenue,
+5,Venue Class Income,Income,SalesOfProductIncome,0,True,Pop-up and community venue classes,Revenue,
+6,Groceries & Ingredients,Expense,SuppliesMaterials,0,True,"Dekalb Farmers Market, Costco",Expense,
+7,Kitchen Supplies,Expense,SuppliesMaterials,0,True,"Cast iron, knives, small wares",Expense,
+8,Contractor Labor,Expense,PayrollExpenses,0,True,Class assistants and prep cooks,Expense,
+9,Marketing,Expense,AdvertisingPromotional,0,True,"Instagram ads, printed cards",Expense,
+10,Estimated Taxes Payable,Other Current Liability,OtherCurrentLiabilities,1150.0,True,Quarterly estimated taxes,Liability,
+11,Operating Checking,Bank,Checking,6200.0,True,Wells Fargo business checking - Jake's Table,Asset,
+12,Savings,Bank,Savings,18500.0,True,Ally business savings,Asset,
+13,Class Income,Income,SalesOfProductIncome,0,True,Cooking class seat revenue,Revenue,
+14,Merch Income,Income,SalesOfProductIncome,0,True,"Recipe cards, aprons, spice blends",Revenue,
+201,Venue Class Income,Income,SalesOfProductIncome,0,True,Pop-up and community venue classes,Revenue,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+202,Groceries & Ingredients,Expense,SuppliesMaterials,0,True,"Dekalb Farmers Market, Costco",Revenue,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+203,Kitchen Supplies,Expense,SuppliesMaterials,0,True,"Cast iron, knives, small wares",Revenue,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+204,Contractor Labor,Expense,PayrollExpenses,0,True,Class assistants and prep cooks,Asset,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+205,Marketing,Expense,AdvertisingPromotional,0,True,"Instagram ads, printed cards",Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+206,Estimated Taxes Payable,Other Current Liability,OtherCurrentLiabilities,1150.0,True,Quarterly estimated taxes,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+207,Operating Checking,Bank,Checking,6200.0,True,Wells Fargo business checking - Jake's Table,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+208,Savings,Bank,Savings,18500.0,True,Ally business savings,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+209,Class Income,Income,SalesOfProductIncome,0,True,Cooking class seat revenue,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+210,Merch Income,Income,SalesOfProductIncome,0,True,"Recipe cards, aprons, spice blends",Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-12-01T10:00:00""}"
+421,Venue Class Income,Income,SalesOfProductIncome,0,True,Pop-up and community venue classes,Expense,"{""CreateTime"": ""2026-11-14T09:00:00"", ""LastUpdatedTime"": ""2026-11-14T09:00:00""}"

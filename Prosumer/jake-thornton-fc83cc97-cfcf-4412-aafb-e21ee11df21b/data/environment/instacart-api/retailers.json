@@ -1,0 +1,202 @@
+[
+  {
+    "retailer_id": "giant",
+    "name": "Giant Food",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "vons",
+    "name": "Vons",
+    "logo_url": "https://lh3.googleusercontent.com/wholefoods.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "35.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "1htdec",
+    "name": "Ralphs",
+    "logo_url": "https://lh3.googleusercontent.com/costco.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "sas2pd",
+    "name": "Meijer",
+    "logo_url": "https://lh3.googleusercontent.com/tj.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "b5t05pyr",
+    "name": "ShopRite",
+    "logo_url": "https://lh3.googleusercontent.com/cvs.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "cvs",
+    "name": "CVS",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "z8d2vesbr",
+    "name": "Walgreens",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "bjs",
+    "name": "BJ's Wholesale Club",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "636f8",
+    "name": "Giant Food",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "7edb",
+    "name": "Vons",
+    "logo_url": "https://lh3.googleusercontent.com/wholefoods.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "35.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "aec675",
+    "name": "Ralphs",
+    "logo_url": "https://lh3.googleusercontent.com/costco.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "de0874",
+    "name": "Meijer",
+    "logo_url": "https://lh3.googleusercontent.com/tj.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "1d3e5477",
+    "name": "ShopRite",
+    "logo_url": "https://lh3.googleusercontent.com/cvs.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "6c4",
+    "name": "CVS",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "347c5c0a2",
+    "name": "Walgreens",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "906",
+    "name": "BJ's Wholesale Club",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ce2ab",
+    "name": "Giant Food",
+    "logo_url": "https://lh3.googleusercontent.com/safeway.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "10.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "5058",
+    "name": "Vons",
+    "logo_url": "https://lh3.googleusercontent.com/wholefoods.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "35.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "4920cd",
+    "name": "Ralphs",
+    "logo_url": "https://lh3.googleusercontent.com/costco.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "20.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "288fc9",
+    "name": "Meijer",
+    "logo_url": "https://lh3.googleusercontent.com/tj.png",
+    "delivers_to_zips": "30304,30303,30305",
+    "min_basket": "25.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "7.5",
+    "eta_minutes": "75"
+  }
+]

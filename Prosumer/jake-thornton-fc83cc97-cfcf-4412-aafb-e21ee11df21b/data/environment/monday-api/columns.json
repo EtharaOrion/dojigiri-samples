@@ -1,0 +1,30 @@
+[
+  {
+    "board_id": "board-7301",
+    "column_id": "status",
+    "title": "Status",
+    "type": "status",
+    "position": "0"
+  },
+  {
+    "board_id": "board-7301",
+    "column_id": "owner",
+    "title": "Owner",
+    "type": "person",
+    "position": "1"
+  },
+  {
+    "board_id": "board-7301",
+    "column_id": "date",
+    "title": "Date",
+    "type": "date",
+    "position": "2"
+  },
+  {
+    "board_id": "board-7301",
+    "column_id": "notes",
+    "title": "Notes",
+    "type": "long-text",
+    "position": "3"
+  }
+]

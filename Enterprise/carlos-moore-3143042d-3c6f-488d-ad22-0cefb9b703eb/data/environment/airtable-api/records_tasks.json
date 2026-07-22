@@ -1,0 +1,236 @@
+[
+  {
+    "Done": "true",
+    "EstimateHours": 12,
+    "Name": "Draft wellness program vendor RFP",
+    "Project": "Employee Wellness Program Launch",
+    "Status": "Done",
+    "createdTime": "2025-12-05T10:00:00.000Z",
+    "id": "recTask0000000001"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 6,
+    "Name": "Book biometric screening vendor",
+    "Project": "Employee Wellness Program Launch",
+    "Status": "In progress",
+    "createdTime": "2026-02-10T10:11:00.000Z",
+    "id": "recTask0000000002"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 8,
+    "Name": "Configure DocuSign enrollment forms",
+    "Project": "2026 Benefits Open Enrollment",
+    "Status": "To do",
+    "createdTime": "2026-03-12T10:22:00.000Z",
+    "id": "recTask0000000003"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 10,
+    "Name": "Compare 2026 medical plan quotes",
+    "Project": "2026 Benefits Open Enrollment",
+    "Status": "In progress",
+    "createdTime": "2026-03-15T10:33:00.000Z",
+    "id": "recTask0000000004"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 5,
+    "Name": "Schedule DEI listening sessions",
+    "Project": "DEI Committee Initiative",
+    "Status": "Done",
+    "createdTime": "2025-11-12T10:44:00.000Z",
+    "id": "recTask0000000005"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Review DEI training vendors",
+    "Project": "DEI Committee Initiative",
+    "Status": "In progress",
+    "createdTime": "2026-01-20T10:55:00.000Z",
+    "id": "recTask0000000006"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Complete SHRM-SCP practice exam",
+    "Project": "SHRM Certification Study",
+    "Status": "In progress",
+    "createdTime": "2026-02-25T10:06:00.000Z",
+    "id": "recTask0000000007"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Read SHRM learning module 4",
+    "Project": "SHRM Certification Study",
+    "Status": "Done",
+    "createdTime": "2026-02-05T10:17:00.000Z",
+    "id": "recTask0000000008"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 16,
+    "Name": "Model severance cost scenarios",
+    "Project": "Q4 Workforce Restructuring Planning",
+    "Status": "Blocked",
+    "createdTime": "2026-03-22T10:28:00.000Z",
+    "id": "recTask0000000009"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 6,
+    "Name": "Update onboarding welcome packet",
+    "Project": "New-Hire Onboarding Revamp",
+    "Status": "Done",
+    "createdTime": "2025-12-08T10:39:00.000Z",
+    "id": "recTask0000000010"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 8,
+    "Name": "Record onboarding orientation video",
+    "Project": "New-Hire Onboarding Revamp",
+    "Status": "In progress",
+    "createdTime": "2026-03-01T10:50:00.000Z",
+    "id": "recTask0000000011"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Reserve fellowship hall for concert",
+    "Project": "Choir Fundraiser Concert",
+    "Status": "To do",
+    "createdTime": "2026-02-16T10:01:00.000Z",
+    "id": "recTask0000000012"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 3,
+    "Name": "Design fundraiser ticket flyer",
+    "Project": "Choir Fundraiser Concert",
+    "Status": "Done",
+    "createdTime": "2026-02-18T10:12:00.000Z",
+    "id": "recTask0000000013"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 2,
+    "Name": "Arrange Dorothy's weekly grocery delivery",
+    "Project": "Dorothy Caregiving Plan",
+    "Status": "Done",
+    "createdTime": "2025-11-22T10:23:00.000Z",
+    "id": "recTask0000000014"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Install Ring camera at Dorothy's",
+    "Project": "Dorothy Caregiving Plan",
+    "Status": "To do",
+    "createdTime": "2026-03-08T10:34:00.000Z",
+    "id": "recTask0000000015"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 2,
+    "Name": "Order backsplash tile samples",
+    "Project": "Kitchen Backsplash Project",
+    "Status": "To do",
+    "createdTime": "2026-03-06T10:45:00.000Z",
+    "id": "recTask0000000016"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 4,
+    "Name": "Recruit trail cleanup volunteers",
+    "Project": "Percy Warner Trail Cleanup",
+    "Status": "Done",
+    "createdTime": "2025-11-08T10:56:00.000Z",
+    "id": "recTask0000000017"
+  },
+  {
+    "Done": "true",
+    "EstimateHours": 20,
+    "Name": "Finalize 2025 performance ratings",
+    "Project": "2025 Performance Review Cycle",
+    "Status": "Done",
+    "createdTime": "2025-11-27T10:07:00.000Z",
+    "id": "recTask0000000018"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 24,
+    "Name": "Map Workday data migration fields",
+    "Project": "HRIS Migration to Workday",
+    "Status": "Blocked",
+    "createdTime": "2026-01-12T10:18:00.000Z",
+    "id": "recTask0000000019"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 6,
+    "Name": "Revise remote work eligibility criteria",
+    "Project": "Remote Work Policy Draft",
+    "Status": "In progress",
+    "createdTime": "2025-12-14T10:29:00.000Z",
+    "id": "recTask0000000020"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 8,
+    "Name": "Draft tuition reimbursement guidelines",
+    "Project": "Tuition Reimbursement Policy Rollout",
+    "Status": "In progress",
+    "createdTime": "2026-03-03T10:40:00.000Z",
+    "id": "recTask0000000021"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Book Memphis conference hotel block",
+    "Project": "Memphis HR Conference Prep",
+    "Status": "To do",
+    "createdTime": "2026-03-16T10:51:00.000Z",
+    "id": "recTask0000000022"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 4,
+    "Name": "Contingency roster snapshot - Operations division sized at 24 affected roles for planning",
+    "Project": "Q4 Workforce Restructuring Planning",
+    "Status": "Blocked",
+    "createdTime": "2026-03-22T10:31:00.000Z",
+    "id": "recTask0000000023"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Severance assumption note - Operations Lead band held at 68000 annual in early tracker draft",
+    "Project": "Q4 Workforce Restructuring Planning",
+    "Status": "Blocked",
+    "createdTime": "2026-03-22T10:33:00.000Z",
+    "id": "recTask0000000024"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 3,
+    "Name": "Severance assumption note - Warehouse Supervisor band held at 55000 annual in early tracker draft",
+    "Project": "Q4 Workforce Restructuring Planning",
+    "Status": "Blocked",
+    "createdTime": "2026-03-22T10:35:00.000Z",
+    "id": "recTask0000000025"
+  },
+  {
+    "Done": "false",
+    "EstimateHours": 5,
+    "Name": "Reconcile contingency comp assumptions against current payroll before board packet",
+    "Project": "Q4 Workforce Restructuring Planning",
+    "Status": "Blocked",
+    "createdTime": "2026-03-22T10:37:00.000Z",
+    "id": "recTask0000000026"
+  }
+]

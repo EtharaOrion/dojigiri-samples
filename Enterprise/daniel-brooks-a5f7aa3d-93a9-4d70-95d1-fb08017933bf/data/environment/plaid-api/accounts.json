@@ -1,0 +1,38 @@
+[
+  {
+    "account_id": "acc-daniel-brooks-chk-001",
+    "name": "Personal Checking",
+    "official_name": "Daniel Brooks Personal Checking",
+    "mask": "4715",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "8420.55",
+    "current": "8520.55",
+    "limit": "100",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc-daniel-brooks-sav-001",
+    "name": "Wedding Fund Savings",
+    "official_name": "Daniel Brooks Wedding Fund High-Yield Savings",
+    "mask": "3253",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "18050.00",
+    "current": "18050.00",
+    "limit": "100",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc-daniel-brooks-biz-001",
+    "name": "Bros Steakhouse Operating",
+    "official_name": "Bros Steakhouse Business Operating",
+    "mask": "1340",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "42180.10",
+    "current": "44210.10",
+    "limit": "100",
+    "iso_currency_code": "USD"
+  }
+]

@@ -1,0 +1,21 @@
+active,generation,html_content,id,name,subject,updated_at,__api__,__table__,__file__,__row_index__
+True,dynamic,<h1>Welcome {{first_name}}</h1><p>Glad to have you at St. Genevieve Community Church.</p>,d-21655503300004,welcome,"Welcome to St. Genevieve Community Church, {{first_name}}!",2025-07-28T07:37:01+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,0
+True,dynamic,<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>,d-21655503300008,password-reset,Reset your St. Genevieve Community Church password,2025-07-30T04:49:27+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,1
+True,dynamic,<h2>{{month}} Newsletter</h2><p>{{body}}</p>,d-2165550330000d,monthly-news,St. Genevieve Community Church — {{month}} highlights,2025-08-22T07:29:05+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,2
+True,dynamic,<p>Thanks for your payment of {{amount}}.</p>,d-21655503300011,invoice,Your receipt for invoice {{invoice_id}},2025-09-06T16:21:50+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,3
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300015,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,4
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300016,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,5
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300017,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,6
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300018,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,7
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300019,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,8
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300020,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,9
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300021,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,10
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300022,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,11
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300023,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,12
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300024,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,13
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300025,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,14
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300026,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,15
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300027,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,16
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300028,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,17
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300029,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,18
+True,dynamic,<p>Upgrade now to keep your data.</p>,d-21655503300030,trial-end,Your trial ends in {{days}} days,2025-09-06T17:30:22+00:00,sendgrid-api,templates,/opt/mocks/sendgrid-api/templates.json,19

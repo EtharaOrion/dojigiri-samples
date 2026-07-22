@@ -1,0 +1,2022 @@
+[
+  {
+    "checked_in": "true",
+    "created": 1764547200,
+    "email": "marco.santos@detroitmetroschools.org",
+    "event_id": "evt-7000001",
+    "id": "att-001",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-001"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764806400,
+    "email": "elena.santos@gmail.com",
+    "event_id": "evt-7000001",
+    "id": "att-004",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-002"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764892800,
+    "email": "marcus@dyaa.org",
+    "event_id": "evt-7000001",
+    "id": "att-005",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-001"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764979200,
+    "email": "blawson@detroitcity.gov",
+    "event_id": "evt-7000001",
+    "id": "att-006",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-002"
+  },
+  {
+    "checked_in": "false",
+    "created": 1765065600,
+    "email": "pchen.board@gmail.com",
+    "event_id": "evt-7000001",
+    "id": "att-007",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-001"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764547200,
+    "email": "marco.santos@detroitmetroschools.org",
+    "event_id": "evt-7000002",
+    "id": "att-008",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-003"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764806400,
+    "email": "elena.santos@gmail.com",
+    "event_id": "evt-7000002",
+    "id": "att-011",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-003"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764892800,
+    "email": "marcus@dyaa.org",
+    "event_id": "evt-7000002",
+    "id": "att-012",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-004"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764979200,
+    "email": "blawson@detroitcity.gov",
+    "event_id": "evt-7000002",
+    "id": "att-013",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-005"
+  },
+  {
+    "checked_in": "false",
+    "created": 1765065600,
+    "email": "pchen.board@gmail.com",
+    "event_id": "evt-7000002",
+    "id": "att-014",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-003"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764547200,
+    "email": "marco.santos@detroitmetroschools.org",
+    "event_id": "evt-7000003",
+    "id": "att-015",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-006"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764806400,
+    "email": "elena.santos@gmail.com",
+    "event_id": "evt-7000003",
+    "id": "att-018",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764892800,
+    "email": "marcus@dyaa.org",
+    "event_id": "evt-7000003",
+    "id": "att-019",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-006"
+  },
+  {
+    "checked_in": "false",
+    "created": 1764979200,
+    "email": "blawson@detroitcity.gov",
+    "event_id": "evt-7000003",
+    "id": "att-020",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "false",
+    "created": 1765065600,
+    "email": "pchen.board@gmail.com",
+    "event_id": "evt-7000003",
+    "id": "att-021",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-006"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775260800,
+    "email": "pchen.board@gmail.com",
+    "event_id": "evt-7000004",
+    "id": "att-022",
+    "name": "Patricia Chen",
+    "status": "not_attending",
+    "ticket_class_id": "tc-009"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775347200,
+    "email": "lmonroe@greatlakesenergy.com",
+    "event_id": "evt-7003809",
+    "id": "att-023",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-005"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775433600,
+    "email": "blawson@detroitcity.gov",
+    "event_id": "evt-7004643",
+    "id": "att-024",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-006"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775520000,
+    "email": "kasante@westfielduniv.edu",
+    "event_id": "evt-7003472",
+    "id": "att-025",
+    "name": "Kwame Asante",
+    "status": "not_attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775606400,
+    "email": "rosa.delgado@gmail.com",
+    "event_id": "evt-7000851",
+    "id": "att-026",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-008"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775692800,
+    "email": "priya.raman@dyaa.org",
+    "event_id": "evt-7003435",
+    "id": "att-027",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-009"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775779200,
+    "email": "dana.wells@dyaa.org",
+    "event_id": "evt-7001866",
+    "id": "att-028",
+    "name": "Dana Wells",
+    "status": "not_attending",
+    "ticket_class_id": "tc-010"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775865600,
+    "email": "marco.santos+10@detroitmetroschools.org",
+    "event_id": "evt-7000198",
+    "id": "att-029",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-4043"
+  },
+  {
+    "checked_in": "true",
+    "created": 1775952000,
+    "email": "elena.santos+11@gmail.com",
+    "event_id": "evt-7002883",
+    "id": "att-030",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-365"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776038400,
+    "email": "marcus+12@dyaa.org",
+    "event_id": "evt-7000246",
+    "id": "att-031",
+    "name": "Marcus Thompson",
+    "status": "not_attending",
+    "ticket_class_id": "tc-4912"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776124800,
+    "email": "pchen.board+13@gmail.com",
+    "event_id": "evt-7005399",
+    "id": "att-032",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-018"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776211200,
+    "email": "lmonroe+14@greatlakesenergy.com",
+    "event_id": "evt-7005484",
+    "id": "att-033",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-1409"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776297600,
+    "email": "blawson+15@detroitcity.gov",
+    "event_id": "evt-7000499",
+    "id": "att-034",
+    "name": "Brenda Lawson",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9496"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776384000,
+    "email": "kasante+16@westfielduniv.edu",
+    "event_id": "evt-7009724",
+    "id": "att-035",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9747"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776470400,
+    "email": "rosa.delgado+17@gmail.com",
+    "event_id": "evt-7009106",
+    "id": "att-036",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-4577"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776556800,
+    "email": "priya.raman+18@dyaa.org",
+    "event_id": "evt-7001805",
+    "id": "att-037",
+    "name": "Priya Raman",
+    "status": "not_attending",
+    "ticket_class_id": "tc-941"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776643200,
+    "email": "dana.wells+19@dyaa.org",
+    "event_id": "evt-7001145",
+    "id": "att-038",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-8575"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776729600,
+    "email": "marco.santos+20@detroitmetroschools.org",
+    "event_id": "evt-7004269",
+    "id": "att-039",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-8164"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776816000,
+    "email": "elena.santos+21@gmail.com",
+    "event_id": "evt-7003436",
+    "id": "att-040",
+    "name": "Elena Santos",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9241"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776902400,
+    "email": "marcus+22@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-041",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776988800,
+    "email": "pchen.board+23@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-042",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777075200,
+    "email": "lmonroe+24@greatlakesenergy.com",
+    "event_id": "evt-7009727",
+    "id": "att-043",
+    "name": "Lisa Monroe",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9753"
+  },
+  {
+    "checked_in": "true",
+    "created": 1777161600,
+    "email": "blawson+25@detroitcity.gov",
+    "event_id": "evt-7009728",
+    "id": "att-044",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9754"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777248000,
+    "email": "kasante+26@westfielduniv.edu",
+    "event_id": "evt-7009729",
+    "id": "att-045",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9757"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777334400,
+    "email": "rosa.delgado+27@gmail.com",
+    "event_id": "evt-7009730",
+    "id": "att-046",
+    "name": "Rosa Delgado",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9758"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777420800,
+    "email": "priya.raman+28@dyaa.org",
+    "event_id": "evt-7009731",
+    "id": "att-047",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9761"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777507200,
+    "email": "dana.wells+29@dyaa.org",
+    "event_id": "evt-7009732",
+    "id": "att-048",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9762"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777593600,
+    "email": "marco.santos+30@detroitmetroschools.org",
+    "event_id": "evt-7000001",
+    "id": "att-049",
+    "name": "Marco Santos",
+    "status": "not_attending",
+    "ticket_class_id": "tc-002"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777680000,
+    "email": "elena.santos+31@gmail.com",
+    "event_id": "evt-7000002",
+    "id": "att-050",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-005"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777766400,
+    "email": "marcus+32@dyaa.org",
+    "event_id": "evt-7000003",
+    "id": "att-051",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777852800,
+    "email": "pchen.board+33@gmail.com",
+    "event_id": "evt-7000004",
+    "id": "att-052",
+    "name": "Patricia Chen",
+    "status": "not_attending",
+    "ticket_class_id": "tc-009"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777939200,
+    "email": "lmonroe+34@greatlakesenergy.com",
+    "event_id": "evt-7003809",
+    "id": "att-053",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9760"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778025600,
+    "email": "blawson+35@detroitcity.gov",
+    "event_id": "evt-7004643",
+    "id": "att-054",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9761"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778112000,
+    "email": "kasante+36@westfielduniv.edu",
+    "event_id": "evt-7003472",
+    "id": "att-055",
+    "name": "Kwame Asante",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9762"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778198400,
+    "email": "rosa.delgado+37@gmail.com",
+    "event_id": "evt-7000851",
+    "id": "att-056",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9763"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778284800,
+    "email": "priya.raman+38@dyaa.org",
+    "event_id": "evt-7003435",
+    "id": "att-057",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-001"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778371200,
+    "email": "dana.wells+39@dyaa.org",
+    "event_id": "evt-7001866",
+    "id": "att-058",
+    "name": "Dana Wells",
+    "status": "not_attending",
+    "ticket_class_id": "tc-002"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778457600,
+    "email": "marco.santos+40@detroitmetroschools.org",
+    "event_id": "evt-7000198",
+    "id": "att-059",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-003"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778544000,
+    "email": "elena.santos+41@gmail.com",
+    "event_id": "evt-7002883",
+    "id": "att-060",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-004"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778630400,
+    "email": "marcus+42@dyaa.org",
+    "event_id": "evt-7000246",
+    "id": "att-061",
+    "name": "Marcus Thompson",
+    "status": "not_attending",
+    "ticket_class_id": "tc-005"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778716800,
+    "email": "pchen.board+43@gmail.com",
+    "event_id": "evt-7005399",
+    "id": "att-062",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-006"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778803200,
+    "email": "lmonroe+44@greatlakesenergy.com",
+    "event_id": "evt-7005484",
+    "id": "att-063",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778889600,
+    "email": "blawson+45@detroitcity.gov",
+    "event_id": "evt-7000499",
+    "id": "att-064",
+    "name": "Brenda Lawson",
+    "status": "not_attending",
+    "ticket_class_id": "tc-008"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778976000,
+    "email": "kasante+46@westfielduniv.edu",
+    "event_id": "evt-7009724",
+    "id": "att-065",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-009"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779062400,
+    "email": "rosa.delgado+47@gmail.com",
+    "event_id": "evt-7009106",
+    "id": "att-066",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-010"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779148800,
+    "email": "priya.raman+48@dyaa.org",
+    "event_id": "evt-7001805",
+    "id": "att-067",
+    "name": "Priya Raman",
+    "status": "not_attending",
+    "ticket_class_id": "tc-4043"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779235200,
+    "email": "dana.wells+49@dyaa.org",
+    "event_id": "evt-7001145",
+    "id": "att-068",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-365"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779321600,
+    "email": "marco.santos+50@detroitmetroschools.org",
+    "event_id": "evt-7004269",
+    "id": "att-069",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-4912"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779408000,
+    "email": "elena.santos+51@gmail.com",
+    "event_id": "evt-7003436",
+    "id": "att-070",
+    "name": "Elena Santos",
+    "status": "not_attending",
+    "ticket_class_id": "tc-018"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779494400,
+    "email": "marcus+52@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-071",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779580800,
+    "email": "pchen.board+53@gmail.com",
+    "event_id": "evt-7009726",
+    "id": "att-072",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9750"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779667200,
+    "email": "lmonroe+54@greatlakesenergy.com",
+    "event_id": "evt-7009727",
+    "id": "att-073",
+    "name": "Lisa Monroe",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9753"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779753600,
+    "email": "blawson+55@detroitcity.gov",
+    "event_id": "evt-7009728",
+    "id": "att-074",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9754"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779840000,
+    "email": "kasante+56@westfielduniv.edu",
+    "event_id": "evt-7009729",
+    "id": "att-075",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9757"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779926400,
+    "email": "rosa.delgado+57@gmail.com",
+    "event_id": "evt-7009730",
+    "id": "att-076",
+    "name": "Rosa Delgado",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9758"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780012800,
+    "email": "priya.raman+58@dyaa.org",
+    "event_id": "evt-7009731",
+    "id": "att-077",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9761"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780099200,
+    "email": "dana.wells+59@dyaa.org",
+    "event_id": "evt-7009732",
+    "id": "att-078",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9762"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780185600,
+    "email": "marco.santos+60@detroitmetroschools.org",
+    "event_id": "evt-7000001",
+    "id": "att-079",
+    "name": "Marco Santos",
+    "status": "not_attending",
+    "ticket_class_id": "tc-001"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780272000,
+    "email": "elena.santos+61@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-080",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780358400,
+    "email": "marcus+62@dyaa.org",
+    "event_id": "evt-7000003",
+    "id": "att-081",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780444800,
+    "email": "pchen.board+63@gmail.com",
+    "event_id": "evt-7000004",
+    "id": "att-082",
+    "name": "Patricia Chen",
+    "status": "not_attending",
+    "ticket_class_id": "tc-009"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780531200,
+    "email": "lmonroe+64@greatlakesenergy.com",
+    "event_id": "evt-7003809",
+    "id": "att-083",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9752"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780617600,
+    "email": "blawson+65@detroitcity.gov",
+    "event_id": "evt-7004643",
+    "id": "att-084",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9753"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780704000,
+    "email": "kasante+66@westfielduniv.edu",
+    "event_id": "evt-7003472",
+    "id": "att-085",
+    "name": "Kwame Asante",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9754"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780790400,
+    "email": "rosa.delgado+67@gmail.com",
+    "event_id": "evt-7000851",
+    "id": "att-086",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9755"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780876800,
+    "email": "priya.raman+68@dyaa.org",
+    "event_id": "evt-7003435",
+    "id": "att-087",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9756"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780963200,
+    "email": "dana.wells+69@dyaa.org",
+    "event_id": "evt-7001866",
+    "id": "att-088",
+    "name": "Dana Wells",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9757"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781049600,
+    "email": "marco.santos+70@detroitmetroschools.org",
+    "event_id": "evt-7000198",
+    "id": "att-089",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9758"
+  },
+  {
+    "checked_in": "true",
+    "created": 1781136000,
+    "email": "elena.santos+71@gmail.com",
+    "event_id": "evt-7002883",
+    "id": "att-090",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9759"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781222400,
+    "email": "marcus+72@dyaa.org",
+    "event_id": "evt-7000246",
+    "id": "att-091",
+    "name": "Marcus Thompson",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9760"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781308800,
+    "email": "pchen.board+73@gmail.com",
+    "event_id": "evt-7005399",
+    "id": "att-092",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9761"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781395200,
+    "email": "lmonroe+74@greatlakesenergy.com",
+    "event_id": "evt-7005484",
+    "id": "att-093",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9762"
+  },
+  {
+    "checked_in": "true",
+    "created": 1781481600,
+    "email": "blawson+75@detroitcity.gov",
+    "event_id": "evt-7000499",
+    "id": "att-094",
+    "name": "Brenda Lawson",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9763"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781568000,
+    "email": "kasante+76@westfielduniv.edu",
+    "event_id": "evt-7009724",
+    "id": "att-095",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-001"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781654400,
+    "email": "rosa.delgado+77@gmail.com",
+    "event_id": "evt-7009106",
+    "id": "att-096",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-002"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781740800,
+    "email": "priya.raman+78@dyaa.org",
+    "event_id": "evt-7001805",
+    "id": "att-097",
+    "name": "Priya Raman",
+    "status": "not_attending",
+    "ticket_class_id": "tc-003"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781827200,
+    "email": "dana.wells+79@dyaa.org",
+    "event_id": "evt-7001145",
+    "id": "att-098",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-004"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781913600,
+    "email": "marco.santos+80@detroitmetroschools.org",
+    "event_id": "evt-7004269",
+    "id": "att-099",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-005"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782000000,
+    "email": "elena.santos+81@gmail.com",
+    "event_id": "evt-7003436",
+    "id": "att-100",
+    "name": "Elena Santos",
+    "status": "not_attending",
+    "ticket_class_id": "tc-006"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782086400,
+    "email": "marcus+82@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-101",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1782172800,
+    "email": "pchen.board+83@gmail.com",
+    "event_id": "evt-7009726",
+    "id": "att-102",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9750"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782259200,
+    "email": "lmonroe+84@greatlakesenergy.com",
+    "event_id": "evt-7009727",
+    "id": "att-103",
+    "name": "Lisa Monroe",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9753"
+  },
+  {
+    "checked_in": "true",
+    "created": 1782345600,
+    "email": "blawson+85@detroitcity.gov",
+    "event_id": "evt-7009728",
+    "id": "att-104",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9754"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782432000,
+    "email": "kasante+86@westfielduniv.edu",
+    "event_id": "evt-7009729",
+    "id": "att-105",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9757"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782518400,
+    "email": "rosa.delgado+87@gmail.com",
+    "event_id": "evt-7009730",
+    "id": "att-106",
+    "name": "Rosa Delgado",
+    "status": "not_attending",
+    "ticket_class_id": "tc-9758"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782604800,
+    "email": "priya.raman+88@dyaa.org",
+    "event_id": "evt-7009731",
+    "id": "att-107",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9761"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782691200,
+    "email": "dana.wells+89@dyaa.org",
+    "event_id": "evt-7009732",
+    "id": "att-108",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9762"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782777600,
+    "email": "marco.santos+90@detroitmetroschools.org",
+    "event_id": "evt-7000001",
+    "id": "att-109",
+    "name": "Marco Santos",
+    "status": "not_attending",
+    "ticket_class_id": "tc-002"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782864000,
+    "email": "elena.santos+91@gmail.com",
+    "event_id": "evt-7000002",
+    "id": "att-110",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-005"
+  },
+  {
+    "checked_in": "false",
+    "created": 1782950400,
+    "email": "marcus+92@dyaa.org",
+    "event_id": "evt-7000003",
+    "id": "att-111",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-007"
+  },
+  {
+    "checked_in": "false",
+    "created": 1783036800,
+    "email": "pchen.board+93@gmail.com",
+    "event_id": "evt-7000004",
+    "id": "att-112",
+    "name": "Patricia Chen",
+    "status": "not_attending",
+    "ticket_class_id": "tc-009"
+  },
+  {
+    "checked_in": "false",
+    "created": 1783123200,
+    "email": "lmonroe+94@greatlakesenergy.com",
+    "event_id": "evt-7003809",
+    "id": "att-113",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-941"
+  },
+  {
+    "checked_in": "false",
+    "created": 1783209600,
+    "email": "blawson+95@detroitcity.gov",
+    "event_id": "evt-7004643",
+    "id": "att-114",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-8575"
+  },
+  {
+    "checked_in": "false",
+    "created": 1783296000,
+    "email": "kasante+96@westfielduniv.edu",
+    "event_id": "evt-7003472",
+    "id": "att-115",
+    "name": "Kwame Asante",
+    "status": "not_attending",
+    "ticket_class_id": "tc-8164"
+  },
+  {
+    "checked_in": "false",
+    "created": 1783382400,
+    "email": "rosa.delgado+97@gmail.com",
+    "event_id": "evt-7000851",
+    "id": "att-116",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9241"
+  },
+  {
+    "checked_in": "false",
+    "created": 1783468800,
+    "email": "priya.raman+98@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-117",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775392200,
+    "email": "elena.santos+2@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-119",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775457000,
+    "email": "marcus+2@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-120",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1775521800,
+    "email": "blawson+2@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-121",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775586600,
+    "email": "pchen.board+2@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-122",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775651400,
+    "email": "lmonroe+2@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-123",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1775716200,
+    "email": "kasante+2@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-124",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775781000,
+    "email": "rosa.delgado+2@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-125",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775845800,
+    "email": "priya.raman+2@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-126",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1775910600,
+    "email": "dana.wells+2@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-127",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1775975400,
+    "email": "marco.santos+3@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-128",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776040200,
+    "email": "elena.santos+3@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-129",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776105000,
+    "email": "marcus+3@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-130",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776169800,
+    "email": "blawson+3@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-131",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776234600,
+    "email": "pchen.board+3@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-132",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776299400,
+    "email": "lmonroe+3@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-133",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776364200,
+    "email": "kasante+3@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-134",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776429000,
+    "email": "rosa.delgado+3@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-135",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776493800,
+    "email": "priya.raman+3@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-136",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776558600,
+    "email": "dana.wells+3@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-137",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776623400,
+    "email": "marco.santos+4@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-138",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776688200,
+    "email": "elena.santos+4@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-139",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776753000,
+    "email": "marcus+4@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-140",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776817800,
+    "email": "blawson+4@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-141",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1776882600,
+    "email": "pchen.board+4@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-142",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1776947400,
+    "email": "lmonroe+4@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-143",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777012200,
+    "email": "kasante+4@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-144",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1777077000,
+    "email": "rosa.delgado+4@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-145",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777141800,
+    "email": "priya.raman+4@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-146",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777206600,
+    "email": "dana.wells+4@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-147",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1777271400,
+    "email": "marco.santos+5@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-148",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777336200,
+    "email": "elena.santos+5@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-149",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777401000,
+    "email": "marcus+5@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-150",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1777465800,
+    "email": "blawson+5@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-151",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777530600,
+    "email": "pchen.board+5@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-152",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777595400,
+    "email": "lmonroe+5@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-153",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1777660200,
+    "email": "kasante+5@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-154",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777725000,
+    "email": "rosa.delgado+5@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-155",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777789800,
+    "email": "priya.raman+5@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-156",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1777854600,
+    "email": "dana.wells+5@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-157",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777919400,
+    "email": "marco.santos+6@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-158",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1777984200,
+    "email": "elena.santos+6@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-159",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778049000,
+    "email": "marcus+6@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-160",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778113800,
+    "email": "blawson+6@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-161",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778178600,
+    "email": "pchen.board+6@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-162",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778243400,
+    "email": "lmonroe+6@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-163",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9748"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778308200,
+    "email": "kasante+6@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-164",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778373000,
+    "email": "rosa.delgado+6@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-165",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778437800,
+    "email": "priya.raman+6@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-166",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778502600,
+    "email": "dana.wells+6@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-167",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778567400,
+    "email": "marco.santos+7@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-168",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778632200,
+    "email": "elena.santos+7@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-169",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778697000,
+    "email": "marcus+7@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-170",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778761800,
+    "email": "blawson+7@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-171",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1778826600,
+    "email": "pchen.board+7@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-172",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778891400,
+    "email": "lmonroe+7@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-173",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1778956200,
+    "email": "kasante+7@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-174",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779021000,
+    "email": "rosa.delgado+7@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-175",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779085800,
+    "email": "priya.raman+7@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-176",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779150600,
+    "email": "dana.wells+7@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-177",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779215400,
+    "email": "marco.santos+8@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-178",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779280200,
+    "email": "elena.santos+8@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-179",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779345000,
+    "email": "marcus+8@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-180",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779409800,
+    "email": "blawson+8@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-181",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779474600,
+    "email": "pchen.board+8@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-182",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779539400,
+    "email": "lmonroe+8@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-183",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779604200,
+    "email": "kasante+8@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-184",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779669000,
+    "email": "rosa.delgado+8@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-185",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779733800,
+    "email": "priya.raman+8@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-186",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779798600,
+    "email": "dana.wells+8@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-187",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779863400,
+    "email": "marco.santos+9@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-188",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1779928200,
+    "email": "elena.santos+9@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-189",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1779993000,
+    "email": "marcus+9@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-190",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780057800,
+    "email": "blawson+9@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-191",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780122600,
+    "email": "pchen.board+9@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-192",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1780187400,
+    "email": "lmonroe+9@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-193",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780252200,
+    "email": "kasante+9@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-194",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780317000,
+    "email": "rosa.delgado+9@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-195",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1780381800,
+    "email": "priya.raman+9@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-196",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780446600,
+    "email": "dana.wells+9@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-197",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780511400,
+    "email": "marco.santos+10@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-198",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1780576200,
+    "email": "elena.santos+10@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-199",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780641000,
+    "email": "marcus+10@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-200",
+    "name": "Marcus Thompson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780705800,
+    "email": "blawson+10@detroitcity.gov",
+    "event_id": "evt-7009725",
+    "id": "att-201",
+    "name": "Brenda Lawson",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1780770600,
+    "email": "pchen.board+10@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-202",
+    "name": "Patricia Chen",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780835400,
+    "email": "lmonroe+10@greatlakesenergy.com",
+    "event_id": "evt-7009725",
+    "id": "att-203",
+    "name": "Lisa Monroe",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1780900200,
+    "email": "kasante+10@westfielduniv.edu",
+    "event_id": "evt-7009725",
+    "id": "att-204",
+    "name": "Kwame Asante",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1780965000,
+    "email": "rosa.delgado+10@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-205",
+    "name": "Rosa Delgado",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781029800,
+    "email": "priya.raman+10@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-206",
+    "name": "Priya Raman",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781094600,
+    "email": "dana.wells+10@dyaa.org",
+    "event_id": "evt-7009725",
+    "id": "att-207",
+    "name": "Dana Wells",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "true",
+    "created": 1781159400,
+    "email": "marco.santos+11@detroitmetroschools.org",
+    "event_id": "evt-7009725",
+    "id": "att-208",
+    "name": "Marco Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  },
+  {
+    "checked_in": "false",
+    "created": 1781224200,
+    "email": "elena.santos+11@gmail.com",
+    "event_id": "evt-7009725",
+    "id": "att-209",
+    "name": "Elena Santos",
+    "status": "attending",
+    "ticket_class_id": "tc-9749"
+  }
+]

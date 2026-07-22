@@ -1,0 +1,1692 @@
+{
+  "QueryResponse": {
+    "Customer": [
+      {
+        "Id": "0",
+        "DisplayName": "Jake’s Table Walk-in Guests LLC",
+        "PrimaryEmailAddr": {
+          "Address": "multiple - see batch detail.multiple - see batch detail@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Aggregate: Batch billing aggregate for multi-member invoices",
+        "CompanyName": "Multiple - See Batch Detail Household Co",
+        "GivenName": "Multiple - See Batch Detail",
+        "FamilyName": "Multiple - See Batch Detail",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "1",
+        "DisplayName": "Abrams, Derek",
+        "PrimaryEmailAddr": {
+          "Address": "derek.abrams@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Abrams, Derek Household Co",
+        "GivenName": "Derek",
+        "FamilyName": "Abrams",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "2",
+        "DisplayName": "Alvarez, Sofia",
+        "PrimaryEmailAddr": {
+          "Address": "s.alvarez88@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Alvarez, Sofia Household Co",
+        "GivenName": "Sofia",
+        "FamilyName": "Alvarez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "3",
+        "DisplayName": "Anderson, Marcus",
+        "PrimaryEmailAddr": {
+          "Address": "manderson@outlook.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Anderson, Marcus Household Co",
+        "GivenName": "Marcus",
+        "FamilyName": "Anderson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "4",
+        "DisplayName": "Bakshi, Priya",
+        "PrimaryEmailAddr": {
+          "Address": "priya.bakshi@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th + Sat",
+        "CompanyName": "Bakshi, Priya Household Co",
+        "GivenName": "Priya",
+        "FamilyName": "Bakshi",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "5",
+        "DisplayName": "Callahan, Nate",
+        "PrimaryEmailAddr": {
+          "Address": "ncallahan@proton.me"
+        },
+        "Balance": 95,
+        "Active": true,
+        "Notes": "Kendo - M/W/F. Apr unpaid.",
+        "CompanyName": "Callahan, Nate Household Co",
+        "GivenName": "Nate",
+        "FamilyName": "Callahan",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "6",
+        "DisplayName": "Chen, William",
+        "PrimaryEmailAddr": {
+          "Address": "will.chen.pdx@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Both programs - unlimited",
+        "CompanyName": "Chen, William Household Co",
+        "GivenName": "William",
+        "FamilyName": "Chen",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "7",
+        "DisplayName": "Cortez, Diana",
+        "PrimaryEmailAddr": {
+          "Address": "dianac@comcast.net"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Cortez, Diana Household Co",
+        "GivenName": "Diana",
+        "FamilyName": "Cortez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "8",
+        "DisplayName": "Davenport, Greg",
+        "PrimaryEmailAddr": {
+          "Address": "greg.davenport@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Davenport, Greg Household Co",
+        "GivenName": "Greg",
+        "FamilyName": "Davenport",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "9",
+        "DisplayName": "Delgado, Hannah",
+        "PrimaryEmailAddr": {
+          "Address": "aaron.delgado@jakestable.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Youth Sat all-levels (owner family - comp)",
+        "CompanyName": "Delgado, Hannah Household Co",
+        "GivenName": "Hannah",
+        "FamilyName": "Delgado",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "10",
+        "DisplayName": "Eriksson, Lars",
+        "PrimaryEmailAddr": {
+          "Address": "lars.eriksson@intel.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Eriksson, Lars Household Co",
+        "GivenName": "Lars",
+        "FamilyName": "Eriksson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "11",
+        "DisplayName": "Fernandez, Carlos",
+        "PrimaryEmailAddr": {
+          "Address": "carlos.f@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Fernandez, Carlos Household Co",
+        "GivenName": "Carlos",
+        "FamilyName": "Fernandez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "12",
+        "DisplayName": "Fisher, Tammy",
+        "PrimaryEmailAddr": {
+          "Address": "tammyfisher@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Fisher, Tammy Household Co",
+        "GivenName": "Tammy",
+        "FamilyName": "Fisher",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "13",
+        "DisplayName": "Graves, Alicia",
+        "PrimaryEmailAddr": {
+          "Address": "alicia.graves@nike.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th + Sat",
+        "CompanyName": "Graves, Alicia Household Co",
+        "GivenName": "Alicia",
+        "FamilyName": "Graves",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "14",
+        "DisplayName": "Gutierrez, Ramon",
+        "PrimaryEmailAddr": {
+          "Address": "rgutierrez@ridgeline.edu"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Gutierrez, Ramon Household Co",
+        "GivenName": "Ramon",
+        "FamilyName": "Gutierrez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "15",
+        "DisplayName": "Hammond, Steve",
+        "PrimaryEmailAddr": {
+          "Address": "steve.hammond@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Hammond, Steve Household Co",
+        "GivenName": "Steve",
+        "FamilyName": "Hammond",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "16",
+        "DisplayName": "Harrison, Olivia",
+        "PrimaryEmailAddr": {
+          "Address": "olivia.h@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Harrison, Olivia Household Co",
+        "GivenName": "Olivia",
+        "FamilyName": "Harrison",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "17",
+        "DisplayName": "Hayashi, Kenji",
+        "PrimaryEmailAddr": {
+          "Address": "kenji.hayashi@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Both programs - unlimited",
+        "CompanyName": "Hayashi, Kenji Household Co",
+        "GivenName": "Kenji",
+        "FamilyName": "Hayashi",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "18",
+        "DisplayName": "Hoffman, Brett",
+        "PrimaryEmailAddr": {
+          "Address": "brett.hoffman@comcast.net"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Hoffman, Brett Household Co",
+        "GivenName": "Brett",
+        "FamilyName": "Hoffman",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "19",
+        "DisplayName": "Ibanez, Teresa",
+        "PrimaryEmailAddr": {
+          "Address": "teresai@outlook.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Ibanez, Teresa Household Co",
+        "GivenName": "Teresa",
+        "FamilyName": "Ibanez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "20",
+        "DisplayName": "Jackson, Darnell",
+        "PrimaryEmailAddr": {
+          "Address": "darnellj@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Jackson, Darnell Household Co",
+        "GivenName": "Darnell",
+        "FamilyName": "Jackson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "21",
+        "DisplayName": "Johansson, Erik",
+        "PrimaryEmailAddr": {
+          "Address": "erik.johansson@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - Sat only",
+        "CompanyName": "Johansson, Erik Household Co",
+        "GivenName": "Erik",
+        "FamilyName": "Johansson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "22",
+        "DisplayName": "Kang, Minjun",
+        "PrimaryEmailAddr": {
+          "Address": "minjun.kang@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Kang, Minjun Household Co",
+        "GivenName": "Minjun",
+        "FamilyName": "Kang",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "23",
+        "DisplayName": "Keller, Jason",
+        "PrimaryEmailAddr": {
+          "Address": "jasonkeller@proton.me"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Keller, Jason Household Co",
+        "GivenName": "Jason",
+        "FamilyName": "Keller",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "24",
+        "DisplayName": "Kim, Soo-yeon",
+        "PrimaryEmailAddr": {
+          "Address": "sooyeon.kim@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Kim, Soo-yeon Household Co",
+        "GivenName": "Soo-yeon",
+        "FamilyName": "Kim",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "25",
+        "DisplayName": "Larson, Pete",
+        "PrimaryEmailAddr": {
+          "Address": "pete.larson@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th + Sat",
+        "CompanyName": "Larson, Pete Household Co",
+        "GivenName": "Pete",
+        "FamilyName": "Larson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "26",
+        "DisplayName": "Lee, Michael",
+        "PrimaryEmailAddr": {
+          "Address": "michael.lee.bvtn@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Lee, Michael Household Co",
+        "GivenName": "Michael",
+        "FamilyName": "Lee",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "27",
+        "DisplayName": "Lopez, Mariana",
+        "PrimaryEmailAddr": {
+          "Address": "mariana.lopez@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Lopez, Mariana Household Co",
+        "GivenName": "Mariana",
+        "FamilyName": "Lopez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "28",
+        "DisplayName": "Matsuda, Yuki",
+        "PrimaryEmailAddr": {
+          "Address": "yuki.matsuda@outlook.com"
+        },
+        "Balance": 95,
+        "Active": true,
+        "Notes": "Kendo - M/W/F. Apr unpaid - emailed 4/8.",
+        "CompanyName": "Matsuda, Yuki Household Co",
+        "GivenName": "Yuki",
+        "FamilyName": "Matsuda",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "29",
+        "DisplayName": "Mercer, Bridget",
+        "PrimaryEmailAddr": {
+          "Address": "bridget.mercer@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Mercer, Bridget Household Co",
+        "GivenName": "Bridget",
+        "FamilyName": "Mercer",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "30",
+        "DisplayName": "Mitchell, Aaron T.",
+        "PrimaryEmailAddr": {
+          "Address": "at.mitchell@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Mitchell, Aaron T. Household Co",
+        "GivenName": "Aaron T.",
+        "FamilyName": "Mitchell",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "31",
+        "DisplayName": "Morrison, Tyler",
+        "PrimaryEmailAddr": {
+          "Address": "tyler.morrison@comcast.net"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Both programs - unlimited",
+        "CompanyName": "Morrison, Tyler Household Co",
+        "GivenName": "Tyler",
+        "FamilyName": "Morrison",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "32",
+        "DisplayName": "Nakamura, Ren",
+        "PrimaryEmailAddr": {
+          "Address": "ren.nakamura@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Nakamura, Ren Household Co",
+        "GivenName": "Ren",
+        "FamilyName": "Nakamura",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "33",
+        "DisplayName": "Nelson, Courtney",
+        "PrimaryEmailAddr": {
+          "Address": "courtneyN@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Nelson, Courtney Household Co",
+        "GivenName": "Courtney",
+        "FamilyName": "Nelson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "34",
+        "DisplayName": "Okafor, Chidi",
+        "PrimaryEmailAddr": {
+          "Address": "chidi.okafor@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Okafor, Chidi Household Co",
+        "GivenName": "Chidi",
+        "FamilyName": "Okafor",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "35",
+        "DisplayName": "Olsen, Katie",
+        "PrimaryEmailAddr": {
+          "Address": "katie.olsen@proton.me"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - Sat only",
+        "CompanyName": "Olsen, Katie Household Co",
+        "GivenName": "Katie",
+        "FamilyName": "Olsen",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "36",
+        "DisplayName": "Park, Jisoo",
+        "PrimaryEmailAddr": {
+          "Address": "jisoo.park@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Park, Jisoo Household Co",
+        "GivenName": "Jisoo",
+        "FamilyName": "Park",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "37",
+        "DisplayName": "Patterson, Diane",
+        "PrimaryEmailAddr": {
+          "Address": "diane.patterson@outlook.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Patterson, Diane Household Co",
+        "GivenName": "Diane",
+        "FamilyName": "Patterson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "38",
+        "DisplayName": "Pearson, Troy",
+        "PrimaryEmailAddr": {
+          "Address": "troypearson@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Pearson, Troy Household Co",
+        "GivenName": "Troy",
+        "FamilyName": "Pearson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "39",
+        "DisplayName": "Pham, Linh",
+        "PrimaryEmailAddr": {
+          "Address": "linh.pham@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th + Sat",
+        "CompanyName": "Pham, Linh Household Co",
+        "GivenName": "Linh",
+        "FamilyName": "Pham",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "40",
+        "DisplayName": "Ramirez, Jesse",
+        "PrimaryEmailAddr": {
+          "Address": "jesse.ramirez@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Ramirez, Jesse Household Co",
+        "GivenName": "Jesse",
+        "FamilyName": "Ramirez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "41",
+        "DisplayName": "Reeves, Sam",
+        "PrimaryEmailAddr": {
+          "Address": "sam.reeves@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Reeves, Sam Household Co",
+        "GivenName": "Sam",
+        "FamilyName": "Reeves",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "42",
+        "DisplayName": "Rivera, Marco",
+        "PrimaryEmailAddr": {
+          "Address": "marco.rivera@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Both programs - unlimited",
+        "CompanyName": "Rivera, Marco Household Co",
+        "GivenName": "Marco",
+        "FamilyName": "Rivera",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "43",
+        "DisplayName": "Robinson, Aisha",
+        "PrimaryEmailAddr": {
+          "Address": "aisha.robinson@nike.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Robinson, Aisha Household Co",
+        "GivenName": "Aisha",
+        "FamilyName": "Robinson",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "44",
+        "DisplayName": "Rossi, Vincent",
+        "PrimaryEmailAddr": {
+          "Address": "vrossi@ridgeline.edu"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Rossi, Vincent Household Co",
+        "GivenName": "Vincent",
+        "FamilyName": "Rossi",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "45",
+        "DisplayName": "Santos, Gabriel",
+        "PrimaryEmailAddr": {
+          "Address": "gabriel.santos@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Santos, Gabriel Household Co",
+        "GivenName": "Gabriel",
+        "FamilyName": "Santos",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "46",
+        "DisplayName": "Schneider, Anna",
+        "PrimaryEmailAddr": {
+          "Address": "anna.schneider@outlook.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Schneider, Anna Household Co",
+        "GivenName": "Anna",
+        "FamilyName": "Schneider",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "47",
+        "DisplayName": "Shaw, Devin",
+        "PrimaryEmailAddr": {
+          "Address": "devinshaw@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Shaw, Devin Household Co",
+        "GivenName": "Devin",
+        "FamilyName": "Shaw",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "48",
+        "DisplayName": "Simmons, Jackie",
+        "PrimaryEmailAddr": {
+          "Address": "jackie.simmons@comcast.net"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Simmons, Jackie Household Co",
+        "GivenName": "Jackie",
+        "FamilyName": "Simmons",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "49",
+        "DisplayName": "Tanaka, Hiro",
+        "PrimaryEmailAddr": {
+          "Address": "hiro.tanaka@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Tanaka, Hiro Household Co",
+        "GivenName": "Hiro",
+        "FamilyName": "Tanaka",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "50",
+        "DisplayName": "Thomas, Wayne",
+        "PrimaryEmailAddr": {
+          "Address": "wayne.thomas@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - Sat only",
+        "CompanyName": "Thomas, Wayne Household Co",
+        "GivenName": "Wayne",
+        "FamilyName": "Thomas",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "51",
+        "DisplayName": "Torres, Miguel",
+        "PrimaryEmailAddr": {
+          "Address": "miguel.torres@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Torres, Miguel Household Co",
+        "GivenName": "Miguel",
+        "FamilyName": "Torres",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "52",
+        "DisplayName": "Turner, Brenda",
+        "PrimaryEmailAddr": {
+          "Address": "brenda.turner@proton.me"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Turner, Brenda Household Co",
+        "GivenName": "Brenda",
+        "FamilyName": "Turner",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "53",
+        "DisplayName": "Ueda, Takeshi",
+        "PrimaryEmailAddr": {
+          "Address": "takeshi.ueda@outlook.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Both programs - unlimited",
+        "CompanyName": "Ueda, Takeshi Household Co",
+        "GivenName": "Takeshi",
+        "FamilyName": "Ueda",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "54",
+        "DisplayName": "Vasquez, Elena",
+        "PrimaryEmailAddr": {
+          "Address": "elena.vasquez@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Vasquez, Elena Household Co",
+        "GivenName": "Elena",
+        "FamilyName": "Vasquez",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "55",
+        "DisplayName": "Volkov, Dmitri",
+        "PrimaryEmailAddr": {
+          "Address": "dmitri.volkov@intel.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Volkov, Dmitri Household Co",
+        "GivenName": "Dmitri",
+        "FamilyName": "Volkov",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "56",
+        "DisplayName": "Walker, Ben",
+        "PrimaryEmailAddr": {
+          "Address": "ben.walker@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Walker, Ben Household Co",
+        "GivenName": "Ben",
+        "FamilyName": "Walker",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "57",
+        "DisplayName": "Whitfield, Renee",
+        "PrimaryEmailAddr": {
+          "Address": "renee.whitfield@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Whitfield, Renee Household Co",
+        "GivenName": "Renee",
+        "FamilyName": "Whitfield",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "58",
+        "DisplayName": "Wong, Kevin",
+        "PrimaryEmailAddr": {
+          "Address": "kevin.wong@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Wong, Kevin Household Co",
+        "GivenName": "Kevin",
+        "FamilyName": "Wong",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "59",
+        "DisplayName": "Yamamoto, Sakura",
+        "PrimaryEmailAddr": {
+          "Address": "sakura.yamamoto@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th + Sat",
+        "CompanyName": "Yamamoto, Sakura Household Co",
+        "GivenName": "Sakura",
+        "FamilyName": "Yamamoto",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "60",
+        "DisplayName": "Young, Patrick",
+        "PrimaryEmailAddr": {
+          "Address": "patrick.young@comcast.net"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Kendo - M/W/F",
+        "CompanyName": "Young, Patrick Household Co",
+        "GivenName": "Patrick",
+        "FamilyName": "Young",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "61",
+        "DisplayName": "Zhang, Leo",
+        "PrimaryEmailAddr": {
+          "Address": "leo.zhang@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Both programs - unlimited",
+        "CompanyName": "Zhang, Leo Household Co",
+        "GivenName": "Leo",
+        "FamilyName": "Zhang",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "62",
+        "DisplayName": "Zimmerman, Chloe",
+        "PrimaryEmailAddr": {
+          "Address": "chloe.z@outlook.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Judo - T/Th",
+        "CompanyName": "Zimmerman, Chloe Household Co",
+        "GivenName": "Chloe",
+        "FamilyName": "Zimmerman",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "63",
+        "DisplayName": "Spring Tournament 2026 - Registrations",
+        "PrimaryEmailAddr": {
+          "Address": "spring tournament 2026 - registrations.spring tournament 2026 - registrations@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Aggregate: Spring tournament individual registrations (Apr 5)",
+        "CompanyName": "Spring Tournament 2026 - Registrations Household Co",
+        "GivenName": "Spring Tournament 2026 - Registrations",
+        "FamilyName": "Spring Tournament 2026 - Registrations",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "64",
+        "DisplayName": "Drop-in Sessions (Walk-ins)",
+        "PrimaryEmailAddr": {
+          "Address": "drop-in sessions (walk-ins).drop-in sessions (walk-ins)@gmail.com"
+        },
+        "Balance": 0,
+        "Active": true,
+        "Notes": "Aggregate: Non-member drop-in fees $20/session",
+        "CompanyName": "Drop-in Sessions (Walk-ins) Household Co",
+        "GivenName": "Drop-in Sessions (Walk-ins)",
+        "FamilyName": "Drop-in Sessions (Walk-ins)",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "65",
+        "DisplayName": "Cooper, Nathan",
+        "PrimaryEmailAddr": {
+          "Address": "ncooper@gmail.com"
+        },
+        "Balance": 0,
+        "Active": false,
+        "Notes": "INACTIVE - cancelled Feb 2026. Kendo.",
+        "CompanyName": "Cooper, Nathan Household Co",
+        "GivenName": "Nathan",
+        "FamilyName": "Cooper",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "66",
+        "DisplayName": "Huang, Mei",
+        "PrimaryEmailAddr": {
+          "Address": "mei.huang@yahoo.com"
+        },
+        "Balance": 0,
+        "Active": false,
+        "Notes": "INACTIVE - moved out of state Mar 2026. Judo.",
+        "CompanyName": "Huang, Mei Household Co",
+        "GivenName": "Mei",
+        "FamilyName": "Huang",
+        "Job": false,
+        "PrimaryPhone": {
+          "FreeFormNumber": ""
+        },
+        "BillAddr_Line1": "",
+        "BillAddr_City": "",
+        "BillAddr_CountrySubDivisionCode": "",
+        "BillAddr_PostalCode": ""
+      },
+      {
+        "Id": "201",
+        "DisplayName": "Tunde Adeyemi",
+        "GivenName": "Tunde",
+        "FamilyName": "Adeyemi",
+        "CompanyName": "Adeyemi Household Co",
+        "PrimaryEmailAddr": {
+          "Address": "tunde.adeyemi@gmail.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+14702699939"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Lagos",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Beat client - Lagos Nights exclusive",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Lagos",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "202",
+        "DisplayName": "Keisha Brown",
+        "GivenName": "Keisha",
+        "FamilyName": "Brown",
+        "CompanyName": "Brown Household Co",
+        "PrimaryEmailAddr": {
+          "Address": "keisha.b.music@gmail.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+14702106200"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Atlanta",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Beat client",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Atlanta",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "203",
+        "DisplayName": "Marcus Webb",
+        "GivenName": "Marcus",
+        "FamilyName": "Webb",
+        "CompanyName": "Dekalb Farmers Market",
+        "PrimaryEmailAddr": {
+          "Address": "mwebb@dekalbfarmersmarket.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+16783841027"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Durham NC",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 1800000.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Consulting client + beat client",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Durham NC",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "204",
+        "DisplayName": "Yemi Olatunde",
+        "GivenName": "Yemi",
+        "FamilyName": "Olatunde",
+        "CompanyName": "Olatunde Household Co",
+        "PrimaryEmailAddr": {
+          "Address": "yemi.ola@gmail.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+17705272876"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Lagos",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 35000.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Beat client - pending payment",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Lagos",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "205",
+        "DisplayName": "Priya Nair",
+        "GivenName": "Priya",
+        "FamilyName": "Nair",
+        "CompanyName": "Nair Household Co",
+        "PrimaryEmailAddr": {
+          "Address": "priya.nair.music@gmail.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+17707797161"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "New York",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Beat client",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "New York",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "206",
+        "DisplayName": "Diego Reyes",
+        "GivenName": "Diego",
+        "FamilyName": "Reyes",
+        "CompanyName": "Reyes Household Co",
+        "PrimaryEmailAddr": {
+          "Address": "diego.reyes.beats@gmail.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+16783421195"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Miami",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Beat client",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Miami",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "207",
+        "DisplayName": "Spotify Premium",
+        "GivenName": "Spotify Premium",
+        "FamilyName": "Spotify Premium",
+        "CompanyName": "Spotify Premium Licensing",
+        "PrimaryEmailAddr": {
+          "Address": "sync@spotify.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+14042544588"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Berlin",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Sync license",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Berlin",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "208",
+        "DisplayName": "Mailchimp Newsletter",
+        "GivenName": "Mailchimp Newsletter",
+        "FamilyName": "Mailchimp Newsletter",
+        "CompanyName": "Mailchimp Inc",
+        "PrimaryEmailAddr": {
+          "Address": "promo@mailchimp.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+16781272812"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Boca Raton",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Free promo",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Boca Raton",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      },
+      {
+        "Id": "301",
+        "DisplayName": "Bar Walk-In",
+        "GivenName": "Bar Walk-In",
+        "FamilyName": "Bar Walk-In",
+        "CompanyName": "Bar Walk-In Household Co",
+        "PrimaryEmailAddr": {
+          "Address": "bar walk-in.bar walk-in@gmail.com"
+        },
+        "PrimaryPhone": {
+          "FreeFormNumber": "+14045551075"
+        },
+        "BillAddr": {
+          "Line1": "2214 Alston Dr SE",
+          "City": "Atlanta",
+          "CountrySubDivisionCode": "GA",
+          "PostalCode": "30317"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "MetaData": {
+          "CreateTime": "2024-01-15T10:00:00",
+          "LastUpdatedTime": "2024-12-01T10:00:00"
+        },
+        "Notes": "Walk-in class guest — single-session POS sale",
+        "Job": false,
+        "BillAddr_Line1": "2214 Alston Dr SE",
+        "BillAddr_City": "Atlanta",
+        "BillAddr_CountrySubDivisionCode": "GA",
+        "BillAddr_PostalCode": "30317"
+      }
+    ]
+  }
+}

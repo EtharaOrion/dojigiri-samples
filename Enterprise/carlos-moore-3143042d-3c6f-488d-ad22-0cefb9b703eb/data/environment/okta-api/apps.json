@@ -1,0 +1,162 @@
+[
+  {
+    "created": "2025-01-06T09:00:00.000Z",
+    "id": "0oa2e7ed4c9a",
+    "label": "Slack",
+    "name": "slack",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-01-15T09:00:00.000Z",
+    "id": "0oabc9a2cbb5",
+    "label": "GitHub",
+    "name": "github",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-01-24T09:00:00.000Z",
+    "id": "0oa302951632",
+    "label": "Notion",
+    "name": "notion",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-02-02T09:00:00.000Z",
+    "id": "0oafcfd939a7",
+    "label": "Zoom",
+    "name": "zoom",
+    "sign_on_mode": "OIDC",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-02-11T09:00:00.000Z",
+    "id": "0oa022c973d6",
+    "label": "Workday",
+    "name": "workday",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-02-20T09:00:00.000Z",
+    "id": "0oa69bf46167",
+    "label": "Google Workspace",
+    "name": "google",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-03-01T09:00:00.000Z",
+    "id": "0oa7d95a6ae3",
+    "label": "Salesforce",
+    "name": "salesforce",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-03-10T09:00:00.000Z",
+    "id": "0oa8a80e35a7",
+    "label": "Jira",
+    "name": "jira",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-03-19T09:00:00.000Z",
+    "id": "0oa644f26806",
+    "label": "Confluence",
+    "name": "confluence",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-03-28T09:00:00.000Z",
+    "id": "0oa2de992d5b",
+    "label": "DocuSign",
+    "name": "docusign",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-04-06T09:00:00.000Z",
+    "id": "0oaaa51eb576",
+    "label": "Concur",
+    "name": "concur",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-04-15T09:00:00.000Z",
+    "id": "0oa3f06f23b4",
+    "label": "Datadog",
+    "name": "datadog",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-04-24T09:00:00.000Z",
+    "id": "0oa8785d3d70",
+    "label": "PagerDuty",
+    "name": "pagerduty",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-05-03T09:00:00.000Z",
+    "id": "0oa70dcc6ae6",
+    "label": "Figma",
+    "name": "figma",
+    "sign_on_mode": "OIDC",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-05-12T09:00:00.000Z",
+    "id": "0oac156a2268",
+    "label": "Box",
+    "name": "box",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-05-21T09:00:00.000Z",
+    "id": "0oa6cabddd9f",
+    "label": "Dropbox",
+    "name": "dropbox",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-05-30T09:00:00.000Z",
+    "id": "0oa9c02508a5",
+    "label": "ServiceNow",
+    "name": "servicenow",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-06-08T09:00:00.000Z",
+    "id": "0oa8aa7e7438",
+    "label": "GitLab",
+    "name": "gitlab",
+    "sign_on_mode": "OIDC",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-06-17T09:00:00.000Z",
+    "id": "0oa36ae240a7",
+    "label": "Zendesk",
+    "name": "zendesk",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2025-06-26T09:00:00.000Z",
+    "id": "0oa08ed2d437",
+    "label": "Asana",
+    "name": "asana",
+    "sign_on_mode": "OIDC",
+    "status": "ACTIVE"
+  }
+]

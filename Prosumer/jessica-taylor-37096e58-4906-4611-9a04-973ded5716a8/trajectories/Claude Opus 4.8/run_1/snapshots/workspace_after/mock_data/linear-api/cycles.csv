@@ -1,0 +1,21 @@
+id,name,number,teamId,startsAt,endsAt,completedAt,createdAt,updatedAt,__api__,__table__,__file__,__row_index__
+cycle-port-1,Jessica Marie Taylor,1,team-ux,2026-03-09,2026-03-22,2026-03-22T17:00:00,2026-02-28T09:00:00,2026-03-22T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,0
+cycle-port-2,David Taylor,2,team-ux,2026-03-23,2026-10-05,2026-10-05T17:00:00,2026-03-15T09:00:00,2026-10-05T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,1
+cycle-port-3,Mia Petrov,3,team-ux,2026-10-06,2026-10-19,2026-10-19T17:00:00,2026-03-29T09:00:00,2026-10-19T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,2
+cycle-port-4,Tomas Varga,4,team-ux,2026-10-20,2026-11-03,2026-11-03T17:00:00,2026-10-13T09:00:00,2026-11-03T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,3
+cycle-port-5,Nina Okafor,5,team-ux,2026-11-04,2026-11-17,completedat-linear-050913,2026-10-27T09:00:00,2026-11-10T10:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,4
+cycle-port-6,Ray Mitchell,6,team-ux,2026-11-18,2026-11-31,completedat-linear-050311,2026-11-10T09:00:00,2026-11-10T10:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,5
+cycle-bkd-1,Marcus Reeves,1,team-backend,2026-10-06,2026-10-19,2026-10-19T17:00:00,2026-03-29T09:00:00,2026-10-19T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,6
+cycle-bkd-2,Aria Chen,2,team-backend,2026-10-20,2026-11-03,completedat-linear-027106,2026-10-13T09:00:00,2026-11-10T10:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,7
+cycle-port-1-v9,Verdant Provisions,1,team-ux,2026-03-09,2026-03-22,2026-03-22T17:00:00,2026-02-28T09:00:00,2026-03-22T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,8
+cycle-port-2-v10,Pinnacle Collective,2,team-ux,2026-03-23,2026-10-05,2026-10-05T17:00:00,2026-03-15T09:00:00,2026-10-05T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,9
+cycle-port-3-v11,Grace Taylor,3,team-ux,2026-10-06,2026-10-19,2026-10-19T17:00:00,2026-03-29T09:00:00,2026-10-19T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,10
+cycle-port-4-v12,David Taylor,4,team-ux,2026-10-20,2026-11-03,2026-11-03T17:00:00,2026-10-13T09:00:00,2026-11-03T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,11
+cycle-port-5-v13,Mia Petrov,5,team-ux,2026-11-04,2026-11-17,completedat-linear-085179,2026-10-27T09:00:00,2026-11-10T10:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,12
+cycle-port-6-v14,Tomas Varga,6,team-ux,2026-11-18,2026-11-31,completedat-linear-003481,2026-11-10T09:00:00,2026-11-10T10:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,13
+cycle-bkd-1-v15,Nina Okafor,1,team-backend,2026-10-06,2026-10-19,2026-10-19T17:00:00,2026-03-29T09:00:00,2026-10-19T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,14
+cycle-bkd-2-v16,Ray Mitchell,2,team-backend,2026-10-20,2026-11-03,completedat-linear-066127,2026-10-13T09:00:00,2026-11-10T10:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,15
+cycle-port-1-v17,Marcus Reeves,1,team-ux,2026-03-09,2026-03-22,2026-03-22T17:00:00,2026-02-28T09:00:00,2026-03-22T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,16
+cycle-port-2-v18,Aria Chen,2,team-ux,2026-03-23,2026-10-05,2026-10-05T17:00:00,2026-03-15T09:00:00,2026-10-05T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,17
+cycle-port-3-v19,Verdant Provisions,3,team-ux,2026-10-06,2026-10-19,2026-10-19T17:00:00,2026-03-29T09:00:00,2026-10-19T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,18
+cycle-port-4-v20,Pinnacle Collective,4,team-ux,2026-10-20,2026-11-03,2026-11-03T17:00:00,2026-10-13T09:00:00,2026-11-03T17:00:00,linear-api,cycles,/opt/mocks/linear-api/cycles.json,19

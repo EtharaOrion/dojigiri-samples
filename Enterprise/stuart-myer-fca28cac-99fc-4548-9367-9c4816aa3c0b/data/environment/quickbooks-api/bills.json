@@ -1,0 +1,627 @@
+[
+  {
+    "Id": "3001",
+    "DocNumber": "BILL-2026-03-05",
+    "VendorRef": {
+      "value": "2005",
+      "name": "Burnside Industrial Holdings LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 4200.0,
+        "Description": "Monthly warehouse lease - 2026-03. 2245 E Burnside St.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Rent Expense",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4200.0,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  },
+  {
+    "Id": "3002",
+    "DocNumber": "BILL-2026-03-01",
+    "VendorRef": {
+      "value": "2001",
+      "name": "Pacific Malt Company"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 1873.5,
+        "Description": "Base + specialty malt order - 2026-03 brew schedule.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Malt",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1873.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3003",
+    "DocNumber": "BILL-2026-03-02",
+    "VendorRef": {
+      "value": "2002",
+      "name": "Crosby Hops"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 1267.0,
+        "Description": "Pellet hops (Citra, Mosaic, Saaz) - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Hops",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1267.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3004",
+    "DocNumber": "BILL-2026-03-03",
+    "VendorRef": {
+      "value": "2003",
+      "name": "Portland General Electric"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 580.5,
+        "Description": "Electricity - brewhouse + cold room - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 580.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3005",
+    "DocNumber": "BILL-2026-03-04",
+    "VendorRef": {
+      "value": "2004",
+      "name": "NW Natural"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 234.0,
+        "Description": "Natural gas - boiler - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 234.0,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  },
+  {
+    "Id": "3006",
+    "DocNumber": "BILL-2026-03-07",
+    "VendorRef": {
+      "value": "2007",
+      "name": "Cascade Gas & Welding Supply"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 210.0,
+        "Description": "CO2 + nitrogen cylinders - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Packaging & Cans",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 210.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3007",
+    "DocNumber": "BILL-2026-03-08",
+    "VendorRef": {
+      "value": "2008",
+      "name": "BrewPack Container Co"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2393.5,
+        "Description": "16oz can + end order, pallet - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Packaging & Cans",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2393.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3008",
+    "DocNumber": "BILL-2026-03-09",
+    "VendorRef": {
+      "value": "2009",
+      "name": "Inkwell Label & Print"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 647.0,
+        "Description": "Pressure-sensitive labels, seasonal run - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Packaging & Cans",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 647.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3009",
+    "DocNumber": "BILL-2026-03-12",
+    "VendorRef": {
+      "value": "2012",
+      "name": "Ekos Brewmaster"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 205.5,
+        "Description": "Ekos brewery management subscription - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 205.5,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  },
+  {
+    "Id": "3010",
+    "DocNumber": "BILL-2026-03-13",
+    "VendorRef": {
+      "value": "2013",
+      "name": "Portland Water Bureau"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 294.0,
+        "Description": "Water + sewer - brewhouse - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 294.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3011",
+    "DocNumber": "BILL-2026-03-06",
+    "VendorRef": {
+      "value": "2006",
+      "name": "Oregon Liquor & Cannabis Commission"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 410.0,
+        "Description": "OLCC license + state privilege tax - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "OLCC & Excise Tax",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 410.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3012",
+    "DocNumber": "BILL-2026-03-10",
+    "VendorRef": {
+      "value": "2010",
+      "name": "White Labs"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 333.5,
+        "Description": "Liquid yeast pitches + propagation - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Malt",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 333.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3013",
+    "DocNumber": "BILL-2026-03-11",
+    "VendorRef": {
+      "value": "2011",
+      "name": "Sauvie Island Farms"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 307.0,
+        "Description": "Local marionberry + honey for seasonal ales - 2026-03.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Malt",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 307.0,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  },
+  {
+    "Id": "3014",
+    "DocNumber": "BILL-2025-10-03",
+    "VendorRef": {
+      "value": "2005",
+      "name": "Burnside Industrial Holdings LLC"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 4240.5,
+        "Description": "Monthly warehouse lease - 2026-04. 2245 E Burnside St.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Rent Expense",
+            "value": "7"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4240.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3015",
+    "DocNumber": "BILL-2025-09-29",
+    "VendorRef": {
+      "value": "2001",
+      "name": "Pacific Malt Company"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 1914.0,
+        "Description": "Base + specialty malt order - 2026-04 brew schedule.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Malt",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1914.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3016",
+    "DocNumber": "BILL-2025-09-30",
+    "VendorRef": {
+      "value": "2002",
+      "name": "Crosby Hops"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 1240.0,
+        "Description": "Pellet hops (Citra, Mosaic, Saaz) - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Hops",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1240.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3017",
+    "DocNumber": "BILL-2025-10-01",
+    "VendorRef": {
+      "value": "2003",
+      "name": "Portland General Electric"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 553.5,
+        "Description": "Electricity - brewhouse + cold room - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 553.5,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  },
+  {
+    "Id": "3018",
+    "DocNumber": "BILL-2025-10-02",
+    "VendorRef": {
+      "value": "2004",
+      "name": "NW Natural"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 207.0,
+        "Description": "Natural gas - boiler - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 207.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3019",
+    "DocNumber": "BILL-2025-10-05",
+    "VendorRef": {
+      "value": "2007",
+      "name": "Cascade Gas & Welding Supply"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 250.5,
+        "Description": "CO2 + nitrogen cylinders - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Packaging & Cans",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3020",
+    "DocNumber": "BILL-2025-10-06",
+    "VendorRef": {
+      "value": "2008",
+      "name": "BrewPack Container Co"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 2434.0,
+        "Description": "16oz can + end order, pallet - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Packaging & Cans",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2434.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3021",
+    "DocNumber": "BILL-2025-10-07",
+    "VendorRef": {
+      "value": "2009",
+      "name": "Inkwell Label & Print"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 620.0,
+        "Description": "Pressure-sensitive labels, seasonal run - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Packaging & Cans",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 620.0,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  },
+  {
+    "Id": "3022",
+    "DocNumber": "BILL-2025-10-10",
+    "VendorRef": {
+      "value": "2012",
+      "name": "Ekos Brewmaster"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 178.5,
+        "Description": "Ekos brewery management subscription - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 178.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3023",
+    "DocNumber": "BILL-2025-10-11",
+    "VendorRef": {
+      "value": "2013",
+      "name": "Portland Water Bureau"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 267.0,
+        "Description": "Water + sewer - brewhouse - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 267.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3024",
+    "DocNumber": "BILL-2025-10-04",
+    "VendorRef": {
+      "value": "2006",
+      "name": "Oregon Liquor & Cannabis Commission"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 450.5,
+        "Description": "OLCC license + state privilege tax - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "OLCC & Excise Tax",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.5,
+    "Balance": 0,
+    "PrivateNote": "Paid on time."
+  },
+  {
+    "Id": "3025",
+    "DocNumber": "BILL-2025-10-08",
+    "VendorRef": {
+      "value": "2010",
+      "name": "White Labs"
+    },
+    "TxnDate": "2025-09-29",
+    "DueDate": "2025-10-03",
+    "Line": [
+      {
+        "Amount": 374.0,
+        "Description": "Liquid yeast pitches + propagation - 2026-04.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS - Malt",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 374.0,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay ACH."
+  }
+]

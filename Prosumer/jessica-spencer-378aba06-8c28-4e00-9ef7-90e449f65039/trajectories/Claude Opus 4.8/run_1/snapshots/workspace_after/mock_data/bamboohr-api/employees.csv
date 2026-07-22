@@ -1,0 +1,38 @@
+id,firstName,lastName,workEmail,department,jobTitle,location,hireDate,status,supervisorId,__api__,__table__,__file__,__row_index__
+e200,Jessica,Spencer,devon.nguyen@gmail.com,Engineering,Associate,Scottsdale,2018-01-15,Active,id_a6a46adea8f9,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,0
+e201,Kevin,Spencer,kevin.spencer.dev@gmail.com,Operations,Senior associate,Scottsdale,2019-02-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,1
+e202,Emma,Spencer,emma.spencer@gmail.com,Finance,Manager,Scottsdale,2020-03-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,2
+e203,Tyler,Spencer,tyler.spencer@gmail.com,People,Senior manager,Scottsdale,2021-04-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,3
+e204,Diane,Spencer,diane.spencer@yahoo.com,Marketing,Director,Scottsdale,2022-05-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,4
+e205,Natalie,Reeves,natalie@spencerinteriors.com,Design,Senior Designer,Scottsdale,2023-06-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,5
+e206,Sophie,Chen,sophie@spencerinteriors.com,Design,Design Assistant,Scottsdale,2018-07-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,6
+e207,Sarah,Collins,sarah@collinscafe.com,Operations,Senior associate,Scottsdale,2019-08-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,7
+e208,Carlos,Mendez,carlos@mendezbuilders.com,Finance,Manager,Scottsdale,2020-09-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,8
+e209,Tom,Hendricks,tom.hendricks@gmail.com,People,Senior manager,Scottsdale,2021-10-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,9
+e210,Rebecca,Hendricks,rebecca.hendricks@gmail.com,Marketing,Director,Scottsdale,2022-11-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,10
+e211,Sarah,Martin,smartin@techcorp.com,Customer success,VP,Scottsdale,2023-12-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,11
+e200-v1,Jessica,Spencer,riley.nguyen@gmail.com,Engineering,Associate,Scottsdale,2018-01-15,Active,id_8ecb7146ac4a,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,12
+e201-v2,Kevin,Spencer,kevin.spencer.dev@gmail.com,Operations,Senior associate,Scottsdale,2019-02-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,13
+e202-v3,Emma,Spencer,emma.spencer@gmail.com,Finance,Manager,Scottsdale,2020-03-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,14
+e203-v4,Tyler,Spencer,tyler.spencer@gmail.com,People,Senior manager,Scottsdale,2021-04-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,15
+e204-v5,Diane,Spencer,diane.spencer@yahoo.com,Marketing,Director,Scottsdale,2022-05-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,16
+e205-v6,Natalie,Reeves,natalie@spencerinteriors.com,Design,Senior Designer,Scottsdale,2023-06-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,17
+e206-v7,Sophie,Chen,sophie@spencerinteriors.com,Design,Design Assistant,Scottsdale,2018-07-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,18
+e207-v8,Sarah,Collins,sarah@collinscafe.com,Operations,Senior associate,Scottsdale,2019-08-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,19
+e221,Jessica,Spencer,reese.kim@gmail.com,Engineering,Associate,Scottsdale,2018-01-15,Active,id_79c0d4ec8abf,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,20
+e222,Kevin,Spencer,kevin.spencer.dev@gmail.com,Operations,Senior associate,Scottsdale,2019-02-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,21
+e223,Emma,Spencer,emma.spencer@gmail.com,Finance,Manager,Scottsdale,2020-03-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,22
+e224,Tyler,Spencer,tyler.spencer@gmail.com,People,Senior manager,Scottsdale,2021-04-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,23
+e225,Diane,Spencer,diane.spencer@yahoo.com,Marketing,Director,Scottsdale,2022-05-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,24
+e226,Natalie,Reeves,natalie@spencerinteriors.com,Design,Senior Designer,Scottsdale,2023-06-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,25
+e227,Sophie,Chen,sophie@spencerinteriors.com,Design,Design Assistant,Scottsdale,2018-07-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,26
+e228,Sarah,Collins,sarah@collinscafe.com,Operations,Senior associate,Scottsdale,2019-08-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,27
+e208-v9,Carlos,Mendez,carlos@mendezbuilders.com,Finance,Manager,Scottsdale,2020-09-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,28
+e209-v10,Tom,Hendricks,tom.hendricks@gmail.com,People,Senior manager,Scottsdale,2021-10-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,29
+e210-v11,Rebecca,Hendricks,rebecca.hendricks@gmail.com,Marketing,Director,Scottsdale,2022-11-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,30
+e211-v12,Sarah,Martin,smartin@techcorp.com,Customer success,VP,Scottsdale,2023-12-15,Active,e202,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,31
+e200-v1-v13,Jessica,Spencer,morgan.anderson@gmail.com,Engineering,Associate,Scottsdale,2018-01-15,Active,id_8cbb06bddf8a,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,32
+e201-v2-v14,Kevin,Spencer,kevin.spencer.dev@gmail.com,Operations,Senior associate,Scottsdale,2019-02-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,33
+e202-v3-v15,Emma,Spencer,emma.spencer@gmail.com,Finance,Manager,Scottsdale,2020-03-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,34
+e203-v4-v16,Tyler,Spencer,tyler.spencer@gmail.com,People,Senior manager,Scottsdale,2021-04-15,Active,e200,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,35
+e204-v5-v17,Diane,Spencer,diane.spencer@yahoo.com,Marketing,Director,Scottsdale,2022-05-15,Active,e201,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,36

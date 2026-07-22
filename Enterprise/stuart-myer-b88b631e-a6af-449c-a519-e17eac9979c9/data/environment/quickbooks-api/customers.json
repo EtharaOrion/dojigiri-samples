@@ -1,0 +1,209 @@
+{
+  "QueryResponse": {
+    "Customer": [
+      {
+        "Id": "1001",
+        "DisplayName": "Greenfield's Deli",
+        "PrimaryEmailAddr": {
+          "Address": "orders@greenfieldsdeli.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1002",
+        "DisplayName": "The Hop Lantern",
+        "PrimaryEmailAddr": {
+          "Address": "ap@thehoplantern.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1003",
+        "DisplayName": "Burnside Bottle Shop",
+        "PrimaryEmailAddr": {
+          "Address": "orders@burnsidebottle.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1004",
+        "DisplayName": "Laurelhurst Public House",
+        "PrimaryEmailAddr": {
+          "Address": "beer@laurelhurstpub.com"
+        },
+        "Balance": 280.5,
+        "Active": true,
+        "Notes": "Wholesale account with current open invoice; net-15 terms."
+      },
+      {
+        "Id": "1005",
+        "DisplayName": "Sellwood Tap & Table",
+        "PrimaryEmailAddr": {
+          "Address": "ap@sellwoodtap.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1006",
+        "DisplayName": "North Mississippi Alehouse",
+        "PrimaryEmailAddr": {
+          "Address": "orders@nmissalehouse.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1007",
+        "DisplayName": "Division Street Kitchen",
+        "PrimaryEmailAddr": {
+          "Address": "purchasing@divisionkitchen.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1008",
+        "DisplayName": "Alberta Street Pub",
+        "PrimaryEmailAddr": {
+          "Address": "ap@albertastreetpub.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1009",
+        "DisplayName": "St. Johns Beer Porch",
+        "PrimaryEmailAddr": {
+          "Address": "orders@stjohnsbeerporch.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1010",
+        "DisplayName": "Hawthorne Fermentary",
+        "PrimaryEmailAddr": {
+          "Address": "wholesale@hawthorneferm.com"
+        },
+        "Balance": 505.5,
+        "Active": true,
+        "Notes": "Wholesale account with current open invoice; net-15 terms."
+      },
+      {
+        "Id": "1011",
+        "DisplayName": "Foster Road Taphouse",
+        "PrimaryEmailAddr": {
+          "Address": "ap@fosterroadtap.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1012",
+        "DisplayName": "Belmont Station Bar",
+        "PrimaryEmailAddr": {
+          "Address": "beer@belmontstationbar.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1013",
+        "DisplayName": "Kenton Club & Kitchen",
+        "PrimaryEmailAddr": {
+          "Address": "orders@kentonclubkitchen.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1014",
+        "DisplayName": "Montavilla Brew Cafe",
+        "PrimaryEmailAddr": {
+          "Address": "ap@montavillabrew.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1015",
+        "DisplayName": "Woodstock Wine & Beer",
+        "PrimaryEmailAddr": {
+          "Address": "purchasing@woodstockwb.com"
+        },
+        "Balance": 693.0,
+        "Active": true,
+        "Notes": "Wholesale account with current open invoice; net-15 terms."
+      },
+      {
+        "Id": "1016",
+        "DisplayName": "Pearl District Gastropub",
+        "PrimaryEmailAddr": {
+          "Address": "beer@pearlgastropub.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1017",
+        "DisplayName": "Slabtown Growler Fill",
+        "PrimaryEmailAddr": {
+          "Address": "orders@slabtowngrowler.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1018",
+        "DisplayName": "Multnomah Village Pub",
+        "PrimaryEmailAddr": {
+          "Address": "ap@multnomahvillagepub.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1019",
+        "DisplayName": "Lents Corner Bar",
+        "PrimaryEmailAddr": {
+          "Address": "orders@lentscornerbar.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      },
+      {
+        "Id": "1020",
+        "DisplayName": "Overlook Tavern",
+        "PrimaryEmailAddr": {
+          "Address": "beer@overlooktavern.com"
+        },
+        "Balance": 0.0,
+        "Active": true,
+        "Notes": "Wholesale self-distribution account; net-15 terms, keg + case orders."
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 20,
+    "totalCount": 20
+  }
+}

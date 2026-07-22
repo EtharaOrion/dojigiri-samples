@@ -1,0 +1,182 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": "24",
+    "messages_unread": "14",
+    "threads_total": "24",
+    "threads_unread": "14"
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": "20",
+    "messages_unread": "0",
+    "threads_total": "20",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS",
+    "name": "DRAFTS",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "SPAM",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_spencerinteriors",
+    "name": "Spencer Interiors",
+    "type": "user",
+    "messages_total": "9",
+    "messages_unread": "1",
+    "threads_total": "9",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_followup",
+    "name": "Follow up",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "1",
+    "threads_total": "2",
+    "threads_unread": "1"
+  },
+  {
+    "id": "STARRED",
+    "name": "STARRED",
+    "type": "system",
+    "messages_total": "24",
+    "messages_unread": "14",
+    "threads_total": "24",
+    "threads_unread": "14"
+  },
+  {
+    "id": "IMPORTANT",
+    "name": "IMPORTANT",
+    "type": "system",
+    "messages_total": "20",
+    "messages_unread": "0",
+    "threads_total": "20",
+    "threads_unread": "0"
+  },
+  {
+    "id": "UNREAD",
+    "name": "UNREAD",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "CHAT",
+    "name": "CHAT",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "CATEGORY_PERSONAL",
+    "name": "CATEGORY_PERSONAL",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_spencerinteriors-v012",
+    "name": "Spencer Interiors",
+    "type": "user",
+    "messages_total": "9",
+    "messages_unread": "1",
+    "threads_total": "9",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_followup-v013",
+    "name": "Follow up",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "1",
+    "threads_total": "2",
+    "threads_unread": "1"
+  },
+  {
+    "id": "CATEGORY_SOCIAL",
+    "name": "CATEGORY_SOCIAL",
+    "type": "system",
+    "messages_total": "24",
+    "messages_unread": "14",
+    "threads_total": "24",
+    "threads_unread": "14"
+  },
+  {
+    "id": "CATEGORY_PROMOTIONS",
+    "name": "CATEGORY_PROMOTIONS",
+    "type": "system",
+    "messages_total": "20",
+    "messages_unread": "0",
+    "threads_total": "20",
+    "threads_unread": "0"
+  },
+  {
+    "id": "CATEGORY_UPDATES",
+    "name": "CATEGORY_UPDATES",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "0",
+    "threads_total": "1",
+    "threads_unread": "0"
+  },
+  {
+    "id": "CATEGORY_FORUMS",
+    "name": "CATEGORY_FORUMS",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_19",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_spencerinteriors-v019",
+    "name": "Spencer Interiors",
+    "type": "user",
+    "messages_total": "9",
+    "messages_unread": "1",
+    "threads_total": "9",
+    "threads_unread": "1"
+  }
+]

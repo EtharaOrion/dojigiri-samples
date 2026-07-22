@@ -1,0 +1,6 @@
+owner,weekday,start_time,end_time,timezone,__api__,__table__,__file__,__row_index__,_pk
+user-catherine-conway,monday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,0,user-catherine-conway@monday@09:00
+user-catherine-conway,tuesday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,1,user-catherine-conway@tuesday@09:00
+user-catherine-conway,wednesday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,2,user-catherine-conway@wednesday@09:00
+user-catherine-conway,thursday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,3,user-catherine-conway@thursday@09:00
+user-catherine-conway,friday,09:00,17:00,America/Los_Angeles,calendly-api,availability,/opt/mocks/calendly-api/availability.json,4,user-catherine-conway@friday@09:00

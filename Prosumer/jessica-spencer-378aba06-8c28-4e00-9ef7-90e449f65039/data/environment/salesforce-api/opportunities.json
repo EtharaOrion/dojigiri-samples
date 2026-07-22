@@ -1,0 +1,202 @@
+[
+  {
+    "Id": "006Ax000002962F113",
+    "Name": "Spencer Development Group — Enterprise expansion",
+    "AccountId": "001Ax000002962F113",
+    "StageName": "Prospecting",
+    "Amount": "915000",
+    "Probability": "20",
+    "CloseDate": "2026-10-23T04:22:28+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F138",
+    "Name": "Saguaro Ridge Academy — Annual renewal",
+    "AccountId": "001Ax000002962F114",
+    "StageName": "Qualification",
+    "Amount": "145000",
+    "Probability": "40",
+    "CloseDate": "2026-10-30T11:31:58+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F15D",
+    "Name": "Spencer Interiors — Multi-seat upgrade",
+    "AccountId": "001Ax000002962F115",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "250000",
+    "Probability": "60",
+    "CloseDate": "2026-11-09T15:57:55+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F182",
+    "Name": "Collins Cafe — Pilot program",
+    "AccountId": "001Ax000002962F119",
+    "StageName": "Negotiation/Review",
+    "Amount": "355000",
+    "Probability": "75",
+    "CloseDate": "2026-10-09T22:59:42+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F1A7",
+    "Name": "Mendez Builders — Department rollout",
+    "AccountId": "001Ax000002962F11A",
+    "StageName": "Closed Won",
+    "Amount": "460000",
+    "Probability": "100",
+    "CloseDate": "2026-10-14T10:51:31+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F1CC",
+    "Name": "Scottsdale Holdings 05 — Migration from legacy vendor",
+    "AccountId": "001Ax000002963B007",
+    "StageName": "Closed Lost",
+    "Amount": "565000",
+    "Probability": "0",
+    "CloseDate": "2026-11-10T06:11:20+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F1F1",
+    "Name": "Scottsdale Holdings 06 — Renewal at risk",
+    "AccountId": "001Ax000002963B008",
+    "StageName": "Prospecting",
+    "Amount": "670000",
+    "Probability": "20",
+    "CloseDate": "2026-12-20T22:01:43+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F216",
+    "Name": "Scottsdale Holdings 07 — New logo — design partner",
+    "AccountId": "001Ax000002963B009",
+    "StageName": "Qualification",
+    "Amount": "775000",
+    "Probability": "40",
+    "CloseDate": "2026-10-21T01:23:42+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F23B",
+    "Name": "Scottsdale Holdings 08 — Enterprise expansion",
+    "AccountId": "001Ax000002963B00A",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "880000",
+    "Probability": "60",
+    "CloseDate": "2026-12-26T03:14:45+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F260",
+    "Name": "Scottsdale Holdings 09 — Annual renewal",
+    "AccountId": "001Ax000002963B00B",
+    "StageName": "Negotiation/Review",
+    "Amount": "110000",
+    "Probability": "75",
+    "CloseDate": "2027-03-26T00:04:50+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F285",
+    "Name": "Scottsdale Holdings 10 — Multi-seat upgrade",
+    "AccountId": "001Ax000002963B00C",
+    "StageName": "Closed Won",
+    "Amount": "215000",
+    "Probability": "100",
+    "CloseDate": "2026-11-12T02:27:55+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F2AA",
+    "Name": "Scottsdale Holdings 11 — Pilot program",
+    "AccountId": "001Ax000002963B00D",
+    "StageName": "Closed Lost",
+    "Amount": "320000",
+    "Probability": "0",
+    "CloseDate": "2026-11-08T23:31:13+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F113-v012",
+    "Name": "Spencer Development Group — Enterprise expansion",
+    "AccountId": "001Ax000002962F113-v012",
+    "StageName": "Prospecting",
+    "Amount": "915000",
+    "Probability": "20",
+    "CloseDate": "2026-11-28T16:22:28+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F138-v013",
+    "Name": "Saguaro Ridge Academy — Annual renewal",
+    "AccountId": "001Ax000002962F114-v013",
+    "StageName": "Qualification",
+    "Amount": "145000",
+    "Probability": "40",
+    "CloseDate": "2026-12-09T06:31:58+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F15D-v014",
+    "Name": "Spencer Interiors — Multi-seat upgrade",
+    "AccountId": "001Ax000002962F115-v014",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "250000",
+    "Probability": "60",
+    "CloseDate": "2026-12-21T17:57:55+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F182-v015",
+    "Name": "Collins Cafe — Pilot program",
+    "AccountId": "001Ax000002962F119-v015",
+    "StageName": "Negotiation/Review",
+    "Amount": "355000",
+    "Probability": "75",
+    "CloseDate": "2026-11-24T07:59:42+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F1A7-v016",
+    "Name": "Mendez Builders — Department rollout",
+    "AccountId": "001Ax000002962F11A-v016",
+    "StageName": "Closed Won",
+    "Amount": "460000",
+    "Probability": "100",
+    "CloseDate": "2026-12-02T02:51:31+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F1CC-v017",
+    "Name": "Scottsdale Holdings 05 — Migration from legacy vendor",
+    "AccountId": "001Ax000002963B007-v017",
+    "StageName": "Closed Lost",
+    "Amount": "565000",
+    "Probability": "0",
+    "CloseDate": "2027-01-01T05:11:20+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000002962F1F1-v018",
+    "Name": "Scottsdale Holdings 06 — Renewal at risk",
+    "AccountId": "001Ax000002963B008-v018",
+    "StageName": "Prospecting",
+    "Amount": "670000",
+    "Probability": "20",
+    "CloseDate": "2027-02-13T04:01:43+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002962F216-v019",
+    "Name": "Scottsdale Holdings 07 — New logo — design partner",
+    "AccountId": "001Ax000002963B009-v019",
+    "StageName": "Qualification",
+    "Amount": "775000",
+    "Probability": "40",
+    "CloseDate": "2026-12-17T14:23:42+00:00",
+    "Type": "Existing Business"
+  }
+]

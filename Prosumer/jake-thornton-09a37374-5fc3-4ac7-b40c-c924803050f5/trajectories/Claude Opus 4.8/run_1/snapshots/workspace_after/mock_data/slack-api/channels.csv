@@ -1,0 +1,21 @@
+id,name,is_private,is_archived,topic,purpose,creator,created,num_members,__api__,__table__,__file__,__row_index__
+rmtinp6dw4,general,False,False,Practice-wide announcements,Default channel for all Magnolia staff,U01JAKEB,1700000000,5,slack-api,channels,/opt/mocks/slack-api/channels.json,0
+C9FA88278B,clinical,False,False,Clinical coordination,Midwife collective clinical discussion,U01JAKEB,1700000100,5,slack-api,channels,/opt/mocks/slack-api/channels.json,1
+ts8aa7fer,on-call,False,False,On-call handoffs,Birth on-call rotation alerts,U01JAKEB,1700000200,5,slack-api,channels,/opt/mocks/slack-api/channels.json,2
+1bij190s1,random,False,False,Watercooler,Non-work chatter,U01ANDRE,1700000300,5,slack-api,channels,/opt/mocks/slack-api/channels.json,3
+C01AUTHV7302,proj-fall-class-series,False,False,Fall class series tracking,Project channel for auth migration,U01JAKEB,1700000388,3,slack-api,channels,/opt/mocks/slack-api/channels.json,4
+C5F5FA819F,leads,True,False,Practice leads sync,Magnolia practice leadership,U01JAKEB,1740000100,2,slack-api,channels,/opt/mocks/slack-api/channels.json,5
+C0COVER,coverage,False,False,Atlanta midwife collective — coverage,coverage coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,6
+C0CEU,ceu-links,False,False,Atlanta midwife collective — ceu-links,ceu-links coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,7
+C0MID,midwife-collective,False,False,Atlanta midwife collective — midwife-collective,midwife-collective coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,8
+C0BIRTH,on-call-alerts,False,False,Automated on-call alerts,on-call coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,9
+rmtinp6dw17,general,False,False,Practice-wide announcements,Default channel for all Magnolia staff,U01JAKEB,1700000000,5,slack-api,channels,/opt/mocks/slack-api/channels.json,10
+cefce41e5c,clinical,False,False,Clinical coordination,Midwife collective clinical discussion,U01JAKEB,1700000100,5,slack-api,channels,/opt/mocks/slack-api/channels.json,11
+c2c6ce955,on-call,False,False,On-call handoffs,Birth on-call rotation alerts,U01JAKEB,1700000200,5,slack-api,channels,/opt/mocks/slack-api/channels.json,12
+1bij190s53,random,False,False,Watercooler,Non-work chatter,U01ANDRE,1700000300,5,slack-api,channels,/opt/mocks/slack-api/channels.json,13
+C01AUTHV7367,proj-fall-class-series,False,False,Fall class series tracking,Project channel for auth migration,U01JAKEB,1700000388,3,slack-api,channels,/opt/mocks/slack-api/channels.json,14
+9a5a1ee8d3,leads,True,False,Practice leads sync,Magnolia practice leadership,U01JAKEB,1740000100,2,slack-api,channels,/opt/mocks/slack-api/channels.json,15
+5de3915,coverage,False,False,Atlanta midwife collective — coverage,coverage coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,16
+71f60,ceu-links,False,False,Atlanta midwife collective — ceu-links,ceu-links coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,17
+ac7c4,midwife-collective,False,False,Atlanta midwife collective — midwife-collective,midwife-collective coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,18
+c8996b1,on-call-alerts,False,False,Automated on-call alerts,on-call coordination,U0JAKE,1769904000,6,slack-api,channels,/opt/mocks/slack-api/channels.json,19

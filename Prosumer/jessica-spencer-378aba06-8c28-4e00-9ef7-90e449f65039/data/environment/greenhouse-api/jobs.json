@@ -1,0 +1,182 @@
+[
+  {
+    "id": "job-7ec8db86",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Scottsdale",
+    "opened_at": "2026-03-01T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-328ef02f",
+    "title": "Frontend Engineer",
+    "status": "open",
+    "department": "Operations",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-25T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-e9d16cfb",
+    "title": "Junior Designer",
+    "status": "open",
+    "department": "Design",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-18T00:00:00Z",
+    "closed_at": null
+  },
+  {
+    "id": "job-a96dbef5",
+    "title": "Data Scientist",
+    "status": "open",
+    "department": "Finance",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-11T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-862c9625",
+    "title": "DevOps Engineer",
+    "status": "closed",
+    "department": "Marketing",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-04T00:00:00Z",
+    "closed_at": "2026-03-29T00:00:00Z"
+  },
+  {
+    "id": "job-2abdc8e2",
+    "title": "Engineering Manager",
+    "status": "open",
+    "department": "Sales",
+    "location": "Scottsdale",
+    "opened_at": "2026-03-16T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-039fafe2",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Sales",
+    "location": "Scottsdale",
+    "opened_at": "2026-03-12T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-55d14a2c",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Marketing",
+    "location": "Scottsdale",
+    "opened_at": "2026-03-08T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-b4c6289e",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Marketing",
+    "location": "Scottsdale",
+    "opened_at": "2026-03-04T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-536d56b4",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-28T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-67a329be",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Marketing",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-27T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-0ec1e48f",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Design",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-23T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-6f98fb38",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Design",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-19T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-f2b559f8",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Design",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-15T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-b6c932f6",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Product",
+    "location": "Scottsdale",
+    "opened_at": "2026-02-11T00:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-7ec8db86-v015",
+    "title": "Senior Backend Engineer",
+    "status": "open",
+    "department": "Engineering",
+    "location": "Scottsdale",
+    "opened_at": "2026-10-16T09:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-328ef02f-v016",
+    "title": "Frontend Engineer",
+    "status": "open",
+    "department": "Operations",
+    "location": "Scottsdale",
+    "opened_at": "2026-10-12T16:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-e9d16cfb-v017",
+    "title": "Product Designer",
+    "status": "open",
+    "department": "Customer success",
+    "location": "Scottsdale",
+    "opened_at": "2026-10-08T23:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-a96dbef5-v018",
+    "title": "Data Scientist",
+    "status": "open",
+    "department": "Finance",
+    "location": "Scottsdale",
+    "opened_at": "2026-10-04T06:00:00Z",
+    "closed_at": "2026-03-15T09:00:00-07:00"
+  },
+  {
+    "id": "job-862c9625-v019",
+    "title": "DevOps Engineer",
+    "status": "closed",
+    "department": "Marketing",
+    "location": "Scottsdale",
+    "opened_at": "2026-03-30T13:00:00Z",
+    "closed_at": "2026-05-25T13:00:00Z"
+  }
+]

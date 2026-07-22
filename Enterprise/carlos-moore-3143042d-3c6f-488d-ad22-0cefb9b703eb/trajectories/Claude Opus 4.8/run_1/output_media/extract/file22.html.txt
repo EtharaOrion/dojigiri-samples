@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carlos Moore | Human Resources Leadership</title>
+<style>
+  :root{
+    --ink:#10211c; --forest:#1f4d3f; --sage:#3c7a63; --gold:#c8a04b; --paper:#f6f3ec;
+    --muted:#6b7d75; --card:#ffffff; --line:#e2dccd;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{font-family:"Georgia","Times New Roman",serif;color:var(--ink);background:var(--paper);line-height:1.65}
+  h1,h2,h3,.nav,.btn{font-family:"Helvetica Neue",Arial,sans-serif}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+
+  /* Header */
+  header{position:sticky;top:0;z-index:50;background:rgba(16,33,28,.92);backdrop-filter:blur(8px);border-bottom:1px solid rgba(200,160,75,.3)}
+  .bar{display:flex;align-items:center;justify-content:space-between;height:68px}
+  .brand{color:#fff;font-family:"Helvetica Neue",Arial,sans-serif;font-weight:700;letter-spacing:.5px;font-size:18px}
+  .brand span{color:var(--gold)}
+  .nav{display:flex;gap:26px}
+  .nav a{color:#d8e3dd;font-size:14px;font-weight:500;transition:color .25s}
+  .nav a:hover{color:var(--gold)}
+  .menu-btn{display:none;background:none;border:0;color:#fff;font-size:24px;cursor:pointer}
+
+  /* Hero */
+  .hero{position:relative;color:#fff;padding:120px 0 100px;
+    background:linear-gradient(135deg,#10211c 0%,#1f4d3f 55%,#3c7a63 120%);overflow:hidden}
+  .hero::after{content:"";position:absolute;inset:0;opacity:.12;
+    background:radial-gradient(circle at 80% 20%,var(--gold) 0,transparent 40%),
+               radial-gradient(circle at 15% 90%,#fff 0,transparent 35%)}
+  .hero .wrap{position:relative;z-index:2}
+  .eyebrow{color:var(--gold);letter-spacing:3px;text-transform:uppercase;font-size:13px;font-family:"Helvetica Neue",Arial,sans-serif;margin-bottom:18px}
+  .hero h1{font-size:clamp(38px,6vw,64px);line-height:1.05;margin-bottom:18px;font-weight:700}
+  .hero p{max-width:620px;font-size:19px;color:#dfeae3}
+  .cta{margin-top:34px;display:flex;gap:16px;flex-wrap:wrap}
+  .btn{display:inline-block;padding:13px 28px;border-radius:2px;font-weight:600;font-size:15px;cursor:pointer;transition:transform .2s,box-shadow .2s;border:1px solid transparent}
+  .btn-gold{background:var(--gold);color:#1c1606}
+  .btn-ghost{border-color:#cdd9d2;color:#fff}
+  .btn:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.25)}
+
+  /* Stats */
+  .stats{background:var(--ink);color:#fff;padding:46px 0}
+  .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;text-align:center}
+  .stat .num{font-size:44px;font-weight:700;color:var(--gold);font-family:"Helvetica Neue",Arial,sans-serif}
+  .stat .lbl{font-size:14px;color:#b9c8c1;margin-top:6px}
+
+  /* Sections */
+  section{padding:84px 0}
+  .sec-head{text-align:center;margin-bottom:54px}
+  .sec-head .eyebrow{color:var(--sage)}
+  .sec-head h2{font-size:34px;color:var(--forest)}
+  .lead{max-width:760px;margin:14px auto 0;color:var(--muted);font-size:18px}
+
+  .about{display:grid;grid-template-columns:1.3fr 1fr;gap:48px;align-items:center}
+  .about p{margin-bottom:16px;color:#2c3a34}
+  .quote{border-left:4px solid var(--gold);padding:18px 24px;background:#fff;font-style:italic;color:var(--forest);border-radius:0 8px 8px 0;box-shadow:0 8px 30px rgba(31,77,63,.07)}
+  .vals{list-style:none;display:grid;gap:14px}
+  .vals li{background:var(--card);border:1px solid var(--line);padding:18px 20px;border-radius:8px;transition:transform .25s,box-shadow .25s}
+  .vals li:hover{transform:translateX(6px);box-shadow:0 8px 24px rgba(31,77,63,.1)}
+  .vals b{display:block;color:var(--forest);font-family:"Helvetica Neue",Arial,sans-serif}
+
+  /* Timeline */
+  .timeline{position:relative;max-width:840px;margin:0 auto;padding-left:34px}
+  .timeline::before{content:"";position:absolute;left:8px;top:6px;bottom:6px;width:3px;background:linear-gradient(var(--sage),var(--gold))}
+  .tl-item{position:relative;margin-bottom:36px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:22px 26px;box-shadow:0 6px 22px rgba(31,77,63,.06)}
+  .tl-item::before{content:"";position:absolute;left:-34px;top:26px;width:16px;height:16px;border-radius:50%;background:var(--gold);border:3px solid var(--paper);box-shadow:0 0 0 2px var(--sage)}
+  .tl-item .yr{color:var(--sage);font-weight:700;font-family:"Helvetica Neue",Arial,sans-serif;font-size:14px;letter-spacing:1px}
+  .tl-item h3{font-size:20px;color:var(--ink);margin:4px 0 4px}
+  .tl-item .org{color:var(--muted);font-size:15px;margin-bottom:8px}
+
+  /* Expertise cards */
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:30px 26px;transition:transform .3s,box-shadow .3s}
+  .card:hover{transform:translateY(-8px);box-shadow:0 18px 40px rgba(31,77,63,.14)}
+  .card .ic{width:52px;height:52px;border-radius:12px;background:linear-gradient(135deg,var(--forest),var(--sage));display:flex;align-items:center;justify-content:center;color:var(--gold);font-size:24px;font-weight:700;margin-bottom:18px;font-family:"Helvetica Neue",Arial,sans-serif}
+  .card h3{color:var(--forest);font-size:19px;margin-bottom:10px}
+  .card p{color:var(--muted);font-size:15px}
+
+  /* Initiatives band */
+  .band{background:linear-gradient(135deg,#1f4d3f,#10211c);color:#fff}
+  .band .card{background:rgba(255,255,255,.05);border-color:rgba(200,160,75,.25)}
+  .band .card h3{color:var(--gold)}
+  .band .card p{color:#cfdbd5}
+  .prog{height:8px;border-radius:6px;background:rgba(255,255,255,.15);margin-top:16px;overflow:hidden}
+  .prog span{display:block;height:100%;border-radius:6px;background:linear-gradient(90deg,var(--gold),#e7c777);width:0;transition:width 1.4s ease}
+
+  /* Education + certs */
+  .edu{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+  .edu .card{display:flex;gap:18px;align-items:flex-start}
+  .ring{--p:70;min-width:96px;width:96px;height:96px;border-radius:50%;
+    background:conic-gradient(var(--gold) calc(var(--p)*1%),#e9e3d3 0);display:flex;align-items:center;justify-content:center}
+  .ring i{width:74px;height:74px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;font-style:normal;font-weight:700;color:var(--forest);font-family:"Helvetica Neue",Arial,sans-serif;font-size:18px}
+
+  /* Contact */
+  .contact{background:var(--ink);color:#fff}
+  .cgrid{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
+  .field{margin-bottom:16px}
+  .field label{display:block;font-size:13px;color:#b9c8c1;margin-bottom:6px;font-family:"Helvetica Neue",Arial,sans-serif}
+  .field input,.field textarea{width:100%;padding:12px 14px;border-radius:6px;border:1px solid #2e4a40;background:#16302a;color:#fff;font-family:inherit;font-size:15px}
+  .field input:focus,.field textarea:focus{outline:2px solid var(--gold);border-color:transparent}
+  .info-row{display:flex;gap:14px;align-items:center;margin-bottom:18px;color:#dfeae3}
+  .info-row .k{width:42px;height:42px;border-radius:10px;background:var(--forest);display:flex;align-items:center;justify-content:center;color:var(--gold);font-weight:700}
+  #toast{position:fixed;bottom:26px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--gold);color:#1c1606;padding:14px 26px;border-radius:6px;font-weight:600;opacity:0;transition:.4s;z-index:99}
+  #toast.show{transform:translateX(-50%) translateY(0);opacity:1}
+
+  footer{background:#0a1612;color:#92a59d;text-align:center;padding:40px 0;font-size:14px}
+  footer .brand{justify-content:center;display:inline-block;margin-bottom:10px}
+
+  .reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
+  .reveal.in{opacity:1;transform:none}
+
+  @media(max-width:860px){
+    .nav{display:none} .menu-btn{display:block}
+    .nav.open{display:flex;position:absolute;top:68px;left:0;right:0;flex-direction:column;background:var(--ink);padding:18px 24px;gap:16px}
+    .about,.edu,.cgrid{grid-template-columns:1fr}
+    .stat-grid{grid-template-columns:repeat(2,1fr);gap:30px}
+    .grid3{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="brand">Carlos <span>Moore</span></div>
+    <nav class="nav" id="nav">
+      <a href="#about">Profile</a>
+      <a href="#journey">Career</a>
+      <a href="#expertise">Expertise</a>
+      <a href="#focus">Current Focus</a>
+      <a href="#education">Credentials</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">&#9776;</button>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Corporate Human Resources Director</div>
+    <h1>People strategy, done<br>the right way.</h1>
+    <p>Three decades building fair, healthy, high trust workplaces across Nashville manufacturing and distribution. I lead benefits, wellness, and inclusion work for a four hundred person organization, and I believe culture is built through consistency, not slogans.</p>
+    <div class="cta">
+      <a class="btn btn-gold" href="#focus">See Current Initiatives</a>
+      <a class="btn btn-ghost" href="#contact">Get in Touch</a>
+    </div>
+  </div>
+</section>
+
+<div class="stats">
+  <div class="wrap stat-grid">
+    <div class="stat"><div class="num" data-target="30" data-suffix="">0</div><div class="lbl">Years in Human Resources</div></div>
+    <div class="stat"><div class="num" data-target="400" data-suffix="">0</div><div class="lbl">Employees Supported</div></div>
+    <div class="stat"><div class="num" data-target="3" data-suffix="">0</div><div class="lbl">Offices Across Tennessee</div></div>
+    <div class="stat"><div class="num" data-target="4" data-suffix="">0</div><div class="lbl">HR Managers Mentored</div></div>
+  </div>
+</div>
+
+<section id="about">
+  <div class="wrap">
+    <div class="sec-head reveal"><div class="eyebrow">Profile</div><h2>Steady hands, clear standards</h2></div>
+    <div class="about">
+      <div class="reveal">
+        <p>I have spent my career in human resources because I wanted to understand how organizations treat the people who depend on them, and I thought someone should know how to do it right. That conviction has carried me from a coordinator role on a manufacturing floor to the director's chair.</p>
+        <p>Today I oversee human resources for a manufacturing and distribution company headquartered in Nashville, leading four managers across three offices. My work runs from benefits enrollment and a new employee wellness program to chairing the diversity and inclusion committee. Accuracy beats speed, proper channels beat shortcuts, and follow through is the whole job.</p>
+        <div class="quote">Leadership is not a position, it is influence, and influence is earned one kept commitment at a time.</div>
+      </div>
+      <ul class="vals reveal">
+        <li><b>Integrity first</b>Confidential matters stay confidential. Fairness is documented, not improvised.</li>
+        <li><b>Data informed</b>Every initiative is tied to a business outcome and measured against it.</li>
+        <li><b>People centered</b>A circle of safety so employees give more, take better risks, and stay.</li>
+        <li><b>Consistent</b>Culture changes slowly and only when leaders hold the line over time.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="journey" style="background:#efeadd">
+  <div class="wrap">
+    <div class="sec-head reveal"><div class="eyebrow">Career</div><h2>Thirty years, one city, real depth</h2><p class="lead">A Nashville career built deliberately, each role widening the scope of people and process I am responsible for.</p></div>
+    <div class="timeline">
+      <div class="tl-item reveal"><div class="yr">2018 to present</div><h3>Corporate HR Director</h3><div class="org">Bellmark Industries, Nashville</div><p>Lead human resources for roughly four hundred employees across three offices, mentoring four HR managers. Own benefits, wellness, and inclusion strategy and report to the Vice President of Human Resources.</p></div>
+      <div class="tl-item reveal"><div class="yr">2007 to 2017</div><h3>Senior HR Manager</h3><div class="org">Cumberland Health Systems, Nashville</div><p>Ran employee relations and benefits administration for a large healthcare employer, deepening expertise in compliance and complex casework.</p></div>
+      <div class="tl-item reveal"><div class="yr">2001 to 2007</div><h3>HR Manager</h3><div class="org">Pinnacle Staffing Solutions, Nashville</div><p>Managed recruiting and people operations while completing an MBA in the evening program.</p></div>
+      <div class="tl-item reveal"><div class="yr">1996 to 2001</div><h3>HR Coordinator</h3><div class="org">Hargrove Manufacturing, Nashville</div><p>First role out of university, learning the manufacturing floor and the foundations of benefits and onboarding.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="expertise">
+  <div class="wrap">
+    <div class="sec-head reveal"><div class="eyebrow">Expertise</div><h2>What I am known for</h2></div>
+    <div class="grid3">
+      <div class="card reveal"><div class="ic">B</div><h3>Benefits and Enrollment</h3><p>Annual open enrollment, plan design, and clear employee communication so people actually understand what they have.</p></div>
+      <div class="card reveal"><div class="ic">W</div><h3>Workplace Wellness</h3><p>Designing and rolling out a voluntary wellness platform with mental health, fitness, and nutrition support for every employee.</p></div>
+      <div class="card reveal"><div class="ic">D</div><h3>Diversity and Inclusion</h3><p>Chairing committee work focused on representation, retention, and structured, bias aware hiring practices.</p></div>
+      <div class="card reveal"><div class="ic">L</div><h3>People Leadership</h3><p>Mentoring managers, coaching through difficult conversations, and building a culture managers can carry forward.</p></div>
+      <div class="card reveal"><div class="ic">C</div><h3>Compliance and Ethics</h3><p>Careful handling of confidential personnel matters, documentation discipline, and knowing exactly when to involve legal.</p></div>
+      <div class="card reveal"><div class="ic">S</div><h3>Strategic Partnership</h3><p>Translating workforce data into business cases that earn senior leadership support and budget.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="focus" class="band">
+  <div class="wrap">
+    <div class="sec-head reveal"><div class="eyebrow" style="color:var(--gold)">Current Focus</div><h2 style="color:#fff">On the desk right now</h2></div>
+    <div class="grid3">
+      <div class="card reveal"><h3>Wellness Program Launch</h3><p>Flagship rollout to all employees, targeted for January 2027 after vendor selection and a successful thirty person pilot.</p><div class="prog"><span data-w="80"></span></div></div>
+      <div class="card reveal"><h3>Benefits Enrollment</h3><p>Annual open enrollment opening October 2026, including the new wellness benefit and updated plan materials.</p><div class="prog"><span data-w="55"></span></div></div>
+      <div class="card reveal"><h3>Inclusion Committee</h3><p>Closing the retention gap for underrepresented employees through mentorship pairing and manager training.</p><div class="prog"><span data-w="45"></span></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="education" style="background:#efeadd">
+  <div class="wrap">
+    <div class="sec-head reveal"><div class="eyebrow">Credentials</div><h2>Education and certification</h2></div>
+    <div class="edu">
+      <div class="card reveal"><div class="ring" style="--p:100"><i>MBA</i></div><div><h3 style="color:var(--forest)">Master of Business Administration</h3><div class="org" style="color:var(--muted)">Ridgemont University, 2004</div><p style="color:var(--muted);margin-top:8px">Completed in the evening program while working full time in human resources.</p></div></div>
+      <div class="card reveal"><div class="ring" style="--p:100"><i>BS</i></div><div><h3 style="color:var(--forest)">BS, Business Administration</h3><div class="org" style="color:var(--muted)">Ridgemont University, 1996</div><p style="color:var(--muted);margin-top:8px">Foundation in management, finance, and organizational behavior.</p></div></div>
+      <div class="card reveal"><div class="ring" style="--p:70"><i>70%</i></div><div><h3 style="color:var(--forest)">Senior Certified Professional</h3><div class="org" style="color:var(--muted)">Recertification in progress</div><p style="color:var(--muted);margin-top:8px">Forty two of sixty professional development credits earned, on track for completion in 2027.</p></div></div>
+      <div class="card reveal"><div class="ring" style="--p:90"><i>30</i></div><div><h3 style="color:var(--forest)">Years of Practice</h3><div class="org" style="color:var(--muted)">Nashville, Tennessee</div><p style="color:var(--muted);margin-top:8px">A full career across manufacturing, staffing, healthcare, and distribution.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <div class="sec-head reveal"><div class="eyebrow" style="color:var(--gold)">Contact</div><h2 style="color:#fff">Let us talk people strategy</h2></div>
+    <div class="cgrid">
+      <div class="reveal">
+        <div class="info-row"><div class="k">@</div><div><div style="font-size:13px;color:#b9c8c1">Email</div>carlos.moore@Finthesiss.ai</div></div>
+        <div class="info-row"><div class="k">T</div><div><div style="font-size:13px;color:#b9c8c1">Phone</div>(615) 555-0117</div></div>
+        <div class="info-row"><div class="k">L</div><div><div style="font-size:13px;color:#b9c8c1">Location</div>Nashville, Tennessee</div></div>
+        <p style="color:#cfdbd5;margin-top:18px">For human resources peers, conference organizers, and vendor partners. I read everything, and I answer.</p>
+      </div>
+      <form class="reveal" id="cform" onsubmit="return sendMsg(event)">
+        <div class="field"><label>Your name</label><input required type="text" aria-label="Full name"></div>
+        <div class="field"><label>Email</label><input required type="email" aria-label="you@example.com"></div>
+        <div class="field"><label>Message</label><textarea required rows="4" aria-label="How can I help?"></textarea></div>
+        <button class="btn btn-gold" type="submit" style="width:100%">Send Message</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="brand">Carlos <span style="color:var(--gold)">Moore</span></div>
+  <div>Corporate Human Resources Director, Nashville, Tennessee</div>
+  <div style="margin-top:8px;opacity:.7">Personal professional page. Updated February 2026.</div>
+</footer>
+
+<div id="toast">Thank you, your message has been noted.</div>
+
+<script>
+  // mobile menu
+  const mb=document.getElementById('menuBtn'),nav=document.getElementById('nav');
+  mb.addEventListener('click',()=>nav.classList.toggle('open'));
+  nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')));
+
+  // scroll reveal
+  const io=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.15});
+  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+  // count up
+  let counted=false;
+  function runCounts(){
+    if(counted)return;counted=true;
+    document.querySelectorAll('.num').forEach(el=>{
+      const t=+el.dataset.target;let c=0;const step=Math.max(1,Math.ceil(t/60));
+      const iv=setInterval(()=>{c+=step;if(c>=t){c=t;clearInterval(iv)}el.textContent=c+(el.dataset.suffix||'')},22);
+    });
+  }
+  const sObs=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting)runCounts()})},{threshold:.4});
+  sObs.observe(document.querySelector('.stats'));
+
+  // progress bars
+  const pObs=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting){e.target.querySelectorAll('.prog span').forEach(s=>s.style.width=s.dataset.w+'%');pObs.unobserve(e.target)}})},{threshold:.3});
+  document.querySelectorAll('#focus').forEach(el=>pObs.observe(el));
+
+  function sendMsg(e){e.preventDefault();const t=document.getElementById('toast');t.classList.add('show');document.getElementById('cform').reset();setTimeout(()=>t.classList.remove('show'),3200);return false;}
+</script>
+</body>
+</html>

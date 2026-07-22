@@ -1,0 +1,23 @@
+[
+  {
+    "baseId": "appOrbit001",
+    "id": "tbl000",
+    "name": "Funder Contacts",
+    "primaryFieldId": "fld00000",
+    "records_csv": "records_contacts.json"
+  },
+  {
+    "baseId": "appOrbit001",
+    "id": "tbl001",
+    "name": "DYAA Projects",
+    "primaryFieldId": "fld00100",
+    "records_csv": "records_projects.json"
+  },
+  {
+    "baseId": "appOrbit002",
+    "id": "tbl100",
+    "name": "Roadmap Tasks",
+    "primaryFieldId": "fld10000",
+    "records_csv": "records_tasks.json"
+  }
+]

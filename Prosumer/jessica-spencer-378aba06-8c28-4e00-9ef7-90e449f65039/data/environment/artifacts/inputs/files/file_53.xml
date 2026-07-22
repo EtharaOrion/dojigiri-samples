@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vendorDirectory studio="Spencer Interiors" updated="2026-02-22" maintainedBy="Sophie Chen">
+  <note>Trade vendor directory and open purchase orders. Any single commitment at or above 500 carries prior approval from Jessica Spencer.</note>
+  <vendors>
+    <vendor id="SI-HH-2241" name="Highland House Trade" category="Case goods and seating">
+      <contact name="Marcus Pell" phone="(480) 555-0611" email="trade@highlandhousetrade.test"/>
+      <terms>Net 30</terms>
+      <leadTime>8 to 10 weeks</leadTime>
+      <notes>Primary trade house for upholstered seating.</notes>
+    </vendor>
+    <vendor id="SI-MTC-1180" name="Maison Trade Collective" category="Living room and dining">
+      <contact name="Lucia Verde" phone="(602) 555-0744" email="orders@maisontrade.test"/>
+      <terms>Net 30</terms>
+      <leadTime>10 to 12 weeks</leadTime>
+      <notes>Compared against Highland House for the Martin Condo selections.</notes>
+    </vendor>
+    <vendor id="SI-CSA-0093" name="Canyon Stone Atelier" category="Stone and slab">
+      <contact name="Roberto Salas" phone="(480) 555-0660" email="sales@canyonstone.test"/>
+      <terms>50 percent deposit</terms>
+      <leadTime>12 to 14 weeks</leadTime>
+      <notes>Calacatta Viola for the Hendricks master bath.</notes>
+    </vendor>
+    <vendor id="SI-CL-0349" name="Copperline Lighting" category="Fixtures and lamps">
+      <contact name="Dana Reyes" phone="(480) 555-0822" email="hello@copperlinelighting.test"/>
+      <terms>Net 15</terms>
+      <leadTime>4 to 6 weeks</leadTime>
+      <notes>Custom brass pendants, ships from Tucson.</notes>
+    </vendor>
+    <vendor id="SI-ALT-0571" name="Artisan Loom Textiles" category="Custom textiles and rugs">
+      <contact name="Priya Anand" phone="(520) 555-0918" email="studio@artisanloom.test"/>
+      <terms>50 percent deposit</terms>
+      <leadTime>6 to 8 weeks</leadTime>
+      <notes>Local artisan network, hand loomed pieces.</notes>
+    </vendor>
+    <vendor id="SI-VW-0307" name="Verde Window Co" category="Drapery and shades">
+      <contact name="Hank Doyle" phone="(480) 555-0688" email="service@verdewindow.test"/>
+      <terms>Net 30</terms>
+      <leadTime>4 to 5 weeks</leadTime>
+      <notes>Motorized shade installations.</notes>
+    </vendor>
+  </vendors>
+  <openOrders>
+    <order ref="INV-7741" vendor="SI-CSA-0093" project="SI-2024-H01" invoiceDate="2026-01-12" dueDate="2026-02-11" amount="14000" status="Approved">
+      <description>Calacatta Viola marble slabs, deposit on bookmatched pair for the master bath.</description>
+    </order>
+    <order ref="INV-7742" vendor="SI-HH-2241" project="SI-2025-M02" invoiceDate="2026-01-15" dueDate="2026-02-14" amount="8760" status="Approved">
+      <description>Living room seating package for the Martin Condo.</description>
+    </order>
+    <order ref="INV-7744" vendor="SI-ALT-0571" project="SI-2025-DV3" invoiceDate="2026-01-20" dueDate="2026-02-19" amount="3650" status="Approved">
+      <description>Hand loomed accent rugs for the Desert Vista model homes.</description>
+    </order>
+    <order ref="INV-7745" vendor="SI-VW-0307" project="SI-2025-M02" invoiceDate="2026-01-22" dueDate="2026-02-21" amount="2940" status="Approved">
+      <description>Motorized shades for the living room and primary bedroom.</description>
+    </order>
+  </openOrders>
+</vendorDirectory>

@@ -1,0 +1,21 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread,__api__,__table__,__file__,__row_index__,messagesTotal,messagesUnread,threadsTotal,threadsUnread
+INBOX,INBOX,system,24,14,24,14,gmail-api,labels,/opt/mocks/gmail-api/labels.json,0,24,14,24,14
+SENT,SENT,system,20,0,20,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,1,20,0,20,0
+DRAFTS,DRAFTS,system,1,0,1,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,2,1,0,1,0
+TRASH,TRASH,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,3,0,0,0,0
+SPAM,SPAM,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,4,0,0,0,0
+Label_spencerinteriors,Spencer Interiors,user,9,1,9,1,gmail-api,labels,/opt/mocks/gmail-api/labels.json,5,9,1,9,1
+Label_followup,Follow up,user,2,1,2,1,gmail-api,labels,/opt/mocks/gmail-api/labels.json,6,2,1,2,1
+STARRED,STARRED,system,24,14,24,14,gmail-api,labels,/opt/mocks/gmail-api/labels.json,7,24,14,24,14
+IMPORTANT,IMPORTANT,system,20,0,20,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,8,20,0,20,0
+UNREAD,UNREAD,system,1,0,1,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,9,1,0,1,0
+CHAT,CHAT,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,10,0,0,0,0
+CATEGORY_PERSONAL,CATEGORY_PERSONAL,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,11,0,0,0,0
+Label_spencerinteriors-v012,Spencer Interiors,user,9,1,9,1,gmail-api,labels,/opt/mocks/gmail-api/labels.json,12,9,1,9,1
+Label_followup-v013,Follow up,user,2,1,2,1,gmail-api,labels,/opt/mocks/gmail-api/labels.json,13,2,1,2,1
+CATEGORY_SOCIAL,CATEGORY_SOCIAL,system,24,14,24,14,gmail-api,labels,/opt/mocks/gmail-api/labels.json,14,24,14,24,14
+CATEGORY_PROMOTIONS,CATEGORY_PROMOTIONS,system,20,0,20,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,15,20,0,20,0
+CATEGORY_UPDATES,CATEGORY_UPDATES,system,1,0,1,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,16,1,0,1,0
+CATEGORY_FORUMS,CATEGORY_FORUMS,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,17,0,0,0,0
+Label_19,SPAM,system,0,0,0,0,gmail-api,labels,/opt/mocks/gmail-api/labels.json,18,0,0,0,0
+Label_spencerinteriors-v019,Spencer Interiors,user,9,1,9,1,gmail-api,labels,/opt/mocks/gmail-api/labels.json,19,9,1,9,1

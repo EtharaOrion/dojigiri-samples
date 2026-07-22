@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Airtable export, coalition water quality testing base.
+     Generated for the October 10, 2026 sampling round, 14 sites, 3 measurements per site. -->
+<airtableExport xmlns="https://coalition.multco.us/schema/wq" version="1.0">
+  <metadata>
+    <base id="appCWC2026" name="Clean Water Coalition, Water Quality Testing"/>
+    <table id="tblSites" name="Sites" recordCount="14"/>
+    <table id="tblReadings" name="Readings" recordCount="42"/>
+    <exported by="Stuart Myer" at="2026-10-11T08:14:22-07:00" channel="csv"/>
+    <round id="R3-2026" label="October 2026 round" sampledOn="2026-10-10"/>
+    <thresholds>
+      <phosphorus units="mg/L" stateGuidance="0.100"/>
+      <pfas units="ng/L" epaActionLevel="4"/>
+    </thresholds>
+  </metadata>
+
+  <sites>
+    <site id="recSITE01" siteNumber="1" waterbody="Sandy River" location="Troutdale access" lat="45.5394" lon="-122.3853"/>
+    <site id="recSITE02" siteNumber="2" waterbody="Beaver Creek" location="Below Powell Butte"/>
+    <site id="recSITE03" siteNumber="3" waterbody="Columbia Slough" location="West, NE 33rd outfall"/>
+    <site id="recSITE04" siteNumber="4" waterbody="Columbia Slough" location="East, NE 122nd"/>
+    <site id="recSITE05" siteNumber="5" waterbody="Johnson Creek" location="Lents footbridge"/>
+    <site id="recSITE06" siteNumber="6" waterbody="Kelley Creek" location="SE Foster culvert"/>
+    <site id="recSITE07" siteNumber="7" waterbody="Crystal Springs" location="Reed Canyon"/>
+    <site id="recSITE08" siteNumber="8" waterbody="Sandy River tributary" location="Oxbow edge"/>
+    <site id="recSITE09" siteNumber="9" waterbody="Johnson Creek" location="Milwaukie confluence" priority="high"/>
+    <site id="recSITE10" siteNumber="10" waterbody="Fairview Lake" location="Inlet from Fairview Creek"/>
+    <site id="recSITE11" siteNumber="11" waterbody="Gresham Creek" location="Main outfall"/>
+    <site id="recSITE12" siteNumber="12" waterbody="Fairview Creek" location="Below CAFO parcel" priority="critical"/>
+    <site id="recSITE13" siteNumber="13" waterbody="Salmon Creek" location="NE Marine Dr"/>
+    <site id="recSITE14" siteNumber="14" waterbody="Columbia River" location="Kelley Point"/>
+  </sites>
+
+  <readings>
+    <reading id="recR01a" siteRef="recSITE01" round="R1-2025" date="2025-11-15" volunteer="Marcus Diaz">
+      <phosphorus value="0.034" units="mg/L"/>
+      <pfas value="1.6" units="ng/L"/>
+      <ph value="7.4"/>
+      <status>below</status>
+    </reading>
+    <reading id="recR01b" siteRef="recSITE01" round="R2-2026" date="2026-02-20" volunteer="Renata Cole">
+      <phosphorus value="0.038" units="mg/L"/>
+      <pfas value="1.7" units="ng/L"/>
+      <ph value="7.4"/>
+      <status>below</status>
+    </reading>
+    <reading id="recR01c" siteRef="recSITE01" round="R3-2026" date="2026-10-10" volunteer="Stuart Myer">
+      <phosphorus value="0.041" units="mg/L"/>
+      <pfas value="1.8" units="ng/L"/>
+      <ph value="7.4"/>
+      <status>below</status>
+    </reading>
+
+    <reading id="recR09a" siteRef="recSITE09" round="R1-2025" date="2025-11-15" volunteer="Marcus Diaz">
+      <phosphorus value="0.071" units="mg/L"/>
+      <pfas value="3.4" units="ng/L"/>
+      <ph value="7.2"/>
+      <status>below</status>
+    </reading>
+    <reading id="recR09b" siteRef="recSITE09" round="R2-2026" date="2026-02-20" volunteer="David Cortez">
+      <phosphorus value="0.082" units="mg/L"/>
+      <pfas value="4.6" units="ng/L"/>
+      <ph value="7.2"/>
+      <status>approaching</status>
+      <note>PFAS crossed the 4 ng/L EPA action level for the first time at this site.</note>
+    </reading>
+    <reading id="recR09c" siteRef="recSITE09" round="R3-2026" date="2026-10-10" volunteer="Marcus Diaz">
+      <phosphorus value="0.094" units="mg/L"/>
+      <pfas value="5.8" units="ng/L"/>
+      <ph value="7.1"/>
+      <status>approaching</status>
+      <note>Approaching the 0.1 mg/L state phosphorus threshold. Recommend monthly sampling through winter.</note>
+    </reading>
+
+    <reading id="recR12a" siteRef="recSITE12" round="R1-2025" date="2025-11-15" volunteer="Renata Cole">
+      <phosphorus value="0.082" units="mg/L"/>
+      <pfas value="6.4" units="ng/L"/>
+      <ph value="7.1"/>
+      <status>approaching</status>
+    </reading>
+    <reading id="recR12b" siteRef="recSITE12" round="R2-2026" date="2026-02-20" volunteer="Stuart Myer">
+      <phosphorus value="0.089" units="mg/L"/>
+      <pfas value="8.1" units="ng/L"/>
+      <ph value="7.0"/>
+      <status>approaching</status>
+    </reading>
+    <reading id="recR12c" siteRef="recSITE12" round="R3-2026" date="2026-10-10" volunteer="Stuart Myer">
+      <phosphorus value="0.112" units="mg/L"/>
+      <pfas value="11.2" units="ng/L"/>
+      <ph value="7.0"/>
+      <status>exceeds</status>
+      <note>Crossed the 0.1 mg/L state phosphorus guidance. Headline finding for CAFO testimony, Oct 22, 2026.</note>
+    </reading>
+  </readings>
+
+  <summary>
+    <round id="R3-2026">
+      <sitesSampled>14</sitesSampled>
+      <below>10</below>
+      <approaching>3</approaching>
+      <exceeds>1</exceeds>
+      <pfasExceedances>4</pfasExceedances>
+      <highestPhosphorusSiteRef>recSITE12</highestPhosphorusSiteRef>
+      <highestPfasSiteRef>recSITE12</highestPfasSiteRef>
+    </round>
+  </summary>
+</airtableExport>

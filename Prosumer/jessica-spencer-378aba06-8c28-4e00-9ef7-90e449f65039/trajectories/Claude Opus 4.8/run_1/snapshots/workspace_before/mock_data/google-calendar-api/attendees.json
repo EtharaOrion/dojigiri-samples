@@ -1,0 +1,166 @@
+{
+  "evt-001": [
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    },
+    {
+      "email": "natalie@spencerinteriors.com",
+      "displayName": "Natalie Pereira",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002": [
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "helena@Finthesiss.ai",
+      "displayName": "Helena Park",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    },
+    {
+      "email": "natalie@spencerinteriors.com",
+      "displayName": "Natalie Pereira",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "rohit@Finthesiss.ai",
+      "displayName": "Rohit Bansal",
+      "responseStatus": "tentative",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-003": [
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    },
+    {
+      "email": "helena@Finthesiss.ai",
+      "displayName": "Helena Park",
+      "responseStatus": "needsAction",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "natalie@spencerinteriors.com",
+      "displayName": "Natalie Pereira",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-004": [
+    {
+      "email": "helena@Finthesiss.ai",
+      "displayName": "Helena Park",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    },
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    },
+    {
+      "email": "natalie@spencerinteriors.com",
+      "displayName": "Natalie Pereira",
+      "responseStatus": "accepted",
+      "optional": true,
+      "organizer": false
+    }
+  ],
+  "evt-001-v012": [
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-001-v013": [
+    {
+      "email": "natalie@spencerinteriors.com",
+      "displayName": "Natalie Pereira",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v014": [
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v015": [
+    {
+      "email": "helena@Finthesiss.ai",
+      "displayName": "Helena Park",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-002-v016": [
+    {
+      "email": "natalie@spencerinteriors.com",
+      "displayName": "Natalie Pereira",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-002-v017": [
+    {
+      "email": "rohit@Finthesiss.ai",
+      "displayName": "Rohit Bansal",
+      "responseStatus": "tentative",
+      "optional": false,
+      "organizer": false
+    }
+  ],
+  "evt-003-v018": [
+    {
+      "email": "jessica.spencer@Finthesiss.ai",
+      "displayName": "Jessica Spencer",
+      "responseStatus": "accepted",
+      "optional": false,
+      "organizer": true
+    }
+  ],
+  "evt-003-v019": [
+    {
+      "email": "helena@Finthesiss.ai",
+      "displayName": "Helena Park",
+      "responseStatus": "needsAction",
+      "optional": false,
+      "organizer": false
+    }
+  ]
+}

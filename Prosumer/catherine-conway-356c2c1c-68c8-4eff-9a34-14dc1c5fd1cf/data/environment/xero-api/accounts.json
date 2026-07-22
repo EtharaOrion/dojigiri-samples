@@ -1,0 +1,102 @@
+[
+  {
+    "account_id": "fcfe0721-9f4f-69bd-49d5-f43edca38fd5",
+    "code": "200",
+    "description": "Medical dermatology consultations and procedures",
+    "enable_payments_to_account": "false",
+    "name": "Patient Services Revenue",
+    "status": "ACTIVE",
+    "tax_type": "OUTPUT2",
+    "type": "REVENUE"
+  },
+  {
+    "account_id": "7f2f13ad-b4b4-e888-4da6-8f095f84fcdc",
+    "code": "210",
+    "description": "Botox, fillers and laser treatments",
+    "enable_payments_to_account": "false",
+    "name": "Cosmetic Procedures Revenue",
+    "status": "ACTIVE",
+    "tax_type": "OUTPUT2",
+    "type": "REVENUE"
+  },
+  {
+    "account_id": "8ae2dbc2-3c19-2085-4c9a-975131283cd9",
+    "code": "220",
+    "description": "Botanical commissions and print sales",
+    "enable_payments_to_account": "false",
+    "name": "Illustration Commission Income",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "REVENUE"
+  },
+  {
+    "account_id": "11f157cf-08f4-4c9b-4b70-9ec5a3e661a5",
+    "code": "230",
+    "description": "Quarterly botanical illustration workshops",
+    "enable_payments_to_account": "false",
+    "name": "Workshop Income",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "REVENUE"
+  },
+  {
+    "account_id": "d197f79b-c7bf-69b9-4991-2b87c0af4021",
+    "code": "400",
+    "description": "Consumables, dressings and injectables",
+    "enable_payments_to_account": "false",
+    "name": "Clinical Supplies",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "2d56bffb-e47d-72bc-4539-1b71615bf536",
+    "code": "410",
+    "description": "Watercolours, sable brushes and archival paper",
+    "enable_payments_to_account": "false",
+    "name": "Studio Materials",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "e0bd5dbc-cc68-30a9-4b5b-dd40f1f3445f",
+    "code": "420",
+    "description": "Suite 200, 4800 SW Griffith Dr",
+    "enable_payments_to_account": "false",
+    "name": "Clinic Rent",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "7d576175-e59d-6696-4ee0-6ccdcd7e0a3d",
+    "code": "430",
+    "description": "Provider and staff wages",
+    "enable_payments_to_account": "false",
+    "name": "Payroll",
+    "status": "ACTIVE",
+    "tax_type": "NONE",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "01a2fef6-5548-42bd-4472-4c23a465e731",
+    "code": "440",
+    "description": "Professional liability and business cover",
+    "enable_payments_to_account": "false",
+    "name": "Malpractice & Insurance",
+    "status": "ACTIVE",
+    "tax_type": "NONE",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "580e1fc9-9ed5-0d88-49e6-b4312aba6afb",
+    "code": "450",
+    "description": "Board, DEA and insurance paneling",
+    "enable_payments_to_account": "true",
+    "name": "Credentialing & Licensing",
+    "status": "ACTIVE",
+    "tax_type": "NONE",
+    "type": "EXPENSE"
+  }
+]

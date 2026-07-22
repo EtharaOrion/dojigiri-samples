@@ -1,0 +1,21 @@
+id,name,email,description,currency,delinquent,balance,created,phone,__api__,__table__,__file__,__row_index__,object
+cus_gS96wXuF3jdZ4XeHL68g,Jake's Table LLC,billing@jakestable.com,Monthly POS subscription,usd,False,0,1714579200,+17702684272,stripe-api,customers,/opt/mocks/stripe-api/customers.json,0,customer
+cus_4YHJyGugo1LzAr367wTo,Dekalb Farmers Market,ap@dekalbfarmersmarket.com,Enterprise plan,usd,False,-2500,1709251200,+14704146250,stripe-api,customers,/opt/mocks/stripe-api/customers.json,1,customer
+cus_pUY6UrLIh60enZPPOlco,East Lake Community Center,accounts@eastlakecommunity.org,Pro plan,usd,False,0,1717200000,+14044105904,stripe-api,customers,/opt/mocks/stripe-api/customers.json,2,customer
+cus_tJbnhCPsBu52kmorii6O,Inland Seafood Atlanta,finance@inlandseafood.com,Net-30 invoicing,usd,True,15000,1701388800,+16785343153,stripe-api,customers,/opt/mocks/stripe-api/customers.json,3,customer
+cus_InS7jwzGqNyUIUEK5vcc,Decatur Farmers Market,hello@decaturfarmersmarket.com,Seasonal billing,usd,False,0,1719792000,+14708504244,stripe-api,customers,/opt/mocks/stripe-api/customers.json,4,customer
+cus_qaZ8XqdHHrgN3ypzOfFy,Magnolia Women's Health,billing@magnoliawomenshealth.com,Annual plan,usd,False,0,1706745600,+16783471809,stripe-api,customers,/opt/mocks/stripe-api/customers.json,5,customer
+cus_jtaa1089e438db6e42177b,Rachel Nkomo,rachel.nkomo@gmail.com,Jake's Table cooking class student,usd,False,0,1790812800,+14045552000,stripe-api,customers,/opt/mocks/stripe-api/customers.json,6,customer
+cus_jt1f07921f4416f182a32c,Deja Coleman,deja.coleman@gmail.com,Jake's Table cooking class student,usd,False,0,1791072000,+14045552001,stripe-api,customers,/opt/mocks/stripe-api/customers.json,7,customer
+cus_jt979f4582d8aabe8d3e4c,Marcus Ellis,marcus.ellis@gmail.com,Jake's Table cooking class student,usd,False,0,1791331200,+14045552002,stripe-api,customers,/opt/mocks/stripe-api/customers.json,8,customer
+cus_jte586578ee387c0bf19b8,Priya Raman,priya.raman@gmail.com,Jake's Table cooking class student,usd,False,0,1791590400,+14045552003,stripe-api,customers,/opt/mocks/stripe-api/customers.json,9,customer
+cus_jtbc0ae897be52da0e2ac0,Bianca Foster,bianca.foster@gmail.com,Jake's Table cooking class student,usd,False,0,1791849600,+14045552004,stripe-api,customers,/opt/mocks/stripe-api/customers.json,10,customer
+cus_jt6e6dc99eb22d0c16088f,Andre Bishop,andre.bishop@gmail.com,Jake's Table cooking class student,usd,False,0,1792108800,+14045552005,stripe-api,customers,/opt/mocks/stripe-api/customers.json,11,customer
+cus_jtefe63710d935c8025045,Simone Clarke,simone.clarke@gmail.com,Jake's Table cooking class student,usd,False,0,1792368000,+14045552006,stripe-api,customers,/opt/mocks/stripe-api/customers.json,12,customer
+cus_jt0a99264de490d83f8bdb,Wesley Tran,wesley.tran@gmail.com,Jake's Table cooking class student,usd,False,0,1792627200,+14045552007,stripe-api,customers,/opt/mocks/stripe-api/customers.json,13,customer
+cus_jta834fcde0daa789ecdc7,Nadia Okafor,nadia.okafor@gmail.com,Jake's Table cooking class student,usd,False,0,1792886400,+14045552008,stripe-api,customers,/opt/mocks/stripe-api/customers.json,14,customer
+cus_jtc1a47ddae21c83d6209c,Grant Whitfield,grant.whitfield@gmail.com,Jake's Table cooking class student,usd,False,0,1793145600,+14045552009,stripe-api,customers,/opt/mocks/stripe-api/customers.json,15,customer
+cus_jt3d6c9e9c09ff6189b03f,Lila Mendez,lila.mendez@gmail.com,Jake's Table cooking class student,usd,False,0,1793404800,+14045552010,stripe-api,customers,/opt/mocks/stripe-api/customers.json,16,customer
+cus_jt877b2a7d98d7710120bf,Curtis Hale,curtis.hale@gmail.com,Jake's Table cooking class student,usd,False,0,1793664000,+14045552011,stripe-api,customers,/opt/mocks/stripe-api/customers.json,17,customer
+cus_jt140159e60df16168bbce,Yara Haddad,yara.haddad@gmail.com,Jake's Table cooking class student,usd,False,0,1793923200,+14045552012,stripe-api,customers,/opt/mocks/stripe-api/customers.json,18,customer
+cus_jtee19cf5bf863ddfbbf97,Jordan Pope,jordan.pope@gmail.com,Jake's Table cooking class student,usd,False,0,1794182400,+14045552013,stripe-api,customers,/opt/mocks/stripe-api/customers.json,19,customer

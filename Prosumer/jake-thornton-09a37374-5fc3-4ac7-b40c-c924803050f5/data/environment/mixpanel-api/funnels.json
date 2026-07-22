@@ -1,0 +1,142 @@
+[
+  {
+    "funnel_id": "7468301",
+    "name": "Activation Funnel",
+    "step_order": "1",
+    "step_event": "signup_completed",
+    "count": "2058"
+  },
+  {
+    "funnel_id": "7477301",
+    "name": "Activation Funnel",
+    "step_order": "2",
+    "step_event": "feature_used",
+    "count": "1307"
+  },
+  {
+    "funnel_id": "7477302",
+    "name": "Activation Funnel",
+    "step_order": "3",
+    "step_event": "checkout_started",
+    "count": "822"
+  },
+  {
+    "funnel_id": "7477303",
+    "name": "Activation Funnel",
+    "step_order": "4",
+    "step_event": "purchase",
+    "count": "443"
+  },
+  {
+    "funnel_id": "7468302",
+    "name": "Purchase Funnel",
+    "step_order": "1",
+    "step_event": "page_view",
+    "count": "1566"
+  },
+  {
+    "funnel_id": "7477304",
+    "name": "Purchase Funnel",
+    "step_order": "2",
+    "step_event": "checkout_started",
+    "count": "941"
+  },
+  {
+    "funnel_id": "7477305",
+    "name": "Purchase Funnel",
+    "step_order": "3",
+    "step_event": "purchase",
+    "count": "549"
+  },
+  {
+    "funnel_id": "7477306",
+    "name": "Purchase Funnel",
+    "step_order": "4",
+    "step_event": "subscription_started",
+    "count": "240"
+  },
+  {
+    "funnel_id": "d0fca63",
+    "name": "Activation Funnel",
+    "step_order": "1",
+    "step_event": "signup_completed",
+    "count": "2073"
+  },
+  {
+    "funnel_id": "deaf1a9",
+    "name": "Activation Funnel",
+    "step_order": "2",
+    "step_event": "feature_used",
+    "count": "1322"
+  },
+  {
+    "funnel_id": "96a76c6",
+    "name": "Activation Funnel",
+    "step_order": "3",
+    "step_event": "checkout_started",
+    "count": "837"
+  },
+  {
+    "funnel_id": "f7474d0",
+    "name": "Activation Funnel",
+    "step_order": "4",
+    "step_event": "purchase",
+    "count": "458"
+  },
+  {
+    "funnel_id": "0b7c4b0",
+    "name": "Purchase Funnel",
+    "step_order": "1",
+    "step_event": "page_view",
+    "count": "1581"
+  },
+  {
+    "funnel_id": "b21cad4",
+    "name": "Purchase Funnel",
+    "step_order": "2",
+    "step_event": "checkout_started",
+    "count": "956"
+  },
+  {
+    "funnel_id": "ae0f381",
+    "name": "Purchase Funnel",
+    "step_order": "3",
+    "step_event": "purchase",
+    "count": "564"
+  },
+  {
+    "funnel_id": "9f9224a",
+    "name": "Purchase Funnel",
+    "step_order": "4",
+    "step_event": "subscription_started",
+    "count": "255"
+  },
+  {
+    "funnel_id": "588e33c",
+    "name": "Activation Funnel",
+    "step_order": "1",
+    "step_event": "signup_completed",
+    "count": "2080"
+  },
+  {
+    "funnel_id": "2f0af47",
+    "name": "Activation Funnel",
+    "step_order": "2",
+    "step_event": "feature_used",
+    "count": "1329"
+  },
+  {
+    "funnel_id": "b5f8322",
+    "name": "Activation Funnel",
+    "step_order": "3",
+    "step_event": "checkout_started",
+    "count": "844"
+  },
+  {
+    "funnel_id": "5237832",
+    "name": "Activation Funnel",
+    "step_order": "4",
+    "step_event": "purchase",
+    "count": "465"
+  }
+]

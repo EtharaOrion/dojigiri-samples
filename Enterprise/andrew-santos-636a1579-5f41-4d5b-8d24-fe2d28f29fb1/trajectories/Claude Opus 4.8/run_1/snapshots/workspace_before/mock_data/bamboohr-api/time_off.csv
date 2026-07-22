@@ -1,0 +1,23 @@
+amount,created,employeeId,end,id,notes,start,status,type,unit,__api__,__table__,__file__,__row_index__
+1,1765497600,e201,2026-03-27,tor-bbef3b4b,Standard PTO request — approved by manager.,2026-03-26,approved,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,0
+2,1765756800,e202,2026-10-03,tor-667e95a0,Standard PTO request — approved by manager.,2026-10-02,requested,Sick,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,1
+3,1765670400,e203,2026-10-13,tor-755de91d,Standard PTO request — approved by manager.,2026-10-11,denied,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,2
+1,1765497600,e204,2026-10-17,tor-6c0779fe,Standard PTO request — approved by manager.,2026-10-16,approved,Bereavement,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,3
+2,1765497600,e205,2026-10-25,tor-55f624f3,Standard PTO request — approved by manager.,2026-10-24,requested,Parental,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,4
+3,1765756800,e206,2026-11-02,tor-9b36fef3,Standard PTO request — approved by manager.,2026-10-31,denied,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,5
+1,1765843200,e207,2026-11-05,tor-c73c3693,Standard PTO request — approved by manager.,2026-11-04,approved,Sick,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,6
+2,1765843200,e208,2026-11-16,tor-637f9bba,Standard PTO request — approved by manager.,2026-11-15,requested,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,7
+3,1769817600,e206,2026-11-02,tor-4d988426,Standard PTO request — approved by manager.,2026-10-31,denied,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,8
+3,1737331200,e206,2026-11-02,tor-9e300005,Standard PTO request — approved by manager.,2026-10-31,denied,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,9
+2,1736985600,e205,2026-10-25,tor-90724002,Standard PTO request — approved by manager.,2026-10-24,requested,Parental,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,10
+2,1740268800,e208,2026-11-16,tor-83329361,Standard PTO request — approved by manager.,2026-11-15,requested,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,11
+3,1769040000,e206,2026-11-02,tor-5b603481,Standard PTO request — approved by manager.,2026-10-31,denied,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,12
+2,1738454400,e208,2026-11-16,tor-32455b3c,Standard PTO request — approved by manager.,2026-11-15,requested,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,13
+1,1769990400,e207,2026-11-05,tor-61200358,Standard PTO request — approved by manager.,2026-11-04,approved,Sick,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,14
+3,1769904000,e203,2026-10-13,tor-8483612c,Standard PTO request — approved by manager.,2026-10-11,denied,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,15
+3,1740787200,e203,2026-10-13,tor-423e997e,Standard PTO request — approved by manager.,2026-10-11,denied,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,16
+2,1763424000,e205,2026-10-25,tor-98862831,Standard PTO request — approved by manager.,2026-10-24,requested,Parental,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,17
+1,1737590400,e204,2026-10-17,tor-34419494,Standard PTO request — approved by manager.,2026-10-16,approved,Bereavement,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,18
+3,1736726400,e206,2026-11-02,tor-27743ee4,Standard PTO request — approved by manager.,2026-10-31,denied,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,19
+2,1772150400,e202,2026-10-03,tor-62992187,Standard PTO request — approved by manager.,2026-10-02,requested,Sick,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,20
+1,1739059200,e201,2026-03-27,tor-9fc34796,Standard PTO request — approved by manager.,2026-03-26,approved,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,21

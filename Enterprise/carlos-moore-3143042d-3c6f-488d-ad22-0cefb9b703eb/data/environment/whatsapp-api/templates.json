@@ -1,0 +1,178 @@
+[
+  {
+    "body_text": "Hi {{1}}, a reminder that {{2}} at Calvary Hill is on {{3}}. We look forward to seeing you there.",
+    "category": "UTILITY",
+    "header_text": "Calvary Hill event",
+    "language": "en_US",
+    "name": "church_event_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Reminder: your appointment on {{1}} at {{2}} is confirmed.",
+    "category": "UTILITY",
+    "header_text": "Appointment reminder",
+    "language": "en_US",
+    "name": "appointment_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, thank you for volunteering with {{2}}. Your time and heart make a real difference in our community.",
+    "category": "UTILITY",
+    "header_text": "Thank you for volunteering",
+    "language": "en_US",
+    "name": "volunteer_thanks",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "category": "AUTHENTICATION",
+    "header_text": "Verification code",
+    "language": "en_US",
+    "name": "otp_verify",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, did our support team resolve your issue today?",
+    "category": "UTILITY",
+    "header_text": "Support follow-up",
+    "language": "en_US",
+    "name": "support_followup",
+    "status": "PENDING"
+  },
+  {
+    "body_text": "Hi {{1}}, your interview for the {{2}} role is scheduled for {{3}}. Reply YES to confirm.",
+    "category": "UTILITY",
+    "header_text": "Interview scheduled",
+    "language": "en_US",
+    "name": "interview_invite",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, open enrollment closes {{2}}. Please complete your benefit elections in the portal.",
+    "category": "UTILITY",
+    "header_text": "Benefits enrollment",
+    "language": "en_US",
+    "name": "benefits_enrollment",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Welcome to the team, {{1}}! Your first day is {{2}}. We are glad to have you with us.",
+    "category": "UTILITY",
+    "header_text": "Welcome aboard",
+    "language": "en_US",
+    "name": "onboarding_welcome",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, this is a reminder that your shift starts at {{2}} on {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Shift reminder",
+    "language": "en_US",
+    "name": "shift_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, your payslip for {{2}} is now available in the employee portal.",
+    "category": "UTILITY",
+    "header_text": "Payslip available",
+    "language": "en_US",
+    "name": "payslip_ready",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, your required training {{2}} is due by {{3}}. Please complete it on time.",
+    "category": "UTILITY",
+    "header_text": "Training reminder",
+    "language": "en_US",
+    "name": "training_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your password reset code is {{1}}. Do not share this code with anyone.",
+    "category": "AUTHENTICATION",
+    "header_text": "Password reset",
+    "language": "en_US",
+    "name": "password_reset",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "We detected a new sign-in for {{1}}. If this was not you, reset your password now.",
+    "category": "AUTHENTICATION",
+    "header_text": "Security alert",
+    "language": "en_US",
+    "name": "login_alert",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, just a reminder about {{2}} this weekend. Let me know if you can make it.",
+    "category": "UTILITY",
+    "header_text": "Family reminder",
+    "language": "en_US",
+    "name": "family_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Thank you {{1}}, we have received your payment of {{2}}. Reference number {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Payment received",
+    "language": "en_US",
+    "name": "payment_receipt",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, invoice {{2}} for {{3}} is due on {{4}}. Please arrange payment.",
+    "category": "UTILITY",
+    "header_text": "Invoice due",
+    "language": "en_US",
+    "name": "invoice_due",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, please take two minutes to share feedback on your recent experience with us.",
+    "category": "MARKETING",
+    "header_text": "We value your feedback",
+    "language": "en_US",
+    "name": "survey_request",
+    "status": "PENDING"
+  },
+  {
+    "body_text": "Hi {{1}}, join us for {{2}} on {{3}}. Reply to this message to reserve your seat.",
+    "category": "MARKETING",
+    "header_text": "You are invited",
+    "language": "en_US",
+    "name": "event_invite",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, our offices will have adjusted hours on {{2}}. Thank you for your patience.",
+    "category": "UTILITY",
+    "header_text": "Holiday hours",
+    "language": "en_US",
+    "name": "holiday_hours",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, your appointment on {{2}} has been cancelled. Reply to reschedule a new time.",
+    "category": "UTILITY",
+    "header_text": "Appointment cancelled",
+    "language": "en_US",
+    "name": "appointment_cancelled",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, your wellness check-in for {{2}} is ready. Log your progress today.",
+    "category": "UTILITY",
+    "header_text": "Wellness program",
+    "language": "en_US",
+    "name": "wellness_checkin",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, document {{2}} is awaiting your signature. Please review and sign it.",
+    "category": "UTILITY",
+    "header_text": "Signature required",
+    "language": "en_US",
+    "name": "document_signature",
+    "status": "APPROVED"
+  }
+]

@@ -1,0 +1,4 @@
+account_id,name,official_name,mask,type,subtype,balances
+acc_sav_002,Cornerstone High-Yield Savings,Cornerstone Online Bank High-Yield Savings,3811,depository,savings,"{""available"": 42500.0, ""current"": 42500.0, ""limit"": null, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_chk_001,Cornerstone Checking,Carlos Moore Personal Checking,8370,depository,checking,"{""available"": 8542.55, ""current"": 8642.55, ""limit"": null, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"
+acc_ccd_003,Cornerstone Rewards Card,Cornerstone Cash Rewards Visa,4021,credit,credit card,"{""available"": 13715.45, ""current"": 1284.55, ""limit"": 15000.0, ""iso_currency_code"": ""USD"", ""unofficial_currency_code"": null}"

@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Colette Mullins"
+        ],
+        "emails": [
+          {
+            "data": "colette.mullins@stgenevievecle.org",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+12165550329",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "2739 Berkshire Rd",
+              "city": "Shaker Heights",
+              "region": "OH",
+              "postal_code": "44120",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Colette Mullins"
+        ],
+        "emails": [
+          {
+            "data": "colette.mullins@stgenevievecle.org",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+12165550329",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "2739 Berkshire Rd",
+              "city": "Shaker Heights",
+              "region": "OH",
+              "postal_code": "44120",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<script>document.documentElement.className="";</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rev. Colette Mullins | Ministry and Reflection</title>
+<style>
+  :root{
+    --ink:#23303a; --muted:#5d6b75; --paper:#fbf9f4; --card:#ffffff;
+    --accent:#7a242b; --accent2:#b58a3c; --line:#e7e0d2; --deep:#142a32;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:Georgia,"Times New Roman",serif;color:var(--ink);background:var(--paper);line-height:1.6}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+
+  header{position:sticky;top:0;z-index:50;background:rgba(20,42,50,.96);backdrop-filter:blur(6px);
+    border-bottom:3px solid var(--accent2)}
+  nav{display:flex;align-items:center;justify-content:space-between;height:68px}
+  .brand{color:#fff;font-size:20px;letter-spacing:.5px}
+  .brand span{color:var(--accent2)}
+  .links{display:flex;gap:26px}
+  .links a{color:#dfe6ea;font-size:15px;font-family:Helvetica,Arial,sans-serif;letter-spacing:.4px;
+    padding:6px 2px;border-bottom:2px solid transparent;transition:.25s}
+  .links a:hover{color:#fff;border-color:var(--accent2)}
+  .burger{display:none;flex-direction:column;gap:5px;cursor:pointer}
+  .burger span{width:26px;height:3px;background:#fff;border-radius:2px}
+
+  .hero{position:relative;background:
+      radial-gradient(circle at 80% 20%, rgba(181,138,60,.18), transparent 55%),
+      linear-gradient(135deg,#142a32 0%, #28414b 60%, #3a2230 100%);
+    color:#fff;padding:110px 0 96px;overflow:hidden}
+  .hero h1{font-size:50px;line-height:1.1;max-width:760px;transform:translateY(22px);
+    animation:rise .9s .15s forwards}
+  .hero p.lead{margin-top:22px;font-size:20px;color:#e6dcc6;max-width:620px;transform:translateY(22px);
+    animation:rise .9s .4s forwards}
+  .hero .cta{margin-top:34px;animation:fade 1s .7s forwards}
+  .btn{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:15px;letter-spacing:.6px;
+    padding:13px 26px;border-radius:3px;cursor:pointer;border:2px solid var(--accent2);transition:.25s}
+  .btn.solid{background:var(--accent2);color:#1c1c1c;font-weight:bold}
+  .btn.solid:hover{background:#caa04a;transform:translateY(-2px)}
+  .btn.ghost{color:#fff;margin-left:12px}
+  .btn.ghost:hover{background:rgba(255,255,255,.12)}
+  .scroll-cue{position:absolute;bottom:22px;left:50%;transform:translateX(-50%);color:#cdbf9a;font-size:13px;
+    font-family:Helvetica,Arial,sans-serif;animation:bob 2s infinite}
+
+  section{padding:78px 0}
+  .eyebrow{font-family:Helvetica,Arial,sans-serif;letter-spacing:3px;font-size:12px;color:var(--accent);
+    text-transform:uppercase;margin-bottom:10px}
+  h2{font-size:34px;margin-bottom:18px;color:var(--deep)}
+  .reveal{opacity:0;transform:translateY(30px);transition:.7s}
+  .reveal.in{opacity:1;transform:none}
+  .no-js .reveal{opacity:1;transform:none}
+
+  .about{display:grid;grid-template-columns:1.4fr 1fr;gap:46px;align-items:start}
+  .about p{color:var(--muted);font-size:17px;margin-bottom:16px}
+  .facts{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:26px}
+  .facts h3{font-size:14px;font-family:Helvetica,Arial,sans-serif;letter-spacing:1.5px;text-transform:uppercase;
+    color:var(--accent);margin-bottom:16px}
+  .facts li{list-style:none;padding:11px 0;border-bottom:1px dashed var(--line);display:flex;justify-content:space-between;gap:10px}
+  .facts li:last-child{border:0}
+  .facts b{color:var(--ink);font-weight:normal}.facts span{color:var(--muted);font-size:15px;text-align:right}
+
+  .bandwrap{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .rhythm{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .rcard{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:26px;transition:.3s}
+  .rcard:hover{transform:translateY(-6px);box-shadow:0 14px 30px rgba(20,42,50,.10);border-color:var(--accent2)}
+  .rcard .ic{width:46px;height:46px;border-radius:50%;background:var(--deep);color:var(--accent2);
+    display:flex;align-items:center;justify-content:center;font-size:22px;margin-bottom:14px}
+  .rcard h4{font-size:20px;margin-bottom:8px;color:var(--deep)}
+  .rcard p{color:var(--muted);font-size:15px}
+
+  .writing{display:grid;grid-template-columns:repeat(2,1fr);gap:26px}
+  .essay{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--accent);border-radius:6px;padding:28px}
+  .essay .date{font-family:Helvetica,Arial,sans-serif;font-size:13px;color:var(--accent2);letter-spacing:1px}
+  .essay h4{font-size:22px;margin:8px 0 12px;color:var(--deep)}
+  .essay p{color:var(--muted);font-size:16px}
+  .essay a.more{display:inline-block;margin-top:14px;color:var(--accent);font-family:Helvetica,Arial,sans-serif;
+    font-size:14px;border-bottom:1px solid var(--accent2);cursor:pointer}
+
+  .quote{background:linear-gradient(135deg,#3a2230,#142a32);color:#fff;text-align:center}
+  .quote blockquote{font-size:28px;line-height:1.4;max-width:820px;margin:0 auto}
+  .quote cite{display:block;margin-top:20px;color:var(--accent2);font-size:17px;font-style:normal;
+    font-family:Helvetica,Arial,sans-serif;letter-spacing:1px}
+
+  footer{background:var(--deep);color:#cdd6db;padding:54px 0 28px}
+  .fgrid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:34px;margin-bottom:30px}
+  footer h5{color:#fff;font-size:16px;margin-bottom:14px}
+  footer a,footer p{display:block;color:#9fb0b9;font-size:15px;margin-bottom:8px;font-family:Helvetica,Arial,sans-serif}
+  footer a:hover{color:var(--accent2)}
+  .fbar{border-top:1px solid #28414b;padding-top:18px;text-align:center;color:#6f8089;font-size:13px;
+    font-family:Helvetica,Arial,sans-serif}
+
+  @keyframes rise{to{opacity:1;transform:none}}
+  @keyframes fade{to{opacity:1}}
+  @keyframes bob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(7px)}}
+
+  @media(max-width:820px){
+    .links{position:absolute;top:68px;left:0;right:0;background:#142a32;flex-direction:column;gap:0;
+      max-height:0;overflow:hidden;transition:.3s}
+    .links.open{max-height:320px;padding:8px 0}
+    .links a{padding:14px 24px;border-bottom:1px solid #28414b}
+    .burger{display:flex}
+    .hero h1{font-size:34px}.about{grid-template-columns:1fr}
+    .rhythm{grid-template-columns:1fr}.writing{grid-template-columns:1fr}.fgrid{grid-template-columns:1fr}
+    .quote blockquote{font-size:22px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <nav>
+      <div class="brand">St. Genevieve <span>| Rev. C. Mullins</span></div>
+      <div class="links" id="menu">
+        <a href="#about">About</a>
+        <a href="#rhythm">The Work</a>
+        <a href="#writing">Writing</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <div class="burger" onclick="document.getElementById('menu').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <h1>A ministry of presence, scholarship, and the slow work of hope.</h1>
+    <p class="lead">Rector of St. Genevieve Community Church in greater Cleveland, theologian, and parish shepherd to 350 families.</p>
+    <div class="cta">
+      <a class="btn solid" href="#writing">Read recent reflections</a>
+      <a class="btn ghost" href="#contact">Get in touch</a>
+    </div>
+  </div>
+  <div class="scroll-cue">scroll to begin</div>
+</div>
+
+<section id="about">
+  <div class="wrap about">
+    <div class="reveal">
+      <div class="eyebrow">About</div>
+      <h2>Colette Mullins</h2>
+      <p>For more than twenty-five years I have served congregations as a minister, preacher, and pastoral companion. I treat each sermon as a literary essay, written longhand first, then shaped at the desk in the early morning before the day begins.</p>
+      <p>My work lives at the meeting point of theology and ordinary life: a hospital bedside at dawn, a council vote that tests our conscience, a family gathered in grief, a young person asking the oldest questions. I believe the gospel is not a relic of the past but a living word that still addresses us where we are.</p>
+      <p>Alongside parish ministry, I co-chair the Cleveland Interfaith Council, sustain a daily theological study partnership, and care for a congregation in the middle of building its future.</p>
+    </div>
+    <aside class="facts reveal">
+      <h3>At a glance</h3>
+      <ul>
+        <li><b>Role</b><span>Rector, St. Genevieve Community Church</span></li>
+        <li><b>Community</b><span>350 member families, greater Cleveland</span></li>
+        <li><b>Study</b><span>Daily theology partnership, twelve years</span></li>
+        <li><b>Interfaith</b><span>Co-chair, Cleveland Interfaith Council</span></li>
+        <li><b>Formation</b><span>Divinity and philosophy degrees</span></li>
+        <li><b>Off the desk</b><span>French cooking, hiking, chess</span></li>
+      </ul>
+    </aside>
+  </div>
+</section>
+
+<div class="bandwrap">
+  <section id="rhythm">
+    <div class="wrap">
+      <div class="reveal"><div class="eyebrow">The Work</div><h2>The rhythms of a parish life</h2></div>
+      <div class="rhythm">
+        <div class="rcard reveal"><div class="ic">+</div><h4>Pastoral Care</h4>
+          <p>Visits, grief and counseling follow-ups, memorial anniversaries, and the small commitments that hold a community together.</p></div>
+        <div class="rcard reveal"><div class="ic">&#9826;</div><h4>Scholarship and Preaching</h4>
+          <p>Protected sermon-writing time, a daily study partnership, and research prepared with the sources right.</p></div>
+        <div class="rcard reveal"><div class="ic">&#9728;</div><h4>Interfaith Leadership</h4>
+          <p>Coordinating shared prayer, witness, and dialogue across five faith communities in our city.</p></div>
+        <div class="rcard reveal"><div class="ic">&#9633;</div><h4>Building Our Future</h4>
+          <p>A capital campaign to reinforce a hundred year old sanctuary and make every space accessible.</p></div>
+        <div class="rcard reveal"><div class="ic">&#9834;</div><h4>Worship and Music</h4>
+          <p>Seasons of song from Advent lessons and carols to the quiet weeks of ordinary time.</p></div>
+        <div class="rcard reveal"><div class="ic">&#9787;</div><h4>Formation</h4>
+          <p>Adult education, confirmation classes, and the long apprenticeship of faith across a lifetime.</p></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<section id="writing">
+  <div class="wrap">
+    <div class="reveal"><div class="eyebrow">Writing</div><h2>Recent reflections</h2></div>
+    <div class="writing">
+      <article class="essay reveal"><div class="date">All Saints, November 2026</div>
+        <h4>The Work of All Saints</h4>
+        <p>Sainthood is not a category reserved for the medieval or the martyred. It is a calling woven into the fabric of ordinary life, the elder who greets at the door in every weather, the singer who shows up for forty years.</p>
+        <a class="more" onclick="this.nextElementSibling.style.display='block';this.style.display='none'">Read more</a>
+        <p style="display:none;margin-top:10px">Gregory of Nyssa wrote of the eternal stretching of the soul toward God. Saints are not those who have arrived. They are those who keep stretching.</p>
+      </article>
+      <article class="essay reveal"><div class="date">World Communion, October 2026</div>
+        <h4>The Harvest of Patience</h4>
+        <p>Patience is not waiting without complaint. It is the capacity to bear what comes and to remain open, to keep showing up, to keep setting the table, and to trust the harvest that arrives on its own schedule.</p>
+        <a class="more" onclick="this.nextElementSibling.style.display='block';this.style.display='none'">Read more</a>
+        <p style="display:none;margin-top:10px">From the ruins of everything, the poet of Lamentations still calls to mind the steadfast love that does not cease. That calling to mind is the act of faith.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="quote">
+  <div class="wrap reveal">
+    <blockquote>"Hope is not optimism. It is the stubborn conviction that the light is coming, that the promises are true, that we are held."</blockquote>
+    <cite>From the Advent pastoral letter</cite>
+  </div>
+</section>
+
+<footer id="contact">
+  <div class="wrap">
+    <div class="fgrid">
+      <div>
+        <h5>St. Genevieve Community Church</h5>
+        <p>A welcoming Episcopal congregation serving greater Cleveland since 1924, gathered around word, table, and the care of neighbors.</p>
+      </div>
+      <div>
+        <h5>Reach Rev. Mullins</h5>
+        <a href="mailto:colette.mullins@Greenridertech.com">colette.mullins@Greenridertech.com</a>
+        <a>(216) 555-0340</a>
+      </div>
+      <div>
+        <h5>Visit</h5>
+        <a href="#about">About</a>
+        <a href="#writing">Writing</a>
+        <a href="#rhythm">The Work</a>
+      </div>
+    </div>
+    <div class="fbar">Prepared and maintained by the parish office. Pastoral correspondence is always welcome.</div>
+  </div>
+</footer>
+
+<script>
+  // scroll reveal
+  var reveals=document.querySelectorAll('.reveal');
+  if('IntersectionObserver' in window){
+    var obs=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');obs.unobserve(e.target)}})},{threshold:.12});
+    reveals.forEach(function(el){obs.observe(el)});
+    // safety net: ensure nothing stays hidden
+    setTimeout(function(){reveals.forEach(function(el){el.classList.add('in')})},2500);
+  } else {
+    reveals.forEach(function(el){el.classList.add('in')});
+  }
+  // close mobile menu on link tap
+  document.querySelectorAll('#menu a').forEach(function(a){a.addEventListener('click',function(){document.getElementById('menu').classList.remove('open')})});
+</script>
+</body>
+</html>

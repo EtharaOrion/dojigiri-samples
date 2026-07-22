@@ -1,0 +1,21 @@
+id,name,slug,sku,type,status,price,regular_price,sale_price,on_sale,stock_quantity,stock_status,manage_stock,categories,description,date_created
+7401,Signature Tee,signature-tee,tee-sig-001,simple,publish,23.8,28.0,23.8,True,185,instock,True,"[""Apparel""]","Signature Tee — small-batch, ships from Atlanta.",2026-11-02T00:00:00
+7402,Crewneck Sweatshirt,crewneck-sweatshirt,sweat-crew-001,simple,publish,58.0,58.0,52.2,False,109,instock,True,"[""Apparel""]","Crewneck Sweatshirt — small-batch, ships from Atlanta.",2026-10-27T00:00:00
+7403,Cap — adjustable,cap-adjustable,cap-adj-001,simple,publish,24.0,24.0,21.6,False,199,instock,True,"[""Apparel""]","Cap — adjustable — small-batch, ships from Atlanta.",2026-10-22T00:00:00
+7404,Tote bag,tote-bag,tote-can-001,simple,publish,18.7,22.0,18.7,True,48,instock,True,"[""Accessories""]","Tote bag — small-batch, ships from Atlanta.",2026-10-17T00:00:00
+7405,Mug — 12oz,mug-12oz,mug-12oz-001,simple,publish,14.0,14.0,12.6,False,27,instock,True,"[""Drinkware""]","Mug — 12oz — small-batch, ships from Atlanta.",2026-10-12T00:00:00
+7406,Water bottle — 24oz,water-bottle-24oz,btl-24oz-001,simple,publish,26.0,26.0,23.4,False,67,instock,True,"[""Drinkware""]","Water bottle — 24oz — small-batch, ships from Atlanta.",2026-10-07T00:00:00
+7407,Notebook — A5 ruled,notebook-a5-ruled,nb-a5r-001,simple,publish,15.3,18.0,15.3,True,154,instock,True,"[""Stationery""]","Notebook — A5 ruled — small-batch, ships from Atlanta.",2026-10-02T00:00:00
+7408,Sticker pack — 6 ct,sticker-pack-6-ct,stk-6ct-001,simple,publish,9.0,9.0,8.1,False,35,instock,True,"[""Stationery""]","Sticker pack — 6 ct — small-batch, ships from Atlanta.",2026-03-28T00:00:00
+7409,Gift card — $25,gift-card-25,gift-25-001,simple,publish,25.0,25.0,22.5,False,66,instock,True,"[""Gift Cards""]","Gift card — $25 — small-batch, ships from Atlanta.",2026-03-23T00:00:00
+7410,Gift card — $50,gift-card-50,gift-50-001,simple,publish,42.5,50.0,42.5,True,103,instock,True,"[""Gift Cards""]","Gift card — $50 — small-batch, ships from Atlanta.",2026-03-18T00:00:00
+128,Gift card — $44,gift-card-44,gift-25-9001,simple,publish,25.0,25.0,22.5,False,66,instock,True,"[""Gift Cards""]","Gift card — $25 — small-batch, ships from Atlanta.",2026-03-23T00:00:19
+130,Gift card — $70,gift-card-70,gift-50-9001,simple,publish,42.5,50.0,42.5,True,103,instock,True,"[""Gift Cards""]","Gift card — $50 — small-batch, ships from Atlanta.",2026-03-18T00:00:20
+7414,Signature Tee,signature-tee,tee-sig-9001,simple,publish,23.8,28.0,23.8,True,185,instock,True,"[""Apparel""]","Signature Tee — small-batch, ships from Atlanta.",2026-11-09T00:00:00
+7428,Crewneck Sweatshirt,crewneck-sweatshirt,sweat-crew-9001,simple,publish,58.0,58.0,52.2,False,109,instock,True,"[""Apparel""]","Crewneck Sweatshirt — small-batch, ships from Atlanta.",2026-11-10T00:00:00
+7442,Cap — adjustable,cap-adjustable,cap-adj-9001,simple,publish,24.0,24.0,21.6,False,199,instock,True,"[""Apparel""]","Cap — adjustable — small-batch, ships from Atlanta.",2026-11-12T00:00:00
+7456,Tote bag,tote-bag,tote-can-9001,simple,publish,18.7,22.0,18.7,True,48,instock,True,"[""Accessories""]","Tote bag — small-batch, ships from Atlanta.",2026-11-14T00:00:00
+7470,Mug — 12oz,mug-12oz,mug-12oz-9001,simple,publish,14.0,14.0,12.6,False,27,instock,True,"[""Drinkware""]","Mug — 12oz — small-batch, ships from Atlanta.",2026-11-16T00:00:00
+7484,Water bottle — 24oz,water-bottle-24oz,btl-24oz-9001,simple,publish,26.0,26.0,23.4,False,67,instock,True,"[""Drinkware""]","Water bottle — 24oz — small-batch, ships from Atlanta.",2026-11-18T00:00:00
+7498,Notebook — A5 ruled,notebook-a5-ruled,nb-a5r-9001,simple,publish,15.3,18.0,15.3,True,154,instock,True,"[""Stationery""]","Notebook — A5 ruled — small-batch, ships from Atlanta.",2026-11-20T00:00:00
+7512,Sticker pack — 6 ct,sticker-pack-6-ct,stk-6ct-9001,simple,publish,9.0,9.0,8.1,False,35,instock,True,"[""Stationery""]","Sticker pack — 6 ct — small-batch, ships from Atlanta.",2026-05-23T00:00:00

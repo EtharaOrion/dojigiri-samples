@@ -1,0 +1,282 @@
+[
+  {
+    "Id": "8001",
+    "TxnDate": "2026-03-01",
+    "TotalAmt": 128.45,
+    "Line": [
+      {
+        "Description": "Weekly groceries - Harvest Market",
+        "Amount": 128.45
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8002",
+    "TxnDate": "2026-03-02",
+    "TotalAmt": 52.3,
+    "Line": [
+      {
+        "Description": "Fuel - Highway 70 - Shell",
+        "Amount": 52.3
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-02T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8003",
+    "TxnDate": "2026-02-03",
+    "TotalAmt": 96.42,
+    "Line": [
+      {
+        "Description": "Groceries - Kroger Green Hills",
+        "Amount": 96.42
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-03T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8004",
+    "TxnDate": "2026-02-04",
+    "TotalAmt": 84.6,
+    "Line": [
+      {
+        "Description": "Date night dinner - Firepoint Grill",
+        "Amount": 84.6
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-04T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8005",
+    "TxnDate": "2026-02-05",
+    "TotalAmt": 47.2,
+    "Line": [
+      {
+        "Description": "Garden supplies - Bellevue Hardware",
+        "Amount": 47.2
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-05T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8006",
+    "TxnDate": "2026-01-06",
+    "TotalAmt": 24.0,
+    "Line": [
+      {
+        "Description": "Coffee beans - Hazelton Coffee",
+        "Amount": 24.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-06T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8007",
+    "TxnDate": "2026-01-07",
+    "TotalAmt": 63.18,
+    "Line": [
+      {
+        "Description": "Household essentials - Amazon",
+        "Amount": 63.18
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-07T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8008",
+    "TxnDate": "2026-01-08",
+    "TotalAmt": 71.55,
+    "Line": [
+      {
+        "Description": "Home goods - Target Bellevue",
+        "Amount": 71.55
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-08T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8009",
+    "TxnDate": "2025-12-09",
+    "TotalAmt": 18.4,
+    "Line": [
+      {
+        "Description": "Prescriptions - lisinopril - Walgreens",
+        "Amount": 18.4
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-09T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8010",
+    "TxnDate": "2025-12-10",
+    "TotalAmt": 15.99,
+    "Line": [
+      {
+        "Description": "Streaming - Ridgeline Streaming",
+        "Amount": 15.99
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-10T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8011",
+    "TxnDate": "2025-11-11",
+    "TotalAmt": 44.0,
+    "Line": [
+      {
+        "Description": "App membership - Peloton",
+        "Amount": 44.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-11T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8012",
+    "TxnDate": "2025-11-12",
+    "TotalAmt": 22.99,
+    "Line": [
+      {
+        "Description": "Grisham novel - Volunteer State Booksellers",
+        "Amount": 22.99
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-12T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8013",
+    "TxnDate": "2025-10-13",
+    "TotalAmt": 72.1,
+    "Line": [
+      {
+        "Description": "Meal kit - Sunday Supper Meal Kit",
+        "Amount": 72.1
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-13T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8014",
+    "TxnDate": "2025-10-14",
+    "TotalAmt": 184.3,
+    "Line": [
+      {
+        "Description": "Bulk household - Costco",
+        "Amount": 184.3
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-14T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8015",
+    "TxnDate": "2025-09-15",
+    "TotalAmt": 68.75,
+    "Line": [
+      {
+        "Description": "Oil change - Highlander - Toyota of Cool Springs",
+        "Amount": 68.75
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-15T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8016",
+    "TxnDate": "2025-09-16",
+    "TotalAmt": 41.0,
+    "Line": [
+      {
+        "Description": "Choir supplies - Calvary Hill Church",
+        "Amount": 41.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-16T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8017",
+    "TxnDate": "2025-08-17",
+    "TotalAmt": 112.8,
+    "Line": [
+      {
+        "Description": "Sunday dinner groceries - Harvest Market",
+        "Amount": 112.8
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-08-17T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8018",
+    "TxnDate": "2025-07-18",
+    "TotalAmt": 49.1,
+    "Line": [
+      {
+        "Description": "Fuel - Shell",
+        "Amount": 49.1
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-07-18T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8019",
+    "TxnDate": "2025-06-19",
+    "TotalAmt": 38.5,
+    "Line": [
+      {
+        "Description": "Workshop handouts - Cumberland Print Shop",
+        "Amount": 38.5
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-06-19T09:00:00-06:00"
+    }
+  },
+  {
+    "Id": "8020",
+    "TxnDate": "2025-05-20",
+    "TotalAmt": 34.25,
+    "Line": [
+      {
+        "Description": "Brunch with Tanya - Percy Warner Cafe",
+        "Amount": 34.25
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-05-20T09:00:00-06:00"
+    }
+  }
+]

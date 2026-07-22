@@ -1,0 +1,76 @@
+{
+  "BreakEvenAnalysis": {
+    "ActionItems": [
+      "No action items"
+    ],
+    "Context": "Annual Youth Arts Showcase",
+    "CurrentState": {
+      "AaronDrawFromNet": 0,
+      "MonthlyExpenses": {
+        "Cleaning": {
+          "BiWeekly": 0,
+          "Monthly": 0
+        },
+        "InstructorPay_Raj": 0,
+        "Insurance": {
+          "Monthly": 0,
+          "Quarterly": 0
+        },
+        "Marketing": {
+          "AvgMonthly": 0
+        },
+        "Rent": 0,
+        "Supplies": {
+          "AvgMonthly": 0
+        },
+        "TotalMonthlyExpenses": 0,
+        "Utilities": {
+          "Electric": 0,
+          "Total": 0,
+          "Water": 0
+        }
+      },
+      "MonthlyNetIncome": 0,
+      "MonthlyRevenue": {
+        "DropIns": {
+          "AvgMonthly": 0
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 0
+        },
+        "MembershipDues": {
+          "Members": 0,
+          "Rate": 0,
+          "Total": 0
+        },
+        "TotalMonthlyRevenue": 0
+      },
+      "Note": "Assumes ticket price of $75 and 800 attendees.",
+      "RetainedForReserves": 0
+    },
+    "KeyInsight": "Sponsor revenue covers fixed venue and production costs at 60% of goal.",
+    "PreparedBy": "Andrew Santos",
+    "PreparedDate": "2025-09-15",
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "BreakEvenCalculation": "Fixed Costs / (Price - Variable Cost) = Units to break even",
+        "BreakEvenMembers": 0,
+        "Impact": "Reaching break-even unlocks discretionary funding for Livernois renovation.",
+        "Label": "Break-even analysis \u2014 Annual Showcase",
+        "NewNetIncome": 0,
+        "NewRent": 0,
+        "NewTotalExpenses": 0,
+        "RentIncrease": 0
+      },
+      "Scenario_B_RentTo850": {
+        "BreakEvenMembers": 0,
+        "Impact": "Reaching break-even unlocks discretionary funding for Livernois renovation.",
+        "Label": "Break-even analysis \u2014 Annual Showcase",
+        "NewNetIncome": 0,
+        "NewRent": 0,
+        "NewTotalExpenses": 0,
+        "RentIncrease": 0
+      }
+    }
+  }
+}

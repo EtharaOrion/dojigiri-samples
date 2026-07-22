@@ -1,0 +1,4 @@
+id,name,displayField,description,fields
+wc1j5eyrytkv,Blog post,title,Long-form blog posts,"[{""id"": ""title"", ""type"": ""Symbol"", ""required"": true}, {""id"": ""slug"", ""type"": ""Symbol"", ""required"": true}, {""id"": ""body"", ""type"": ""RichText"", ""required"": false}]"
+rbzt1nt4b,Author,name,Author byline,"[{""id"": ""name"", ""type"": ""Symbol"", ""required"": true}, {""id"": ""bio"", ""type"": ""Text"", ""required"": false}]"
+3azwsmg,Landing page,title,Marketing landing pages,"[{""id"": ""title"", ""type"": ""Symbol""}, {""id"": ""hero"", ""type"": ""Symbol""}, {""id"": ""cta_label"", ""type"": ""Symbol""}]"

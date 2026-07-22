@@ -1,0 +1,67 @@
+[
+  {
+    "Id": "9769",
+    "DisplayName": "Internal Revenue Service",
+    "PrimaryEmailAddr": {
+      "Address": "taxpayeradvocate@irs.gov"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(800) 829-1040"
+    },
+    "Balance": "0.00",
+    "Active": true,
+    "Notes": "Vendor — Internal Revenue Service"
+  },
+  {
+    "Id": "9200",
+    "DisplayName": "Florida Department of Revenue",
+    "PrimaryEmailAddr": {
+      "Address": "billing@floridarevenue.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(850) 488-6800"
+    },
+    "Balance": "0.00",
+    "Active": true,
+    "Notes": "Vendor — Florida Department of Revenue"
+  },
+  {
+    "Id": "9566",
+    "DisplayName": "River Oaks Specialty Meats",
+    "PrimaryEmailAddr": {
+      "Address": "orders@brooks-meats.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(713) 474-7765"
+    },
+    "Balance": "0.00",
+    "Active": true,
+    "Notes": "Vendor — River Oaks Specialty Meats"
+  },
+  {
+    "Id": "9873",
+    "DisplayName": "Toast Inc",
+    "PrimaryEmailAddr": {
+      "Address": "ar@toasttab.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(617) 297-1005"
+    },
+    "Balance": "0.00",
+    "Active": true,
+    "Notes": "Vendor — Toast Inc"
+  },
+  {
+    "Id": "9623",
+    "DisplayName": "State Alcoholic Beverage Commission",
+    "PrimaryEmailAddr": {
+      "Address": "licensing@myfloridalicense.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(850) 487-1395"
+    },
+    "Balance": "0.00",
+    "Active": true,
+    "Notes": "Vendor — State Alcoholic Beverage Commission"
+  }
+]

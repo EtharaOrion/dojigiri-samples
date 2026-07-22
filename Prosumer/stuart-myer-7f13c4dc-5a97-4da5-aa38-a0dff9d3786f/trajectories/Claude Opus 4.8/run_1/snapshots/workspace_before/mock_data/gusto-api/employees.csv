@@ -1,0 +1,32 @@
+company_id,department,email,first_name,flsa_status,id,job_title,last_name,payment_unit,rate,start_date,terminated,__api__,__table__,__file__,__row_index__
+co-0000f7b97211,Brewing,stuart.myer@voissync.ai,Stuart,Exempt,emp-9db1b05f,Head Brewer & Co-Owner,Myer,Year,72000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,0
+co-0000f7b97211,Taproom,casey.lim@driftwoodbrewing.com,Casey,Nonexempt,emp-3219fe72,Bartender,Lim,Hour,19.0,2024-02-05,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,1
+co-0000f7b97211,Taproom,tyler.brooks@driftwoodbrewing.com,Tyler,Nonexempt,emp-e9e15fcb,Bartender,Brooks,Hour,18.5,2024-05-20,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,2
+co-0000f7b97211,Operations,jake.callahan@driftwoodbrewing.com,Jake,Exempt,emp-10e7420c,Co-Owner,Callahan,Year,72000.0,2023-05-01,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,3
+co-0000f7b97211,Taproom,nora.bishop@driftwoodbrewing.com,Nora,Nonexempt,emp-2286b15c,Bartender,Bishop,Hour,18.0,2025-06-02,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,4
+co-0000f7b97211,Cellar,diego.ramos@driftwoodbrewing.com,Diego,Nonexempt,emp-a20539b8,Cellar Assistant,Ramos,Year,42000.0,2024-03-18,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,5
+co-0000f7b97211,Taproom,renata.cole@driftwoodbrewing.com,Renata,Nonexempt,emp-11efe83a,Bartender,Cole,Hour,18.0,2025-01-14,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,6
+co-0000f7b97211,Cellar,sam.whitfield@driftwoodbrewing.com,Sam,Nonexempt,emp-979e0af2,Cellar Assistant,Whitfield,Year,41000.0,2023-09-18,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,7
+co-0000f7b97211,Taproom,priya.anand@driftwoodbrewing.com,Priya,Nonexempt,emp-8bcb5761,Bartender,Anand,Hour,18.5,2024-08-11,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,8
+co-0000f7b97211,Taproom,megan.hale@driftwoodbrewing.com,Megan,Exempt,emp-476cff32,Taproom Manager,Hale,Year,52000.0,2023-07-10,False,gusto-api,employees,/opt/mocks/gusto-api/employees.json,9
+co-0000f7b97211,Cellar,jordan.avery@driftwoodbrewing.com,Jordan,Nonexempt,emp-a1f5e177,Cellar Assistant,Avery,Hour,17.5,2024-06-03,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,10
+co-0000f7b97211,Brewing,stuart.myer@voissync.ai,Stuart,Exempt,emp-9db1b05f-v1,Head Brewer & Co-Owner,Myer,Year,72000.0,2024-11-12,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,11
+co-0000f7b97211,Taproom,casey.lim@driftwoodbrewing.com,Casey,Nonexempt,emp-3219fe72-v2,Bartender,Lim,Hour,19.0,2025-03-24,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,12
+co-0000f7b97211,Taproom,tyler.brooks@driftwoodbrewing.com,Tyler,Nonexempt,emp-e9e15fcb-v3,Bartender,Brooks,Hour,18.5,2025-08-05,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,13
+co-0000f7b97211,Operations,jake.callahan@driftwoodbrewing.com,Jake,Exempt,emp-10e7420c-v4,Co-Owner,Callahan,Year,72000.0,2023-05-01,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,14
+co-0000f7b97211,Taproom,nora.bishop@driftwoodbrewing.com,Nora,Nonexempt,emp-2286b15c-v5,Bartender,Bishop,Hour,18.0,2023-09-18,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,15
+co-0000f7b97211,Cellar,diego.ramos@driftwoodbrewing.com,Diego,Nonexempt,emp-a20539b8-v6,Cellar Assistant,Ramos,Year,42000.0,2024-01-15,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,16
+co-0000f7b97211,Taproom,renata.cole@driftwoodbrewing.com,Renata,Nonexempt,emp-11efe83a-v7,Bartender,Cole,Hour,18.0,2024-06-03,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,17
+co-0000f7b97211,Cellar,sam.whitfield@driftwoodbrewing.com,Sam,Nonexempt,emp-979e0af2-v8,Cellar Assistant,Whitfield,Year,41000.0,2024-11-12,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,18
+co-0000f7b97211,Taproom,priya.anand@driftwoodbrewing.com,Priya,Nonexempt,emp-8bcb5761-v9,Bartender,Anand,Hour,18.5,2025-03-24,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,19
+co-0000f7b97211,Brewing,stuart.myer@voissync.ai,Stuart,Exempt,emp-9db1b05f-v1-2,Head Brewer & Co-Owner,Myer,Year,72000.0,2025-08-05,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,20
+co-0000f7b97211,Taproom,casey.lim@driftwoodbrewing.com,Casey,Nonexempt,emp-3219fe72-v2-2,Bartender,Lim,Hour,19.0,2023-05-01,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,21
+co-0000f7b97211,Taproom,tyler.brooks@driftwoodbrewing.com,Tyler,Nonexempt,emp-e9e15fcb-v3-2,Bartender,Brooks,Hour,18.5,2023-09-18,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,22
+co-0000f7b97211,Operations,jake.callahan@driftwoodbrewing.com,Jake,Exempt,emp-10e7420c-v4-2,Co-Owner,Callahan,Year,72000.0,2024-01-15,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,23
+co-0000f7b97211,Taproom,nora.bishop@driftwoodbrewing.com,Nora,Nonexempt,emp-2286b15c-v5-2,Bartender,Bishop,Hour,18.0,2024-06-03,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,24
+co-0000f7b97211,Cellar,diego.ramos@driftwoodbrewing.com,Diego,Nonexempt,emp-a20539b8-v6-2,Cellar Assistant,Ramos,Year,42000.0,2024-11-12,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,25
+co-0000f7b97211,Taproom,renata.cole@driftwoodbrewing.com,Renata,Nonexempt,emp-11efe83a-v7-2,Bartender,Cole,Hour,18.0,2025-03-24,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,26
+co-0000f7b97211,Cellar,sam.whitfield@driftwoodbrewing.com,Sam,Nonexempt,emp-979e0af2-v8-2,Cellar Assistant,Whitfield,Year,41000.0,2025-08-05,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,27
+co-0000f7b97211,Taproom,priya.anand@driftwoodbrewing.com,Priya,Nonexempt,emp-8bcb5761-v9-2,Bartender,Anand,Hour,18.5,2023-05-01,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,28
+co-0000f7b97211,Taproom,megan.hale@driftwoodbrewing.com,Megan,Exempt,emp-476cff32-v10,Taproom Manager,Hale,Year,52000.0,2023-09-18,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,29
+co-0000f7b97211,Cellar,jordan.avery@driftwoodbrewing.com,Jordan,Nonexempt,emp-a1f5e177-v11,Cellar Assistant,Avery,Hour,17.5,2024-01-15,True,gusto-api,employees,/opt/mocks/gusto-api/employees.json,30

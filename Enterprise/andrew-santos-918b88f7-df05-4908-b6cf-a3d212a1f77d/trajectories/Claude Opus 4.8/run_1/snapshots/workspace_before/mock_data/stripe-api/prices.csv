@@ -1,0 +1,11 @@
+active,currency,id,nickname,product,recurring_interval,unit_amount,__api__,__table__,__file__,__row_index__,object,recurring,type
+True,usd,price_b8d6b456a0373d,Starter plan — monthly,prod_82b09dc624281f,month,1900,stripe-api,prices,/opt/mocks/stripe-api/prices.json,0,price,"{""interval"": ""month""}",recurring
+True,usd,price_f46a30376253db,Pro plan — monthly,prod_6fdcb3e7001492,month,4900,stripe-api,prices,/opt/mocks/stripe-api/prices.json,1,price,"{""interval"": ""month""}",recurring
+True,usd,price_8a96840b25912c,Business plan — monthly,prod_813468e14a61b4,month,14900,stripe-api,prices,/opt/mocks/stripe-api/prices.json,2,price,"{""interval"": ""month""}",recurring
+True,usd,price_34d2ee58524e49,Pro plan — annual,prod_e8bbb182e6ede1,year,49000,stripe-api,prices,/opt/mocks/stripe-api/prices.json,3,price,"{""interval"": ""year""}",recurring
+True,usd,price_732822010115be,Implementation services,prod_d1a70d88883cf0,one_time,75000,stripe-api,prices,/opt/mocks/stripe-api/prices.json,4,price,"{""interval"": ""one_time""}",recurring
+True,usd,price_9a9442610ea938,Consultation — 60 min,prod_3a643eb147e5a3,one_time,18000,stripe-api,prices,/opt/mocks/stripe-api/prices.json,5,price,"{""interval"": ""one_time""}",recurring
+True,usd,price_a4148824278447,Brand kit,prod_702d06f5142336,one_time,12000,stripe-api,prices,/opt/mocks/stripe-api/prices.json,6,price,"{""interval"": ""one_time""}",recurring
+True,usd,price_27820d8902e942,Welcome pack,prod_a193fe658d7625,one_time,4500,stripe-api,prices,/opt/mocks/stripe-api/prices.json,7,price,"{""interval"": ""one_time""}",recurring
+True,usd,price_5f810714c0479c,Tee — large,prod_39e317352ebe97,one_time,2800,stripe-api,prices,/opt/mocks/stripe-api/prices.json,8,price,"{""interval"": ""one_time""}",recurring
+True,usd,price_6081de547da312,Notebook bundle,prod_4b4bc65c73490b,one_time,3500,stripe-api,prices,/opt/mocks/stripe-api/prices.json,9,price,"{""interval"": ""one_time""}",recurring

@@ -1,0 +1,26 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description,Classification,MetaData
+1,Operating Checking,Bank,Checking,5842.5,True,Primary operating account - OnPoint Credit Union,,
+2,Tournament Reserve,Bank,Savings,1450.0,True,Set aside for tournament expenses and equipment replacement,,
+3,Membership Income,Income,ServiceFeeIncome,0,True,Monthly membership dues - $95/member,,
+4,Drop-in Fees,Income,ServiceFeeIncome,0,True,Walk-in class fees - $20/session,,
+5,Tournament Revenue,Income,ServiceFeeIncome,0,True,Registration fees and spectator entry for tournaments,,
+6,Equipment Sales,Income,SalesOfProductIncome,0,True,"Gi, shinai, bokken sales to students",,
+7,Rent Expense,Expense,RentOrLeaseOfBuildings,0,True,Monthly lease - Westbrook Property Mgmt,,
+8,Utilities,Expense,Utilities,0,True,Electric + water/sewer,,
+9,Insurance,Expense,Insurance,0,True,General liability + property - quarterly,,
+10,Instructor Pay,Expense,PayrollExpenses,0,True,Raj Patel monthly draw,,
+11,Supplies & Equipment,Expense,SuppliesMaterials,0,True,"Training equipment, cleaning supplies, mat maintenance",,
+12,Cleaning Services,Expense,RepairMaintenance,0,True,Willamette Cleaning - bi-weekly,,
+13,Tournament Expenses,Expense,EntertainmentMeals,0,True,"Mats rental, trophies, referee fees, event costs",,
+14,Marketing & Advertising,Expense,Advertising,0,True,"Flyers, social media ads, community board postings",,
+201,Beat Sales Revenue,Income,ServiceFeeIncome,0.0,True,Tracked against the spring gala fundraising target.,Revenue,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+202,Streaming Royalties,Income,OtherPrimaryIncome,0.0,True,Let's hold the courtyard performance slot for the gala; I'll choreograph the pas de deux for the principals.,Revenue,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+203,Consulting Revenue,Income,ServiceFeeIncome,0.0,True,Logged for follow-up by Daniel ahead of the next board meeting.,Revenue,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+204,Business Checking,Bank,Checking,2850000.0,True,Let's hold the courtyard performance slot for the gala; I'll choreograph the pas de deux for the principals.,Asset,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+205,Software Expense,Expense,OtherBusinessExpenses,0.0,True,Added to the family calendar; protects Sunday dinner.,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+206,Equipment Expense,Expense,EquipmentRental,0.0,True,Pappas Bros for date night Friday; please confirm the 7:30 reservation with Lisa.,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+207,Studio Expense,Expense,OtherBusinessExpenses,0.0,True,Moving Sophie's pickup to 4:15 after company class - let Lisa know via the family calendar.,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+208,Marketing Expense,Expense,Advertising,0.0,True,Logged for follow-up by Daniel ahead of the next board meeting.,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+209,Meals Expense,Expense,Meals,0.0,True,Moving Sophie's pickup to 4:15 after company class - let Lisa know via the family calendar.,Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+210,Workspace Expense,Expense,OtherBusinessExpenses,0.0,True,"Studio 3 floor repair is quoted at 8,500 - approving so it's fixed before Swan Lake load-in.",Expense,"{""CreateTime"": ""2024-01-15T10:00:00"", ""LastUpdatedTime"": ""2024-06-01T10:00:00""}"
+421,Food Cost - Seafood,Expense,CostOfLaborCos,0.0,True,Flagged for the development office - donor stewardship.,Expense,"{""CreateTime"": ""2026-02-13T09:00:00"", ""LastUpdatedTime"": ""2026-02-13T09:00:00""}"

@@ -1,0 +1,5 @@
+gid,name,workspace_gid,owner_gid,color,archived,notes,created_at,__api__,__table__,__file__,__row_index__
+1200000000000001,Platform,1199000000000001,1100000000000001,dark-pink,False,Tracking work for the Jake's Table team.,2025-01-15T09:00:00Z,asana-api,projects,/opt/mocks/asana-api/projects.json,0
+1200000000000002,Operations,1199000000000001,1100000000000001,light-blue,False,Tracking work for the Operations team.,2025-01-15T09:00:00Z,asana-api,projects,/opt/mocks/asana-api/projects.json,1
+1200000000000003,Customer success,1199000000000001,1100000000000001,dark-orange,False,Tracking work for the Customer success team.,2025-01-15T09:00:00Z,asana-api,projects,/opt/mocks/asana-api/projects.json,2
+1200000000000004,Growth,1199000000000001,1100000000000001,light-blue,False,Tracking work for the Growth team.,2025-01-15T09:00:00Z,asana-api,projects,/opt/mocks/asana-api/projects.json,3

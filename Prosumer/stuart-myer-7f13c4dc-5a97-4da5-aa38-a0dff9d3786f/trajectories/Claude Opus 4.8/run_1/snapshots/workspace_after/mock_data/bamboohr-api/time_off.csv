@@ -1,0 +1,9 @@
+amount,created,employeeId,end,id,notes,start,status,type,unit,__api__,__table__,__file__,__row_index__
+1,2025-12-17,e201,2025-12-29,tor-bbef3b4b,Driftwood Brewing staff record.,2025-12-29,approved,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,0
+2,2025-12-20,e202,2026-01-07,tor-667e95a0,Driftwood Brewing staff record.,2026-01-06,requested,Sick,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,1
+3,2025-12-19,e203,2026-01-17,tor-755de91d,Driftwood Brewing staff record.,2026-01-15,denied,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,2
+1,2025-12-17,e204,2026-01-20,tor-6c0779fe,Driftwood Brewing staff record.,2026-01-20,approved,Bereavement,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,3
+2,2025-12-17,e205,2026-01-29,tor-55f624f3,Driftwood Brewing staff record.,2026-01-28,requested,Parental,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,4
+3,2025-12-20,e206,2026-02-06,tor-9b36fef3,Driftwood Brewing staff record.,2026-02-04,denied,Vacation,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,5
+1,2025-12-21,e207,2026-02-08,tor-c73c3693,Driftwood Brewing staff record.,2026-02-08,approved,Sick,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,6
+2,2025-12-21,e208,2026-02-20,tor-637f9bba,Driftwood Brewing staff record.,2026-02-19,requested,Personal,days,bamboohr-api,time_off,/opt/mocks/bamboohr-api/time_off_requests.json,7

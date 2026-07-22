@@ -1,0 +1,567 @@
+id,thread_id,from_addr,to_addr,cc_addr,subject,snippet,body,date,internal_date,size_estimate,labels,is_unread,is_starred,__api__,__table__,__file__,__row_index__
+msg-17300,thr-7400,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Shift swap request,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-30T00:00:00+00:00,1793318400000,208,"[""INBOX""]",True,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,0
+msg-17301,thr-7400,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Shift swap request,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-30T04:00:00+00:00,1793332800000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,1
+msg-17400,thr-7401,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Continuing education credits,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-28T00:00:00+00:00,1793145600000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,2
+msg-17401,thr-7401,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Continuing education credits,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-28T04:00:00+00:00,1793160000000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,3
+msg-17402,thr-7401,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Continuing education credits,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-28T08:00:00+00:00,1793174400000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,4
+msg-17500,thr-7402,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Charge nurse note,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-26T00:00:00+00:00,1792972800000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,5
+msg-17501,thr-7402,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Charge nurse note,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-26T04:00:00+00:00,1792987200000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,6
+msg-17502,thr-7402,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Charge nurse note,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-26T08:00:00+00:00,1793001600000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,7
+msg-17503,thr-7402,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Charge nurse note,Following up here — anything else I can help with?\n\n— Jake,"Following up here — anything else I can help with?
+
+— Jake",2026-12-26T12:00:00+00:00,1793016000000,120,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,8
+msg-17600,thr-7403,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Patient family follow-up,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-24T00:00:00+00:00,1792800000000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,9
+msg-17601,thr-7403,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Patient family follow-up,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-24T04:00:00+00:00,1792814400000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,10
+msg-17602,thr-7403,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Patient family follow-up,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-24T08:00:00+00:00,1792828800000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,11
+msg-17603,thr-7403,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Patient family follow-up,Following up here — anything else I can help with?\n\n— Jake,"Following up here — anything else I can help with?
+
+— Jake",2026-12-24T12:00:00+00:00,1792843200000,120,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,12
+msg-17700,thr-7404,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Lunch this week?,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Nene",2026-12-22T00:00:00+00:00,1792627200000,204,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,13
+msg-17701,thr-7404,jake.thornton@greenrider.co,nene.barry@gmail.com,marcus.d.johnson@gmail.com,Re: Lunch this week?,"Hi Nene,\n\nThanks for reaching out. I'll take a look later today and circle bac...","Hi Nene,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-22T04:00:00+00:00,1792641600000,184,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,14
+msg-17800,thr-7405,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Coffee next Tuesday?,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Nene",2026-12-20T00:00:00+00:00,1792454400000,204,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,15
+msg-17801,thr-7405,jake.thornton@greenrider.co,nene.barry@gmail.com,marcus.d.johnson@gmail.com,Re: Coffee next Tuesday?,"Hi Nene,\n\nThanks for reaching out. I'll take a look later today and circle bac...","Hi Nene,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-20T04:00:00+00:00,1792468800000,184,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,16
+msg-17802,thr-7405,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Coffee next Tuesday?,"Sounds good, no rush.\n\n— Nene","Sounds good, no rush.
+
+— Nene",2026-12-20T08:00:00+00:00,1792483200000,62,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,17
+msg-17900,thr-7406,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Birthday brunch plans,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Nene",2026-12-18T00:00:00+00:00,1792281600000,204,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,18
+msg-17901,thr-7406,jake.thornton@greenrider.co,nene.barry@gmail.com,marcus.d.johnson@gmail.com,Re: Birthday brunch plans,"Hi Nene,\n\nThanks for reaching out. I'll take a look later today and circle bac...","Hi Nene,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-18T04:00:00+00:00,1792296000000,184,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,19
+msg-17902,thr-7406,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Birthday brunch plans,"Sounds good, no rush.\n\n— Nene","Sounds good, no rush.
+
+— Nene",2026-12-18T08:00:00+00:00,1792310400000,62,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,20
+msg-17903,thr-7406,jake.thornton@greenrider.co,nene.barry@gmail.com,marcus.d.johnson@gmail.com,Re: Birthday brunch plans,Following up here — anything else I can help with?\n\n— Jake,"Following up here — anything else I can help with?
+
+— Jake",2026-12-18T12:00:00+00:00,1792324800000,120,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,21
+msg-18000,thr-7407,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Renewal options,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-16T00:00:00+00:00,1792108800000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,22
+msg-18001,thr-7407,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Renewal options,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-16T04:00:00+00:00,1792123200000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,23
+msg-18002,thr-7407,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Renewal options,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-16T08:00:00+00:00,1792137600000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,24
+msg-18003,thr-7407,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Renewal options,Following up here — anything else I can help with?\n\n— Jake,"Following up here — anything else I can help with?
+
+— Jake",2026-12-16T12:00:00+00:00,1792152000000,120,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,25
+msg-18100,thr-7408,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Vendor invoice question,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-14T00:00:00+00:00,1791936000000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,26
+msg-18101,thr-7408,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Vendor invoice question,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-14T04:00:00+00:00,1791950400000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,27
+msg-18200,thr-7409,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Apartment lease renewal,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-12T00:00:00+00:00,1791763200000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,28
+msg-18201,thr-7409,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Apartment lease renewal,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-12T04:00:00+00:00,1791777600000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,29
+msg-18202,thr-7409,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Apartment lease renewal,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-12T08:00:00+00:00,1791792000000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,30
+msg-18300,thr-7410,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Newsletter — this week's reads,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-10T00:00:00+00:00,1791590400000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,31
+msg-18301,thr-7410,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Newsletter — this week's reads,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-10T04:00:00+00:00,1791604800000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,32
+msg-18302,thr-7410,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Newsletter — this week's reads,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-10T08:00:00+00:00,1791619200000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,33
+msg-18303,thr-7410,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Newsletter — this week's reads,Following up here — anything else I can help with?\n\n— Jake,"Following up here — anything else I can help with?
+
+— Jake",2026-12-10T12:00:00+00:00,1791633600000,120,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,34
+msg-18400,thr-7411,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Schedule check — kids pickup,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-08T00:00:00+00:00,1791417600000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,35
+msg-18401,thr-7411,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Schedule check — kids pickup,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-08T04:00:00+00:00,1791432000000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,36
+msg-18402,thr-7411,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Schedule check — kids pickup,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-08T08:00:00+00:00,1791446400000,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,37
+msg-18403,thr-7411,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Schedule check — kids pickup,Following up here — anything else I can help with?\n\n— Jake,"Following up here — anything else I can help with?
+
+— Jake",2026-12-08T12:00:00+00:00,1767225603686,120,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,38
+msg-18500,thr-7412,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Family vacation planning,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-06T00:00:00+00:00,1791244800000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,39
+msg-18501,thr-7412,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Family vacation planning,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-06T04:00:00+00:00,1791259200000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,40
+msg-18600,thr-7413,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Weekend plans,"Hi Jake,\n\nWanted to check in about this. Let me know your thoughts when you ha...","Hi Jake,
+
+Wanted to check in about this. Let me know your thoughts when you have a moment.
+
+— Marcus",2026-12-04T00:00:00+00:00,1791072000000,208,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,41
+msg-18601,thr-7413,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,marcus.d.johnson@gmail.com,Re: Weekend plans,"Hi Marcus,\n\nThanks for reaching out. I'll take a look later today and circle b...","Hi Marcus,
+
+Thanks for reaching out. I'll take a look later today and circle back.
+
+— Jake",2026-12-04T04:00:00+00:00,1791086400000,188,"[""SENT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,42
+msg-18602,thr-7413,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Re: Weekend plans,"Sounds good, no rush.\n\n— Marcus","Sounds good, no rush.
+
+— Marcus",2026-12-04T08:00:00+00:00,1767225604171,66,"[""INBOX""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,43
+msg-20000,thr-7600,rachel.nkomo@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Cooking class question — Southern brunch basics,"Hi Jake,  So excited for the Southern brunch basics class. Quick question abou...","Hi Jake,
+
+So excited for the Southern brunch basics class. Quick question about the shrimp and grits — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Rachel Nkomo",2026-10-03T08:00:00+00:00,1791014400000,427,"[""INBOX""]",True,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,44
+msg-20001,thr-7601,aisha.patel@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-10-05T00:00:00+00:00,1791158400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,45
+msg-20002,thr-7602,receipts@amazon.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Order receipt — Amazon Spice Co,Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for...,"Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for the weekend class: red beans and rice ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-10-06T16:00:00+00:00,1791302400000,376,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,46
+msg-20003,thr-7603,gloria.johnson@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Family note from Gloria,"Hey Jake,  Can you send the peach cobbler recipe? Miss you all. Give Mariama a...","Hey Jake,
+
+Can you send the peach cobbler recipe? Miss you all. Give Mariama and Ousmane a hug.
+
+Gloria",2026-10-08T08:00:00+00:00,1791446400000,303,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,47
+msg-20004,thr-7604,jake.thornton@greenrider.co,students@jakestable.com,marcus.d.johnson@gmail.com,Jake's Table newsletter draft — biscuits and gravy workshop,Draft for this month's Mailchimp send: featuring buttermilk fried chicken and ...,Draft for this month's Mailchimp send: featuring buttermilk fried chicken and the upcoming biscuits and gravy workshop class. Photos from the last session attached.,2026-10-10T00:00:00+00:00,1791590400000,364,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,48
+msg-20005,thr-7605,andre.bishop@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Cooking class question — low-country boil night,"Hi Jake,  So excited for the low-country boil night class. Quick question abou...","Hi Jake,
+
+So excited for the low-country boil night class. Quick question about the collard greens with smoked turkey — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Andre Bishop",2026-10-11T16:00:00+00:00,1791734400000,444,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,49
+msg-20006,thr-7606,aisha.patel@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-10-13T08:00:00+00:00,1791878400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,50
+msg-20007,thr-7607,receipts@savory.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Order receipt — Savory Spice Shop,Your order from Savory Spice Shop is confirmed for pickup this Friday. Items f...,"Your order from Savory Spice Shop is confirmed for pickup this Friday. Items for the weekend class: sweet potato casserole ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-10-15T00:00:00+00:00,1792022400000,382,"[""INBOX/Receipts""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,51
+msg-20008,thr-7608,katie.thornton@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Family note from Katie,"Hey Jake,  Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.  Kati...","Hey Jake,
+
+Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.
+
+Katie",2026-10-16T16:00:00+00:00,1792166400000,279,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,52
+msg-20009,thr-7609,jake.thornton@greenrider.co,students@jakestable.com,keisha.williams@gmail.com,Jake's Table newsletter draft — one-pot rice dishes,Draft for this month's Mailchimp send: featuring banana pudding and the upcomi...,Draft for this month's Mailchimp send: featuring banana pudding and the upcoming one-pot rice dishes class. Photos from the last session attached.,2026-10-18T08:00:00+00:00,1792310400000,346,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,53
+msg-20010,thr-7610,lila.mendez@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Cooking class question — family-style comfort classics,"Hi Jake,  So excited for the family-style comfort classics class. Quick questi...","Hi Jake,
+
+So excited for the family-style comfort classics class. Quick question about the mac and cheese — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Lila Mendez",2026-10-20T00:00:00+00:00,1792454400000,431,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,54
+msg-20011,thr-7611,aisha.patel@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-10-21T16:00:00+00:00,1792598400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,55
+msg-20012,thr-7612,receipts@dekalb.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Order receipt — Dekalb Farmers Market,Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Ite...,"Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Items for the weekend class: pulled pork shoulder ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-10-23T08:00:00+00:00,1792742400000,384,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,56
+msg-20013,thr-7613,linda.thornton@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Family note from Linda,"Hey Jake,  How are the kids? Miss you all. Give Mariama and Ousmane a hug.  Li...","Hey Jake,
+
+How are the kids? Miss you all. Give Mariama and Ousmane a hug.
+
+Linda",2026-10-25T00:00:00+00:00,1792886400000,281,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,57
+msg-20014,thr-7614,jake.thornton@greenrider.co,students@jakestable.com,nene.barry@gmail.com,Jake's Table newsletter draft — grilling and smoke fundamentals,Draft for this month's Mailchimp send: featuring okra and tomatoes and the upc...,Draft for this month's Mailchimp send: featuring okra and tomatoes and the upcoming grilling and smoke fundamentals class. Photos from the last session attached.,2026-10-26T16:00:00+00:00,1793030400000,361,"[""DRAFT""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,58
+msg-20015,thr-7615,malik.osei@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Cooking class question — holiday soul food spread,"Hi Jake,  So excited for the holiday soul food spread class. Quick question ab...","Hi Jake,
+
+So excited for the holiday soul food spread class. Quick question about the black-eyed peas — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Malik Osei",2026-10-28T08:00:00+00:00,1793174400000,426,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,59
+msg-20016,thr-7616,aisha.patel@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-10-30T00:00:00+00:00,1793318400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,60
+msg-20017,thr-7617,receipts@costco.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Order receipt — Costco Business,Your order from Costco Business is confirmed for pickup this Friday. Items for...,"Your order from Costco Business is confirmed for pickup this Friday. Items for the weekend class: deviled eggs ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-10-31T16:00:00+00:00,1793462400000,370,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,61
+msg-20018,thr-7618,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Family note from Marcus,"Hey Jake,  Sending love from home. Miss you all. Give Mariama and Ousmane a hu...","Hey Jake,
+
+Sending love from home. Miss you all. Give Mariama and Ousmane a hug.
+
+Marcus",2026-11-02T08:00:00+00:00,1793606400000,288,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,62
+msg-20019,thr-7619,jake.thornton@greenrider.co,students@jakestable.com,gloria.johnson@gmail.com,Jake's Table newsletter draft — cast-iron cooking clinic,Draft for this month's Mailchimp send: featuring crawfish etouffee and the upc...,Draft for this month's Mailchimp send: featuring crawfish etouffee and the upcoming cast-iron cooking clinic class. Photos from the last session attached.,2026-11-04T00:00:00+00:00,1793750400000,354,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,63
+msg-20020,thr-7620,brooke.sutton@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Cooking class question — peach season desserts,"Hi Jake,  So excited for the peach season desserts class. Quick question about...","Hi Jake,
+
+So excited for the peach season desserts class. Quick question about the jerk chicken thighs — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Brooke Sutton",2026-11-05T16:00:00+00:00,1793894400000,430,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,64
+msg-20021,thr-7621,aisha.patel@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-11-07T08:00:00+00:00,1794038400000,344,"[""INBOX/Clients""]",True,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,65
+msg-20022,thr-7622,receipts@amazon.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Order receipt — Amazon Spice Co,Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for...,"Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for the weekend class: candied yams ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-11-09T00:00:00+00:00,1794182400000,370,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,66
+msg-20023,thr-7623,uncle.thornton@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Family note from Uncle,"Hey Jake,  Can you send the peach cobbler recipe? Miss you all. Give Mariama a...","Hey Jake,
+
+Can you send the peach cobbler recipe? Miss you all. Give Mariama and Ousmane a hug.
+
+Uncle",2026-11-10T16:00:00+00:00,1794326400000,302,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,67
+msg-20024,thr-7624,jake.thornton@greenrider.co,students@jakestable.com,katie.thornton@gmail.com,Jake's Table newsletter draft — Southern brunch basics,Draft for this month's Mailchimp send: featuring catfish po'boy and the upcomi...,Draft for this month's Mailchimp send: featuring catfish po'boy and the upcoming Southern brunch basics class. Photos from the last session attached.,2026-11-12T08:00:00+00:00,1794470400000,349,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,68
+msg-20025,thr-7625,colin.reyes@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Cooking class question — gumbo from the roux up,"Hi Jake,  So excited for the gumbo from the roux up class. Quick question abou...","Hi Jake,
+
+So excited for the gumbo from the roux up class. Quick question about the pecan pie — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Colin Reyes",2026-11-14T00:00:00+00:00,1794614400000,419,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,69
+msg-20026,thr-7626,aisha.patel@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-11-15T16:00:00+00:00,1794758400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,70
+msg-20027,thr-7627,receipts@savory.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Order receipt — Savory Spice Shop,Your order from Savory Spice Shop is confirmed for pickup this Friday. Items f...,"Your order from Savory Spice Shop is confirmed for pickup this Friday. Items for the weekend class: herb-roasted chicken ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-11-17T08:00:00+00:00,1794902400000,380,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,71
+msg-20028,thr-7628,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Family note from Nene,"Hey Jake,  Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.  Nene...","Hey Jake,
+
+Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.
+
+Nene",2026-11-19T00:00:00+00:00,1795046400000,278,"[""INBOX/Family""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,72
+msg-20029,thr-7629,jake.thornton@greenrider.co,students@jakestable.com,linda.thornton@gmail.com,Jake's Table newsletter draft — low-country boil night,Draft for this month's Mailchimp send: featuring pesto pasta and the upcoming ...,Draft for this month's Mailchimp send: featuring pesto pasta and the upcoming low-country boil night class. Photos from the last session attached.,2026-11-20T16:00:00+00:00,1795190400000,346,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,73
+msg-20030,thr-7630,rachel.nkomo@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Cooking class question — fusion weeknight dinners,"Hi Jake,  So excited for the fusion weeknight dinners class. Quick question ab...","Hi Jake,
+
+So excited for the fusion weeknight dinners class. Quick question about the chicken stir fry — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Rachel Nkomo",2026-11-22T08:00:00+00:00,1795334400000,429,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,74
+msg-20031,thr-331,aisha.patel@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-11-24T00:00:00+00:00,1795478400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,75
+msg-20032,thr-332,receipts@dekalb.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Order receipt — Dekalb Farmers Market,Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Ite...,"Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Items for the weekend class: black bean bowls ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-11-25T16:00:00+00:00,1795622400000,380,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,76
+msg-20033,thr-333,gloria.johnson@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Family note from Gloria,"Hey Jake,  How are the kids? Miss you all. Give Mariama and Ousmane a hug.  Gl...","Hey Jake,
+
+How are the kids? Miss you all. Give Mariama and Ousmane a hug.
+
+Gloria",2026-11-27T08:00:00+00:00,1795766400000,282,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,77
+msg-20034,thr-334,jake.thornton@greenrider.co,students@jakestable.com,marcus.d.johnson@gmail.com,Jake's Table newsletter draft — family-style comfort classics,Draft for this month's Mailchimp send: featuring smothered pork chops and the ...,Draft for this month's Mailchimp send: featuring smothered pork chops and the upcoming family-style comfort classics class. Photos from the last session attached.,2026-11-29T00:00:00+00:00,1795910400000,362,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,78
+msg-20035,thr-335,andre.bishop@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Cooking class question — New Year soul food,"Hi Jake,  So excited for the New Year soul food class. Quick question about th...","Hi Jake,
+
+So excited for the New Year soul food class. Quick question about the cast-iron cornbread — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Andre Bishop",2026-11-30T16:00:00+00:00,1796054400000,426,"[""INBOX""]",True,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,79
+msg-20036,thr-336,aisha.patel@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-12-02T08:00:00+00:00,1796198400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,80
+msg-20037,thr-337,receipts@costco.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Order receipt — Costco Business,Your order from Costco Business is confirmed for pickup this Friday. Items for...,"Your order from Costco Business is confirmed for pickup this Friday. Items for the weekend class: field pea succotash ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-12-04T00:00:00+00:00,1796342400000,377,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,81
+msg-20038,thr-338,katie.thornton@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Family note from Katie,"Hey Jake,  Sending love from home. Miss you all. Give Mariama and Ousmane a hu...","Hey Jake,
+
+Sending love from home. Miss you all. Give Mariama and Ousmane a hug.
+
+Katie",2026-12-05T16:00:00+00:00,1796486400000,287,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,82
+msg-20039,thr-339,jake.thornton@greenrider.co,students@jakestable.com,keisha.williams@gmail.com,Jake's Table newsletter draft — holiday soul food spread,Draft for this month's Mailchimp send: featuring blackberry buckle and the upc...,Draft for this month's Mailchimp send: featuring blackberry buckle and the upcoming holiday soul food spread class. Photos from the last session attached.,2026-12-07T08:00:00+00:00,1796630400000,354,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,83
+msg-20040,thr-340,lila.mendez@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Cooking class question — biscuits and gravy workshop,"Hi Jake,  So excited for the biscuits and gravy workshop class. Quick question...","Hi Jake,
+
+So excited for the biscuits and gravy workshop class. Quick question about the shrimp and grits — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Lila Mendez",2026-12-09T00:00:00+00:00,1796774400000,431,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,84
+msg-20041,thr-341,aisha.patel@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-12-10T16:00:00+00:00,1796918400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,85
+msg-20042,thr-342,receipts@amazon.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Order receipt — Amazon Spice Co,Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for...,"Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for the weekend class: red beans and rice ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-12-12T08:00:00+00:00,1797062400000,376,"[""INBOX/Receipts""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,86
+msg-20043,thr-343,linda.thornton@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Family note from Linda,"Hey Jake,  Can you send the peach cobbler recipe? Miss you all. Give Mariama a...","Hey Jake,
+
+Can you send the peach cobbler recipe? Miss you all. Give Mariama and Ousmane a hug.
+
+Linda",2026-12-14T00:00:00+00:00,1797206400000,302,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,87
+msg-20044,thr-344,jake.thornton@greenrider.co,students@jakestable.com,nene.barry@gmail.com,Jake's Table newsletter draft — peach season desserts,Draft for this month's Mailchimp send: featuring buttermilk fried chicken and ...,Draft for this month's Mailchimp send: featuring buttermilk fried chicken and the upcoming peach season desserts class. Photos from the last session attached.,2026-12-15T16:00:00+00:00,1797350400000,358,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,88
+msg-20045,thr-345,malik.osei@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Cooking class question — one-pot rice dishes,"Hi Jake,  So excited for the one-pot rice dishes class. Quick question about t...","Hi Jake,
+
+So excited for the one-pot rice dishes class. Quick question about the collard greens with smoked turkey — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Malik Osei",2026-12-17T08:00:00+00:00,1797494400000,439,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,89
+msg-20046,thr-346,aisha.patel@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-12-19T00:00:00+00:00,1797638400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,90
+msg-20047,thr-347,receipts@savory.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Order receipt — Savory Spice Shop,Your order from Savory Spice Shop is confirmed for pickup this Friday. Items f...,"Your order from Savory Spice Shop is confirmed for pickup this Friday. Items for the weekend class: sweet potato casserole ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-12-20T16:00:00+00:00,1797782400000,382,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,91
+msg-20048,thr-348,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Family note from Marcus,"Hey Jake,  Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.  Marc...","Hey Jake,
+
+Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.
+
+Marcus",2026-12-22T08:00:00+00:00,1797926400000,280,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,92
+msg-20049,thr-349,jake.thornton@greenrider.co,students@jakestable.com,gloria.johnson@gmail.com,Jake's Table newsletter draft — gumbo from the roux up,Draft for this month's Mailchimp send: featuring banana pudding and the upcomi...,Draft for this month's Mailchimp send: featuring banana pudding and the upcoming gumbo from the roux up class. Photos from the last session attached.,2026-12-24T00:00:00+00:00,1798070400000,349,"[""DRAFT""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,93
+msg-20050,thr-350,brooke.sutton@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Cooking class question — grilling and smoke fundamentals,"Hi Jake,  So excited for the grilling and smoke fundamentals class. Quick ques...","Hi Jake,
+
+So excited for the grilling and smoke fundamentals class. Quick question about the mac and cheese — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Brooke Sutton",2026-12-25T16:00:00+00:00,1798214400000,435,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,94
+msg-20051,thr-351,aisha.patel@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2026-12-27T08:00:00+00:00,1798358400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,95
+msg-20052,thr-352,receipts@dekalb.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Order receipt — Dekalb Farmers Market,Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Ite...,"Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Items for the weekend class: pulled pork shoulder ingredients, aprons, and pantry restock.
+
+Receipt attached.",2026-12-29T00:00:00+00:00,1798502400000,384,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,96
+msg-20053,thr-353,uncle.thornton@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Family note from Uncle,"Hey Jake,  How are the kids? Miss you all. Give Mariama and Ousmane a hug.  Un...","Hey Jake,
+
+How are the kids? Miss you all. Give Mariama and Ousmane a hug.
+
+Uncle",2026-12-30T16:00:00+00:00,1798646400000,281,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,97
+msg-20054,thr-354,jake.thornton@greenrider.co,students@jakestable.com,katie.thornton@gmail.com,Jake's Table newsletter draft — fusion weeknight dinners,Draft for this month's Mailchimp send: featuring okra and tomatoes and the upc...,Draft for this month's Mailchimp send: featuring okra and tomatoes and the upcoming fusion weeknight dinners class. Photos from the last session attached.,2027-01-01T08:00:00+00:00,1798790400000,354,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,98
+msg-20055,thr-355,colin.reyes@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Cooking class question — cast-iron cooking clinic,"Hi Jake,  So excited for the cast-iron cooking clinic class. Quick question ab...","Hi Jake,
+
+So excited for the cast-iron cooking clinic class. Quick question about the black-eyed peas — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Colin Reyes",2027-01-03T00:00:00+00:00,1798934400000,427,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,99
+msg-20056,thr-356,aisha.patel@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-01-04T16:00:00+00:00,1799078400000,344,"[""INBOX/Clients""]",True,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,100
+msg-20057,thr-357,receipts@costco.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Order receipt — Costco Business,Your order from Costco Business is confirmed for pickup this Friday. Items for...,"Your order from Costco Business is confirmed for pickup this Friday. Items for the weekend class: deviled eggs ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-01-06T08:00:00+00:00,1799222400000,370,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,101
+msg-20058,thr-358,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Family note from Nene,"Hey Jake,  Sending love from home. Miss you all. Give Mariama and Ousmane a hu...","Hey Jake,
+
+Sending love from home. Miss you all. Give Mariama and Ousmane a hug.
+
+Nene",2027-01-08T00:00:00+00:00,1799366400000,286,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,102
+msg-20059,thr-359,jake.thornton@greenrider.co,students@jakestable.com,linda.thornton@gmail.com,Jake's Table newsletter draft — New Year soul food,Draft for this month's Mailchimp send: featuring crawfish etouffee and the upc...,Draft for this month's Mailchimp send: featuring crawfish etouffee and the upcoming New Year soul food class. Photos from the last session attached.,2027-01-09T16:00:00+00:00,1799510400000,348,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,103
+msg-20060,thr-360,rachel.nkomo@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Cooking class question — Southern brunch basics,"Hi Jake,  So excited for the Southern brunch basics class. Quick question abou...","Hi Jake,
+
+So excited for the Southern brunch basics class. Quick question about the jerk chicken thighs — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Rachel Nkomo",2027-01-11T08:00:00+00:00,1799654400000,430,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,104
+msg-20061,thr-361,aisha.patel@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-01-13T00:00:00+00:00,1799798400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,105
+msg-20062,thr-362,receipts@amazon.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Order receipt — Amazon Spice Co,Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for...,"Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for the weekend class: candied yams ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-01-14T16:00:00+00:00,1799942400000,370,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,106
+msg-20063,thr-363,gloria.johnson@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Family note from Gloria,"Hey Jake,  Can you send the peach cobbler recipe? Miss you all. Give Mariama a...","Hey Jake,
+
+Can you send the peach cobbler recipe? Miss you all. Give Mariama and Ousmane a hug.
+
+Gloria",2027-01-16T08:00:00+00:00,1800086400000,303,"[""INBOX/Family""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,107
+msg-20064,thr-364,jake.thornton@greenrider.co,students@jakestable.com,marcus.d.johnson@gmail.com,Jake's Table newsletter draft — biscuits and gravy workshop,Draft for this month's Mailchimp send: featuring catfish po'boy and the upcomi...,Draft for this month's Mailchimp send: featuring catfish po'boy and the upcoming biscuits and gravy workshop class. Photos from the last session attached.,2027-01-18T00:00:00+00:00,1800230400000,354,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,108
+msg-20065,thr-365,andre.bishop@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Cooking class question — low-country boil night,"Hi Jake,  So excited for the low-country boil night class. Quick question abou...","Hi Jake,
+
+So excited for the low-country boil night class. Quick question about the pecan pie — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Andre Bishop",2027-01-19T16:00:00+00:00,1800374400000,420,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,109
+msg-20066,thr-366,aisha.patel@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-01-21T08:00:00+00:00,1800518400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,110
+msg-20067,thr-367,receipts@savory.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Order receipt — Savory Spice Shop,Your order from Savory Spice Shop is confirmed for pickup this Friday. Items f...,"Your order from Savory Spice Shop is confirmed for pickup this Friday. Items for the weekend class: herb-roasted chicken ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-01-23T00:00:00+00:00,1800662400000,380,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,111
+msg-20068,thr-368,katie.thornton@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Family note from Katie,"Hey Jake,  Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.  Kati...","Hey Jake,
+
+Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.
+
+Katie",2027-01-24T16:00:00+00:00,1800806400000,279,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,112
+msg-20069,thr-369,jake.thornton@greenrider.co,students@jakestable.com,keisha.williams@gmail.com,Jake's Table newsletter draft — one-pot rice dishes,Draft for this month's Mailchimp send: featuring pesto pasta and the upcoming ...,Draft for this month's Mailchimp send: featuring pesto pasta and the upcoming one-pot rice dishes class. Photos from the last session attached.,2027-01-26T08:00:00+00:00,1800950400000,343,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,113
+msg-20070,thr-370,lila.mendez@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Cooking class question — family-style comfort classics,"Hi Jake,  So excited for the family-style comfort classics class. Quick questi...","Hi Jake,
+
+So excited for the family-style comfort classics class. Quick question about the chicken stir fry — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Lila Mendez",2027-01-28T00:00:00+00:00,1801094400000,433,"[""INBOX""]",True,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,114
+msg-20071,thr-371,aisha.patel@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-01-29T16:00:00+00:00,1801238400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,115
+msg-20072,thr-372,receipts@dekalb.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Order receipt — Dekalb Farmers Market,Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Ite...,"Your order from Dekalb Farmers Market is confirmed for pickup this Friday. Items for the weekend class: black bean bowls ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-01-31T08:00:00+00:00,1801382400000,380,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,116
+msg-20073,thr-373,linda.thornton@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Family note from Linda,"Hey Jake,  How are the kids? Miss you all. Give Mariama and Ousmane a hug.  Li...","Hey Jake,
+
+How are the kids? Miss you all. Give Mariama and Ousmane a hug.
+
+Linda",2027-02-02T00:00:00+00:00,1801526400000,281,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,117
+msg-20074,thr-374,jake.thornton@greenrider.co,students@jakestable.com,nene.barry@gmail.com,Jake's Table newsletter draft — grilling and smoke fundamentals,Draft for this month's Mailchimp send: featuring smothered pork chops and the ...,Draft for this month's Mailchimp send: featuring smothered pork chops and the upcoming grilling and smoke fundamentals class. Photos from the last session attached.,2027-02-03T16:00:00+00:00,1801670400000,364,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,118
+msg-20075,thr-375,malik.osei@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Cooking class question — holiday soul food spread,"Hi Jake,  So excited for the holiday soul food spread class. Quick question ab...","Hi Jake,
+
+So excited for the holiday soul food spread class. Quick question about the cast-iron cornbread — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Malik Osei",2027-02-05T08:00:00+00:00,1801814400000,430,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,119
+msg-20076,thr-376,aisha.patel@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-02-07T00:00:00+00:00,1801958400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,120
+msg-20077,thr-377,receipts@costco.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Order receipt — Costco Business,Your order from Costco Business is confirmed for pickup this Friday. Items for...,"Your order from Costco Business is confirmed for pickup this Friday. Items for the weekend class: field pea succotash ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-02-08T16:00:00+00:00,1802102400000,377,"[""INBOX/Receipts""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,121
+msg-20078,thr-378,marcus.d.johnson@gmail.com,jake.thornton@greenrider.co,katie.thornton@gmail.com,Family note from Marcus,"Hey Jake,  Sending love from home. Miss you all. Give Mariama and Ousmane a hu...","Hey Jake,
+
+Sending love from home. Miss you all. Give Mariama and Ousmane a hug.
+
+Marcus",2027-02-10T08:00:00+00:00,1802246400000,288,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,122
+msg-20079,thr-379,jake.thornton@greenrider.co,students@jakestable.com,gloria.johnson@gmail.com,Jake's Table newsletter draft — cast-iron cooking clinic,Draft for this month's Mailchimp send: featuring blackberry buckle and the upc...,Draft for this month's Mailchimp send: featuring blackberry buckle and the upcoming cast-iron cooking clinic class. Photos from the last session attached.,2027-02-12T00:00:00+00:00,1802390400000,354,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,123
+msg-20080,thr-380,brooke.sutton@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Cooking class question — peach season desserts,"Hi Jake,  So excited for the peach season desserts class. Quick question about...","Hi Jake,
+
+So excited for the peach season desserts class. Quick question about the shrimp and grits — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Brooke Sutton",2027-02-13T16:00:00+00:00,1802534400000,427,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,124
+msg-20081,thr-381,aisha.patel@gmail.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-02-15T08:00:00+00:00,1802678400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,125
+msg-20082,thr-382,receipts@amazon.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Order receipt — Amazon Spice Co,Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for...,"Your order from Amazon Spice Co is confirmed for pickup this Friday. Items for the weekend class: red beans and rice ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-02-17T00:00:00+00:00,1802822400000,376,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,126
+msg-20083,thr-383,uncle.thornton@gmail.com,jake.thornton@greenrider.co,linda.thornton@gmail.com,Family note from Uncle,"Hey Jake,  Can you send the peach cobbler recipe? Miss you all. Give Mariama a...","Hey Jake,
+
+Can you send the peach cobbler recipe? Miss you all. Give Mariama and Ousmane a hug.
+
+Uncle",2027-02-18T16:00:00+00:00,1802966400000,302,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,127
+msg-20084,thr-384,jake.thornton@greenrider.co,students@jakestable.com,katie.thornton@gmail.com,Jake's Table newsletter draft — Southern brunch basics,Draft for this month's Mailchimp send: featuring buttermilk fried chicken and ...,Draft for this month's Mailchimp send: featuring buttermilk fried chicken and the upcoming Southern brunch basics class. Photos from the last session attached.,2027-02-20T08:00:00+00:00,1803110400000,359,"[""DRAFT""]",False,True,gmail-api,messages,/opt/mocks/gmail-api/messages.json,128
+msg-20085,thr-385,colin.reyes@gmail.com,jake.thornton@greenrider.co,gloria.johnson@gmail.com,Cooking class question — gumbo from the roux up,"Hi Jake,  So excited for the gumbo from the roux up class. Quick question abou...","Hi Jake,
+
+So excited for the gumbo from the roux up class. Quick question about the collard greens with smoked turkey — is there a dairy-free swap I should prep for? Also confirming the 1 PM start at the East Lake kitchen.
+
+Thanks,
+Colin Reyes",2027-02-22T00:00:00+00:00,1803254400000,443,"[""INBOX""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,129
+msg-20086,thr-386,aisha.patel@gmail.com,jake.thornton@greenrider.co,nene.barry@gmail.com,Prenatal visit follow-up — Aisha Patel,"Hi Jake,  Thank you for the visit today. I noted the iron supplement and the b...","Hi Jake,
+
+Thank you for the visit today. I noted the iron supplement and the birth plan updates. See you at the next check.
+
+Warmly,
+Aisha Patel",2027-02-23T16:00:00+00:00,1803398400000,344,"[""INBOX/Clients""]",True,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,130
+msg-20087,thr-387,receipts@savory.com,jake.thornton@greenrider.co,keisha.williams@gmail.com,Order receipt — Savory Spice Shop,Your order from Savory Spice Shop is confirmed for pickup this Friday. Items f...,"Your order from Savory Spice Shop is confirmed for pickup this Friday. Items for the weekend class: sweet potato casserole ingredients, aprons, and pantry restock.
+
+Receipt attached.",2027-02-25T08:00:00+00:00,1803542400000,382,"[""INBOX/Receipts""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,131
+msg-20088,thr-388,nene.barry@gmail.com,jake.thornton@greenrider.co,marcus.d.johnson@gmail.com,Family note from Nene,"Hey Jake,  Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.  Nene...","Hey Jake,
+
+Call me Sunday? Miss you all. Give Mariama and Ousmane a hug.
+
+Nene",2027-02-27T00:00:00+00:00,1803686400000,278,"[""INBOX/Family""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,132
+msg-20089,thr-389,jake.thornton@greenrider.co,students@jakestable.com,linda.thornton@gmail.com,Jake's Table newsletter draft — low-country boil night,Draft for this month's Mailchimp send: featuring banana pudding and the upcomi...,Draft for this month's Mailchimp send: featuring banana pudding and the upcoming low-country boil night class. Photos from the last session attached.,2027-02-28T16:00:00+00:00,1803830400000,349,"[""DRAFT""]",False,False,gmail-api,messages,/opt/mocks/gmail-api/messages.json,133

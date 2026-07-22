@@ -1,0 +1,23 @@
+city_code,city_name,country_code,country_name,iata_code,latitude,longitude,name,timezone
+BOS,Boston,US,United States,BOS,42.3656,-71.0096,Boston Logan International,-300
+NYC,New York,US,United States,JFK,40.6413,-73.7781,John F. Kennedy International,-300
+LAX,Los Angeles,US,United States,LAX,33.9416,-118.4085,Los Angeles International,-480
+SFO,San Francisco,US,United States,SFO,37.6213,-122.379,San Francisco International,-480
+CHI,Chicago,US,United States,ORD,41.9742,-87.9073,Chicago O'Hare International,-360
+ATL,Atlanta,US,United States,ATL,33.6407,-84.4277,Hartsfield-Jackson Atlanta International,-300
+DEN,Denver,US,United States,DEN,39.8561,-104.6737,Denver International,-420
+SEA,Seattle,US,United States,SEA,47.4502,-122.3088,Seattle-Tacoma International,-480
+LON,London,GB,United Kingdom,LHR,51.47,-0.4543,London Heathrow,0
+PAR,Paris,FR,France,CDG,49.0097,2.5479,Paris Charles de Gaulle,60
+TYO,Tokyo,JP,Japan,HND,35.5494,139.7798,Tokyo Haneda,540
+AMS,Amsterdam,NL,Netherlands,AMS,52.3105,4.7683,Amsterdam Schiphol,60
+CHI,Chicago,US,United States,MDW,41.7868,-87.7522,Chicago Midway International Airport,-360
+NYC,New York,US,United States,LGA,40.7769,-73.874,LaGuardia Airport,-300
+DTT,Detroit,US,United States,DET,42.4093,-83.0099,Coleman A. Young International Airport,-300
+CMH,Columbus,US,United States,CMH,39.998,-82.8919,Columbus John Glenn International Airport,-300
+IND,Indianapolis,US,United States,IND,39.7173,-86.2944,Indianapolis International Airport,-300
+ATL,Atlanta,US,United States,PDK,33.8755,-84.3019,Atlanta DeKalb-Peachtree Airport,-300
+LAX,Los Angeles,US,United States,BUR,34.2007,-118.3585,Hollywood Burbank Airport,-480
+DTT,Detroit,US,United States,YIP,42.238,-83.5305,Willow Run Airport,-300
+PIT,Pittsburgh,US,United States,PIT,40.4914,-80.2329,Pittsburgh International Airport,-300
+DTT,Detroit,US,United States,DTW,42.2124,-83.3534,Detroit Metropolitan Wayne County Airport,-300

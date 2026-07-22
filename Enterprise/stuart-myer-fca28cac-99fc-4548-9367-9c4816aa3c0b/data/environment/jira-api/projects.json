@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Core platform tracking.",
+    "id": "10000",
+    "key": "PLAT",
+    "lead": "Stuart Myer",
+    "name": "Platform",
+    "project_type_key": "software"
+  },
+  {
+    "description": "Internal operations + support.",
+    "id": "10001",
+    "key": "OPS",
+    "lead": "Stuart Myer",
+    "name": "Operations",
+    "project_type_key": "service_desk"
+  }
+]

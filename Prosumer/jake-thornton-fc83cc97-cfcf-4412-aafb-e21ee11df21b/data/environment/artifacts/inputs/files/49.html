@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jake's Table - Southern Fusion Cooking Classes | East Lake, Atlanta</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --espresso: #2C1A1D;
+      --espresso-light: #3D2428;
+      --amber: #D4830A;
+      --amber-dark: #B36F08;
+      --sage: #4A7C59;
+      --sage-light: #5C9470;
+      --cream: #FAF6F0;
+      --warm-gray: #8B7355;
+      --text: #1A1A1A;
+      --text-muted: #5C5044;
+      --border: #E8DDD0;
+      --white: #FFFFFF;
+      --shadow: 0 4px 24px rgba(44,26,29,0.10);
+      --shadow-md: 0 8px 40px rgba(44,26,29,0.15);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Lato', sans-serif;
+      color: var(--text);
+      background: var(--cream);
+      line-height: 1.7;
+      font-size: 16px;
+    }
+
+    h1, h2, h3, h4 { font-family: 'Playfair Display', Georgia, serif; line-height: 1.2; }
+
+    /* ---- NAV ---- */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 1000;
+      padding: 18px 0;
+      transition: background 0.3s, box-shadow 0.3s, padding 0.3s;
+    }
+    nav.scrolled {
+      background: var(--espresso);
+      box-shadow: 0 2px 20px rgba(0,0,0,0.25);
+      padding: 12px 0;
+    }
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--white);
+      text-decoration: none;
+      letter-spacing: -0.5px;
+    }
+    .nav-logo span { color: var(--amber); }
+    .nav-links { display: flex; gap: 36px; list-style: none; }
+    .nav-links a {
+      color: rgba(255,255,255,0.85);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--amber); }
+    .nav-cta {
+      background: var(--amber);
+      color: var(--white) !important;
+      padding: 9px 22px;
+      border-radius: 3px;
+      transition: background 0.2s !important;
+    }
+    .nav-cta:hover { background: var(--amber-dark) !important; color: var(--white) !important; }
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: white;
+      font-size: 1.5rem;
+    }
+
+    /* ---- HERO ---- */
+    #hero {
+      min-height: 100vh;
+      background: linear-gradient(145deg, #1A0E10 0%, #2C1A1D 45%, #3D2428 100%);
+      display: flex;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+    }
+    #hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23D4830A' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    }
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 120px 32px 80px;
+      position: relative;
+      z-index: 1;
+    }
+    .hero-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--amber);
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+    .hero-label::before {
+      content: '';
+      display: block;
+      width: 32px;
+      height: 2px;
+      background: var(--amber);
+    }
+    .hero-title {
+      font-size: clamp(2.6rem, 5vw, 4.2rem);
+      color: var(--white);
+      max-width: 720px;
+      font-weight: 700;
+      margin-bottom: 24px;
+      line-height: 1.15;
+    }
+    .hero-title em {
+      color: var(--amber);
+      font-style: italic;
+    }
+    .hero-sub {
+      font-size: 1.15rem;
+      color: rgba(255,255,255,0.7);
+      max-width: 540px;
+      margin-bottom: 44px;
+      font-weight: 300;
+      line-height: 1.8;
+    }
+    .hero-actions { display: flex; gap: 16px; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 14px 30px;
+      border-radius: 3px;
+      font-family: 'Lato', sans-serif;
+      font-size: 0.88rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.22s;
+      border: 2px solid transparent;
+    }
+    .btn-amber { background: var(--amber); color: var(--white); border-color: var(--amber); }
+    .btn-amber:hover { background: var(--amber-dark); border-color: var(--amber-dark); transform: translateY(-2px); box-shadow: 0 6px 20px rgba(212,131,10,0.35); }
+    .btn-outline { background: transparent; color: var(--white); border-color: rgba(255,255,255,0.4); }
+    .btn-outline:hover { border-color: var(--white); background: rgba(255,255,255,0.08); transform: translateY(-2px); }
+    .btn-sage { background: var(--sage); color: var(--white); border-color: var(--sage); }
+    .btn-sage:hover { background: var(--sage-light); border-color: var(--sage-light); transform: translateY(-2px); }
+    .hero-stats {
+      display: flex;
+      gap: 48px;
+      margin-top: 72px;
+      padding-top: 48px;
+      border-top: 1px solid rgba(255,255,255,0.12);
+    }
+    .hero-stat-val {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--amber);
+    }
+    .hero-stat-label {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.55);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-top: 2px;
+    }
+
+    /* ---- SECTIONS ---- */
+    section { padding: 96px 0; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 32px; }
+    .section-label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--amber);
+      margin-bottom: 12px;
+    }
+    .section-title {
+      font-size: clamp(1.9rem, 3vw, 2.7rem);
+      color: var(--espresso);
+      margin-bottom: 20px;
+    }
+    .section-sub {
+      font-size: 1.05rem;
+      color: var(--text-muted);
+      max-width: 560px;
+      line-height: 1.8;
+    }
+
+    /* ---- ABOUT ---- */
+    #about { background: var(--white); }
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .about-visual {
+      position: relative;
+    }
+    .about-img-block {
+      background: linear-gradient(135deg, var(--espresso-light) 0%, var(--espresso) 100%);
+      border-radius: 4px;
+      aspect-ratio: 4/5;
+      display: flex;
+      align-items: flex-end;
+      padding: 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .about-img-block::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23D4830A' fill-opacity='0.06'%3E%3Ccircle cx='20' cy='20' r='2'/%3E%3C/g%3E%3C/svg%3E");
+    }
+    .about-img-icon {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -60%);
+      font-size: 5rem;
+      color: rgba(212,131,10,0.25);
+    }
+    .about-img-caption {
+      position: relative;
+      z-index: 1;
+      background: var(--amber);
+      padding: 16px 20px;
+      border-radius: 3px;
+      width: 100%;
+    }
+    .about-img-caption strong {
+      display: block;
+      color: var(--white);
+      font-size: 0.95rem;
+      font-weight: 700;
+    }
+    .about-img-caption span {
+      color: rgba(255,255,255,0.8);
+      font-size: 0.82rem;
+    }
+    .about-accent {
+      position: absolute;
+      bottom: -24px;
+      right: -24px;
+      width: 120px;
+      height: 120px;
+      background: var(--sage);
+      border-radius: 3px;
+      z-index: -1;
+    }
+    .about-text .section-sub { max-width: 100%; margin-bottom: 28px; }
+    .about-list { list-style: none; margin-bottom: 36px; }
+    .about-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 8px 0;
+      color: var(--text-muted);
+      font-size: 0.97rem;
+    }
+    .about-list li i {
+      color: var(--amber);
+      margin-top: 4px;
+      flex-shrink: 0;
+    }
+
+    /* ---- CLASSES ---- */
+    #classes { background: var(--cream); }
+    .classes-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 28px;
+      margin-top: 56px;
+    }
+    .class-card {
+      background: var(--white);
+      border-radius: 4px;
+      padding: 36px;
+      border: 1px solid var(--border);
+      transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+      position: relative;
+      overflow: hidden;
+    }
+    .class-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: var(--amber);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.3s;
+    }
+    .class-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-md); border-color: transparent; }
+    .class-card:hover::before { transform: scaleX(1); }
+    .class-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 16px;
+    }
+    .class-icon {
+      width: 52px;
+      height: 52px;
+      background: linear-gradient(135deg, #FAF0E4, #F5E6D0);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      color: var(--amber);
+    }
+    .class-price {
+      background: var(--espresso);
+      color: var(--amber);
+      font-size: 0.82rem;
+      font-weight: 700;
+      padding: 5px 13px;
+      border-radius: 20px;
+      letter-spacing: 0.05em;
+    }
+    .class-card h3 {
+      font-size: 1.3rem;
+      color: var(--espresso);
+      margin-bottom: 10px;
+    }
+    .class-card p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      line-height: 1.75;
+      margin-bottom: 20px;
+    }
+    .class-meta {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      padding-top: 18px;
+      border-top: 1px solid var(--border);
+    }
+    .class-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+    .class-meta-item i { color: var(--amber); font-size: 0.78rem; }
+    .class-tag {
+      display: inline-block;
+      background: rgba(74,124,89,0.1);
+      color: var(--sage);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 2px;
+      margin-bottom: 14px;
+    }
+
+    /* ---- HOW IT WORKS ---- */
+    #how { background: var(--espresso); }
+    #how .section-title { color: var(--white); }
+    #how .section-label { color: var(--amber); }
+    .steps-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2px;
+      margin-top: 56px;
+      background: rgba(255,255,255,0.05);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .step {
+      padding: 44px 36px;
+      background: rgba(255,255,255,0.03);
+      transition: background 0.25s;
+      position: relative;
+    }
+    .step:hover { background: rgba(212,131,10,0.08); }
+    .step-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 3.5rem;
+      font-weight: 700;
+      color: rgba(212,131,10,0.25);
+      line-height: 1;
+      margin-bottom: 20px;
+    }
+    .step h3 {
+      font-size: 1.25rem;
+      color: var(--white);
+      margin-bottom: 12px;
+    }
+    .step p {
+      color: rgba(255,255,255,0.55);
+      font-size: 0.92rem;
+      line-height: 1.75;
+    }
+    .step-icon {
+      font-size: 1.6rem;
+      color: var(--amber);
+      margin-bottom: 18px;
+    }
+
+    /* ---- TESTIMONIALS ---- */
+    #testimonials { background: var(--cream); }
+    .testimonials-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      margin-top: 56px;
+    }
+    .testimonial-card {
+      background: var(--white);
+      border-radius: 4px;
+      padding: 36px 32px;
+      border: 1px solid var(--border);
+      position: relative;
+      transition: box-shadow 0.25s;
+    }
+    .testimonial-card:hover { box-shadow: var(--shadow); }
+    .testimonial-quote {
+      font-family: 'Playfair Display', serif;
+      font-size: 3.5rem;
+      color: var(--amber);
+      line-height: 0.8;
+      margin-bottom: 16px;
+      opacity: 0.5;
+    }
+    .testimonial-card p {
+      color: var(--text-muted);
+      font-size: 0.97rem;
+      line-height: 1.8;
+      font-style: italic;
+      margin-bottom: 24px;
+    }
+    .testimonial-author {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+    .author-avatar {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--sage), var(--sage-light));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 700;
+      font-size: 0.9rem;
+      flex-shrink: 0;
+    }
+    .author-name {
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--espresso);
+    }
+    .author-detail {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+    .stars { color: var(--amber); font-size: 0.85rem; letter-spacing: 2px; margin-bottom: 4px; }
+
+    /* ---- FAQ ---- */
+    #faq { background: var(--white); }
+    .faq-list { max-width: 740px; margin-top: 56px; }
+    .faq-item {
+      border-bottom: 1px solid var(--border);
+    }
+    .faq-q {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 22px 0;
+      background: none;
+      border: none;
+      cursor: pointer;
+      text-align: left;
+      gap: 16px;
+    }
+    .faq-q span {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.08rem;
+      color: var(--espresso);
+      font-weight: 600;
+      line-height: 1.4;
+    }
+    .faq-icon {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--cream);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      color: var(--amber);
+      flex-shrink: 0;
+      transition: background 0.2s, transform 0.25s;
+    }
+    .faq-item.open .faq-icon {
+      background: var(--amber);
+      color: white;
+      transform: rotate(45deg);
+    }
+    .faq-a {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s ease, padding 0.25s;
+    }
+    .faq-a-inner {
+      padding: 0 0 20px;
+      color: var(--text-muted);
+      font-size: 0.97rem;
+      line-height: 1.8;
+    }
+
+    /* ---- CTA ---- */
+    #cta {
+      background: linear-gradient(135deg, var(--sage) 0%, var(--sage-light) 100%);
+      text-align: center;
+      padding: 96px 0;
+    }
+    #cta .section-label { color: rgba(255,255,255,0.7); }
+    #cta .section-title { color: var(--white); max-width: 580px; margin: 0 auto 20px; }
+    .cta-sub {
+      color: rgba(255,255,255,0.75);
+      font-size: 1.05rem;
+      max-width: 480px;
+      margin: 0 auto 40px;
+      line-height: 1.8;
+    }
+    .btn-white { background: var(--white); color: var(--sage); border-color: var(--white); }
+    .btn-white:hover { background: var(--cream); border-color: var(--cream); transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,0.15); }
+    .btn-white-outline { background: transparent; color: var(--white); border-color: rgba(255,255,255,0.5); }
+    .btn-white-outline:hover { border-color: var(--white); background: rgba(255,255,255,0.1); }
+
+    /* ---- FOOTER ---- */
+    footer {
+      background: var(--espresso);
+      padding: 64px 0 32px;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 64px;
+      margin-bottom: 56px;
+    }
+    .footer-brand .nav-logo { display: inline-block; margin-bottom: 16px; font-size: 1.6rem; }
+    .footer-brand p {
+      color: rgba(255,255,255,0.5);
+      font-size: 0.9rem;
+      line-height: 1.8;
+      max-width: 300px;
+    }
+    .footer-social {
+      display: flex;
+      gap: 12px;
+      margin-top: 24px;
+    }
+    .footer-social a {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      border: 1px solid rgba(255,255,255,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(255,255,255,0.5);
+      font-size: 0.9rem;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    .footer-social a:hover { border-color: var(--amber); color: var(--amber); }
+    .footer-col h4 {
+      color: var(--white);
+      font-family: 'Lato', sans-serif;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+    .footer-col ul { list-style: none; }
+    .footer-col ul li { margin-bottom: 10px; }
+    .footer-col ul li a {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: color 0.2s;
+    }
+    .footer-col ul li a:hover { color: var(--amber); }
+    .footer-contact-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .footer-contact-item i {
+      color: var(--amber);
+      margin-top: 3px;
+      font-size: 0.85rem;
+      flex-shrink: 0;
+    }
+    .footer-contact-item span {
+      color: rgba(255,255,255,0.5);
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.08);
+      padding-top: 28px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .footer-bottom p { color: rgba(255,255,255,0.3); font-size: 0.82rem; }
+
+    /* ---- RESPONSIVE ---- */
+    @media (max-width: 900px) {
+      .about-grid, .classes-grid { grid-template-columns: 1fr; }
+      .steps-grid, .testimonials-grid { grid-template-columns: 1fr; }
+      .footer-grid { grid-template-columns: 1fr; gap: 36px; }
+      .hero-stats { gap: 28px; flex-wrap: wrap; }
+      .nav-links { display: none; }
+      .nav-links.open {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 100%; left: 0; right: 0;
+        background: var(--espresso);
+        padding: 20px 32px;
+        gap: 20px;
+      }
+      .nav-toggle { display: block; }
+      nav { background: var(--espresso); }
+      .about-accent { display: none; }
+    }
+    @media (max-width: 600px) {
+      .hero-actions { flex-direction: column; }
+      .hero-stats { display: none; }
+      section { padding: 64px 0; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav id="navbar">
+  <div class="nav-inner">
+    <a href="#hero" class="nav-logo">Jake's <span>Table</span></a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#about">About</a></li>
+      <li><a href="#classes">Classes</a></li>
+      <li><a href="#how">How It Works</a></li>
+      <li><a href="#testimonials">Reviews</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="#cta" class="nav-cta">Book a Class</a></li>
+    </ul>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+      <i class="fa fa-bars"></i>
+    </button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="hero-inner">
+    <div class="hero-label">East Lake, Atlanta, Georgia</div>
+    <h1 class="hero-title">
+      <em>Southern Fusion</em> Cooking Classes in Your Corner of Atlanta
+    </h1>
+    <p class="hero-sub">
+      Hands-on, small-group cooking classes for up to eight students. Real technique, real food, real community - right out of the Jake's Table kitchen.
+    </p>
+    <div class="hero-actions">
+      <a href="#cta" class="btn btn-amber"><i class="fa fa-calendar-check"></i> Book a Class</a>
+      <a href="#classes" class="btn btn-outline"><i class="fa fa-utensils"></i> View Classes</a>
+    </div>
+    <div class="hero-stats">
+      <div>
+        <div class="hero-stat-val">8</div>
+        <div class="hero-stat-label">Students per class</div>
+      </div>
+      <div>
+        <div class="hero-stat-val">3 hrs</div>
+        <div class="hero-stat-label">Hands-on session</div>
+      </div>
+      <div>
+        <div class="hero-stat-val">2,400+</div>
+        <div class="hero-stat-label">Instagram followers</div>
+      </div>
+      <div>
+        <div class="hero-stat-val">4</div>
+        <div class="hero-stat-label">Class tracks</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-visual">
+        <div class="about-img-block">
+          <i class="fa fa-fire about-img-icon"></i>
+          <div class="about-img-caption">
+            <strong>Jake Thornton</strong>
+            <span>CNM &bull; Cooking Instructor &bull; East Lake, Atlanta</span>
+          </div>
+        </div>
+        <div class="about-accent"></div>
+      </div>
+      <div class="about-text">
+        <div class="section-label">About Jake</div>
+        <h2 class="section-title">Two Careers, One Belief: Nourishing People Is Everything</h2>
+        <p class="section-sub">
+          Jake Thornton is a Certified Nurse-Midwife at a Midtown Atlanta women's health practice and the founder of Jake's Table. He brings the same steady attention he gives to birth work into his kitchen - deliberate, generous, and grounded in the belief that good food and good care start in the same place.
+        </p>
+        <p class="section-sub" style="margin-top: 16px;">
+          Born in Baltimore, raised on big family meals, and trained in Atlanta, Jake's cooking pulls from Southern comfort food, his husband Marcus's family traditions, and years of teaching students to trust their hands.
+        </p>
+        <ul class="about-list" style="margin-top: 24px;">
+          <li><i class="fa fa-check-circle"></i> Hands-on technique at a renovated prep island - no passive watching</li>
+          <li><i class="fa fa-check-circle"></i> Recipes sourced from the East Lake backyard garden and DeKalb Farmers Market</li>
+          <li><i class="fa fa-check-circle"></i> Small groups of eight so everyone cooks, not just watches</li>
+          <li><i class="fa fa-check-circle"></i> Saturday afternoon classes that end with a shared meal around the table</li>
+        </ul>
+        <a href="#classes" class="btn btn-amber">See All Classes</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CLASSES -->
+<section id="classes">
+  <div class="container">
+    <div class="section-label">What We Cook</div>
+    <h2 class="section-title">Four Class Tracks, One Kitchen</h2>
+    <p class="section-sub">
+      From slow-cooked gumbo to an open-flame ribeye, each session teaches a set of techniques that stay with you. Classes run three hours and end with a meal together.
+    </p>
+    <div class="classes-grid">
+
+      <div class="class-card">
+        <div class="class-card-header">
+          <div class="class-icon"><i class="fa fa-bowl-food"></i></div>
+          <div class="class-price">$75 / seat</div>
+        </div>
+        <div class="class-tag">Southern Comfort</div>
+        <h3>Southern Comfort Foundations</h3>
+        <p>Start with the classics. Mac and cheese with a proper bechamel and smoked gouda. Roast chicken done right. A dark-roux gumbo that takes its time. This class is about the fundamentals that make Southern food what it is - patience, seasoning, and knowing when to leave it alone.</p>
+        <div class="class-meta">
+          <div class="class-meta-item"><i class="fa fa-users"></i> Up to 8 students</div>
+          <div class="class-meta-item"><i class="fa fa-clock"></i> 3 hours</div>
+          <div class="class-meta-item"><i class="fa fa-house"></i> Home kitchen</div>
+        </div>
+      </div>
+
+      <div class="class-card">
+        <div class="class-card-header">
+          <div class="class-icon"><i class="fa fa-pepper-hot"></i></div>
+          <div class="class-price">$75 / seat</div>
+        </div>
+        <div class="class-tag">American Fusion</div>
+        <h3>American Fusion Night</h3>
+        <p>Jake's cooking lives at the intersection of traditions. Andouille jambalaya with Louisiana roots and Atlanta flavors. Shrimp and grits with a contemporary take on a Low Country staple. This class traces how Southern food absorbs and transforms what comes into contact with it.</p>
+        <div class="class-meta">
+          <div class="class-meta-item"><i class="fa fa-users"></i> Up to 8 students</div>
+          <div class="class-meta-item"><i class="fa fa-clock"></i> 3 hours</div>
+          <div class="class-meta-item"><i class="fa fa-house"></i> Home kitchen</div>
+        </div>
+      </div>
+
+      <div class="class-card">
+        <div class="class-card-header">
+          <div class="class-icon"><i class="fa fa-fire-flame-curved"></i></div>
+          <div class="class-price">$65 / seat</div>
+        </div>
+        <div class="class-tag">Grilling</div>
+        <h3>Backyard Grilling Intensive</h3>
+        <p>Two-zone fire management. Resting time that actually matters. Herb butter that makes a ribeye complete. This venue-based class takes the mystery out of outdoor cooking - for the student who's been burning things or playing it too safe. Garden peppers, okra, and squash come off the grill right alongside the protein.</p>
+        <div class="class-meta">
+          <div class="class-meta-item"><i class="fa fa-users"></i> Up to 12 students</div>
+          <div class="class-meta-item"><i class="fa fa-clock"></i> 3 hours</div>
+          <div class="class-meta-item"><i class="fa fa-location-dot"></i> Community venue</div>
+        </div>
+      </div>
+
+      <div class="class-card">
+        <div class="class-card-header">
+          <div class="class-icon"><i class="fa fa-champagne-glasses"></i></div>
+          <div class="class-price">$75 / seat</div>
+        </div>
+        <div class="class-tag">Seasonal Special</div>
+        <h3>Holiday Soul Food Brunch</h3>
+        <p>November through December, the Jake's Table kitchen goes full holiday. Herb-marinated turkey breast, sweet potato casserole with a proper pecan crust, collard greens with smoked turkey, and peach cobbler from the garden freezer stash. Eight students, the good dishes, and a Saturday afternoon that doesn't feel rushed.</p>
+        <div class="class-meta">
+          <div class="class-meta-item"><i class="fa fa-users"></i> Up to 8 students</div>
+          <div class="class-meta-item"><i class="fa fa-clock"></i> 3 hours</div>
+          <div class="class-meta-item"><i class="fa fa-house"></i> Home kitchen</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section id="how">
+  <div class="container">
+    <div class="section-label">The Process</div>
+    <h2 class="section-title" style="color:white;">Simple from the First Click to the Last Bite</h2>
+    <div class="steps-grid">
+      <div class="step">
+        <div class="step-num">01</div>
+        <div class="step-icon"><i class="fa fa-calendar-check"></i></div>
+        <h3>Book Your Seat</h3>
+        <p>Choose a class from the calendar, reserve your seat through the booking link, and get a confirmation with all the details including what to bring, where to park, and what to expect.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">02</div>
+        <div class="step-icon"><i class="fa fa-knife-kitchen"></i></div>
+        <h3>Cook at the Island</h3>
+        <p>Show up Saturday afternoon. Jake demonstrates each technique, then students cook in pairs at the prep island. Real knives, a commercial-grade range, and hands that get in the food from the start.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">03</div>
+        <div class="step-icon"><i class="fa fa-plate-wheat"></i></div>
+        <h3>Eat Together</h3>
+        <p>The class ends with a shared meal. You take home printed recipe cards and enough knowledge to cook the session dishes again the following weekend. No performance pressure, just good food and good people.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section id="testimonials">
+  <div class="container">
+    <div class="section-label">From Students</div>
+    <h2 class="section-title">What People Are Saying</h2>
+    <div class="testimonials-grid">
+
+      <div class="testimonial-card">
+        <div class="testimonial-quote">&ldquo;</div>
+        <p>The jambalaya class completely changed how I think about building flavor. Jake explains not just what to do but why, and that understanding stays with you long after the class ends. Already booked the holiday brunch.</p>
+        <div class="testimonial-author">
+          <div class="author-avatar">PO</div>
+          <div>
+            <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <div class="author-name">Priya O.</div>
+            <div class="author-detail">American Fusion Night, October 2026</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="testimonial-quote">&ldquo;</div>
+        <p>I have taken cooking classes before and they usually feel like watching a demonstration with a recipe handout at the end. This was different - you actually cook the whole time and leave having made something you're proud of.</p>
+        <div class="testimonial-author">
+          <div class="author-avatar">DM</div>
+          <div>
+            <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <div class="author-name">DeShawn M.</div>
+            <div class="author-detail">Southern Comfort Foundations, November 2026</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="testimonial-quote">&ldquo;</div>
+        <p>Brought my sister for the holiday brunch class as a birthday gift and we both said it was the best thing we had done together in years. The smoked gouda mac alone was worth every dollar. Already on the waitlist for spring.</p>
+        <div class="testimonial-author">
+          <div class="author-avatar">LH</div>
+          <div>
+            <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <div class="author-name">Leslie H.</div>
+            <div class="author-detail">Holiday Soul Food Brunch, December 2026</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="faq">
+  <div class="container">
+    <div class="section-label">Questions</div>
+    <h2 class="section-title">What You Need to Know Before You Book</h2>
+    <div class="faq-list">
+
+      <div class="faq-item open">
+        <button class="faq-q" aria-expanded="true">
+          <span>Do I need cooking experience to attend?</span>
+          <div class="faq-icon"><i class="fa fa-plus"></i></div>
+        </button>
+        <div class="faq-a" style="max-height: 200px;">
+          <div class="faq-a-inner">No prior experience is necessary. Jake's Table is designed for students at every level, from first-time cooks to people who already cook regularly and want to sharpen specific skills. The small group size means Jake can give individual attention to wherever you are starting from.</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          <span>What should I bring to class?</span>
+          <div class="faq-icon"><i class="fa fa-plus"></i></div>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">Just yourself and comfortable shoes - closed toe is safest in a working kitchen. All ingredients, tools, knives, cutting boards, and aprons are provided. If you have specific dietary restrictions or allergies, let Jake know when you book and the menu will be adjusted accordingly.</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          <span>Where are the home classes held, and is there parking?</span>
+          <div class="faq-icon"><i class="fa fa-plus"></i></div>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">Home classes are held in the Jake's Table kitchen in the East Lake neighborhood of Atlanta, GA 30317. Street parking is available on the block and neighboring streets. The booking confirmation includes the full address and directions. Venue classes are held at partner community spaces in Atlanta - the location is always included in the booking confirmation.</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          <span>What is the cancellation and refund policy?</span>
+          <div class="faq-icon"><i class="fa fa-plus"></i></div>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">Full refunds are available up to 72 hours before the class date. Cancellations inside 72 hours can be transferred to a future class date but are not refunded. If a class is cancelled by Jake's Table due to low enrollment or an emergency, all enrolled students receive a full refund.</div>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          <span>Can I book a private or custom class for a group?</span>
+          <div class="faq-icon"><i class="fa fa-plus"></i></div>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">Yes. Private classes for groups of four to eight are available for corporate events, birthday celebrations, date nights, or family gatherings. Send a message through the contact link or reach out on Instagram at @jakes.table to discuss dates, menus, and pricing for private bookings.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section id="cta">
+  <div class="container">
+    <div class="section-label">Ready to Cook</div>
+    <h2 class="section-title">Eight Seats. One Kitchen. This Saturday.</h2>
+    <p class="cta-sub">Classes fill quickly. Secure your spot now and we will send you everything you need to know before the session.</p>
+    <div style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
+      <a href="#" class="btn btn-white"><i class="fa fa-calendar-check"></i> Book Through Calendly</a>
+      <a href="#" class="btn btn-white-outline"><i class="fa fa-paper-plane"></i> Message on Instagram</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="#hero" class="nav-logo">Jake's <span>Table</span></a>
+        <p>Southern fusion cooking classes out of an East Lake kitchen in Atlanta, Georgia. Small groups, real technique, shared meals.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+          <a href="#" aria-label="Pinterest"><i class="fab fa-pinterest"></i></a>
+          <a href="#" aria-label="Discord"><i class="fab fa-discord"></i></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Classes</h4>
+        <ul>
+          <li><a href="#classes">Southern Comfort Foundations</a></li>
+          <li><a href="#classes">American Fusion Night</a></li>
+          <li><a href="#classes">Backyard Grilling Intensive</a></li>
+          <li><a href="#classes">Holiday Soul Food Brunch</a></li>
+          <li><a href="#">Private &amp; Group Bookings</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <div class="footer-contact-item">
+          <i class="fa fa-envelope"></i>
+          <span>jake.thornton@greenrider.co</span>
+        </div>
+        <div class="footer-contact-item">
+          <i class="fab fa-instagram"></i>
+          <span>@jakes.table</span>
+        </div>
+        <div class="footer-contact-item">
+          <i class="fa fa-location-dot"></i>
+          <span>East Lake Neighborhood<br>Atlanta, GA 30317</span>
+        </div>
+        <div class="footer-contact-item">
+          <i class="fa fa-clock"></i>
+          <span>Classes: Saturdays 1-4 PM<br>Bookings: via Calendly</span>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Jake's Table. All rights reserved. East Lake, Atlanta, GA.</p>
+      <p style="color:rgba(255,255,255,0.2); font-size:0.78rem;">Cooking classes. Real food. Small groups.</p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Sticky nav
+  const navbar = document.getElementById('navbar');
+  window.addEventListener('scroll', () => {
+    navbar.classList.toggle('scrolled', window.scrollY > 60);
+  });
+
+  // Mobile nav toggle
+  const navToggle = document.getElementById('navToggle');
+  const navLinks = document.getElementById('navLinks');
+  navToggle.addEventListener('click', () => {
+    navLinks.classList.toggle('open');
+  });
+  navLinks.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => navLinks.classList.remove('open'));
+  });
+
+  // FAQ accordion
+  document.querySelectorAll('.faq-item').forEach(item => {
+    const btn = item.querySelector('.faq-q');
+    const body = item.querySelector('.faq-a');
+    const icon = item.querySelector('.faq-icon');
+    btn.addEventListener('click', () => {
+      const isOpen = item.classList.contains('open');
+      document.querySelectorAll('.faq-item').forEach(i => {
+        i.classList.remove('open');
+        i.querySelector('.faq-a').style.maxHeight = '0';
+      });
+      if (!isOpen) {
+        item.classList.add('open');
+        body.style.maxHeight = body.scrollHeight + 'px';
+      }
+    });
+  });
+
+  // Scroll reveal (simple)
+  const reveals = document.querySelectorAll('.class-card, .testimonial-card, .step');
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.style.opacity = '1';
+        e.target.style.transform = 'translateY(0)';
+      }
+    });
+  }, { threshold: 0.1 });
+  reveals.forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(24px)';
+    el.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+    observer.observe(el);
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+Id,Name,AccountType,AccountSubType,CurrentBalance,Active,Description
+1,Operating Checking,Bank,Checking,35024.75,True,Primary operating account - First Bank of Portland
+2,Business Savings,Bank,Savings,12500.0,True,Tax and equipment reserve - First Bank of Portland
+3,Taproom Sales,Income,SalesOfProductIncome,0.0,True,Taproom draft and to-go sales via Square POS
+4,Wholesale Beer Sales,Income,SalesOfProductIncome,0.0,True,Self-distribution to Portland bars and restaurants
+5,Merchandise Sales,Income,SalesOfProductIncome,0.0,True,"Apparel, glassware, and limited can releases"
+6,COGS - Malt,Cost of Goods Sold,SuppliesMaterialsCogs,0.0,True,Base and specialty malt from Pacific Malt Company
+7,Rent Expense,Expense,RentOrLeaseOfBuildings,0.0,True,Monthly lease - E Burnside warehouse brewhouse
+8,Utilities,Expense,Utilities,0.0,True,"Portland General Electric, NW Natural, water and sewer"
+9,COGS - Hops,Cost of Goods Sold,SuppliesMaterialsCogs,0.0,True,Hops from Crosby Hops
+10,Payroll Expense,Expense,PayrollExpenses,0.0,True,Taproom and cellar staff wages via Gusto
+11,Packaging & Cans,Cost of Goods Sold,SuppliesMaterialsCogs,0.0,True,"Cans, kegs, labels, and packaging materials"
+12,OLCC & Excise Tax,Expense,TaxesPaid,0.0,True,Oregon liquor licensing and federal excise tax
+13,Accounts Receivable,Accounts Receivable,AccountsReceivable,8240.0,True,Outstanding wholesale and distribution invoices
+14,Accounts Payable,Accounts Payable,AccountsPayable,5120.0,True,Outstanding supplier and vendor bills
+15,Inventory Asset,Other Current Asset,Inventory,18650.0,True,Raw materials and finished beer/merchandise inventory
+16,Brewing Equipment,Fixed Asset,MachineryAndEquipment,96400.0,True,"Brewhouse, fermenters, and canning line"
+17,Accumulated Depreciation,Fixed Asset,AccumulatedDepreciation,-12400.0,True,Accumulated depreciation on brewing equipment
+18,Merchant & Card Fees,Expense,BankCharges,0.0,True,Square and Stripe payment processing fees
+19,Marketing & Events,Expense,AdvertisingPromotional,0.0,True,"Taproom events, releases, and coalition sponsorships"
+20,Repairs & Maintenance,Expense,RepairsMaintenance,0.0,True,Brewery equipment repairs and facility upkeep

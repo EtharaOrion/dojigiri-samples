@@ -1,0 +1,51 @@
+zpid,event_date,event,price,price_per_sqft,source,__api__,__table__,__file__,__row_index__,_pk
+4498444,2025-10-23,Listed for sale,984680.0,580.38,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,0,4498444@2025-10-23@Listed for sale
+4498444,2026-03-20,Sold,966071.0,568.61,County,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,1,4498444@2026-03-20@Sold
+6280381,2025-12-28,Sold,1015299.0,547.67,County,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,2,6280381@2025-12-28@Sold
+6280381,2026-03-02,Listed for sale,1004135.0,536.97,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,3,6280381@2026-03-02@Listed for sale
+2372998,2025-11-04,Sold,931651.0,548.13,County,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,4,2372998@2025-11-04@Sold
+2372998,2026-02-28,Listed for sale,906342.0,536.3,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,5,2372998@2026-02-28@Listed for sale
+3620111,2025-10-16,Sold,1149403.0,421.74,County,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,6,3620111@2025-10-16@Sold
+3620111,2026-03-21,Listed for sale,1122494.0,414.36,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,7,3620111@2026-03-21@Listed for sale
+7221930,2025-10-23,Sold,1074020.0,442.71,Listing,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,8,7221930@2025-10-23@Sold
+7221930,2026-03-06,Listed for sale,1050039.0,434.44,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,9,7221930@2026-03-06@Listed for sale
+8825668,2026-03-17,Sold,809577.0,396.97,County,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,10,8825668@2026-03-17@Sold
+8825668,2026-03-01,Listed for sale,793787.0,387.21,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,11,8825668@2026-03-01@Listed for sale
+8918514,2026-03-29,Listed for sale,1429142.0,487.91,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,12,8918514@2026-03-29@Listed for sale
+8918514,2026-03-03,Listed for sale,1422760.0,481.15,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,13,8918514@2026-03-03@Listed for sale
+7474798,2025-11-30,Sold,923620.0,397.43,County,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,14,7474798@2025-11-30@Sold
+7474798,2026-03-20,Listed for rent,906419.0,388.85,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,15,7474798@2026-03-20@Listed for rent
+1641157,2025-11-16,Listed for sale,1360936.0,468.79,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,16,1641157@2025-11-16@Listed for sale
+1641157,2026-03-09,Listed for sale,1336214.0,461.88,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,17,1641157@2026-03-09@Listed for sale
+2074801,2025-12-01,Listed for sale,741750.0,435.29,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,18,2074801@2025-12-01@Listed for sale
+2074801,2026-02-24,Listed for sale,720422.0,423.53,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,19,2074801@2026-02-24@Listed for sale
+2416179,2026-01-17,Listed for sale,1037155.0,518.78,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,20,2416179@2026-01-17@Listed for sale
+2416179,2026-02-28,Listed for sale,1013410.0,508.74,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,21,2416179@2026-02-28@Listed for sale
+7571565,2025-10-06,Listed for sale,910129.0,339.94,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,22,7571565@2025-10-06@Listed for sale
+7571565,2026-03-08,Listed for sale,890016.0,332.47,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,23,7571565@2026-03-08@Listed for sale
+2401095,2025-12-29,Listed for sale,775510.0,481.16,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,24,2401095@2025-12-29@Listed for sale
+2401095,2026-03-16,Listed for sale,751296.0,468.68,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,25,2401095@2026-03-16@Listed for sale
+2656619,2025-11-11,Listed for sale,1202090.0,519.6,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,26,2656619@2025-11-11@Listed for sale
+2656619,2026-03-20,Listed for sale,1185465.0,510.98,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,27,2656619@2026-03-20@Listed for sale
+7647754,2026-03-30,Listed for sale,1509706.0,511.35,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,28,7647754@2026-03-30@Listed for sale
+7647754,2026-03-09,Listed for sale,1494631.0,504.6,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,29,7647754@2026-03-09@Listed for sale
+3407962,2025-12-16,Listed for sale,926043.0,521.99,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,30,3407962@2025-12-16@Listed for sale
+3407962,2026-03-21,Listed for sale,909138.0,510.75,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,31,3407962@2026-03-21@Listed for sale
+7838440,2025-10-05,Listed for sale,1047765.0,534.25,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,32,7838440@2025-10-05@Listed for sale
+7838440,2026-02-26,Listed for sale,1037283.0,524.15,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,33,7838440@2026-02-26@Listed for sale
+5944440,2025-11-02,Listed for sale,1109944.0,416.28,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,34,5944440@2025-11-02@Listed for sale
+5944440,2026-03-10,Listed for sale,1095206.0,408.81,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,35,5944440@2026-03-10@Listed for sale
+4014140,2025-10-11,Listed for sale,840560.0,355.79,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,36,4014140@2025-10-11@Listed for sale
+4014140,2026-03-13,Listed for sale,811484.0,347.23,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,37,4014140@2026-03-13@Listed for sale
+2475081,2026-01-05,Listed for sale,934813.0,457.51,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,38,2475081@2026-01-05@Listed for sale
+2475081,2026-03-09,Listed for sale,922005.0,447.79,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,39,2475081@2026-03-09@Listed for sale
+6809376,2025-12-26,Listed for sale,1321831.0,466.87,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,40,6809376@2025-12-26@Listed for sale
+6809376,2026-03-01,Listed for sale,1314794.0,459.88,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,41,6809376@2026-03-01@Listed for sale
+6062124,2026-02-01,Listed for sale,1285763.0,449.84,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,42,6062124@2026-02-01@Listed for sale
+6062124,2026-03-20,Listed for sale,1258458.0,442.81,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,43,6062124@2026-03-20@Listed for sale
+6264870,2025-10-07,Listed for sale,1221862.0,547.32,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,44,6264870@2025-10-07@Listed for sale
+6264870,2026-03-06,Listed for sale,1209831.0,538.42,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,45,6264870@2026-03-06@Listed for sale
+3380233,2026-01-05,Listed for sale,1019239.0,506.71,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,46,3380233@2026-01-05@Listed for sale
+3380233,2026-02-23,Listed for sale,996973.0,496.75,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,47,3380233@2026-02-23@Listed for sale
+8809259,2025-10-07,Listed for sale,956483.0,489.09,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,48,8809259@2025-10-07@Listed for sale
+8809259,2026-02-24,Listed for sale,945455.0,478.95,Zillow,zillow-api,price_history,/opt/mocks/zillow-api/price_history.json,49,8809259@2026-02-24@Listed for sale

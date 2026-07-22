@@ -1,0 +1,3 @@
+city,created_at,home_type,max_price,min_baths,min_beds,min_price,name,search_id,state,user_id,__api__,__table__,__file__,__row_index__
+Portland,2025-12-13,SINGLE_FAMILY,1200000,2.0,3,500000,3-bed homes in Portland,search-00000001,OR,user-stuartdavid.myer,zillow-api,saved_searches,/opt/mocks/zillow-api/saved_searches.json,0
+Portland,2025-11-27,CONDO,750000,1.5,2,300000,Condos near downtown Portland,search-00000002,OR,user-stuartdavid.myer,zillow-api,saved_searches,/opt/mocks/zillow-api/saved_searches.json,1

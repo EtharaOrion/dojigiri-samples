@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar owner="Jessica Taylor" tz="America/Los_Angeles">
+  <recurring>
+    <event id="R01" byday="MO" start="09:30" end="10:00">Week start, review deadlines</event>
+    <event id="R02" byday="MO,WE,FR" start="07:30" end="08:10">Morning run, Griffith Park or neighborhood</event>
+    <event id="R03" byday="TU,TH" start="08:00" end="09:00">Yoga, Kindred Studio</event>
+    <event id="R04" byday="WE" start="10:00" end="10:30">Invoice check, anything past 30 days</event>
+    <event id="R05" byday="WE" start="11:00" end="12:00">Teletherapy, Dr. Brooks (biweekly)</event>
+    <event id="R06" byday="TH" start="19:00" end="21:00">Wine and work with Mia</event>
+    <event id="R07" byday="FR" start="17:00" end="18:00">Week wrap, update tracker, send deliverables</event>
+    <event id="R08" byday="SU" start="09:00" end="11:00">Admin, invoicing and meal prep</event>
+    <event id="R09" byday="SU" start="10:00" end="10:30">Call with Mom</event>
+  </recurring>
+  <scheduled>
+    <event id="E01" date="2026-11-13" time="15:00">Joshua Tree cabin, check in</event>
+    <event id="E02" date="2026-11-15" time="11:00">Joshua Tree cabin, check out</event>
+    <event id="E03" date="2026-11-26" time="all-day">Thanksgiving, day off</event>
+    <event id="E04" date="2026-11-30" time="all-day">LACMA membership renewal deadline</event>
+    <event id="E05" date="2026-12-25" time="all-day">Christmas, day off</event>
+    <event id="E06" date="2026-10-17" time="10:30">Quarterly coffee with Ray, portfolio review</event>
+    <event id="E07" date="2027-01-15" time="all-day">Estimated tax payment, Q4 2026</event>
+    <event id="E08" date="2027-01-20" time="09:00">Dental cleaning, Dr. Moss</event>
+    <event id="E09" date="2027-03-09" time="all-day">Annual eye exam recall</event>
+    <event id="E10" date="2027-04-15" time="all-day">Estimated tax payment, Q1 2027</event>
+  </scheduled>
+</calendar>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "price_Starter_M",
+    "product": "prod_Starter",
+    "unit_amount": "1900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Sustaining monthly pledge"
+  },
+  {
+    "id": "price_Pro_M",
+    "product": "prod_Pro",
+    "unit_amount": "4900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Building Our Future monthly gift"
+  },
+  {
+    "id": "price_Pro_Y",
+    "product": "prod_Pro",
+    "unit_amount": "49000",
+    "currency": "usd",
+    "recurring_interval": "year",
+    "active": "true",
+    "nickname": "Annual pledge installment"
+  },
+  {
+    "id": "price_Ent_M",
+    "product": "prod_Enterprise",
+    "unit_amount": "29900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "One-time capital gift"
+  },
+  {
+    "id": "price_POS",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Stewardship monthly giving"
+  },
+  {
+    "id": "price_POS-pad01",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Campaign pledge payment"
+  },
+  {
+    "id": "price_POS-pad02",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Sustaining monthly pledge"
+  },
+  {
+    "id": "price_POS-pad03",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Building Our Future monthly gift"
+  },
+  {
+    "id": "price_POS-pad04",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Annual pledge installment"
+  },
+  {
+    "id": "price_POS-pad05",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "One-time capital gift"
+  },
+  {
+    "id": "price_POS-pad06",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Stewardship monthly giving"
+  },
+  {
+    "id": "price_POS-pad07",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Campaign pledge payment"
+  },
+  {
+    "id": "price_POS-pad08",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Sustaining monthly pledge"
+  },
+  {
+    "id": "price_POS-pad09",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Building Our Future monthly gift"
+  },
+  {
+    "id": "price_POS-pad10",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Annual pledge installment"
+  },
+  {
+    "id": "price_POS-pad11",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "One-time capital gift"
+  },
+  {
+    "id": "price_POS-pad12",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Stewardship monthly giving"
+  },
+  {
+    "id": "price_POS-pad13",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Campaign pledge payment"
+  },
+  {
+    "id": "price_POS-pad14",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Sustaining monthly pledge"
+  },
+  {
+    "id": "price_POS-pad15",
+    "product": "prod_POS",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Building Our Future monthly gift"
+  }
+]

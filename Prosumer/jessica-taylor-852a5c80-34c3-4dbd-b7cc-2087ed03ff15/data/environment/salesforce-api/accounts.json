@@ -1,0 +1,222 @@
+[
+  {
+    "Id": "001Ax000001AAAAAA1",
+    "Name": "Northwind Traders",
+    "Industry": "Retail",
+    "AnnualRevenue": "5400000",
+    "Phone": "+1-415-267-0190",
+    "Website": "https://northwind.gmail.com",
+    "BillingCity": "San Francisco",
+    "BillingState": "CA",
+    "NumberOfEmployees": "120"
+  },
+  {
+    "Id": "001Ax000002BBBBBB2",
+    "Name": "Initech Systems",
+    "Industry": "Technology",
+    "AnnualRevenue": "18200000",
+    "Phone": "+1-512-267-0142",
+    "Website": "https://initech.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "TX",
+    "NumberOfEmployees": "540"
+  },
+  {
+    "Id": "001Ax000003CCCCCC3",
+    "Name": "Globex Corporation",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "76500000",
+    "Phone": "+1-312-267-0173",
+    "Website": "https://globex.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "IL",
+    "NumberOfEmployees": "2100"
+  },
+  {
+    "Id": "001Ax000004DDDDDD4",
+    "Name": "Soylent Health",
+    "Industry": "Healthcare",
+    "AnnualRevenue": "9800000",
+    "Phone": "+1-617-267-0128",
+    "Website": "https://soylent.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "MA",
+    "NumberOfEmployees": "310"
+  },
+  {
+    "Id": "001Ax000005EEEEEE5",
+    "Name": "Umbrella Logistics",
+    "Industry": "Transportation",
+    "AnnualRevenue": "33400000",
+    "Phone": "+1-206-267-0155",
+    "Website": "https://umbrella.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "WA",
+    "NumberOfEmployees": "870"
+  },
+  {
+    "Id": "001Ax000001AAAAAA1-dup2",
+    "Name": "Northwind Traders",
+    "Industry": "Retail",
+    "AnnualRevenue": "5400000",
+    "Phone": "+1-415-267-0190",
+    "Website": "https://northwind.gmail.com",
+    "BillingCity": "San Francisco",
+    "BillingState": "CA",
+    "NumberOfEmployees": "120"
+  },
+  {
+    "Id": "001Ax000002BBBBBB2-dup2",
+    "Name": "Initech Systems",
+    "Industry": "Technology",
+    "AnnualRevenue": "18200000",
+    "Phone": "+1-512-267-0142",
+    "Website": "https://initech.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "TX",
+    "NumberOfEmployees": "540"
+  },
+  {
+    "Id": "001Ax000003CCCCCC3-dup2",
+    "Name": "Globex Corporation",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "76500000",
+    "Phone": "+1-312-267-0173",
+    "Website": "https://globex.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "IL",
+    "NumberOfEmployees": "2100"
+  },
+  {
+    "Id": "001Ax000004DDDDDD4-dup2",
+    "Name": "Soylent Health",
+    "Industry": "Healthcare",
+    "AnnualRevenue": "9800000",
+    "Phone": "+1-617-267-0128",
+    "Website": "https://soylent.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "MA",
+    "NumberOfEmployees": "310"
+  },
+  {
+    "Id": "001Ax000005EEEEEE5-dup2",
+    "Name": "Umbrella Logistics",
+    "Industry": "Transportation",
+    "AnnualRevenue": "33400000",
+    "Phone": "+1-206-267-0155",
+    "Website": "https://umbrella.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "WA",
+    "NumberOfEmployees": "870"
+  },
+  {
+    "Id": "001Ax000001AAAAAA1-dup3",
+    "Name": "Northwind Traders",
+    "Industry": "Retail",
+    "AnnualRevenue": "5400000",
+    "Phone": "+1-415-267-0190",
+    "Website": "https://northwind.gmail.com",
+    "BillingCity": "San Francisco",
+    "BillingState": "CA",
+    "NumberOfEmployees": "120"
+  },
+  {
+    "Id": "001Ax000002BBBBBB2-dup3",
+    "Name": "Initech Systems",
+    "Industry": "Technology",
+    "AnnualRevenue": "18200000",
+    "Phone": "+1-512-267-0142",
+    "Website": "https://initech.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "TX",
+    "NumberOfEmployees": "540"
+  },
+  {
+    "Id": "001Ax000003CCCCCC3-dup3",
+    "Name": "Globex Corporation",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "76500000",
+    "Phone": "+1-312-267-0173",
+    "Website": "https://globex.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "IL",
+    "NumberOfEmployees": "2100"
+  },
+  {
+    "Id": "001Ax000004DDDDDD4-dup3",
+    "Name": "Soylent Health",
+    "Industry": "Healthcare",
+    "AnnualRevenue": "9800000",
+    "Phone": "+1-617-267-0128",
+    "Website": "https://soylent.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "MA",
+    "NumberOfEmployees": "310"
+  },
+  {
+    "Id": "001Ax000005EEEEEE5-dup3",
+    "Name": "Umbrella Logistics",
+    "Industry": "Transportation",
+    "AnnualRevenue": "33400000",
+    "Phone": "+1-206-267-0155",
+    "Website": "https://umbrella.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "WA",
+    "NumberOfEmployees": "870"
+  },
+  {
+    "Id": "001Ax000001AAAAAA1-dup4",
+    "Name": "Northwind Traders",
+    "Industry": "Retail",
+    "AnnualRevenue": "5400000",
+    "Phone": "+1-415-267-0190",
+    "Website": "https://northwind.gmail.com",
+    "BillingCity": "San Francisco",
+    "BillingState": "CA",
+    "NumberOfEmployees": "120"
+  },
+  {
+    "Id": "001Ax000002BBBBBB2-dup4",
+    "Name": "Initech Systems",
+    "Industry": "Technology",
+    "AnnualRevenue": "18200000",
+    "Phone": "+1-512-267-0142",
+    "Website": "https://initech.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "TX",
+    "NumberOfEmployees": "540"
+  },
+  {
+    "Id": "001Ax000003CCCCCC3-dup4",
+    "Name": "Globex Corporation",
+    "Industry": "Manufacturing",
+    "AnnualRevenue": "76500000",
+    "Phone": "+1-312-267-0173",
+    "Website": "https://globex.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "IL",
+    "NumberOfEmployees": "2100"
+  },
+  {
+    "Id": "001Ax000004DDDDDD4-dup4",
+    "Name": "Soylent Health",
+    "Industry": "Healthcare",
+    "AnnualRevenue": "9800000",
+    "Phone": "+1-617-267-0128",
+    "Website": "https://soylent.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "MA",
+    "NumberOfEmployees": "310"
+  },
+  {
+    "Id": "001Ax000005EEEEEE5-dup4",
+    "Name": "Umbrella Logistics",
+    "Industry": "Transportation",
+    "AnnualRevenue": "33400000",
+    "Phone": "+1-206-267-0155",
+    "Website": "https://umbrella.gmail.com",
+    "BillingCity": "Los Angeles",
+    "BillingState": "WA",
+    "NumberOfEmployees": "870"
+  }
+]

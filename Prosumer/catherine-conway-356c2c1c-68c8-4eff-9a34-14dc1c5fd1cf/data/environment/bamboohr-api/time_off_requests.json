@@ -1,0 +1,98 @@
+[
+  {
+    "amount": "3",
+    "created": "2026-01-18",
+    "employeeId": "106",
+    "end": "2026-10-14",
+    "id": "tor-bbef3b4b",
+    "notes": "Approved fall vacation.",
+    "start": "2026-10-12",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": "2",
+    "created": "2026-02-02",
+    "employeeId": "105",
+    "end": "2026-10-23",
+    "id": "tor-667e95a0",
+    "notes": "Dermatology CME conference in Seattle.",
+    "start": "2026-10-22",
+    "status": "approved",
+    "type": "CME",
+    "unit": "days"
+  },
+  {
+    "amount": "1",
+    "created": "2026-02-10",
+    "employeeId": "107",
+    "end": "2026-11-06",
+    "id": "tor-755de91d",
+    "notes": "Personal day.",
+    "start": "2026-11-06",
+    "status": "requested",
+    "type": "Personal",
+    "unit": "days"
+  },
+  {
+    "amount": "2",
+    "created": "2026-03-02",
+    "employeeId": "109",
+    "end": "2026-11-17",
+    "id": "tor-6c0779fe",
+    "notes": "Out sick with the flu.",
+    "start": "2026-11-16",
+    "status": "approved",
+    "type": "Sick",
+    "unit": "days"
+  },
+  {
+    "amount": "4",
+    "created": "2026-01-25",
+    "employeeId": "104",
+    "end": "2026-11-26",
+    "id": "tor-55f624f3",
+    "notes": "Thanksgiving week off.",
+    "start": "2026-11-23",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": "1",
+    "created": "2026-02-19",
+    "employeeId": "108",
+    "end": "2026-12-04",
+    "id": "tor-9b36fef3",
+    "notes": "Family commitment.",
+    "start": "2026-12-04",
+    "status": "requested",
+    "type": "Personal",
+    "unit": "days"
+  },
+  {
+    "amount": "3",
+    "created": "2026-03-05",
+    "employeeId": "110",
+    "end": "2026-12-23",
+    "id": "tor-c73c3693",
+    "notes": "Holiday travel with family.",
+    "start": "2026-12-21",
+    "status": "requested",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": "2",
+    "created": "2026-03-10",
+    "employeeId": "102",
+    "end": "2027-01-15",
+    "id": "tor-637f9bba",
+    "notes": "Winter dermatology symposium.",
+    "start": "2027-01-14",
+    "status": "approved",
+    "type": "CME",
+    "unit": "days"
+  }
+]

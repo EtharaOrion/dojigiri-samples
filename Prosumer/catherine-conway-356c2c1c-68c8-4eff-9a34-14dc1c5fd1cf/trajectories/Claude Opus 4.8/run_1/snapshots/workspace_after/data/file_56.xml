@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commissionPipeline artist="Catherine Conway" currency="USD" generated="2026-02-10">
+  <summary>
+    <openCommissions>4</openCommissions>
+    <outstandingBalance>6800</outstandingBalance>
+    <depositThreshold>250</depositThreshold>
+    <note>Replies to new commission enquiries are drafted and held for review before any reply is sent.</note>
+  </summary>
+  <commission ref="CC-2026-002" status="in progress">
+    <client>Sarah Lindgren and Michael Doyle</client>
+    <piece type="wedding print">Wedding Botanical, sweet pea</piece>
+    <price>1400</price>
+    <deposit>700</deposit>
+    <balanceDue>700</balanceDue>
+    <dueDate>2026-11-07</dueDate>
+  </commission>
+  <commission ref="CC-2026-003" status="in progress">
+    <client>St. Brendan's Catholic Church</client>
+    <piece type="installation">Native Wildflower Series, fellowship hall</piece>
+    <price>5000</price>
+    <deposit>2500</deposit>
+    <balanceDue>2500</balanceDue>
+    <dueDate>2026-12-11</dueDate>
+  </commission>
+  <commission ref="CC-2026-005" status="in progress">
+    <client>Cedar Hill Wedding Co.</client>
+    <piece type="print set">Botanical Save the Date set</piece>
+    <price>800</price>
+    <deposit>400</deposit>
+    <balanceDue>400</balanceDue>
+    <dueDate>2026-10-24</dueDate>
+  </commission>
+  <commission ref="CC-2027-001" status="planned">
+    <client>Ashvale Arts Center</client>
+    <piece type="edition">Wild Botanica, edition prints</piece>
+    <price>3200</price>
+    <deposit>0</deposit>
+    <balanceDue>3200</balanceDue>
+    <dueDate>2027-01-09</dueDate>
+  </commission>
+  <delivered>
+    <commission ref="CC-2025-018">
+      <client>Harper Whitfield and Tom Pryor</client>
+      <piece type="wedding print">Wedding Botanical, peony and fern</piece>
+      <price>1200</price>
+      <deliveredDate>2026-02-21</deliveredDate>
+    </commission>
+    <commission ref="CC-2025-014">
+      <client>Meridian private collector</client>
+      <piece type="original">Oregon Iris, framed original</piece>
+      <price>1800</price>
+      <deliveredDate>2025-10-30</deliveredDate>
+    </commission>
+    <commission ref="CC-2025-016">
+      <client>Hoffman household</client>
+      <piece type="original">Rose Study, anniversary gift</piece>
+      <price>950</price>
+      <deliveredDate>2025-12-12</deliveredDate>
+    </commission>
+  </delivered>
+</commissionPipeline>

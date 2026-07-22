@@ -1,0 +1,111 @@
+comment_id,file_key,user_id,user_handle,message,node_id,resolved,created_at,__api__,__table__,__file__,__row_index__
+cmt-9001,FK001abcdefg,user-1001,Grace Taylor,Can we increase the tap target on this button?,5:12,False,2026-11-22T15:01:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,0
+cmt-9002,FK001abcdefg,user-1002,Tomas Alvarez,Agreed; bumping to 48px height.,5:12,True,2026-11-22T16:20:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,1
+cmt-9003,FK002hijklmn,user-1001,Grace Taylor,The error state color fails contrast.,12:5,False,2026-11-24T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,2
+cmt-9004,FK003opqrstu,user-1003,Mara Lindqvist,Hero copy is too long on mobile.,3:8,False,2026-11-20T19:10:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,3
+cmt-9001-2,FK001abcdefg,user-1001-v5,Grace Taylor,Can we increase the tap target on this button?,5:12,False,2026-11-22T15:01:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,4
+cmt-9002-2,FK001abcdefg,user-1002-v6,Tomas Alvarez,Agreed; bumping to 48px height.,5:12,True,2026-11-22T16:20:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,5
+cmt-9003-2,FK002hijklmn,user-1001-v7,Grace Taylor,The error state color fails contrast.,12:5,False,2026-11-24T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,6
+cmt-9004-2,FK003opqrstu,user-1003-v8,Mara Lindqvist,Hero copy is too long on mobile.,3:8,False,2026-11-20T19:10:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,7
+cmt-9001-3,FK001abcdefg,user-1001-v9,Grace Taylor,Can we increase the tap target on this button?,5:12,False,2026-11-22T15:01:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,8
+cmt-9002-3,FK001abcdefg,user-1002-v10,Tomas Alvarez,Agreed; bumping to 48px height.,5:12,True,2026-11-22T16:20:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,9
+cmt-9003-3,FK002hijklmn,user-1001-v11,Grace Taylor,The error state color fails contrast.,12:5,False,2026-11-24T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,10
+cmt-9004-3,FK003opqrstu,user-1003-v12,Mara Lindqvist,Hero copy is too long on mobile.,3:8,False,2026-11-20T19:10:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,11
+cmt-9001-4,FK001abcdefg,user-1001-v13,Grace Taylor,Can we increase the tap target on this button?,5:12,False,2026-11-22T15:01:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,12
+cmt-9002-4,FK001abcdefg,user-1002-v14,Tomas Alvarez,Agreed; bumping to 48px height.,5:12,True,2026-11-22T16:20:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,13
+cmt-9003-4,FK002hijklmn,user-1001-v15,Grace Taylor,The error state color fails contrast.,12:5,False,2026-11-24T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,14
+cmt-9004-4,FK003opqrstu,user-1003-v16,Mara Lindqvist,Hero copy is too long on mobile.,3:8,False,2026-11-20T19:10:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,15
+cmt-9001-5,FK001abcdefg,user-1001-v17,Grace Taylor,Can we increase the tap target on this button?,5:12,False,2026-11-22T15:01:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,16
+cmt-9002-5,FK001abcdefg,user-1002-v18,Tomas Alvarez,Agreed; bumping to 48px height.,5:12,True,2026-11-22T16:20:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,17
+cmt-9003-5,FK002hijklmn,user-1001-v19,Grace Taylor,The error state color fails contrast.,12:5,False,2026-11-24T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,18
+cmt-9004-5,FK003opqrstu,user-1003-v20,Mara Lindqvist,Hero copy is too long on mobile.,3:8,False,2026-11-20T19:10:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,19
+cmt-seed-100,FK001abcdefg,user-jessica,Jessica Taylor,Can we tighten the tracking on the wordmark?,5:100,True,2027-01-01T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,20
+cmt-seed-101,FK002hijklmn,user-jessica,Jessica Taylor,The stamped kraft direction is winning by a mile.,5:101,False,2027-01-02T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,21
+cmt-seed-102,FK003opqrstu,user-jessica,Jessica Taylor,Let's push the primary green two steps darker.,5:102,False,2027-01-03T16:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,22
+cmt-seed-103,FK004vwxyz12,user-jessica,Jessica Taylor,Feels like the jar illustration needs a hair more weight on the outline.,5:103,True,2027-01-04T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,23
+cmt-seed-104,FK001abcdefg,user-jessica,Jessica Taylor,Copy on the packaging back label could lose one line.,5:104,False,2027-01-05T14:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,24
+cmt-seed-105,FK002hijklmn,user-jessica,Jessica Taylor,Try shifting the logo mark 4px right for optical balance.,5:105,False,2027-01-06T17:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,25
+cmt-seed-106,FK003opqrstu,user-jessica,Jessica Taylor,The muted gold pairs better with the serif than the sans.,5:106,True,2027-01-07T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,26
+cmt-seed-107,FK004vwxyz12,user-jessica,Jessica Taylor,Signage sizing looks good in the exterior mockup.,5:107,False,2027-01-08T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,27
+cmt-seed-108,FK001abcdefg,user-jessica,Jessica Taylor,"For the vinyl, let's confirm satin over matte before releasing files.",5:108,False,2027-01-09T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,28
+cmt-seed-109,FK002hijklmn,user-jessica,Jessica Taylor,Mood board direction B is the closest to the client brief.,5:109,True,2027-01-10T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,29
+cmt-seed-110,FK003opqrstu,user-jessica,Jessica Taylor,Direction A feels a touch too editorial.,5:110,False,2027-01-11T16:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,30
+cmt-seed-111,FK004vwxyz12,user-jessica,Jessica Taylor,Small nit: baseline shift on the tagline.,5:111,False,2027-01-12T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,31
+cmt-seed-112,FK001abcdefg,user-jessica,Jessica Taylor,Concept 2 with the palette from concept 3 — worth trying.,5:112,True,2027-01-13T14:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,32
+cmt-seed-113,FK002hijklmn,user-jessica,Jessica Taylor,Icon set is reading a little heavy against the type. Try 1.25pt strokes.,5:113,False,2027-01-14T17:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,33
+cmt-seed-114,FK003opqrstu,user-jessica,Jessica Taylor,The alt logo lockup handles vertical better than horizontal.,5:114,False,2027-01-15T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,34
+cmt-seed-115,FK004vwxyz12,user-jessica,Jessica Taylor,Please add a case-sensitive version of the wordmark.,5:115,True,2027-01-16T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,35
+cmt-seed-116,FK001abcdefg,user-jessica,Jessica Taylor,Type specimen doc is ready for the guidelines.,5:116,False,2027-01-17T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,36
+cmt-seed-117,FK002hijklmn,user-jessica,Jessica Taylor,Let's swap the accent to warm gray for the packaging back.,5:117,False,2027-01-18T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,37
+cmt-seed-118,FK003opqrstu,user-jessica,Jessica Taylor,"Client wants the seasonal SKU to differ subtly, not shout.",5:118,True,2027-01-19T16:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,38
+cmt-seed-119,FK004vwxyz12,user-jessica,Jessica Taylor,The trade show booth needs a bolder hero.,5:119,False,2027-01-20T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,39
+cmt-seed-120,FKseed1097aba7ce,user-jessica,Jessica Taylor,Web hero looks great — the type has room to breathe.,5:120,False,2027-01-21T14:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,40
+cmt-seed-121,FKseed114222f4e3,user-jessica,Jessica Taylor,Mobile nav should collapse to a hamburger below 640.,5:121,True,2027-01-22T17:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,41
+cmt-seed-122,FKseed12aea263b5,user-jessica,Jessica Taylor,Add a hover state variant for the product card.,5:122,False,2027-01-23T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,42
+cmt-seed-123,FKseed1395dcf18f,user-jessica,Jessica Taylor,The primary CTA needs a stronger contrast against the sage.,5:123,False,2027-01-24T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,43
+cmt-seed-124,FKseed1444cc3bb4,user-jessica,Jessica Taylor,Alt text on the packaging photos should describe the ingredient.,5:124,True,2027-01-25T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,44
+cmt-seed-125,FKseed152b966165,user-jessica,Jessica Taylor,Portfolio case study copy is a little tight — could lose one paragraph.,5:125,False,2027-01-26T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,45
+cmt-seed-126,FKseed16cba6a072,user-jessica,Jessica Taylor,Home hero deserves a stronger typographic moment.,5:126,False,2027-01-27T16:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,46
+cmt-seed-127,FKseed1734d74e70,user-jessica,Jessica Taylor,Slight kerning fix between 'l' and 'm' in the wordmark.,5:127,True,2027-01-28T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,47
+cmt-seed-128,FKseed188a85aac4,user-jessica,Jessica Taylor,"Let's move the price footnote closer to the price, not the CTA.",5:128,False,2027-01-29T14:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,48
+cmt-seed-129,FKseed19b6a283a4,user-jessica,Jessica Taylor,The B version wins because the mark works at 24px.,5:129,False,2027-01-30T17:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,49
+cmt-seed-130,FKseed20ba69ba57,user-jessica,Jessica Taylor,Try the type at 92% weight for the tag line.,5:130,True,2026-10-01T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,50
+cmt-seed-131,FK001abcdefg,user-jessica,Jessica Taylor,"Print proofs came in — magenta reads slightly warm, may need a tweak.",5:131,False,2026-10-02T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,51
+cmt-seed-132,FK002hijklmn,user-jessica,Jessica Taylor,Signage arrow icon is a keeper — let's ship it.,5:132,False,2026-10-03T10:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,52
+cmt-seed-133,FK003opqrstu,user-jessica,Jessica Taylor,Bloom seasonal label needs a subtle change so it reads as limited.,5:133,True,2026-10-04T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,53
+cmt-seed-134,FK004vwxyz12,user-jessica,Jessica Taylor,"Verdant retail sell sheet — one page, front and back only.",5:134,False,2026-10-05T16:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,54
+cmt-seed-135,FK001abcdefg,user-jessica,Jessica Taylor,Pinnacle brand book should open with the mission page.,5:135,False,2026-10-06T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,55
+cmt-seed-200,FK001abcdefg,user-jessica,Jessica Taylor,Working file backup pushed to Drive.,7:100,True,2026-11-01T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,56
+cmt-seed-201,FK002hijklmn,user-jessica,Jessica Taylor,Signed off on the type set.,7:101,True,2026-11-02T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,57
+cmt-seed-202,FK003opqrstu,user-jessica,Jessica Taylor,Ready to hand off to the printer.,7:102,True,2026-11-03T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,58
+cmt-seed-203,FK004vwxyz12,user-jessica,Jessica Taylor,Client approved the color reversal.,7:103,True,2026-11-04T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,59
+cmt-seed-204,FK001abcdefg,user-jessica,Jessica Taylor,Retina asset export queued.,7:104,True,2026-11-05T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,60
+cmt-seed-205,FK002hijklmn,user-jessica,Jessica Taylor,SVG optimized — file weights down 40%.,7:105,True,2026-11-06T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,61
+cmt-seed-206,FK003opqrstu,user-jessica,Jessica Taylor,Component library synced to the shared team.,7:106,True,2026-11-07T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,62
+cmt-seed-207,FK004vwxyz12,user-jessica,Jessica Taylor,Style guide draft PDF exported.,7:107,True,2026-11-08T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,63
+cmt-seed-208,FK001abcdefg,user-jessica,Jessica Taylor,Client asked for a preview reel — shared the walkthrough.,7:108,True,2026-11-09T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,64
+cmt-seed-209,FK002hijklmn,user-jessica,Jessica Taylor,Handoff spec sheet delivered to the dev team.,7:109,True,2026-11-10T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,65
+cmt-seed-210,FK003opqrstu,user-jessica,Jessica Taylor,Landing page frames locked for the QA pass.,7:110,True,2026-11-11T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,66
+cmt-seed-211,FK004vwxyz12,user-jessica,Jessica Taylor,Kicked off the type licensing paperwork.,7:111,True,2026-11-12T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,67
+cmt-seed-212,FK001abcdefg,user-jessica,Jessica Taylor,Icon strokes normalized to the 1pt grid.,7:112,True,2026-11-13T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,68
+cmt-seed-213,FK002hijklmn,user-jessica,Jessica Taylor,Fixed the drop shadow on the hero card.,7:113,True,2026-11-14T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,69
+cmt-seed-214,FK003opqrstu,user-jessica,Jessica Taylor,Rounded the button corners to 6px per client note.,7:114,True,2026-11-15T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,70
+cmt-seed-215,FK004vwxyz12,user-jessica,Jessica Taylor,Renamed layers for cleaner developer handoff.,7:115,True,2026-11-16T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,71
+cmt-seed-216,FK001abcdefg,user-jessica,Jessica Taylor,Tagged the primary CTA style token.,7:116,True,2026-11-17T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,72
+cmt-seed-217,FK002hijklmn,user-jessica,Jessica Taylor,Cleaned up the archive frames on the file.,7:117,True,2026-11-18T11:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,73
+cmt-seed-218,FK003opqrstu,user-jessica,Jessica Taylor,Added a documentation page for the type stack.,7:118,True,2026-11-19T13:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,74
+cmt-seed-219,FK004vwxyz12,user-jessica,Jessica Taylor,Consolidated the color styles into semantic tokens.,7:119,True,2026-11-20T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,75
+cmt-seed-400,FK001abcdefg,user-jessica,Jessica Taylor,Follow-up on version 1 of the working file.,9:100,True,2026-12-01T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,76
+cmt-seed-401,FK002hijklmn,user-jessica,Jessica Taylor,Follow-up on version 2 of the working file.,9:101,True,2026-12-01T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,77
+cmt-seed-402,FK003opqrstu,user-jessica,Jessica Taylor,Follow-up on version 3 of the working file.,9:102,True,2026-12-01T18:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,78
+cmt-seed-403,FK004vwxyz12,user-jessica,Jessica Taylor,Follow-up on version 4 of the working file.,9:103,True,2026-12-01T21:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,79
+cmt-seed-404,FK001abcdefg,user-jessica,Jessica Taylor,Follow-up on version 5 of the working file.,9:104,True,2026-12-02T00:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,80
+cmt-seed-405,FK002hijklmn,user-jessica,Jessica Taylor,Follow-up on version 6 of the working file.,9:105,True,2026-12-02T03:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,81
+cmt-seed-406,FK003opqrstu,user-jessica,Jessica Taylor,Follow-up on version 7 of the working file.,9:106,True,2026-12-02T06:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,82
+cmt-seed-407,FK004vwxyz12,user-jessica,Jessica Taylor,Follow-up on version 8 of the working file.,9:107,True,2026-12-02T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,83
+cmt-seed-408,FK001abcdefg,user-jessica,Jessica Taylor,Follow-up on version 9 of the working file.,9:108,True,2026-12-02T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,84
+cmt-seed-409,FK002hijklmn,user-jessica,Jessica Taylor,Follow-up on version 10 of the working file.,9:109,True,2026-12-02T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,85
+cmt-seed-410,FK003opqrstu,user-jessica,Jessica Taylor,Follow-up on version 11 of the working file.,9:110,True,2026-12-02T18:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,86
+cmt-seed-411,FK004vwxyz12,user-jessica,Jessica Taylor,Follow-up on version 12 of the working file.,9:111,True,2026-12-02T21:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,87
+cmt-seed-412,FK001abcdefg,user-jessica,Jessica Taylor,Follow-up on version 13 of the working file.,9:112,True,2026-12-03T00:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,88
+cmt-seed-413,FK002hijklmn,user-jessica,Jessica Taylor,Follow-up on version 14 of the working file.,9:113,True,2026-12-03T03:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,89
+cmt-seed-414,FK003opqrstu,user-jessica,Jessica Taylor,Follow-up on version 15 of the working file.,9:114,True,2026-12-03T06:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,90
+cmt-seed-415,FK004vwxyz12,user-jessica,Jessica Taylor,Follow-up on version 16 of the working file.,9:115,True,2026-12-03T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,91
+cmt-seed-416,FK001abcdefg,user-jessica,Jessica Taylor,Follow-up on version 17 of the working file.,9:116,True,2026-12-03T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,92
+cmt-seed-417,FK002hijklmn,user-jessica,Jessica Taylor,Follow-up on version 18 of the working file.,9:117,True,2026-12-03T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,93
+cmt-seed-418,FK003opqrstu,user-jessica,Jessica Taylor,Follow-up on version 19 of the working file.,9:118,True,2026-12-03T18:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,94
+cmt-seed-419,FK004vwxyz12,user-jessica,Jessica Taylor,Follow-up on version 20 of the working file.,9:119,True,2026-12-03T21:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,95
+cmt-seed-420,FKseed1097aba7ce,user-jessica,Jessica Taylor,Follow-up on version 21 of the working file.,9:120,True,2026-12-04T00:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,96
+cmt-seed-421,FKseed114222f4e3,user-jessica,Jessica Taylor,Follow-up on version 22 of the working file.,9:121,True,2026-12-04T03:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,97
+cmt-seed-422,FKseed12aea263b5,user-jessica,Jessica Taylor,Follow-up on version 23 of the working file.,9:122,True,2026-12-04T06:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,98
+cmt-seed-423,FKseed1395dcf18f,user-jessica,Jessica Taylor,Follow-up on version 24 of the working file.,9:123,True,2026-12-04T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,99
+cmt-seed-424,FKseed1444cc3bb4,user-jessica,Jessica Taylor,Follow-up on version 25 of the working file.,9:124,True,2026-12-04T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,100
+cmt-seed-425,FKseed152b966165,user-jessica,Jessica Taylor,Follow-up on version 26 of the working file.,9:125,True,2026-12-04T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,101
+cmt-seed-426,FKseed16cba6a072,user-jessica,Jessica Taylor,Follow-up on version 27 of the working file.,9:126,True,2026-12-04T18:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,102
+cmt-seed-427,FKseed1734d74e70,user-jessica,Jessica Taylor,Follow-up on version 28 of the working file.,9:127,True,2026-12-04T21:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,103
+cmt-seed-428,FKseed188a85aac4,user-jessica,Jessica Taylor,Follow-up on version 29 of the working file.,9:128,True,2026-12-05T00:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,104
+cmt-seed-429,FKseed19b6a283a4,user-jessica,Jessica Taylor,Follow-up on version 30 of the working file.,9:129,True,2026-12-05T03:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,105
+cmt-seed-430,FKseed20ba69ba57,user-jessica,Jessica Taylor,Follow-up on version 31 of the working file.,9:130,True,2026-12-05T06:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,106
+cmt-seed-431,FK001abcdefg,user-jessica,Jessica Taylor,Follow-up on version 32 of the working file.,9:131,True,2026-12-05T09:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,107
+cmt-seed-432,FK002hijklmn,user-jessica,Jessica Taylor,Follow-up on version 33 of the working file.,9:132,True,2026-12-05T12:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,108
+cmt-seed-433,FK003opqrstu,user-jessica,Jessica Taylor,Follow-up on version 34 of the working file.,9:133,True,2026-12-05T15:00:00Z,figma-api,comments,/opt/mocks/figma-api/comments.json,109

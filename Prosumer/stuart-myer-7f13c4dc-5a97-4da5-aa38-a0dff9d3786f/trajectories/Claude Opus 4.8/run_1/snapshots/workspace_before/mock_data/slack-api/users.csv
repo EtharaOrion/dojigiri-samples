@@ -1,0 +1,21 @@
+email,id,is_admin,is_bot,name,presence,real_name,status_text,tz,__api__,__table__,__file__,__row_index__
+stuart.myer@voissync.ai,U001PERSONA,True,False,stuart,active,Stuart David Myer,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,0
+megan.hale.m@gmail.com,U002MEGAN,True,False,megan,away,Megan Hale,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,1
+priya.nair.env@gmail.com,U003PRIYA,True,False,priya,active,Priya Nair,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,2
+marcus.webb.pdx@gmail.com,U004MARCUS,True,False,marcus,active,Marcus Webb,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,3
+ben.kaufman.farms@gmail.com,U005BEN,True,False,ben,away,Ben Kaufman,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,4
+sara.lindqvist@gmail.com,U006SARA,True,False,sara,active,Sara Lindqvist,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,5
+cora.whitfield.design@gmail.com,U007CORA,True,False,cora,active,Cora Whitfield,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,6
+lori.juarez@voissync.ai,U008LORI,True,False,lori,away,Lori Juarez,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,7
+justin.johnson@voissync.ai,U009JUSTIN,True,False,justin,active,Justin Johnson,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,8
+teresa.peterson@voissync.ai,U010TERESA,True,False,teresa,active,Teresa Peterson,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,9
+stuart.myer@voissync.ai,U001PERSONA-v1,True,False,stuart,away,Stuart David Myer,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,10
+megan.hale.m@gmail.com,U002MEGAN-v2,True,False,megan,active,Megan Hale,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,11
+priya.nair.env@gmail.com,U003PRIYA-v3,True,False,priya,active,Priya Nair,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,12
+marcus.webb.pdx@gmail.com,U004MARCUS-v4,True,False,marcus,away,Marcus Webb,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,13
+ben.kaufman.farms@gmail.com,U005BEN-v5,True,False,ben,active,Ben Kaufman,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,14
+sara.lindqvist@gmail.com,U006SARA-v6,True,False,sara,active,Sara Lindqvist,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,15
+cora.whitfield.design@gmail.com,U007CORA-v7,True,False,cora,away,Cora Whitfield,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,16
+lori.juarez@voissync.ai,U008LORI-v8,True,False,lori,active,Lori Juarez,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,17
+justin.johnson@voissync.ai,U009JUSTIN-v9,True,False,justin,active,Justin Johnson,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,18
+teresa.peterson@voissync.ai,U010TERESA-v10,True,False,teresa,away,Teresa Peterson,In the cellar,America/Los_Angeles,slack-api,users,/opt/mocks/slack-api/users.json,19

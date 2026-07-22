@@ -1,0 +1,36 @@
+{
+  "account_id": 7100,
+  "document_name": "Corporate_Expense_Ledger.pdf",
+  "entries": [
+    {
+      "amount": 142.87,
+      "date": "2025-12-03",
+      "employee": "Andrew Santos",
+      "merchant": "Avalon International Breads"
+    },
+    {
+      "amount": 386.5,
+      "date": "2025-12-08",
+      "employee": "Marcus Thompson",
+      "merchant": "Blick Art Materials"
+    },
+    {
+      "amount": 74.19,
+      "date": "2025-12-11",
+      "employee": "Andrew Santos",
+      "merchant": "DTE Energy"
+    },
+    {
+      "amount": 219.0,
+      "date": "2025-12-15",
+      "employee": "Andrew Santos",
+      "merchant": "Rocket Mortgage FieldHouse Catering"
+    },
+    {
+      "amount": 58.4,
+      "date": "2025-12-19",
+      "employee": "Marcus Thompson",
+      "merchant": "Detroit Institute of Arts"
+    }
+  ]
+}

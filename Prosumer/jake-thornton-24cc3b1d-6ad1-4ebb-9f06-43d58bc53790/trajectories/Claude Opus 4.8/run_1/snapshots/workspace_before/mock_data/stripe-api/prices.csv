@@ -1,0 +1,6 @@
+id,product,unit_amount,currency,recurring_interval,active,nickname,__api__,__table__,__file__,__row_index__,object,recurring,type
+price_Starter_M,prod_Starter,7500,usd,month,True,Home class seat,stripe-api,prices,/opt/mocks/stripe-api/prices.json,0,price,"{""interval"": ""month""}",recurring
+price_Pro_M,prod_Pro,6500,usd,month,True,Venue class seat,stripe-api,prices,/opt/mocks/stripe-api/prices.json,1,price,"{""interval"": ""month""}",recurring
+price_Pro_Y,prod_Pro,65000,usd,year,True,Venue class seat — annual series,stripe-api,prices,/opt/mocks/stripe-api/prices.json,2,price,"{""interval"": ""year""}",recurring
+price_Ent_M,prod_Enterprise,25000,usd,month,True,Private group class,stripe-api,prices,/opt/mocks/stripe-api/prices.json,3,price,"{""interval"": ""month""}",recurring
+price_POS,prod_POS,9900,usd,month,True,Gift card,stripe-api,prices,/opt/mocks/stripe-api/prices.json,4,price,"{""interval"": ""month""}",recurring

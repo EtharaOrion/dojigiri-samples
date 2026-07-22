@@ -1,0 +1,6 @@
+id,product,unit_amount,currency,recurring_interval,active,nickname,__api__,__table__,__file__,__row_index__,object,recurring,type
+price_Starter_M,prod_Starter,1900,usd,month,True,Starter Monthly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,0,price,"{""interval"": ""month""}",recurring
+price_Pro_M,prod_Pro,4900,usd,month,True,Pro Monthly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,1,price,"{""interval"": ""month""}",recurring
+price_Pro_Y,prod_Pro,49000,usd,year,True,Pro Annual,stripe-api,prices,/opt/mocks/stripe-api/prices.json,2,price,"{""interval"": ""year""}",recurring
+price_Ent_M,prod_Enterprise,29900,usd,month,True,Enterprise Monthly,stripe-api,prices,/opt/mocks/stripe-api/prices.json,3,price,"{""interval"": ""month""}",recurring
+price_POS,prod_POS,9900,usd,Gulf Coast Ballet - general,True,POS Bundle One-time,stripe-api,prices,/opt/mocks/stripe-api/prices.json,4,price,"{""interval"": ""Gulf Coast Ballet - general""}",recurring

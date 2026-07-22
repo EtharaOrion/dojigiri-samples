@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item-stuart-myer",
+    "institution_id": "ins-first-bank-portland",
+    "webhook": "https://hooks.driftwoodbrewingcompany.com/plaid",
+    "available_products": [
+      "balance",
+      "identity",
+      "auth"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "consent_expiration_time": null,
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins-first-bank-portland",
+    "name": "First Bank of Portland",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.firstbankofportland.com",
+    "primary_color": "#1f6f54",
+    "routing_numbers": [
+      "123306047"
+    ]
+  }
+}

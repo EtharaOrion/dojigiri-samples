@@ -1,0 +1,21 @@
+response_id,field_id,field_type,ref,answer,__api__,__table__,__file__,__row_index__,_pk
+resp-cfcd215795,fld-cfcd215795,short_text,name,Respondent 1,typeform-api,answers,/opt/mocks/typeform-api/answers.json,0,resp-cfcd215795@fld-cfcd215795
+resp-cfcd215795,fld-c4ca4238a7300,email,email,respondent1@gmail.com,typeform-api,answers,/opt/mocks/typeform-api/answers.json,1,resp-cfcd215795@fld-c4ca4238a7300
+resp-cfcd215795,shkcvi4rdc0ext,multiple_choice,role,Operations,typeform-api,answers,/opt/mocks/typeform-api/answers.json,2,resp-cfcd215795@shkcvi4rdc0ext
+resp-cfcd215795,h0q0omcb53m6u7,rating,nps,8,typeform-api,answers,/opt/mocks/typeform-api/answers.json,3,resp-cfcd215795@h0q0omcb53m6u7
+resp-cfcd208514,fld-cfcd215795,short_text,name,Respondent 2,typeform-api,answers,/opt/mocks/typeform-api/answers.json,4,resp-cfcd208514@fld-cfcd215795
+resp-c4ca4238a20,fld-c4ca4238a7300,email,email,respondent2@gmail.com,typeform-api,answers,/opt/mocks/typeform-api/answers.json,5,resp-c4ca4238a20@fld-c4ca4238a7300
+resp-cfcd208514,h0q0omcb53m6u7,rating,nps,9,typeform-api,answers,/opt/mocks/typeform-api/answers.json,6,resp-cfcd208514@h0q0omcb53m6u7
+resp-c4ca4238a20,fld-cfcd215795,short_text,name,Respondent 3,typeform-api,answers,/opt/mocks/typeform-api/answers.json,7,resp-c4ca4238a20@fld-cfcd215795
+resp-cfcd208514,fld-c4ca4238a7300,email,email,respondent3@gmail.com,typeform-api,answers,/opt/mocks/typeform-api/answers.json,8,resp-cfcd208514@fld-c4ca4238a7300
+resp-cfcd208514,shkcvi4rdc0ext,multiple_choice,role,Midwifery,typeform-api,answers,/opt/mocks/typeform-api/answers.json,9,resp-cfcd208514@shkcvi4rdc0ext
+resp-c4ca4238a20,h0q0omcb53m6u7,multiple_choice,role,Other,typeform-api,answers,/opt/mocks/typeform-api/answers.json,10,resp-c4ca4238a20@h0q0omcb53m6u7
+resp-c4ca4238a20,shkcvi4rdc0ext,rating,nps,10,typeform-api,answers,/opt/mocks/typeform-api/answers.json,11,resp-c4ca4238a20@shkcvi4rdc0ext
+resp_cfcd208495d5,fld-cfcd215795,rating,nps,7,typeform-api,answers,/opt/mocks/typeform-api/answers.json,12,resp_cfcd208495d5@fld-cfcd215795
+resp_cfcd208495d5,fld-c4ca4238a7300,multiple_choice,role,Cooking Classes,typeform-api,answers,/opt/mocks/typeform-api/answers.json,13,resp_cfcd208495d5@fld-c4ca4238a7300
+resp_cfcd208495d5,shkcvi4rdc0ext,short_text,ref_shkcvi4rdc0ext,Southern comfort,typeform-api,answers,/opt/mocks/typeform-api/answers.json,14,resp_cfcd208495d5@shkcvi4rdc0ext
+resp_cfcd208495d5,h0q0omcb53m6u7,short_text,ref_fld-cfcd215795,None,typeform-api,answers,/opt/mocks/typeform-api/answers.json,15,resp_cfcd208495d5@h0q0omcb53m6u7
+resp_c4ca4238a0b9,fld-cfcd215795,short_text,ref_fld-cfcd215795,Instagram,typeform-api,answers,/opt/mocks/typeform-api/answers.json,16,resp_c4ca4238a0b9@fld-cfcd215795
+resp_c81e728d9d4c,fld-cfcd215795,short_text,ref_fld-cfcd215795,Yes,typeform-api,answers,/opt/mocks/typeform-api/answers.json,17,resp_c81e728d9d4c@fld-cfcd215795
+resp_eccbc87e4b5c,fld-cfcd215795,short_text,ref_fld-cfcd215795,Cooking Classes,typeform-api,answers,/opt/mocks/typeform-api/answers.json,18,resp_eccbc87e4b5c@fld-cfcd215795
+resp_a87ff679a2f3,fld-cfcd215795,short_text,ref_fld-cfcd215795,Saturday afternoon,typeform-api,answers,/opt/mocks/typeform-api/answers.json,19,resp_a87ff679a2f3@fld-cfcd215795

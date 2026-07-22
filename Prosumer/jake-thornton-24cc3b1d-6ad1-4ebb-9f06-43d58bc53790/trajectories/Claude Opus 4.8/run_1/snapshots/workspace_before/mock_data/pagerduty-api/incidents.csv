@@ -1,0 +1,21 @@
+incident_id,incident_number,title,status,urgency,service_id,escalation_policy_id,assigned_to,created_at,resolved_at,__api__,__table__,__file__,__row_index__
+PI0001cfcd7320,1001,API gateway 5xx spike,resolved,high,PSVC7301,PPOL7301,PUSER001,2025-10-04T11:00:00Z,2025-10-04T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,0
+PI0002c4ca7342,1002,Database connection pool exhausted,acknowledged,low,PSVC7302,PPOL7301,PUSER002,2025-10-04T11:00:00Z,2025-10-06T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,1
+PI0003c81e7372,1003,Slow checkout latency,resolved,low,PSVC7303,PPOL7301,PUSER001,2025-10-04T11:00:00Z,2025-10-07T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,2
+PI0004eccbc7308,1004,Auth service 503s for SSO logins,acknowledged,low,PSVC7304,PPOL7301,PUSER002,2025-10-04T11:00:00Z,2025-10-04T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,3
+PI0005a87ff7306,1005,Background worker queue backing up,triggered,high,PSVC7305,PPOL7301,PUSER001,2025-10-04T11:00:00Z,2025-10-09T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,4
+l0sgrk4b7r5v,1006,DNS resolution intermittent,triggered,low,PSVC7306,PPOL7301,PUSER002,2025-10-04T11:00:00Z,2025-10-10T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,5
+PI0007175209,1007,Slack webhook deliveries failing,resolved,high,PSVC7301,PPOL7301,PUSER001,2025-10-04T11:00:00Z,2025-10-04T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,6
+PI00088f14e7304,1008,Search index lag exceeded SLO,acknowledged,high,PSVC7302,PPOL7301,PUSER002,2025-10-04T11:00:00Z,2025-10-05T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,7
+PI0001cfcd7333,1014,API gateway 5xx spike,resolved,high,PSVC7301,PPOL7301,PUSER001,2025-10-11T11:00:00Z,2025-10-11T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,8
+PI0002c4ca7368,1028,Database connection pool exhausted,acknowledged,low,PSVC7302,PPOL7301,PUSER002,2025-10-18T11:00:00Z,2025-10-20T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,9
+PI0003c81e7411,1042,Slow checkout latency,resolved,low,PSVC7303,PPOL7301,PUSER001,2025-10-25T11:00:00Z,2025-10-28T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,10
+PI0004eccbc7360,1056,Auth service 503s for SSO logins,acknowledged,low,PSVC7304,PPOL7301,PUSER002,2025-11-01T11:00:00Z,2025-11-01T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,11
+PI0005a87ff7371,1070,Background worker queue backing up,triggered,high,PSVC7305,PPOL7301,PUSER001,2025-11-08T11:00:00Z,2025-11-13T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,12
+380f03eede9d,1084,DNS resolution intermittent,triggered,low,PSVC7306,PPOL7301,PUSER002,2025-11-15T11:00:00Z,2025-11-21T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,13
+PI0007175300,1098,Slack webhook deliveries failing,resolved,high,PSVC7301,PPOL7301,PUSER001,2025-11-22T11:00:00Z,2025-11-22T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,14
+PI00088f14e7408,1112,Search index lag exceeded SLO,acknowledged,high,PSVC7302,PPOL7301,PUSER002,2025-11-29T11:00:00Z,2025-11-30T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,15
+PI0001cfcd7437,1118,API gateway 5xx spike,resolved,high,PSVC7301,PPOL7301,PUSER001,2025-12-06T11:00:00Z,2025-12-06T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,16
+PI0002c4ca7472,1132,Database connection pool exhausted,acknowledged,low,PSVC7302,PPOL7301,PUSER002,2025-12-13T11:00:00Z,2025-12-15T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,17
+PI0003c81e7515,1146,Slow checkout latency,resolved,low,PSVC7303,PPOL7301,PUSER001,2025-12-20T11:00:00Z,2025-12-23T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,18
+PI0004eccbc7464,1160,Auth service 503s for SSO logins,acknowledged,low,PSVC7304,PPOL7301,PUSER002,2025-12-27T11:00:00Z,2025-12-27T12:30:00Z,pagerduty-api,incidents,/opt/mocks/pagerduty-api/incidents.json,19

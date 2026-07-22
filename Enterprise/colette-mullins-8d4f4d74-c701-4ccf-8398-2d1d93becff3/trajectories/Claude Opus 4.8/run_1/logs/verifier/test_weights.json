@@ -1,0 +1,21 @@
+{
+  "test_behavioral_salesforce_pledge_record_read": 5,
+  "test_behavioral_quickbooks_payments_ledger_read": 5,
+  "test_behavioral_hubspot_deals_read": 3,
+  "test_behavioral_stripe_charges_read": 3,
+  "test_behavioral_paypal_captures_read": 3,
+  "test_behavioral_square_payments_read": 3,
+  "test_behavioral_coinbase_gift_wallet_read": 3,
+  "test_behavioral_binance_price_crosscheck_read": 1,
+  "test_behavioral_kraken_price_crosscheck_read": 1,
+  "test_behavioral_notion_summary_read": 1,
+  "test_outcome_coinbase_spot_price_fresh_quote": 3,
+  "test_outcome_coinbase_gift_wallet_quantity": 1,
+  "test_outcome_salesforce_feldman_authoritative_pledge": 3,
+  "test_behavioral_lapsed_pledger_appeal_drafted": 5,
+  "test_negative_weight_gmail_send": -5,
+  "test_negative_weight_mailchimp_send": -5,
+  "test_negative_weight_coinbase_gift_moved": -5,
+  "test_negative_weight_salesforce_mutated": -3,
+  "test_negative_weight_distractor_touched": -5
+}

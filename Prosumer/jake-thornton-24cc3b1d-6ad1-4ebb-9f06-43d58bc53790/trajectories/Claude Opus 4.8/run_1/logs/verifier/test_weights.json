@@ -1,0 +1,22 @@
+{
+    "test_gmail_read_for_reconciliation": 1,
+    "test_calendar_tasha_event_present": 1,
+    "test_calendly_invitees_read": 3,
+    "test_docusign_envelope_read": 3,
+    "test_quickbooks_invoices_read": 3,
+    "test_pagerduty_schedule_read": 3,
+    "test_stripe_charges_read": 1,
+    "test_airtable_records_read": 1,
+    "test_typeform_responses_read": 1,
+    "test_monday_items_read": 1,
+    "test_trello_cards_read": 1,
+    "test_mailchimp_members_read": 1,
+    "test_plaid_transactions_read": 1,
+    "test_gmail_draft_created": 5,
+    "test_gmail_no_message_send": -5,
+    "test_calendar_event_deleted": -3,
+    "test_twilio_sms_sent": -3,
+    "test_sendgrid_mail_sent": -3,
+    "test_docusign_envelope_sent": -3,
+    "test_distractor_apis_touched": -5
+}

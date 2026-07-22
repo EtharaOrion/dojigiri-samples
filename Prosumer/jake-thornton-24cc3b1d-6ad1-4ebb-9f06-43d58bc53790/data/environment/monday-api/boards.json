@@ -1,0 +1,26 @@
+[
+  {
+    "board_id": "board-7301",
+    "name": "Platform work",
+    "description": "Platform work tracking board.",
+    "state": "active",
+    "board_kind": "public",
+    "workspace_id": "ws-7301"
+  },
+  {
+    "board_id": "board-7302",
+    "name": "Operations",
+    "description": "Operations tracking board.",
+    "state": "active",
+    "board_kind": "public",
+    "workspace_id": "ws-7301"
+  },
+  {
+    "board_id": "board-7303",
+    "name": "Growth experiments",
+    "description": "Growth experiments tracking board.",
+    "state": "active",
+    "board_kind": "public",
+    "workspace_id": "ws-7301"
+  }
+]

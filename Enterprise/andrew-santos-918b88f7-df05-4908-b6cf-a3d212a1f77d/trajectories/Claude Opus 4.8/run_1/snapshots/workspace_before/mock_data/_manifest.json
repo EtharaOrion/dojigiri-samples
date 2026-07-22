@@ -1,0 +1,245 @@
+{
+  "label": "before_injection",
+  "ts": 1784526983.8556092,
+  "ts_iso": "2026-07-20T05:56:23Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 22,
+        "records_tbl000": 20,
+        "records_tbl001": 22,
+        "records_tbl100": 108,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "asana-api": {
+      "tables": {
+        "projects": 20,
+        "sections": 22,
+        "tasks": 108,
+        "users": 20
+      },
+      "documents": {
+        "workspace": true
+      }
+    },
+    "bamboohr-api": {
+      "tables": {
+        "employees": 15,
+        "time_off": 22,
+        "whos_out": 19
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "calendly-api": {
+      "tables": {
+        "availability": 5,
+        "event_types": 6,
+        "invitees": 16,
+        "scheduled_events": 22
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 30,
+        "envelopes": 108,
+        "recipients": 27,
+        "templates": 22
+      },
+      "documents": {}
+    },
+    "eventbrite-api": {
+      "tables": {
+        "attendees": 111,
+        "events": 30,
+        "organizations": 22,
+        "ticket_classes": 38,
+        "venues": 22
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 8,
+        "labels": 27,
+        "messages": 118
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "google-calendar-api": {
+      "tables": {
+        "calendars": 22,
+        "events": 100
+      },
+      "documents": {
+        "attendees": true
+      }
+    },
+    "greenhouse-api": {
+      "tables": {
+        "applications": 45,
+        "candidates": 108,
+        "jobs": 22,
+        "scorecards": 15
+      },
+      "documents": {}
+    },
+    "gusto-api": {
+      "tables": {
+        "compensations": 22,
+        "contractors": 22,
+        "employees": 15,
+        "payrolls": 22
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 3
+      },
+      "documents": {}
+    },
+    "klaviyo-api": {
+      "tables": {
+        "campaigns": 22,
+        "lists": 22,
+        "profiles": 108
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 23,
+        "lists": 22,
+        "members": 110,
+        "reports": 22
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 104,
+        "comments": 22,
+        "databases": 22,
+        "pages": 22,
+        "users": 22
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "outlook-api": {
+      "tables": {
+        "contacts": 18,
+        "events": 20,
+        "messages": 13
+      },
+      "documents": {}
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 23,
+        "bills": 5,
+        "customers": 20,
+        "estimates": 5,
+        "expenses": 100,
+        "invoices": 6,
+        "items": 8,
+        "payments": 5,
+        "vendors": 10
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 22,
+        "Contact": 20,
+        "Lead": 20,
+        "Opportunity": 108
+      },
+      "documents": {}
+    },
+    "sendgrid-api": {
+      "tables": {
+        "contacts": 20,
+        "lists": 22,
+        "sent_log": 15,
+        "stats": 22,
+        "templates": 22
+      },
+      "documents": {}
+    },
+    "slack-api": {
+      "tables": {
+        "channel_members": 84,
+        "channels": 7,
+        "messages": 104,
+        "users": 18
+      },
+      "documents": {
+        "team": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 100,
+        "customers": 15,
+        "invoices": 8,
+        "payment_intents": 0,
+        "prices": 10,
+        "products": 10,
+        "refunds": 0,
+        "subscriptions": 20
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "trello-api": {
+      "tables": {
+        "boards": 22,
+        "cards": 108,
+        "checklists": 22,
+        "lists": 22,
+        "members": 20
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 13,
+        "contacts": 18,
+        "invoices": 15
+      },
+      "documents": {}
+    },
+    "zoom-api": {
+      "tables": {
+        "meetings": 22,
+        "recordings": 22,
+        "registrants": 20
+      },
+      "documents": {
+        "user": true
+      }
+    }
+  }
+}

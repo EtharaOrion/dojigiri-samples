@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Taylor Visual Studio</title>
+<style>
+  :root{
+    --ink:#1c1b19; --paper:#f6f3ec; --clay:#b9714a; --green:#2e5b3e; --sage:#8fa98a;
+    --line:#e0dccf; --muted:#6f6a60;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{font-family:"Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--paper);line-height:1.6}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+
+  header{position:sticky;top:0;z-index:50;background:rgba(246,243,236,.92);
+    backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:68px}
+  .brand{font-weight:700;letter-spacing:.5px;font-size:18px}
+  .brand span{color:var(--clay)}
+  .nav ul{display:flex;gap:28px;list-style:none}
+  .nav ul a{font-size:14px;color:var(--muted);transition:color .2s}
+  .nav ul a:hover{color:var(--ink)}
+  .menu-btn{display:none;background:none;border:1px solid var(--line);border-radius:6px;
+    padding:8px 12px;font-size:14px;cursor:pointer}
+
+  .hero{padding:96px 0 72px}
+  .hero h1{font-size:clamp(36px,6vw,68px);line-height:1.05;font-weight:700;letter-spacing:-1px}
+  .hero h1 em{font-style:normal;color:var(--green)}
+  .hero p{margin-top:20px;max-width:560px;font-size:19px;color:var(--muted)}
+  .cta{margin-top:34px;display:flex;gap:14px;flex-wrap:wrap}
+  .btn{cursor:pointer;border:none;border-radius:30px;padding:13px 26px;font-size:15px;font-weight:600;
+    transition:transform .15s ease, box-shadow .2s ease}
+  .btn:hover{transform:translateY(-2px)}
+  .btn-solid{background:var(--green);color:#fff}
+  .btn-ghost{background:transparent;border:1px solid var(--ink);color:var(--ink)}
+
+  section{padding:64px 0;border-top:1px solid var(--line)}
+  .eyebrow{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--clay);font-weight:700}
+  h2{font-size:30px;margin:8px 0 28px;letter-spacing:-.5px}
+
+  .filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:26px}
+  .chip{cursor:pointer;border:1px solid var(--line);background:#fff;border-radius:20px;
+    padding:8px 18px;font-size:14px;color:var(--muted);transition:all .2s}
+  .chip:hover{border-color:var(--sage)}
+  .chip.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .card{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff;
+    opacity:0;transform:translateY(18px);transition:opacity .6s ease, transform .6s ease, box-shadow .25s}
+  .card.in{opacity:1;transform:none}
+  .card:hover{box-shadow:0 14px 30px rgba(28,27,25,.12)}
+  .thumb{height:150px;display:flex;align-items:flex-end;padding:16px;color:#fff;font-weight:700;font-size:15px}
+  .t1{background:linear-gradient(135deg,#2e5b3e,#8fa98a)}
+  .t2{background:linear-gradient(135deg,#262a27,#b9714a)}
+  .t3{background:linear-gradient(135deg,#caa05a,#e7dfc9);color:#3a2f1c}
+  .card .body{padding:16px 18px 20px}
+  .card h3{font-size:17px}
+  .card .tag{font-size:12px;color:var(--clay);text-transform:uppercase;letter-spacing:1px;font-weight:700}
+  .card p{font-size:14px;color:var(--muted);margin-top:6px}
+
+  .svc{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}
+  .svc div h3{font-size:18px;margin-bottom:6px}
+  .svc div p{color:var(--muted);font-size:15px}
+  .svc .num{color:var(--sage);font-weight:700;font-size:14px;letter-spacing:1px}
+
+  .about{display:grid;grid-template-columns:1.4fr 1fr;gap:40px;align-items:start}
+  .about p{font-size:17px;color:#3a382f;margin-bottom:14px}
+  .facts{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px}
+  .facts dl{display:grid;grid-template-columns:auto 1fr;gap:10px 16px;font-size:14px}
+  .facts dt{color:var(--muted)}
+  .facts dd{text-align:right;font-weight:600}
+
+  footer{background:var(--ink);color:#d9d4c8;padding:48px 0 30px;border:none}
+  .foot{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px}
+  .foot a{color:#d9d4c8}
+  .foot .small{font-size:13px;color:#8f897c;margin-top:24px;width:100%}
+
+  @media(max-width:780px){
+    .nav ul{display:none} .menu-btn{display:block}
+    .nav ul.open{display:flex;position:absolute;top:68px;left:0;right:0;flex-direction:column;
+      gap:0;background:var(--paper);border-bottom:1px solid var(--line)}
+    .nav ul.open li{padding:14px 24px;border-top:1px solid var(--line)}
+    .grid,.svc,.about{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <div class="brand">Taylor Visual <span>Studio</span></div>
+    <button class="menu-btn" id="menuBtn" aria-label="Toggle menu">Menu</button>
+    <ul id="navList">
+      <li><a href="#work">Work</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</header>
+
+<main>
+  <div class="wrap hero">
+    <h1>Brand identity that holds up <em>on the shelf</em> and on screen.</h1>
+    <p>I am Jessica Taylor, a freelance graphic designer in Los Angeles. I help small businesses, startups, and nonprofits build identities they can grow into.</p>
+    <div class="cta">
+      <button class="btn btn-solid" onclick="document.getElementById('contact').scrollIntoView()">Start a project</button>
+      <button class="btn btn-ghost" onclick="document.getElementById('work').scrollIntoView()">See the work</button>
+    </div>
+  </div>
+
+  <section id="work">
+    <div class="wrap">
+      <div class="eyebrow">Selected work</div>
+      <h2>Recent projects</h2>
+      <div class="filters" id="filters">
+        <button class="chip active" data-f="all">All</button>
+        <button class="chip" data-f="identity">Identity</button>
+        <button class="chip" data-f="packaging">Packaging</button>
+        <button class="chip" data-f="digital">Digital</button>
+      </div>
+      <div class="grid" id="grid">
+        <article class="card" data-cat="identity">
+          <div class="thumb t1">Verdant Provisions</div>
+          <div class="body"><div class="tag">Identity</div><h3>Pantry brand refresh</h3>
+          <p>A warmer mark, a tightened color system, and labels that read clean at one inch.</p></div>
+        </article>
+        <article class="card" data-cat="packaging">
+          <div class="thumb t3">Bloom Skin Co</div>
+          <div class="body"><div class="tag">Packaging</div><h3>Seasonal skincare line</h3>
+          <p>A spring packaging update across three core products, print ready for the run.</p></div>
+        </article>
+        <article class="card" data-cat="identity">
+          <div class="thumb t2">Pinnacle Collective</div>
+          <div class="body"><div class="tag">Identity and signage</div><h3>Logo and exterior signage</h3>
+          <p>A mark built for a building face, legible across the street, day and night.</p></div>
+        </article>
+        <article class="card" data-cat="digital">
+          <div class="thumb t1">Field Notes</div>
+          <div class="body"><div class="tag">Digital</div><h3>Newsletter system</h3>
+          <p>A flexible email layout a small team can fill in without breaking the grid.</p></div>
+        </article>
+        <article class="card" data-cat="packaging">
+          <div class="thumb t3">Harvest Box</div>
+          <div class="body"><div class="tag">Packaging</div><h3>Subscription box dieline</h3>
+          <p>A mailer that protects the goods and still feels like a gift on the doorstep.</p></div>
+        </article>
+        <article class="card" data-cat="digital">
+          <div class="thumb t2">Atlas Studio</div>
+          <div class="body"><div class="tag">Digital</div><h3>Portfolio microsite</h3>
+          <p>A one page site with a clean type scale and a contact form that converts.</p></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="wrap">
+      <div class="eyebrow">What I do</div>
+      <h2>Services</h2>
+      <div class="svc">
+        <div><div class="num">01</div><h3>Brand identity</h3><p>Logo systems, color, type, and a brand sheet your whole team can follow.</p></div>
+        <div><div class="num">02</div><h3>Packaging</h3><p>Print ready labels and dielines that survive the shelf and the shipping box.</p></div>
+        <div><div class="num">03</div><h3>Digital design</h3><p>Landing pages, microsites, and email systems, designed to be handed off clean.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="wrap about">
+      <div>
+        <div class="eyebrow">About</div>
+        <h2>A one person studio, by choice</h2>
+        <p>I care about how a thing gets made as much as what it becomes. The work runs discovery, mood board, concepts, two revision rounds, then final files, so the thinking shows and the scope stays honest.</p>
+        <p>I trained in graphic design, interned at an LA branding agency, and have run Taylor Visual Studio since. Most of my clients arrive by referral, which tells me the work travels.</p>
+      </div>
+      <aside class="facts">
+        <dl>
+          <dt>Based in</dt><dd>Los Angeles, CA</dd>
+          <dt>Practice</dt><dd>Brand, packaging, digital</dd>
+          <dt>Tools</dt><dd>Vector and layout suite</dd>
+          <dt>Engagements</dt><dd>Project and retainer</dd>
+          <dt>Booking</dt><dd>By the month</dd>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="wrap">
+      <div class="eyebrow">Contact</div>
+      <h2>Have a project in mind?</h2>
+      <p style="max-width:560px;color:var(--muted);font-size:17px">Tell me the shape of it and the timeline. I take on a small number of projects at a time so each one gets real attention.</p>
+      <div class="cta">
+        <button class="btn btn-solid" onclick="window.location.href='mailto:jessica@taylorvisualstudio.com'">Email the studio</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <div>
+      <div class="brand" style="color:#fff">Taylor Visual <span>Studio</span></div>
+      <p style="color:#8f897c;font-size:14px;margin-top:8px">Brand identity, packaging, and digital design.</p>
+    </div>
+    <div style="font-size:14px;text-align:right">
+      <a href="mailto:jessica@taylorvisualstudio.com">jessica@taylorvisualstudio.com</a><br>
+      <a href="#work">Work</a> &middot; <a href="#services">Services</a> &middot; <a href="#about">About</a>
+    </div>
+    <div class="small">Los Angeles, California. Built and maintained in house, last updated February 2026.</div>
+  </div>
+</footer>
+
+<script>
+  // mobile menu
+  var mb=document.getElementById('menuBtn'), nl=document.getElementById('navList');
+  mb.addEventListener('click',function(){nl.classList.toggle('open')});
+  nl.addEventListener('click',function(){nl.classList.remove('open')});
+
+  // project filter
+  var chips=document.querySelectorAll('.chip'), cards=document.querySelectorAll('#grid .card');
+  chips.forEach(function(c){c.addEventListener('click',function(){
+    chips.forEach(function(x){x.classList.remove('active')}); c.classList.add('active');
+    var f=c.dataset.f;
+    cards.forEach(function(card){
+      var show = f==='all' || card.dataset.cat.indexOf(f)>-1;
+      card.style.display = show ? '' : 'none';
+    });
+  })});
+
+  // reveal on scroll
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} });
+  },{threshold:.15});
+  cards.forEach(function(c){io.observe(c)});
+</script>
+</body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gulf Coast Ballet, Season Performance Dashboard</title>
+<style>
+  :root{--bg:#0f1220;--panel:#171b2e;--panel2:#1d2238;--line:#2a3050;--ink:#eef1fb;--muted:#9aa3c4;
+    --teal:#39c5bb;--gold:#e0b25e;--plum:#d56a86;--blue:#5b8def}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Segoe UI',Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
+  .top{display:flex;justify-content:space-between;align-items:center;padding:22px 32px;border-bottom:1px solid var(--line);background:var(--panel)}
+  .top h1{font-size:18px;font-weight:600;letter-spacing:.02em}
+  .top h1 span{display:block;font-size:12px;color:var(--muted);font-weight:400;letter-spacing:.14em;text-transform:uppercase}
+  .top .meta{font-size:12px;color:var(--muted);text-align:right}
+  .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:18px;padding:24px 32px}
+  .kpis{grid-column:span 12;display:grid;grid-template-columns:repeat(5,1fr);gap:16px}
+  .kpi{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:12px;padding:18px}
+  .kpi .label{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .kpi .val{font-size:27px;font-weight:700;margin-top:8px}
+  .kpi .delta{font-size:12px;margin-top:6px}
+  .up{color:var(--teal)} .flat{color:var(--muted)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px}
+  .card h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-bottom:6px}
+  .card .cap{font-size:12px;color:var(--muted);margin-bottom:10px}
+  .c7{grid-column:span 7}.c5{grid-column:span 5}.c6{grid-column:span 6}.c4{grid-column:span 4}.c8{grid-column:span 8}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:12px;font-size:12px;color:var(--muted)}
+  .legend i{display:inline-block;width:11px;height:11px;border-radius:3px;margin-right:6px;vertical-align:middle}
+  .funnel{display:flex;flex-direction:column;align-items:center;gap:8px;margin-top:6px}
+  .frow{display:flex;align-items:center;justify-content:center;color:#0f1220;font-weight:600;font-size:13px;border-radius:6px;height:38px}
+  text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+  @media(max-width:980px){.kpis{grid-template-columns:repeat(2,1fr)}.c7,.c5,.c6,.c4,.c8{grid-column:span 12}}
+</style>
+</head>
+<body>
+<div class="top">
+  <h1>Season Performance Dashboard<span>Gulf Coast Ballet, Development and Box Office</span></h1>
+  <div class="meta">Season to date, September 2025 to February 2026<br>Prepared for the board finance review</div>
+</div>
+
+<div class="grid">
+  <div class="kpis">
+    <div class="kpi"><div class="label">Operating Budget</div><div class="val">6.2M</div><div class="delta flat">On plan for the season</div></div>
+    <div class="kpi"><div class="label">Gala Raised</div><div class="val">452,000</div><div class="delta up">Goal of 450,000 met</div></div>
+    <div class="kpi"><div class="label">Ticket Revenue, to date</div><div class="val">1.56M</div><div class="delta up">63 percent of annual target</div></div>
+    <div class="kpi"><div class="label">Active Subscribers</div><div class="val">3,184</div><div class="delta up">Up 6 percent year over year</div></div>
+    <div class="kpi"><div class="label">Donor Retention</div><div class="val">78%</div><div class="delta up">Above sector benchmark</div></div>
+  </div>
+
+  <div class="card c7">
+    <h2>Monthly Ticket Revenue</h2>
+    <div class="cap">In thousands of dollars, single tickets and subscriptions</div>
+    <svg viewBox="0 0 560 220" width="100%" height="220" role="img" aria-label="Monthly ticket revenue bar chart">
+      <line x1="40" y1="190" x2="540" y2="190" stroke="#2a3050"/>
+      <line x1="40" y1="123" x2="540" y2="123" stroke="#222746" stroke-dasharray="3 4"/>
+      <line x1="40" y1="56" x2="540" y2="56" stroke="#222746" stroke-dasharray="3 4"/>
+      <text x="34" y="194" fill="#9aa3c4" font-size="10" text-anchor="end">0</text>
+      <text x="34" y="127" fill="#9aa3c4" font-size="10" text-anchor="end">180</text>
+      <text x="34" y="60" fill="#9aa3c4" font-size="10" text-anchor="end">360</text>
+      <g fill="#5b8def">
+        <rect x="55"  y="122" width="50" height="68"  rx="3"/>
+        <rect x="137" y="69"  width="50" height="121" rx="3"/>
+        <rect x="219" y="92"  width="50" height="98"  rx="3"/>
+        <rect x="301" y="35"  width="50" height="155" rx="3"/>
+        <rect x="383" y="133" width="50" height="57"  rx="3"/>
+        <rect x="465" y="99"  width="50" height="91"  rx="3"/>
+      </g>
+      <g fill="#eef1fb" font-size="11" text-anchor="middle">
+        <text x="80" y="116">180</text><text x="162" y="63">320</text><text x="244" y="86">260</text>
+        <text x="326" y="29">410</text><text x="408" y="127">150</text><text x="490" y="93">240</text>
+      </g>
+      <g fill="#9aa3c4" font-size="11" text-anchor="middle">
+        <text x="80" y="206">Sep</text><text x="162" y="206">Oct</text><text x="244" y="206">Nov</text>
+        <text x="326" y="206">Dec</text><text x="408" y="206">Jan</text><text x="490" y="206">Feb</text>
+      </g>
+    </svg>
+  </div>
+
+  <div class="card c5">
+    <h2>Annual Revenue Mix</h2>
+    <div class="cap">Share of the 6.2M operating budget</div>
+    <svg viewBox="0 0 320 200" width="100%" height="200" role="img" aria-label="Revenue mix donut chart">
+      <g transform="translate(100,100)">
+        <circle r="60" fill="none" stroke="#222746" stroke-width="26"/>
+        <g transform="rotate(-90)" fill="none" stroke-width="26">
+          <circle r="60" stroke="#5b8def" stroke-dasharray="150.8 226.2" stroke-dashoffset="0"/>
+          <circle r="60" stroke="#39c5bb" stroke-dasharray="131.9 245.1" stroke-dashoffset="-150.8"/>
+          <circle r="60" stroke="#e0b25e" stroke-dasharray="56.5 320.5" stroke-dashoffset="-282.7"/>
+          <circle r="60" stroke="#d56a86" stroke-dasharray="37.7 339.3" stroke-dashoffset="-339.2"/>
+        </g>
+        <text y="-2" fill="#eef1fb" font-size="20" font-weight="700" text-anchor="middle">6.2M</text>
+        <text y="16" fill="#9aa3c4" font-size="10" text-anchor="middle">budget</text>
+      </g>
+      <g font-size="12" fill="#cdd3ee">
+        <rect x="200" y="44" width="11" height="11" rx="2" fill="#5b8def"/><text x="218" y="54">Tickets, 40%</text>
+        <rect x="200" y="70" width="11" height="11" rx="2" fill="#39c5bb"/><text x="218" y="80">Donations and gala, 35%</text>
+        <rect x="200" y="96" width="11" height="11" rx="2" fill="#e0b25e"/><text x="218" y="106">Grants, 15%</text>
+        <rect x="200" y="122" width="11" height="11" rx="2" fill="#d56a86"/><text x="218" y="132">Other, 10%</text>
+      </g>
+    </svg>
+  </div>
+
+  <div class="card c8">
+    <h2>Gala Campaign, Cumulative Against Goal</h2>
+    <div class="cap">In thousands of dollars, against the 450,000 goal</div>
+    <svg viewBox="0 0 560 240" width="100%" height="240" role="img" aria-label="Cumulative fundraising line chart">
+      <line x1="50" y1="200" x2="520" y2="200" stroke="#2a3050"/>
+      <line x1="50" y1="31"  x2="520" y2="31"  stroke="#e0b25e" stroke-dasharray="5 4"/>
+      <text x="524" y="34" fill="#e0b25e" font-size="11">Goal 450</text>
+      <polyline fill="none" stroke="#39c5bb" stroke-width="3"
+        points="50,170 142,140 234,106 326,80 418,50 510,30"/>
+      <g fill="#39c5bb">
+        <circle cx="50" cy="170" r="4"/><circle cx="142" cy="140" r="4"/><circle cx="234" cy="106" r="4"/>
+        <circle cx="326" cy="80" r="4"/><circle cx="418" cy="50" r="4"/><circle cx="510" cy="30" r="4"/>
+      </g>
+      <g fill="#9aa3c4" font-size="11" text-anchor="middle">
+        <text x="50" y="216">Sep</text><text x="142" y="216">Oct</text><text x="234" y="216">Nov</text>
+        <text x="326" y="216">Dec</text><text x="418" y="216">Jan</text><text x="510" y="216">Feb</text>
+      </g>
+      <text x="510" y="22" fill="#eef1fb" font-size="11" text-anchor="middle">452</text>
+    </svg>
+  </div>
+
+  <div class="card c4">
+    <h2>Major Gift Pipeline</h2>
+    <div class="cap">Prospects by stage</div>
+    <div class="funnel">
+      <div class="frow" style="width:100%;background:#5b8def">Prospects, 240</div>
+      <div class="frow" style="width:80%;background:#4aa9d8">Qualified, 96</div>
+      <div class="frow" style="width:60%;background:#39c5bb">Cultivation, 48</div>
+      <div class="frow" style="width:42%;background:#e0b25e">Solicitation, 22</div>
+      <div class="frow" style="width:28%;background:#d56a86">Committed, 13</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

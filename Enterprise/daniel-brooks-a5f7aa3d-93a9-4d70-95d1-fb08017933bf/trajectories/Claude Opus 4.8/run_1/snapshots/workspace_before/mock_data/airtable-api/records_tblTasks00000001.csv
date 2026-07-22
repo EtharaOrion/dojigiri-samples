@@ -1,0 +1,117 @@
+id,createdTime,Done,EstimateHours,Name,Project,Status
+recTask0000000001,2026-03-01T10:00:00.000Z,True,3,Order force plate system,Performance Lab Buildout,Done
+recTask0000000002,2026-03-06T10:11:00.000Z,False,3,Schedule NordBord install,ACL Rehab Protocol Refresh,To do
+recTask0000000003,2026-03-11T10:22:00.000Z,False,2,Draft patient consent forms,Aetna Insurance Credentialing,In progress
+recTask0000000004,2026-03-16T10:33:00.000Z,True,16,Review CPT billing codes,Athlete Screening Program,Done
+recTask0000000005,2026-03-21T10:44:00.000Z,False,8,Book Aetna credentialing call,Return-to-Sport Testing SOP,To do
+recTask0000000006,2026-03-26T10:55:00.000Z,False,3,Spec AlterG treadmill bay,Front Desk Scheduling Workflow,In progress
+recTask0000000007,2026-03-31T10:06:00.000Z,True,2,Write return-to-sport checklist,Equipment Financing Review,Done
+recTask0000000008,2026-01-05T10:17:00.000Z,False,8,Set up VALD data export,Student Rotation Onboarding,In progress
+recTask0000000009,2026-01-10T10:28:00.000Z,False,16,Plan student rotation calendar,Quarterly Billing Cleanup,In progress
+recTask0000000010,2026-01-15T10:39:00.000Z,True,16,Audit Q2 outstanding claims,Patient Outcome Survey Rollout,Done
+recTask0000000011,2026-01-20T10:50:00.000Z,False,12,Draft athlete screening intake,Performance Lab Buildout,To do
+recTask0000000012,2026-01-25T10:01:00.000Z,False,2,Confirm lab electrical work,ACL Rehab Protocol Refresh,In progress
+recTask0000000013,2026-01-30T10:12:00.000Z,True,6,Update protocol library in Notion,Aetna Insurance Credentialing,Done
+recTask0000000014,2026-02-04T10:23:00.000Z,False,16,Prep monthly financial review,Athlete Screening Program,In progress
+recTask0000000015,2026-02-09T10:34:00.000Z,False,16,Email outcome survey to patients,Return-to-Sport Testing SOP,In progress
+recTask0000000016,2026-02-14T10:45:00.000Z,True,12,Reconcile equipment invoices,Front Desk Scheduling Workflow,Done
+recTask0000000017,2026-02-19T10:56:00.000Z,False,8,Coordinate firebirds screening day,Equipment Financing Review,In progress
+recTask0000000018,2026-02-24T10:07:00.000Z,False,12,Renew clinic liability policy,Student Rotation Onboarding,To do
+recTask0000000100,2025-09-02T09:00:00.000Z,True,1,Draft silent-auction lots — Swan Lake (2025-09-02),Spring Gala 2026,Planning
+recTask0000000101,2025-09-03T09:00:00.000Z,False,2,Confirm rehearsal block — Giselle (2025-09-03),Swan Lake Production,In progress
+recTask0000000102,2025-09-04T09:00:00.000Z,False,3,Review pointe-shoe order — The Nutcracker (2025-09-04),Summer Intensive,Done
+recTask0000000103,2025-09-05T09:00:00.000Z,True,4,Order program copy — Don Quixote (2025-09-05),Season Marketing,Planning
+recTask0000000104,2025-09-06T09:00:00.000Z,False,5,Schedule courtyard stage plot — Coppélia (2025-09-06),Costume Inventory,In progress
+recTask0000000105,2025-09-07T09:00:00.000Z,False,6,Finalize donor seating — Romeo and Juliet (2025-09-07),Facilities Repair,Done
+recTask0000000106,2025-09-08T09:00:00.000Z,True,1,Send costume fittings — La Sylphide (2025-09-08),Grant Reporting,Planning
+recTask0000000107,2025-09-09T09:00:00.000Z,False,2,Cast lighting cues — The Sleeping Beauty (2025-09-09),Donor Cultivation,In progress
+recTask0000000108,2025-09-10T09:00:00.000Z,False,3,Draft casting sheet — Serenade (2025-09-10),Spring Gala 2026,Done
+recTask0000000109,2025-09-11T09:00:00.000Z,True,4,Confirm grant narrative — Firebird (2025-09-11),Swan Lake Production,Planning
+recTask0000000110,2025-09-12T09:00:00.000Z,False,5,Review poster art — Cinderella (2025-09-12),Summer Intensive,In progress
+recTask0000000111,2025-09-13T09:00:00.000Z,False,6,Order ticket pricing tiers — Paquita (2025-09-13),Season Marketing,Done
+recTask0000000112,2025-09-14T09:00:00.000Z,True,1,Schedule sponsor packet — A Midsummer Night's Dream (2025-09-14),Costume Inventory,Planning
+recTask0000000113,2025-09-15T09:00:00.000Z,False,2,Finalize thank-you letters — Les Sylphides (2025-09-15),Facilities Repair,In progress
+recTask0000000114,2025-09-16T09:00:00.000Z,False,3,Send call times — Raymonda (2025-09-16),Grant Reporting,Done
+recTask0000000115,2025-09-17T09:00:00.000Z,True,4,Cast silent-auction lots — La Bayadère (2025-09-17),Donor Cultivation,Planning
+recTask0000000116,2025-09-18T09:00:00.000Z,False,5,Draft rehearsal block — Swan Lake (2025-09-18),Spring Gala 2026,In progress
+recTask0000000117,2025-09-19T09:00:00.000Z,False,6,Confirm pointe-shoe order — Giselle (2025-09-19),Swan Lake Production,Done
+recTask0000000118,2025-09-20T09:00:00.000Z,True,1,Review program copy — The Nutcracker (2025-09-20),Summer Intensive,Planning
+recTask0000000119,2025-09-21T09:00:00.000Z,False,2,Order courtyard stage plot — Don Quixote (2025-09-21),Season Marketing,In progress
+recTask0000000120,2025-09-22T09:00:00.000Z,False,3,Schedule donor seating — Coppélia (2025-09-22),Costume Inventory,Done
+recTask0000000121,2025-09-23T09:00:00.000Z,True,4,Finalize costume fittings — Romeo and Juliet (2025-09-23),Facilities Repair,Planning
+recTask0000000122,2025-09-24T09:00:00.000Z,False,5,Send lighting cues — La Sylphide (2025-09-24),Grant Reporting,In progress
+recTask0000000123,2025-09-25T09:00:00.000Z,False,6,Cast casting sheet — The Sleeping Beauty (2025-09-25),Donor Cultivation,Done
+recTask0000000124,2025-09-26T09:00:00.000Z,True,1,Draft grant narrative — Serenade (2025-09-26),Spring Gala 2026,Planning
+recTask0000000125,2025-09-27T09:00:00.000Z,False,2,Confirm poster art — Firebird (2025-09-27),Swan Lake Production,In progress
+recTask0000000126,2025-09-28T09:00:00.000Z,False,3,Review ticket pricing tiers — Cinderella (2025-09-28),Summer Intensive,Done
+recTask0000000127,2025-09-29T09:00:00.000Z,True,4,Order sponsor packet — Paquita (2025-09-29),Season Marketing,Planning
+recTask0000000128,2025-09-30T09:00:00.000Z,False,5,Schedule thank-you letters — A Midsummer Night's Dream (2025-09-30),Costume Inventory,In progress
+recTask0000000129,2025-10-01T09:00:00.000Z,False,6,Finalize call times — Les Sylphides (2025-10-01),Facilities Repair,Done
+recTask0000000130,2025-10-02T09:00:00.000Z,True,1,Send silent-auction lots — Raymonda (2025-10-02),Grant Reporting,Planning
+recTask0000000131,2025-10-03T09:00:00.000Z,False,2,Cast rehearsal block — La Bayadère (2025-10-03),Donor Cultivation,In progress
+recTask0000000132,2025-10-04T09:00:00.000Z,False,3,Draft pointe-shoe order — Swan Lake (2025-10-04),Spring Gala 2026,Done
+recTask0000000133,2025-10-05T09:00:00.000Z,True,4,Confirm program copy — Giselle (2025-10-05),Swan Lake Production,Planning
+recTask0000000134,2025-10-06T09:00:00.000Z,False,5,Review courtyard stage plot — The Nutcracker (2025-10-06),Summer Intensive,In progress
+recTask0000000135,2025-10-07T09:00:00.000Z,False,6,Order donor seating — Don Quixote (2025-10-07),Season Marketing,Done
+recTask0000000136,2025-10-08T09:00:00.000Z,True,1,Schedule costume fittings — Coppélia (2025-10-08),Costume Inventory,Planning
+recTask0000000137,2025-10-09T09:00:00.000Z,False,2,Finalize lighting cues — Romeo and Juliet (2025-10-09),Facilities Repair,In progress
+recTask0000000138,2025-10-10T09:00:00.000Z,False,3,Send casting sheet — La Sylphide (2025-10-10),Grant Reporting,Done
+recTask0000000139,2025-10-11T09:00:00.000Z,True,4,Cast grant narrative — The Sleeping Beauty (2025-10-11),Donor Cultivation,Planning
+recTask0000000140,2025-10-12T09:00:00.000Z,False,5,Draft poster art — Serenade (2025-10-12),Spring Gala 2026,In progress
+recTask0000000141,2025-10-13T09:00:00.000Z,False,6,Confirm ticket pricing tiers — Firebird (2025-10-13),Swan Lake Production,Done
+recTask0000000142,2025-10-14T09:00:00.000Z,True,1,Review sponsor packet — Cinderella (2025-10-14),Summer Intensive,Planning
+recTask0000000143,2025-10-15T09:00:00.000Z,False,2,Order thank-you letters — Paquita (2025-10-15),Season Marketing,In progress
+recTask0000000144,2025-10-16T09:00:00.000Z,False,3,Schedule call times — A Midsummer Night's Dream (2025-10-16),Costume Inventory,Done
+recTask0000000145,2025-10-17T09:00:00.000Z,True,4,Finalize silent-auction lots — Les Sylphides (2025-10-17),Facilities Repair,Planning
+recTask0000000146,2025-10-18T09:00:00.000Z,False,5,Send rehearsal block — Raymonda (2025-10-18),Grant Reporting,In progress
+recTask0000000147,2025-10-19T09:00:00.000Z,False,6,Cast pointe-shoe order — La Bayadère (2025-10-19),Donor Cultivation,Done
+recTask0000000148,2025-10-20T09:00:00.000Z,True,1,Draft program copy — Swan Lake (2025-10-20),Spring Gala 2026,Planning
+recTask0000000149,2025-10-21T09:00:00.000Z,False,2,Confirm courtyard stage plot — Giselle (2025-10-21),Swan Lake Production,In progress
+recTask0000000150,2025-10-22T09:00:00.000Z,False,3,Review donor seating — The Nutcracker (2025-10-22),Summer Intensive,Done
+recTask0000000151,2025-10-23T09:00:00.000Z,True,4,Order costume fittings — Don Quixote (2025-10-23),Season Marketing,Planning
+recTask0000000152,2025-10-24T09:00:00.000Z,False,5,Schedule lighting cues — Coppélia (2025-10-24),Costume Inventory,In progress
+recTask0000000153,2025-10-25T09:00:00.000Z,False,6,Finalize casting sheet — Romeo and Juliet (2025-10-25),Facilities Repair,Done
+recTask0000000154,2025-10-26T09:00:00.000Z,True,1,Send grant narrative — La Sylphide (2025-10-26),Grant Reporting,Planning
+recTask0000000155,2025-10-27T09:00:00.000Z,False,2,Cast poster art — The Sleeping Beauty (2025-10-27),Donor Cultivation,In progress
+recTask0000000156,2025-10-28T09:00:00.000Z,False,3,Draft ticket pricing tiers — Serenade (2025-10-28),Spring Gala 2026,Done
+recTask0000000157,2025-10-29T09:00:00.000Z,True,4,Confirm sponsor packet — Firebird (2025-10-29),Swan Lake Production,Planning
+recTask0000000158,2025-10-30T09:00:00.000Z,False,5,Review thank-you letters — Cinderella (2025-10-30),Summer Intensive,In progress
+recTask0000000159,2025-10-31T09:00:00.000Z,False,6,Order call times — Paquita (2025-10-31),Season Marketing,Done
+recTask0000000160,2025-11-01T09:00:00.000Z,True,1,Schedule silent-auction lots — A Midsummer Night's Dream (2025-11-01),Costume Inventory,Planning
+recTask0000000161,2025-11-02T09:00:00.000Z,False,2,Finalize rehearsal block — Les Sylphides (2025-11-02),Facilities Repair,In progress
+recTask0000000162,2025-11-03T09:00:00.000Z,False,3,Send pointe-shoe order — Raymonda (2025-11-03),Grant Reporting,Done
+recTask0000000163,2025-11-04T09:00:00.000Z,True,4,Cast program copy — La Bayadère (2025-11-04),Donor Cultivation,Planning
+recTask0000000164,2025-11-05T09:00:00.000Z,False,5,Draft courtyard stage plot — Swan Lake (2025-11-05),Spring Gala 2026,In progress
+recTask0000000165,2025-11-06T09:00:00.000Z,False,6,Confirm donor seating — Giselle (2025-11-06),Swan Lake Production,Done
+recTask0000000166,2025-11-07T09:00:00.000Z,True,1,Review costume fittings — The Nutcracker (2025-11-07),Summer Intensive,Planning
+recTask0000000167,2025-11-08T09:00:00.000Z,False,2,Order lighting cues — Don Quixote (2025-11-08),Season Marketing,In progress
+recTask0000000168,2025-11-09T09:00:00.000Z,False,3,Schedule casting sheet — Coppélia (2025-11-09),Costume Inventory,Done
+recTask0000000169,2025-11-10T09:00:00.000Z,True,4,Finalize grant narrative — Romeo and Juliet (2025-11-10),Facilities Repair,Planning
+recTask0000000170,2025-11-11T09:00:00.000Z,False,5,Send poster art — La Sylphide (2025-11-11),Grant Reporting,In progress
+recTask0000000171,2025-11-12T09:00:00.000Z,False,6,Cast ticket pricing tiers — The Sleeping Beauty (2025-11-12),Donor Cultivation,Done
+recTask0000000172,2025-11-13T09:00:00.000Z,True,1,Draft sponsor packet — Serenade (2025-11-13),Spring Gala 2026,Planning
+recTask0000000173,2025-11-14T09:00:00.000Z,False,2,Confirm thank-you letters — Firebird (2025-11-14),Swan Lake Production,In progress
+recTask0000000174,2025-11-15T09:00:00.000Z,False,3,Review call times — Cinderella (2025-11-15),Summer Intensive,Done
+recTask0000000175,2025-11-16T09:00:00.000Z,True,4,Order silent-auction lots — Paquita (2025-11-16),Season Marketing,Planning
+recTask0000000176,2025-11-17T09:00:00.000Z,False,5,Schedule rehearsal block — A Midsummer Night's Dream (2025-11-17),Costume Inventory,In progress
+recTask0000000177,2025-11-18T09:00:00.000Z,False,6,Finalize pointe-shoe order — Les Sylphides (2025-11-18),Facilities Repair,Done
+recTask0000000178,2025-11-19T09:00:00.000Z,True,1,Send program copy — Raymonda (2025-11-19),Grant Reporting,Planning
+recTask0000000179,2025-11-20T09:00:00.000Z,False,2,Cast courtyard stage plot — La Bayadère (2025-11-20),Donor Cultivation,In progress
+recTask0000000180,2025-11-21T09:00:00.000Z,False,3,Draft donor seating — Swan Lake (2025-11-21),Spring Gala 2026,Done
+recTask0000000181,2025-11-22T09:00:00.000Z,True,4,Confirm costume fittings — Giselle (2025-11-22),Swan Lake Production,Planning
+recTask0000000182,2025-11-23T09:00:00.000Z,False,5,Review lighting cues — The Nutcracker (2025-11-23),Summer Intensive,In progress
+recTask0000000183,2025-11-24T09:00:00.000Z,False,6,Order casting sheet — Don Quixote (2025-11-24),Season Marketing,Done
+recTask0000000184,2025-11-25T09:00:00.000Z,True,1,Schedule grant narrative — Coppélia (2025-11-25),Costume Inventory,Planning
+recTask0000000185,2025-11-26T09:00:00.000Z,False,2,Finalize poster art — Romeo and Juliet (2025-11-26),Facilities Repair,In progress
+recTask0000000186,2025-11-27T09:00:00.000Z,False,3,Send ticket pricing tiers — La Sylphide (2025-11-27),Grant Reporting,Done
+recTask0000000187,2025-11-28T09:00:00.000Z,True,4,Cast sponsor packet — The Sleeping Beauty (2025-11-28),Donor Cultivation,Planning
+recTask0000000188,2025-11-29T09:00:00.000Z,False,5,Draft thank-you letters — Serenade (2025-11-29),Spring Gala 2026,In progress
+recTask0000000189,2025-11-30T09:00:00.000Z,False,6,Confirm call times — Firebird (2025-11-30),Swan Lake Production,Done
+recTask0000000190,2025-12-01T09:00:00.000Z,True,1,Review silent-auction lots — Cinderella (2025-12-01),Summer Intensive,Planning
+recTask0000000191,2025-12-02T09:00:00.000Z,False,2,Order rehearsal block — Paquita (2025-12-02),Season Marketing,In progress
+recTask0000000192,2025-12-03T09:00:00.000Z,False,3,Schedule pointe-shoe order — A Midsummer Night's Dream (2025-12-03),Costume Inventory,Done
+recTask0000000193,2025-12-04T09:00:00.000Z,True,4,Finalize program copy — Les Sylphides (2025-12-04),Facilities Repair,Planning
+recTask0000000194,2025-12-05T09:00:00.000Z,False,5,Send courtyard stage plot — Raymonda (2025-12-05),Grant Reporting,In progress
+recTask0000000195,2025-12-06T09:00:00.000Z,False,6,Cast donor seating — La Bayadère (2025-12-06),Donor Cultivation,Done
+recTask0000000196,2025-12-07T09:00:00.000Z,True,1,Draft costume fittings — Swan Lake (2025-12-07),Spring Gala 2026,Planning
+recTask0000000197,2025-12-08T09:00:00.000Z,False,2,Confirm lighting cues — Giselle (2025-12-08),Swan Lake Production,In progress

@@ -1,0 +1,23 @@
+[
+  {
+    "baseId": "appCMparish00001",
+    "id": "tblCMProjcts0001",
+    "name": "Projects",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.json"
+  },
+  {
+    "baseId": "appCMparish00001",
+    "id": "tblCMTasks000001",
+    "name": "Tasks",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.json"
+  },
+  {
+    "baseId": "appCMparish00001",
+    "id": "tblCMContact0001",
+    "name": "Contacts",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.json"
+  }
+]

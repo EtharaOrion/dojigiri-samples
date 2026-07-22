@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jake's Table Recipe Blog — Southern Fusion Recipes from East Lake, Atlanta</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --forest: #2D4A22;
+      --forest-dark: #1E3217;
+      --forest-mid: #3A5E2C;
+      --terra: #E87A35;
+      --terra-dark: #C9641E;
+      --terra-faint: rgba(232,122,53,0.1);
+      --brown: #8B6347;
+      --warm-white: #FDFAF5;
+      --cream: #F5F0E8;
+      --border: #E8E0D0;
+      --text: #1C1410;
+      --text-mid: #5A4A38;
+      --text-muted: #9A8672;
+      --white: #FFFFFF;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Source Sans 3', system-ui, sans-serif;
+      background: var(--warm-white);
+      color: var(--text);
+      line-height: 1.7;
+    }
+
+    /* ---- HEADER ---- */
+    header {
+      background: var(--forest-dark);
+      border-bottom: 3px solid var(--terra);
+    }
+    .header-top {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 14px 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .site-tagline {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.4);
+      letter-spacing: 0.05em;
+    }
+    .header-social {
+      display: flex;
+      gap: 14px;
+    }
+    .header-social a {
+      color: rgba(255,255,255,0.4);
+      font-size: 0.85rem;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .header-social a:hover { color: var(--terra); }
+    .header-main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 28px 32px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 24px;
+    }
+    .site-brand { text-decoration: none; }
+    .site-name {
+      font-family: 'Merriweather', Georgia, serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--white);
+      letter-spacing: -0.5px;
+    }
+    .site-name span { color: var(--terra); }
+    .site-sub {
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.45);
+      margin-top: 4px;
+      font-style: italic;
+    }
+    .header-search {
+      display: flex;
+      align-items: center;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 40px;
+      padding: 9px 18px;
+      gap: 10px;
+      transition: background 0.2s;
+    }
+    .header-search:focus-within {
+      background: rgba(255,255,255,0.12);
+      border-color: rgba(255,255,255,0.25);
+    }
+    .header-search i { color: rgba(255,255,255,0.4); font-size: 0.85rem; }
+    .header-search input {
+      background: none;
+      border: none;
+      outline: none;
+      color: white;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.88rem;
+      width: 200px;
+    }
+    .header-search input::placeholder { color: rgba(255,255,255,0.35); }
+    .header-nav {
+      background: var(--forest);
+    }
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+      display: flex;
+      align-items: center;
+      gap: 0;
+    }
+    .nav-link {
+      color: rgba(255,255,255,0.7);
+      text-decoration: none;
+      font-size: 0.82rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 14px 18px;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+    }
+    .nav-link:hover, .nav-link.active {
+      color: white;
+      border-bottom-color: var(--terra);
+    }
+
+    /* ---- LAYOUT ---- */
+    .page-body {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 48px 32px;
+      display: grid;
+      grid-template-columns: 1fr 320px;
+      gap: 48px;
+      align-items: start;
+    }
+
+    /* ---- FILTER TABS ---- */
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 36px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .filter-btn {
+      background: none;
+      border: 1.5px solid var(--border);
+      border-radius: 100px;
+      padding: 7px 18px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all 0.2s;
+      letter-spacing: 0.02em;
+    }
+    .filter-btn:hover {
+      border-color: var(--forest);
+      color: var(--forest);
+    }
+    .filter-btn.active {
+      background: var(--forest);
+      border-color: var(--forest);
+      color: white;
+    }
+    .filter-btn i { margin-right: 5px; font-size: 0.78rem; }
+
+    /* ---- RECIPE GRID ---- */
+    .recipe-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+    .recipe-card {
+      background: var(--white);
+      border-radius: 6px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      transition: transform 0.25s, box-shadow 0.25s;
+      cursor: pointer;
+      position: relative;
+    }
+    .recipe-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 32px rgba(45,74,34,0.12);
+    }
+    .recipe-thumb {
+      aspect-ratio: 16/10;
+      background: linear-gradient(135deg, var(--forest) 0%, var(--forest-mid) 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .recipe-thumb::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23E87A35' fill-opacity='0.08'%3E%3Ccircle cx='20' cy='20' r='3'/%3E%3C/g%3E%3C/svg%3E");
+    }
+    .recipe-thumb-icon {
+      font-size: 2.8rem;
+      color: rgba(255,255,255,0.2);
+      position: relative;
+      z-index: 1;
+    }
+    .recipe-thumb-tag {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      background: var(--terra);
+      color: white;
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 3px;
+    }
+    .recipe-thumb-tag.southern { background: var(--forest); }
+    .recipe-thumb-tag.grilling { background: #B34700; }
+    .recipe-thumb-tag.dessert { background: var(--brown); }
+    .recipe-body { padding: 20px; }
+    .recipe-body h3 {
+      font-family: 'Merriweather', serif;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 6px;
+      line-height: 1.4;
+    }
+    .recipe-body p {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      margin-bottom: 14px;
+    }
+    .recipe-meta {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .recipe-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+    .recipe-meta-item i { color: var(--terra); font-size: 0.7rem; }
+    .recipe-card.hidden { display: none; }
+
+    /* ---- FEATURED RECIPE ---- */
+    .featured-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+    .featured-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--terra);
+    }
+    .featured-header hr { flex: 1; border: none; border-top: 1px solid var(--border); }
+    .featured-post {
+      background: var(--white);
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+      margin-bottom: 48px;
+    }
+    .featured-hero {
+      background: linear-gradient(135deg, #1E3217 0%, #2D4A22 60%, #3A5E2C 100%);
+      padding: 52px 44px;
+      position: relative;
+      overflow: hidden;
+    }
+    .featured-hero::after {
+      content: '';
+      position: absolute;
+      right: -20px;
+      bottom: -20px;
+      width: 200px;
+      height: 200px;
+      background: var(--terra);
+      opacity: 0.08;
+      border-radius: 50%;
+    }
+    .featured-hero .category-tag {
+      display: inline-block;
+      background: var(--terra);
+      color: white;
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 4px 12px;
+      border-radius: 3px;
+      margin-bottom: 16px;
+    }
+    .featured-hero h2 {
+      font-family: 'Merriweather', serif;
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: white;
+      margin-bottom: 14px;
+      line-height: 1.3;
+      position: relative;
+    }
+    .featured-hero .lede {
+      font-size: 0.97rem;
+      color: rgba(255,255,255,0.65);
+      font-style: italic;
+      max-width: 520px;
+      line-height: 1.75;
+      position: relative;
+    }
+    .featured-meta-row {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 14px 24px;
+      background: var(--cream);
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+    .featured-meta-row .m-item {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 0.82rem;
+      color: var(--text-mid);
+    }
+    .featured-meta-row .m-item i { color: var(--terra); font-size: 0.78rem; }
+    .featured-content { padding: 32px; }
+    .featured-content h3 {
+      font-family: 'Merriweather', serif;
+      font-size: 1.05rem;
+      color: var(--forest);
+      margin-bottom: 14px;
+    }
+    .featured-content p {
+      font-size: 0.95rem;
+      color: var(--text-mid);
+      line-height: 1.85;
+      margin-bottom: 20px;
+    }
+    .ingredients-list, .method-list {
+      margin-bottom: 24px;
+    }
+    .ingredients-list li {
+      list-style: none;
+      padding: 7px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.9rem;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .ingredients-list li:last-child { border-bottom: none; }
+    .ingredients-list li::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      background: var(--terra);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .method-list { padding-left: 0; counter-reset: step; }
+    .method-list li {
+      list-style: none;
+      padding: 12px 0 12px 48px;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.92rem;
+      color: var(--text-mid);
+      line-height: 1.75;
+      position: relative;
+      counter-increment: step;
+    }
+    .method-list li:last-child { border-bottom: none; }
+    .method-list li::before {
+      content: counter(step);
+      position: absolute;
+      left: 0;
+      top: 12px;
+      width: 30px;
+      height: 30px;
+      background: var(--forest);
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.78rem;
+      font-weight: 700;
+    }
+    .recipe-note {
+      background: var(--terra-faint);
+      border-left: 3px solid var(--terra);
+      padding: 16px 20px;
+      border-radius: 0 4px 4px 0;
+      margin: 20px 0;
+      font-size: 0.88rem;
+      color: var(--text-mid);
+      font-style: italic;
+    }
+    .read-more-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: var(--forest);
+      color: white;
+      text-decoration: none;
+      padding: 11px 24px;
+      border-radius: 4px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      transition: background 0.2s;
+      border: none;
+      cursor: pointer;
+      font-family: 'Source Sans 3', sans-serif;
+    }
+    .read-more-btn:hover { background: var(--forest-mid); }
+
+    /* ---- SIDEBAR ---- */
+    .sidebar-widget {
+      background: var(--white);
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+      margin-bottom: 28px;
+    }
+    .widget-header {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      font-family: 'Merriweather', serif;
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .widget-body { padding: 20px; }
+
+    /* About widget */
+    .about-widget-img {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--forest), var(--terra));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.6rem;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 14px;
+    }
+    .about-widget-name {
+      font-family: 'Merriweather', serif;
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+    .about-widget-role {
+      font-size: 0.78rem;
+      color: var(--terra);
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .about-widget-bio {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+      line-height: 1.75;
+      margin-bottom: 14px;
+    }
+    .about-widget-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.8rem;
+      color: var(--forest);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .about-widget-link:hover { color: var(--terra); }
+
+    /* Recent posts widget */
+    .recent-post {
+      display: flex;
+      gap: 12px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .recent-post:last-child { border-bottom: none; padding-bottom: 0; }
+    .recent-thumb {
+      width: 56px;
+      height: 48px;
+      border-radius: 3px;
+      background: linear-gradient(135deg, var(--forest-dark), var(--forest-mid));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.1rem;
+      color: rgba(255,255,255,0.3);
+      flex-shrink: 0;
+    }
+    .recent-title {
+      font-family: 'Merriweather', serif;
+      font-size: 0.82rem;
+      color: var(--text);
+      line-height: 1.4;
+      margin-bottom: 4px;
+    }
+    .recent-date { font-size: 0.72rem; color: var(--text-muted); }
+
+    /* Newsletter widget */
+    .newsletter-lede {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.7;
+      margin-bottom: 16px;
+    }
+    .newsletter-form { display: flex; flex-direction: column; gap: 10px; }
+    .newsletter-form input[type="email"] {
+      width: 100%;
+      padding: 11px 14px;
+      border: 1.5px solid var(--border);
+      border-radius: 4px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.88rem;
+      color: var(--text);
+      background: var(--warm-white);
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .newsletter-form input[type="email"]:focus { border-color: var(--terra); }
+    .newsletter-form input[type="email"]::placeholder { color: var(--text-muted); }
+    .newsletter-form button {
+      width: 100%;
+      padding: 11px;
+      background: var(--terra);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .newsletter-form button:hover { background: var(--terra-dark); }
+    .newsletter-note {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      text-align: center;
+      margin-top: 6px;
+    }
+
+    /* Tags widget */
+    .tag-cloud { display: flex; flex-wrap: wrap; gap: 7px; }
+    .tag-pill {
+      background: var(--cream);
+      border: 1px solid var(--border);
+      color: var(--text-mid);
+      font-size: 0.78rem;
+      padding: 4px 12px;
+      border-radius: 100px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+    }
+    .tag-pill:hover { background: var(--forest); border-color: var(--forest); color: white; }
+
+    /* ---- FOOTER ---- */
+    footer {
+      background: var(--forest-dark);
+      padding: 48px 0 24px;
+    }
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+    }
+    .footer-row {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 48px;
+      margin-bottom: 40px;
+    }
+    .footer-brand-name {
+      font-family: 'Merriweather', serif;
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: white;
+      margin-bottom: 10px;
+    }
+    .footer-brand-name span { color: var(--terra); }
+    .footer-desc {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.4);
+      line-height: 1.8;
+      max-width: 280px;
+      margin-bottom: 18px;
+    }
+    .footer-social { display: flex; gap: 12px; }
+    .footer-social a {
+      color: rgba(255,255,255,0.35);
+      font-size: 0.95rem;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .footer-social a:hover { color: var(--terra); }
+    .footer-col h4 {
+      color: white;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .footer-col ul { list-style: none; }
+    .footer-col ul li { margin-bottom: 8px; }
+    .footer-col ul li a {
+      color: rgba(255,255,255,0.4);
+      text-decoration: none;
+      font-size: 0.85rem;
+      transition: color 0.2s;
+    }
+    .footer-col ul li a:hover { color: var(--terra); }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.07);
+      padding-top: 22px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .footer-bottom p { font-size: 0.78rem; color: rgba(255,255,255,0.25); }
+
+    /* ---- TOAST ---- */
+    .toast {
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      background: var(--forest);
+      color: white;
+      padding: 14px 22px;
+      border-radius: 6px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transform: translateY(80px);
+      opacity: 0;
+      transition: all 0.35s;
+      z-index: 9999;
+    }
+    .toast.show { transform: translateY(0); opacity: 1; }
+    .toast i { color: var(--terra); }
+
+    /* ---- RESPONSIVE ---- */
+    @media (max-width: 960px) {
+      .page-body { grid-template-columns: 1fr; }
+      .recipe-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 640px) {
+      .recipe-grid { grid-template-columns: 1fr; }
+      .header-main { flex-direction: column; align-items: flex-start; gap: 16px; }
+      .header-search { width: 100%; }
+      .header-search input { width: 100%; }
+      .footer-row { grid-template-columns: 1fr; gap: 28px; }
+      .nav-inner { overflow-x: auto; }
+      .page-body { padding: 28px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-top">
+    <span class="site-tagline">Southern Fusion Recipes from East Lake, Atlanta &mdash; by Jake Thornton, CNM</span>
+    <div class="header-social">
+      <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+      <a href="#" aria-label="Pinterest"><i class="fab fa-pinterest"></i></a>
+      <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+    </div>
+  </div>
+  <div class="header-main">
+    <a href="#" class="site-brand">
+      <div class="site-name">Jake's <span>Table</span></div>
+      <div class="site-sub">Recipes &bull; Technique &bull; Southern Fusion</div>
+    </a>
+    <div class="header-search">
+      <i class="fa fa-magnifying-glass"></i>
+      <input type="text" placeholder="Search recipes..." id="searchInput" aria-label="Search recipes">
+    </div>
+  </div>
+  <nav class="header-nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-link active" data-filter="all">All Recipes</a>
+      <a href="#" class="nav-link" data-filter="southern">Southern Comfort</a>
+      <a href="#" class="nav-link" data-filter="fusion">American Fusion</a>
+      <a href="#" class="nav-link" data-filter="grilling">Grilling</a>
+      <a href="#" class="nav-link" data-filter="dessert">Desserts</a>
+      <a href="#" class="nav-link">Classes</a>
+      <a href="#" class="nav-link">About</a>
+    </div>
+  </nav>
+</header>
+
+<!-- BODY -->
+<div class="page-body">
+
+  <!-- MAIN CONTENT -->
+  <main>
+
+    <!-- FEATURED RECIPE -->
+    <div class="featured-header">
+      <div class="featured-label"><i class="fa fa-star"></i> &nbsp;Featured Recipe</div>
+      <hr>
+    </div>
+
+    <div class="featured-post">
+      <div class="featured-hero">
+        <span class="category-tag">American Fusion</span>
+        <h2>Andouille Jambalaya</h2>
+        <p class="lede">A one-pot study in building layers - darkened andouille fat, sweated trinity, Cajun spice bloom, and long-grain rice that drinks up everything in the pot. This is the dish that anchors the American Fusion Night class.</p>
+      </div>
+      <div class="featured-meta-row">
+        <div class="m-item"><i class="fa fa-clock"></i> 55 minutes</div>
+        <div class="m-item"><i class="fa fa-users"></i> Serves 8</div>
+        <div class="m-item"><i class="fa fa-dollar-sign"></i> ~$5.80 per serving</div>
+        <div class="m-item"><i class="fa fa-fire-flame-curved"></i> Medium</div>
+        <div class="m-item"><i class="fa fa-location-dot"></i> DeKalb Farmers Market ingredients</div>
+      </div>
+      <div class="featured-content">
+        <h3>Ingredients</h3>
+        <ul class="ingredients-list">
+          <li>14 oz andouille sausage, sliced into coins</li>
+          <li>1.5 lbs boneless, skinless chicken thighs, cut into 1-inch pieces</li>
+          <li>2 cups long-grain white rice (not parboiled)</li>
+          <li>1 large onion, diced &bull; 2 celery stalks, diced &bull; 1 green bell pepper, diced</li>
+          <li>4 garlic cloves, minced</li>
+          <li>1 can diced tomatoes (14 oz), drained</li>
+          <li>3.5 cups chicken stock, low-sodium</li>
+          <li>2 tsp Cajun seasoning blend &bull; 1 tsp smoked paprika &bull; 1 bay leaf</li>
+          <li>2 tbsp neutral oil &bull; Salt and black pepper to taste</li>
+          <li>3 scallions, thinly sliced, for serving</li>
+        </ul>
+        <h3>Method</h3>
+        <ol class="method-list">
+          <li>Heat oil in a heavy Dutch oven over medium-high heat. Sear andouille slices in a single layer, 2 minutes per side, until darkened and fat has rendered. Remove with a slotted spoon and set aside. Do not drain - that fat is the foundation.</li>
+          <li>Season chicken pieces with salt, pepper, and 1 tsp Cajun seasoning. Sear in the same pot in batches for 3 minutes per side until golden. Remove and set aside with the andouille.</li>
+          <li>Reduce heat to medium. Add the diced onion, celery, and bell pepper to the pot. Cook for 6-8 minutes, scraping up the browned bits, until softened and starting to color. Add garlic and cook 1 minute more.</li>
+          <li>Add remaining Cajun seasoning and smoked paprika. Stir for 30 seconds until fragrant. Add the drained tomatoes and cook 2 minutes, stirring.</li>
+          <li>Add the rice and stir to coat in the mixture, about 1 minute. Return sausage and chicken to the pot. Pour in stock and add the bay leaf. Stir once to distribute, then bring to a boil.</li>
+          <li>Reduce heat to low, cover tightly, and cook for 22 minutes without lifting the lid. Remove from heat and rest, still covered, for 5 minutes before serving.</li>
+          <li>Remove bay leaf. Fluff gently with a fork. Taste and adjust salt. Scatter scallions over the top and serve directly from the pot.</li>
+        </ol>
+        <div class="recipe-note">
+          <i class="fa fa-lightbulb" style="color:var(--terra); margin-right:8px;"></i>
+          The rice absorption time is non-negotiable - resist the urge to lift the lid. Every time you check, you lose steam and add minutes. Set a timer and walk away.
+        </div>
+        <button class="read-more-btn" onclick="document.getElementById('allRecipes').scrollIntoView({behavior:'smooth'})">
+          <i class="fa fa-grid-2"></i> See All Recipes
+        </button>
+      </div>
+    </div>
+
+    <!-- RECIPE GRID -->
+    <div id="allRecipes">
+      <div class="featured-header" style="margin-bottom:20px;">
+        <div class="featured-label">All Recipes</div>
+        <hr>
+      </div>
+
+      <!-- FILTER BUTTONS -->
+      <div class="filter-bar">
+        <button class="filter-btn active" data-cat="all"><i class="fa fa-th-large"></i> All (12)</button>
+        <button class="filter-btn" data-cat="southern"><i class="fa fa-bowl-food"></i> Southern Comfort (8)</button>
+        <button class="filter-btn" data-cat="fusion"><i class="fa fa-fire"></i> American Fusion (2)</button>
+        <button class="filter-btn" data-cat="grilling"><i class="fa fa-fire-flame-curved"></i> Grilling (2)</button>
+        <button class="filter-btn" data-cat="dessert"><i class="fa fa-cookie"></i> Dessert (1)</button>
+      </div>
+
+      <div class="recipe-grid" id="recipeGrid">
+
+        <div class="recipe-card" data-cat="fusion">
+          <div class="recipe-thumb">
+            <i class="fa fa-pepper-hot recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag">American Fusion</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Andouille Jambalaya</h3>
+            <p>One pot, one truth: darkened andouille fat, trinity, and rice that drinks up everything. The dish that defines the Fusion Night class.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 55 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $5.80/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="fusion">
+          <div class="recipe-thumb">
+            <i class="fa fa-shrimp recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag">American Fusion</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Shrimp and Grits</h3>
+            <p>Stone-ground grits cooked in cream, large shrimp sauteed with Tasso ham and a splash of white wine. Low Country by way of the DeKalb Farmers Market.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 40 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 6</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $9.20/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-bowl-food recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Smoked Gouda Mac and Cheese</h3>
+            <p>A proper bechamel with sharp cheddar and smoked gouda, baked to a golden crust. The starter recipe for every Southern Comfort Foundations class.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 45 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $4.20/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-drumstick-bite recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Chicken and Okra Gumbo</h3>
+            <p>Dark roux cooked to the color of dark chocolate, chicken thighs, and fresh okra from the garden. No file powder needed when you do the roux right.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 90 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $6.10/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-circle-play recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Buttermilk Roast Chicken</h3>
+            <p>Overnight buttermilk brine, fresh garden thyme and rosemary, roasted in a cast iron until the skin shatters. The simplest thing worth doing properly.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 1 hr 20 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 6</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $7.40/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="grilling">
+          <div class="recipe-thumb">
+            <i class="fa fa-fire-flame-curved recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag grilling">Grilling</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Grilled Ribeye with Herb Butter</h3>
+            <p>Two-zone fire, a sear that means it, and a compound butter made with garden thyme and rosemary melting into the resting steak. The culminating lesson of the Grilling class.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 30 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 4</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $12.40/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-seedling recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Garden Tomato Stew</h3>
+            <p>Nothing from a can. Heirloom tomatoes from Bed 1, sweated slowly with onion and garlic, served over crusty bread. Summer preserved in a bowl.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 35 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 6</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $3.10/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-bread-slice recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Cornbread Three Ways</h3>
+            <p>Stone-ground cornmeal, cast iron, buttermilk. Taught as plain, jalapeno-cheddar, and herb-scallion variations in one class session. The foundation of the brunch spread.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 30 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $1.80/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-leaf recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Collard Greens with Smoked Turkey</h3>
+            <p>Low and slow with a smoked turkey neck, apple cider vinegar, and the patience to let the bitterness cook out. The greens that get plated at every holiday brunch.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 1 hr 30 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $3.90/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="dessert">
+          <div class="recipe-thumb">
+            <i class="fa fa-cookie-bite recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag dessert">Dessert</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Peach Cobbler</h3>
+            <p>Fresh peaches from the farmers market, a butter-based batter that rises up around the fruit as it bakes. Always served warm. Always from scratch.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 55 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $2.60/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="southern">
+          <div class="recipe-thumb">
+            <i class="fa fa-carrot recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag southern">Southern Comfort</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Sweet Potato Casserole</h3>
+            <p>Roasted sweet potatoes, brown sugar, vanilla, and a pecan crust that cracks when you press a spoon through it. The holiday side that people ask for by name.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 65 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 8</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $3.40/serving</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recipe-card" data-cat="grilling">
+          <div class="recipe-thumb">
+            <i class="fa fa-shrimp recipe-thumb-icon"></i>
+            <div class="recipe-thumb-tag grilling">Grilling</div>
+          </div>
+          <div class="recipe-body">
+            <h3>Low Country Boil</h3>
+            <p>Large shrimp, andouille, red potatoes, corn on the cob, and Old Bay in a single pot of seasoned water. Dumped onto a table covered in newspaper. The meal that ends arguments.</p>
+            <div class="recipe-meta">
+              <div class="recipe-meta-item"><i class="fa fa-clock"></i> 45 min</div>
+              <div class="recipe-meta-item"><i class="fa fa-users"></i> Serves 10</div>
+              <div class="recipe-meta-item"><i class="fa fa-dollar-sign"></i> $8.60/serving</div>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /recipe-grid -->
+    </div><!-- /allRecipes -->
+
+  </main>
+
+  <!-- SIDEBAR -->
+  <aside>
+
+    <div class="sidebar-widget">
+      <div class="widget-header">About the Cook</div>
+      <div class="widget-body">
+        <div class="about-widget-img"><i class="fa fa-utensils"></i></div>
+        <div class="about-widget-name">Jake Thornton</div>
+        <div class="about-widget-role">CNM &bull; Cooking Instructor &bull; East Lake, Atlanta</div>
+        <div class="about-widget-bio">I'm a midwife by trade and a cook by calling. Jake's Table started as Saturday cooking classes in my East Lake kitchen. This blog is the next chapter - tested recipes, honest technique notes, and the stories behind the food.</div>
+        <a href="#" class="about-widget-link">
+          <i class="fab fa-instagram"></i> @jakes.table &rarr;
+        </a>
+      </div>
+    </div>
+
+    <div class="sidebar-widget" style="background:var(--forest-dark); border-color: var(--forest);">
+      <div class="widget-header" style="color:white; border-bottom-color:rgba(255,255,255,0.1);">
+        <i class="fa fa-envelope" style="color:var(--terra); margin-right:8px;"></i> Newsletter
+      </div>
+      <div class="widget-body">
+        <div class="newsletter-lede" style="color:rgba(255,255,255,0.55);">New recipes every other week. No filler, no ads - just the dishes we cook at Jake's Table.</div>
+        <form class="newsletter-form" onsubmit="handleSubscribe(event)">
+          <input type="email" placeholder="Your email address" required>
+          <button type="submit"><i class="fa fa-paper-plane"></i> Subscribe</button>
+        </form>
+        <div class="newsletter-note" style="color:rgba(255,255,255,0.25);">No spam. Unsubscribe anytime.</div>
+      </div>
+    </div>
+
+    <div class="sidebar-widget">
+      <div class="widget-header">Recent on the Blog</div>
+      <div class="widget-body" style="padding-top:4px;">
+        <div class="recent-post">
+          <div class="recent-thumb"><i class="fa fa-seedling"></i></div>
+          <div>
+            <div class="recent-title">What the Garden Taught Me About Timing in the Kitchen</div>
+            <div class="recent-date">November 2026</div>
+          </div>
+        </div>
+        <div class="recent-post">
+          <div class="recent-thumb"><i class="fa fa-fire"></i></div>
+          <div>
+            <div class="recent-title">The Roux: Why It Goes Wrong and What to Do When It Does</div>
+            <div class="recent-date">November 2026</div>
+          </div>
+        </div>
+        <div class="recent-post">
+          <div class="recent-thumb"><i class="fa fa-store"></i></div>
+          <div>
+            <div class="recent-title">DeKalb Farmers Market: What I Buy and What I Skip</div>
+            <div class="recent-date">October 2026</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sidebar-widget">
+      <div class="widget-header">Browse by Tag</div>
+      <div class="widget-body">
+        <div class="tag-cloud">
+          <a class="tag-pill" href="#">cast iron</a>
+          <a class="tag-pill" href="#">Southern</a>
+          <a class="tag-pill" href="#">Cajun</a>
+          <a class="tag-pill" href="#">grilling</a>
+          <a class="tag-pill" href="#">one pot</a>
+          <a class="tag-pill" href="#">holiday</a>
+          <a class="tag-pill" href="#">garden</a>
+          <a class="tag-pill" href="#">brunch</a>
+          <a class="tag-pill" href="#">seafood</a>
+          <a class="tag-pill" href="#">dessert</a>
+          <a class="tag-pill" href="#">quick</a>
+          <a class="tag-pill" href="#">Low Country</a>
+        </div>
+      </div>
+    </div>
+
+  </aside>
+</div><!-- /page-body -->
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-row">
+      <div>
+        <div class="footer-brand-name">Jake's <span>Table</span></div>
+        <div class="footer-desc">Southern fusion recipes from an East Lake kitchen in Atlanta, Georgia. Tested in the Jake's Table cooking class and written down so you can make them at home.</div>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="Pinterest"><i class="fab fa-pinterest"></i></a>
+          <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Recipes</h4>
+        <ul>
+          <li><a href="#">Southern Comfort</a></li>
+          <li><a href="#">American Fusion</a></li>
+          <li><a href="#">Grilling</a></li>
+          <li><a href="#">Desserts</a></li>
+          <li><a href="#">Seasonal</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Jake's Table</h4>
+        <ul>
+          <li><a href="#">Cooking Classes</a></li>
+          <li><a href="#">About Jake</a></li>
+          <li><a href="#">Book a Class</a></li>
+          <li><a href="#">Newsletter</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2027 Jake's Table. East Lake, Atlanta, GA. All rights reserved.</p>
+      <p style="color:rgba(255,255,255,0.2); font-size:0.75rem;">jake.thornton@greenrider.co &bull; @jakes.table</p>
+    </div>
+  </div>
+</footer>
+
+<!-- TOAST -->
+<div class="toast" id="toast"><i class="fa fa-circle-check"></i> <span id="toastMsg">Subscribed!</span></div>
+
+<script>
+  // Filter logic
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const navLinks = document.querySelectorAll('.header-nav .nav-link[data-filter]');
+  const cards = document.querySelectorAll('.recipe-card');
+
+  function applyFilter(cat) {
+    cards.forEach(card => {
+      const match = cat === 'all' || card.dataset.cat === cat;
+      card.classList.toggle('hidden', !match);
+    });
+    filterBtns.forEach(b => b.classList.toggle('active', b.dataset.cat === cat));
+    navLinks.forEach(l => l.classList.toggle('active', l.dataset.filter === cat));
+  }
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => applyFilter(btn.dataset.cat));
+  });
+
+  navLinks.forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      applyFilter(link.dataset.filter);
+      if (link.dataset.filter) {
+        document.querySelector('.filter-bar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+
+  // Search filter
+  document.getElementById('searchInput').addEventListener('input', function() {
+    const q = this.value.toLowerCase().trim();
+    cards.forEach(card => {
+      const title = card.querySelector('h3').textContent.toLowerCase();
+      const desc = card.querySelector('p').textContent.toLowerCase();
+      const hidden = q && !title.includes(q) && !desc.includes(q);
+      card.classList.toggle('hidden', hidden);
+    });
+    if (q) {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      navLinks.forEach(l => l.classList.remove('active'));
+    }
+  });
+
+  // Newsletter subscribe
+  function handleSubscribe(e) {
+    e.preventDefault();
+    showToast('You are on the list. First email coming soon.');
+    e.target.reset();
+  }
+
+  function showToast(msg) {
+    const toast = document.getElementById('toast');
+    document.getElementById('toastMsg').textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 3200);
+  }
+
+  // Card hover click
+  cards.forEach(card => {
+    card.addEventListener('click', () => {
+      const title = card.querySelector('h3').textContent;
+      showToast('Full recipe for ' + title + ' coming on launch day.');
+    });
+  });
+</script>
+</body>
+</html>

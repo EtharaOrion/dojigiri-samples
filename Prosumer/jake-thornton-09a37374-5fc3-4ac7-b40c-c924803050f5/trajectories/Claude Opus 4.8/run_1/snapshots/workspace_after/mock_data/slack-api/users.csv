@@ -1,0 +1,24 @@
+id,name,real_name,email,is_admin,is_bot,tz,status_text,presence,__api__,__table__,__file__,__row_index__
+U01JAKEB,jake.thornton,Jake Thornton,jake.thornton@greenrider.co,True,False,America/New_York,on-call this week,active,slack-api,users,/opt/mocks/slack-api/users.json,0
+U01ANDRE,keisha.williams,Dr. Keisha Williams,keisha.williams@gmail.com,False,False,America/New_York,clinic,active,slack-api,users,/opt/mocks/slack-api/users.json,1
+U01SIMONE,rosa.delgado,Rosa Delgado,rosa.delgado@magnoliawomenshealth.com,False,False,America/New_York,in the kitchen,active,slack-api,users,/opt/mocks/slack-api/users.json,2
+U01MALIK,priya.nair,Priya Nair,priya.nair@magnoliawomenshealth.com,False,False,America/New_York,prenatal visits,away,slack-api,users,/opt/mocks/slack-api/users.json,3
+UBFD4A3ADC,denise.carter,Denise Carter,denise.carter@magnoliawomenshealth.com,False,False,America/New_York,class prep,active,slack-api,users,/opt/mocks/slack-api/users.json,4
+U75F49D210,scheduler,Scheduling Bot,bots@magnoliawomenshealth.com,False,True,America/New_York,back at 5:45,active,slack-api,users,/opt/mocks/slack-api/users.json,5
+U62385AC17,renee.sutton,Renee Sutton,renee.sutton@magnoliawomenshealth.com,True,False,America/New_York,meal prep,active,slack-api,users,/opt/mocks/slack-api/users.json,6
+U21EBC028F,yolanda.hayes,Yolanda Hayes,yolanda.hayes@magnoliawomenshealth.com,False,False,America/New_York,charting,active,slack-api,users,/opt/mocks/slack-api/users.json,7
+U054CAE4F6,tomas.reyes,Tomas Reyes,tomas.reyes@magnoliawomenshealth.com,False,False,America/New_York,on-call this week,active,slack-api,users,/opt/mocks/slack-api/users.json,8
+U7F5BB98DD,alan.whitfield,Alan Whitfield,alan.whitfield@magnoliawomenshealth.com,False,False,America/New_York,clinic,away,slack-api,users,/opt/mocks/slack-api/users.json,9
+U932B25A58,bianca.rowe,Bianca Rowe,bianca.rowe@magnoliawomenshealth.com,False,False,America/New_York,in the kitchen,active,slack-api,users,/opt/mocks/slack-api/users.json,10
+U61C3FCECB,grace.lin,Grace Lin,grace.lin@magnoliawomenshealth.com,True,False,America/New_York,prenatal visits,active,slack-api,users,/opt/mocks/slack-api/users.json,11
+U494BCBE84,omar.haddad,Omar Haddad,omar.haddad@magnoliawomenshealth.com,False,False,America/New_York,class prep,active,slack-api,users,/opt/mocks/slack-api/users.json,12
+UF47BDC972,curtis.pope,Curtis Pope,curtis.pope@magnoliawomenshealth.com,False,False,America/New_York,back at 5:45,active,slack-api,users,/opt/mocks/slack-api/users.json,13
+UD66DAB08F,nadia.okafor,Nadia Okafor,nadia.okafor@magnoliawomenshealth.com,False,False,America/New_York,meal prep,away,slack-api,users,/opt/mocks/slack-api/users.json,14
+U7B807E18A,imani.cole,Imani Cole,imani.cole@magnoliawomenshealth.com,False,False,America/New_York,on-call this week,active,slack-api,users,/opt/mocks/slack-api/users.json,15
+UE2BE14E8C,wesley.frank,Wesley Frank,wesley.frank@magnoliawomenshealth.com,True,False,America/New_York,on-call this week,active,slack-api,users,/opt/mocks/slack-api/users.json,16
+UCE83933A8,dara.nguyen,Dara Nguyen,dara.nguyen@magnoliawomenshealth.com,False,False,America/New_York,clinic,active,slack-api,users,/opt/mocks/slack-api/users.json,17
+U0JAKE,corinne.bliss,Corinne Bliss,corinne.bliss@magnoliawomenshealth.com,False,False,America/New_York,in the kitchen,active,slack-api,users,/opt/mocks/slack-api/users.json,18
+U0KWILL,hakim.osei,Hakim Osei,hakim.osei@magnoliawomenshealth.com,False,False,America/New_York,prenatal visits,active,slack-api,users,/opt/mocks/slack-api/users.json,19
+U0MIDA,sabrina.vance,Sabrina Vance,sabrina.vance@magnoliawomenshealth.com,False,False,America/New_York,class prep,active,slack-api,users,/opt/mocks/slack-api/users.json,20
+U0MIDB,elena.marsh,Elena Marsh,elena.marsh@magnoliawomenshealth.com,False,False,America/New_York,back at 5:45,active,slack-api,users,/opt/mocks/slack-api/users.json,21
+U0MIDC,trey.bledsoe,Trey Bledsoe,trey.bledsoe@magnoliawomenshealth.com,False,False,America/New_York,on-call this week,active,slack-api,users,/opt/mocks/slack-api/users.json,22

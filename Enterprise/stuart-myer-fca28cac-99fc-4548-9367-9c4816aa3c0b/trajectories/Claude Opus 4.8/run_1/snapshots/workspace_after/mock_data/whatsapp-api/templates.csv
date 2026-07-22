@@ -1,0 +1,6 @@
+body_text,category,header_text,language,name,status
+"Hi {{1}}, your order {{2}} has shipped and will arrive by {{3}}.",UTILITY,Order update,en_US,order_shipped,APPROVED
+Reminder: your appointment on {{1}} at {{2}} is confirmed.,UTILITY,Driftwood Brewing,en_US,appointment_reminder,APPROVED
+"Welcome to Driftwood Brewing Company, {{1}}! Use {{2}} for 10% off your first order.",MARKETING,Welcome to Driftwood Brewing Company,en_US,welcome_offer,APPROVED
+Your verification code is {{1}}. It expires in 10 minutes.,AUTHENTICATION,Driftwood Brewing,en_US,otp_verify,APPROVED
+"Hi {{1}}, did our support resolve your issue today?",UTILITY,Driftwood Brewing,en_US,support_followup,PENDING

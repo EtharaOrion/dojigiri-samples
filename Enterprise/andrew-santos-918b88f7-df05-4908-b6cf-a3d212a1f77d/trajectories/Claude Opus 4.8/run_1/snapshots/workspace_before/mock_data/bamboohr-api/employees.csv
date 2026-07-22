@@ -1,0 +1,16 @@
+department,firstName,hireDate,id,jobTitle,lastName,location,status,supervisorId,workEmail,__api__,__table__,__file__,__row_index__
+Executive,Andrew,2018-03-15,e200,Executive Director,Santos,Detroit,Active,1001,andrew.santos@Greenridertech.co,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,0
+Programs,Marcus,2019-11-04,e201,Program Director,Thompson,Detroit,Active,e200,marcus@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,1
+Development,Bethany,2021-02-08,e202,Development Director,Ross,Detroit,Active,e200,bross@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,2
+Operations,Greg,2020-10-19,e203,Operations Manager,Hoffman,Detroit,Active,e200,ghoffman@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,3
+Operations,Latoya,2022-01-17,e204,Administrative Coordinator,Sims,Detroit,Active,e203,lsims@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,4
+Programs,Sam,2022-11-07,e205,"Program Coordinator, After-School",Ortega,Detroit,Active,e201,sortega@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,5
+Programs,Naomi,2023-02-21,e206,"Program Coordinator, Summer",Park,Detroit,Active,e201,npark@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,6
+Programs,Curtis,2026-02-02,e207,"Program Coordinator, Livernois Site",Ellison,Detroit,Active,e201,cellison@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,7
+Programs,Jamal,2020-03-09,e208,"Teaching Artist, Visual Arts",Brooks,Detroit,Active,e201,jbrooks@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,8
+Programs,Tanya,2020-10-12,e209,"Teaching Artist, Music",Okafor,Detroit,Active,e201,tokafor@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,9
+Programs,Priya,2021-01-25,e210,"Teaching Artist, Filmmaking",Nair,Detroit,Active,e201,pnair@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,10
+Programs,Renee,2022-02-14,e211,"Teaching Artist, Spoken Word",Carter,Detroit,Active,e201,rcarter@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,11
+Programs,Devon,2023-10-30,e212,"Teaching Artist, Dance",Hayes,Detroit,Active,e201,dhayes@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,12
+Programs,Aria,2026-02-20,e213,"Teaching Artist, Visual Arts",Mendez,Detroit,Active,e201,amendez@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,13
+Programs,Nina,2025-10-13,e214,"Teaching Artist, Music",Park,Detroit,Active,e201,ninapark@dyaa.org,bamboohr-api,employees,/opt/mocks/bamboohr-api/employees.json,14

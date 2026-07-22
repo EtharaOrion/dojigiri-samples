@@ -1,0 +1,219 @@
+{
+  "label": "before_injection",
+  "ts": 1784619843.602816,
+  "ts_iso": "2026-07-21T07:44:03Z",
+  "apis": {
+    "airtable-api": {
+      "tables": {
+        "bases": 1,
+        "records_tblContacts00001": 20,
+        "records_tblProjects00001": 15,
+        "records_tblTasks00000001": 108,
+        "tables": 3
+      },
+      "documents": {}
+    },
+    "bamboohr-api": {
+      "tables": {
+        "employees": 13,
+        "time_off": 8,
+        "whos_out": 4
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "calendly-api": {
+      "tables": {
+        "availability": 5,
+        "event_types": 11,
+        "invitees": 112,
+        "scheduled_events": 120
+      },
+      "documents": {
+        "user": true
+      }
+    },
+    "docusign-api": {
+      "tables": {
+        "documents": 8,
+        "envelopes": 30,
+        "recipients": 8,
+        "templates": 4
+      },
+      "documents": {}
+    },
+    "gmail-api": {
+      "tables": {
+        "drafts": 1,
+        "labels": 7,
+        "messages": 150
+      },
+      "documents": {
+        "profile": true
+      }
+    },
+    "gusto-api": {
+      "tables": {
+        "compensations": 10,
+        "contractors": 4,
+        "employees": 10,
+        "payrolls": 4
+      },
+      "documents": {
+        "company": true
+      }
+    },
+    "hubspot-api": {
+      "tables": {
+        "pipelines": 1
+      },
+      "documents": {}
+    },
+    "klaviyo-api": {
+      "tables": {
+        "campaigns": 12,
+        "lists": 8,
+        "profiles": 30
+      },
+      "documents": {}
+    },
+    "mailchimp-api": {
+      "tables": {
+        "campaigns": 10,
+        "lists": 5,
+        "members": 20,
+        "reports": 7
+      },
+      "documents": {}
+    },
+    "notion-api": {
+      "tables": {
+        "blocks": 113,
+        "comments": 3,
+        "databases": 3,
+        "pages": 9,
+        "users": 4
+      },
+      "documents": {
+        "properties": true,
+        "workspace": true
+      }
+    },
+    "paypal-api": {
+      "tables": {
+        "captures": 15,
+        "invoices": 15,
+        "orders": 20,
+        "payouts": 8,
+        "refunds": 5
+      },
+      "documents": {}
+    },
+    "plaid-api": {
+      "tables": {
+        "accounts": 3,
+        "transactions": 30
+      },
+      "documents": {
+        "identity": true,
+        "item": true
+      }
+    },
+    "quickbooks-api": {
+      "tables": {
+        "accounts": 23,
+        "bills": 25,
+        "customers": 20,
+        "estimates": 7,
+        "expenses": 13,
+        "invoices": 101,
+        "items": 11,
+        "payments": 24,
+        "vendors": 20
+      },
+      "documents": {
+        "bill_payments": true,
+        "break_even_analysis": true,
+        "company_info": true,
+        "company_raw": true,
+        "corporate_expense_ledger": true,
+        "reimbursement_policy": true
+      }
+    },
+    "salesforce-api": {
+      "tables": {
+        "Account": 20,
+        "Contact": 20,
+        "Lead": 20,
+        "Opportunity": 12
+      },
+      "documents": {}
+    },
+    "sendgrid-api": {
+      "tables": {
+        "contacts": 20,
+        "lists": 8,
+        "sent_log": 12,
+        "stats": 14,
+        "templates": 5
+      },
+      "documents": {}
+    },
+    "shippo-api": {
+      "tables": {
+        "addresses": 7,
+        "parcels": 4,
+        "rates": 90,
+        "shipments": 15,
+        "tracking": 21,
+        "transactions": 10
+      },
+      "documents": {}
+    },
+    "square-api": {
+      "tables": {
+        "catalog": 12,
+        "customers": 21,
+        "inventory": 12,
+        "orders": 107,
+        "payments": 24,
+        "refunds": 0
+      },
+      "documents": {
+        "merchant": true
+      }
+    },
+    "stripe-api": {
+      "tables": {
+        "charges": 106,
+        "customers": 23,
+        "invoices": 21,
+        "payment_intents": 0,
+        "prices": 5,
+        "products": 4,
+        "refunds": 0,
+        "subscriptions": 6
+      },
+      "documents": {
+        "balance": true
+      }
+    },
+    "woocommerce-api": {
+      "tables": {
+        "customers": 20,
+        "orders": 25,
+        "products": 10
+      },
+      "documents": {}
+    },
+    "xero-api": {
+      "tables": {
+        "accounts": 10,
+        "contacts": 20,
+        "invoices": 30
+      },
+      "documents": {}
+    }
+  }
+}

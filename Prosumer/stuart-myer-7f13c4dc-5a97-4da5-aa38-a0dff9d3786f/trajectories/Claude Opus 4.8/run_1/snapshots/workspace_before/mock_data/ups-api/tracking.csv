@@ -1,0 +1,21 @@
+tracking_number,status_type,status_code,status_description,service_name,ship_date,scheduled_delivery,latest_activity,latest_activity_location,latest_activity_time
+1Z999AA1013456784,D,021,Delivered,UPS Ground,2025-12-17,2025-12-22,Delivered to recipient,10001,2025-12-26T14:00:00Z
+1Z999AA1013456795,I,005,Out for delivery,UPS 2nd Day Air,2025-12-24,2025-12-26,On UPS truck for delivery,94103,2025-12-26T16:00:00Z
+1Z999AA1013456806,I,003,In transit,UPS Next Day Air,2025-12-17,2025-12-18,Departed from facility,60601,2025-12-26T23:00:00Z
+1Z999AA1013456817,M,003,Label Created,UPS Worldwide Express,2025-12-22,2025-12-24,Shipment information sent to UPS,30303,2025-12-25T12:00:00Z
+1Z999AA1013456828,D,021,Delivered,UPS 3 Day Select,2025-12-22,2025-12-25,Delivered to recipient,98101,2025-12-26T13:00:00Z
+1Z999AA1013456839,I,005,Out for delivery,UPS Next Day Air Saver,2025-12-26,2025-12-27,On UPS truck for delivery,75201,2025-12-26T03:00:00Z
+1Z999AA1013456850,I,003,In transit,UPS Ground,2025-12-17,2025-12-22,Departed from facility,10001,2025-12-26T15:00:00Z
+1Z999AA1013456861,M,003,Label Created,UPS 2nd Day Air,2025-12-20,2025-12-22,Shipment information sent to UPS,94103,2025-12-26T10:00:00Z
+1Z999AA1013456872,D,021,Delivered,UPS Next Day Air,2025-12-19,2025-12-20,Delivered to recipient,60601,2025-12-25T22:00:00Z
+1Z999AA1013456883,I,005,Out for delivery,UPS Worldwide Express,2025-12-18,2025-12-20,On UPS truck for delivery,30303,2025-12-26T04:00:00Z
+1Z999AA1013456894,I,003,In transit,UPS 3 Day Select,2025-12-22,2025-12-25,Departed from facility,98101,2025-12-26T02:00:00Z
+1Z999AA1013456905,M,003,Label Created,UPS Next Day Air Saver,2025-12-14,2025-12-15,Shipment information sent to UPS,75201,2025-12-25T12:00:00Z
+1Z999AA1013456916,D,021,Delivered,UPS Ground,2025-12-15,2025-12-20,Delivered to recipient,10001,2025-12-26T19:00:00Z
+1Z999AA1013456927,I,005,Out for delivery,UPS 2nd Day Air,2025-12-23,2025-12-25,On UPS truck for delivery,94103,2025-12-26T21:00:00Z
+1Z999AA1013456938,I,003,In transit,UPS Next Day Air,2025-12-13,2025-12-14,Departed from facility,60601,2025-12-26T08:00:00Z
+1Z999AA1013456785,D,021,Delivered,UPS Ground,2025-12-17,2025-12-22,Delivered to recipient,10001,2025-12-26T14:00:00Z
+1Z999AA1013456796,I,005,Out for delivery,UPS 2nd Day Air,2025-12-24,2025-12-26,On UPS truck for delivery,94103,2025-12-26T16:00:00Z
+1Z999AA1013456807,I,003,In transit,UPS Next Day Air,2025-12-17,2025-12-18,Departed from facility,60601,2025-12-26T23:00:00Z
+1Z999AA1013456818,M,003,Label Created,UPS Worldwide Express,2025-12-22,2025-12-24,Shipment information sent to UPS,30303,2025-12-25T12:00:00Z
+1Z999AA1013456829,D,021,Delivered,UPS 3 Day Select,2025-12-22,2025-12-25,Delivered to recipient,98101,2025-12-26T13:00:00Z
