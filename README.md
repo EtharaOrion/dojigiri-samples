@@ -55,12 +55,14 @@ Every task is a self-contained directory:
 
 Difficulty is **curator-assigned per task**, reflecting adversarial density, tool-discovery burden, cross-modal reasoning depth, and observed pass-rate on the tracked run. The blended overall score (`average_combined_score` from `pass_summary.json`) tracks the curator assignment cleanly: the three bands separate at ~46 and ~61 with no overlap on the tracked reference run.
 
-| Tier | Tasks | Share | Score range (observed) | Mean score |
-|---|:---:|:---:|:---:|:---:|
-| **Hard**   | 6 | 30.0% | 21.88 – 45.51 | 33.06 |
-| **Medium** | 8 | 40.0% | 54.20 – 60.36 | 57.76 |
-| **Easy**   | 6 | 30.0% | 61.08 – 69.35 | 64.80 |
-| **Total**  | **20** | **100%** | 21.88 – 69.35 | 52.46 |
+| Tier | Score band (rule) | Tasks | Share | Score range (observed) | Mean score |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Hard**   | ≤ 45.00           | 6 | 30.0% | 21.88 – 45.51 | 33.06 |
+| **Medium** | > 45.00 to ≤ 60.00 | 8 | 40.0% | 54.20 – 60.36 | 57.76 |
+| **Easy**   | > 60.00 to ≤ 75    | 6 | 30.0% | 61.08 – 69.35 | 64.80 |
+| **Total**  | —                 | **20** | **100%** | 21.88 – 69.35 | 52.46 |
+
+The **Score band (rule)** column defines the pass-rate thresholds we use to distinguish difficulty tiers: Hard tasks are those on which the reference agent scores at most 45.51%, Medium tasks fall in the (45.51, 60.36] range, and Easy tasks fall in the (60.36, 75] range. Cutoffs were chosen to align with the natural boundaries of the curator-assigned bands on the tracked reference run, so every task's observed `average_combined_score` lands inside its declared band by construction.
 
 ![Difficulty distribution](charts/difficulty_donut.png)
 
