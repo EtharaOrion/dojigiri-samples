@@ -31,7 +31,7 @@ Every quantitative claim in this document is computed directly from the shipped 
 Every task is a self-contained directory:
 
 ```
-{persona}_{nn}/
+{task-uuid}/
 ├── PROMPT.md               # Raw, casual first-person user request (multi-turn)
 ├── TRUTH.md                # Grader ground-truth doc (Focal Event · Solve Path · Value Lock)
 ├── rubric.json             # 16–30 weighted criteria (LLM-judge facing)
@@ -102,18 +102,18 @@ Sorted by observed overall score, ascending. All numeric fields sourced from `pa
 
 | Task ID | Overall | Rubric % | Pytest % | Difficulty |
 |---|:--:|:--:|:--:|:--:|
-| carlos-moore-db00176f-b1f4-4972-9845-a6cff8cb4850 | 21.88 | 43.75 | 0.00 | Hard |
-| colette-mullins-8d4f4d74-c701-4ccf-8398-2d1d93becff3 | 23.25 | 36.49 | 10.00 | Hard |
-| carlos-moore-3143042d-3c6f-488d-ad22-0cefb9b703eb | 34.96 | 36.59 | 33.33 | Hard |
-| andrew-santos-16ce5b8a-a840-4a1a-8281-e7084b62d426 | 42.99 | 78.85 | 7.14 | Hard |
-| colette-mullins-23d1df65-4d52-43de-bdda-724c3ff95cff | 55.65 | 91.30 | 20.00 | Medium |
-| daniel-brooks-a5f7aa3d-93a9-4d70-95d1-fb08017933bf | 57.31 | 53.76 | 60.87 | Medium |
-| stuart-myer-b88b631e-a6af-449c-a519-e17eac9979c9 | 59.04 | 58.62 | 59.46 | Medium |
-| colette-mullins-ff4044bd-0222-41b5-94c6-c9b5ab06951c | 59.13 | 96.39 | 21.88 | Medium |
-| andrew-santos-636a1579-5f41-4d5b-8d24-fe2d28f29fb1 | 60.36 | 60.00 | 60.71 | Medium |
-| stuart-myer-fca28cac-99fc-4548-9367-9c4816aa3c0b | 65.22 | 88.76 | 41.67 | Easy |
-| andrew-santos-918b88f7-df05-4908-b6cf-a3d212a1f77d | 68.86 | 76.84 | 60.87 | Easy |
-| andrew-santos-0224c9fb-d98c-4429-92a3-2faffccce343 | 69.35 | 88.71 | 50.00 | Easy |
+| db00176f-b1f4-4972-9845-a6cff8cb4850 | 21.88 | 43.75 | 0.00 | Hard |
+| 8d4f4d74-c701-4ccf-8398-2d1d93becff3 | 23.25 | 36.49 | 10.00 | Hard |
+| 3143042d-3c6f-488d-ad22-0cefb9b703eb | 34.96 | 36.59 | 33.33 | Hard |
+| 16ce5b8a-a840-4a1a-8281-e7084b62d426 | 42.99 | 78.85 | 7.14 | Hard |
+| 23d1df65-4d52-43de-bdda-724c3ff95cff | 55.65 | 91.30 | 20.00 | Medium |
+| a5f7aa3d-93a9-4d70-95d1-fb08017933bf | 57.31 | 53.76 | 60.87 | Medium |
+| b88b631e-a6af-449c-a519-e17eac9979c9 | 59.04 | 58.62 | 59.46 | Medium |
+| ff4044bd-0222-41b5-94c6-c9b5ab06951c | 59.13 | 96.39 | 21.88 | Medium |
+| 636a1579-5f41-4d5b-8d24-fe2d28f29fb1 | 60.36 | 60.00 | 60.71 | Medium |
+| fca28cac-99fc-4548-9367-9c4816aa3c0b | 65.22 | 88.76 | 41.67 | Easy |
+| 918b88f7-df05-4908-b6cf-a3d212a1f77d | 68.86 | 76.84 | 60.87 | Easy |
+| 0224c9fb-d98c-4429-92a3-2faffccce343 | 69.35 | 88.71 | 50.00 | Easy |
 
 **Enterprise totals:** Hard = 4, Medium = 5, Easy = 3 (12 tasks). Overall score span **21.88 → 69.35**, mean **51.50**.
 
@@ -123,14 +123,14 @@ Same conventions as §3.4. Sorted by observed overall score, ascending.
 
 | Task ID | Overall | Rubric % | Pytest % | Difficulty |
 |---|:--:|:--:|:--:|:--:|
-| jake-thornton-24cc3b1d-6ad1-4ebb-9f06-43d58bc53790 | 29.79 | 36.49 | 23.08 | Hard |
-| jessica-taylor-37096e58-4906-4611-9a04-973ded5716a8 | 45.51 | 53.52 | 37.50 | Hard |
-| stuart-myer-7f13c4dc-5a97-4da5-aa38-a0dff9d3786f | 54.20 | 62.75 | 45.65 | Medium |
-| jessica-spencer-378aba06-8c28-4e00-9ef7-90e449f65039 | 56.84 | 35.90 | 77.78 | Medium |
-| jessica-taylor-852a5c80-34c3-4dbd-b7cc-2087ed03ff15 | 59.53 | 66.67 | 52.38 | Medium |
-| jake-thornton-fc83cc97-cfcf-4412-aafb-e21ee11df21b | 61.08 | 63.83 | 58.33 | Easy |
-| jake-thornton-09a37374-5fc3-4ac7-b40c-c924803050f5 | 61.79 | 73.58 | 50.00 | Easy |
-| catherine-conway-356c2c1c-68c8-4eff-9a34-14dc1c5fd1cf | 62.50 | 50.00 | 75.00 | Easy |
+| 24cc3b1d-6ad1-4ebb-9f06-43d58bc53790 | 29.79 | 36.49 | 23.08 | Hard |
+| 37096e58-4906-4611-9a04-973ded5716a8 | 45.51 | 53.52 | 37.50 | Hard |
+| 7f13c4dc-5a97-4da5-aa38-a0dff9d3786f | 54.20 | 62.75 | 45.65 | Medium |
+| 378aba06-8c28-4e00-9ef7-90e449f65039 | 56.84 | 35.90 | 77.78 | Medium |
+| 852a5c80-34c3-4dbd-b7cc-2087ed03ff15 | 59.53 | 66.67 | 52.38 | Medium |
+| fc83cc97-cfcf-4412-aafb-e21ee11df21b | 61.08 | 63.83 | 58.33 | Easy |
+| 09a37374-5fc3-4ac7-b40c-c924803050f5 | 61.79 | 73.58 | 50.00 | Easy |
+| 356c2c1c-68c8-4eff-9a34-14dc1c5fd1cf | 62.50 | 50.00 | 75.00 | Easy |
 
 **Prosumer totals:** Hard = 2, Medium = 3, Easy = 3 (8 tasks). Overall score span **29.79 → 62.50**, mean **53.91**.
 
@@ -232,18 +232,28 @@ Restructured_C1_Perfect/
 │   ├── reward_hist.png
 │   ├── rubric_weights.png
 │   └── rubric_dimensions.png
-├── Enterprise/   (12 tasks)
-│   ├── andrew-santos-*   (4)
-│   ├── colette-mullins-* (3)
-│   ├── carlos-moore-*    (2)
-│   ├── stuart-myer-*     (2)
-│   └── daniel-brooks-*   (1)
-└── Prosumer/     (8 tasks)
-    ├── jake-thornton-*   (3)
-    ├── jessica-taylor-*  (2)
-    ├── stuart-myer-*     (1)
-    ├── jessica-spencer-* (1)
-    └── catherine-conway-* (1)
+├── Enterprise/   (12 tasks · folders named by task UUID)
+│   ├── 0224c9fb-d98c-4429-92a3-2faffccce343/   (andrew-santos)
+│   ├── 16ce5b8a-a840-4a1a-8281-e7084b62d426/   (andrew-santos)
+│   ├── 23d1df65-4d52-43de-bdda-724c3ff95cff/   (colette-mullins)
+│   ├── 3143042d-3c6f-488d-ad22-0cefb9b703eb/   (carlos-moore)
+│   ├── 636a1579-5f41-4d5b-8d24-fe2d28f29fb1/   (andrew-santos)
+│   ├── 8d4f4d74-c701-4ccf-8398-2d1d93becff3/   (colette-mullins)
+│   ├── 918b88f7-df05-4908-b6cf-a3d212a1f77d/   (andrew-santos)
+│   ├── a5f7aa3d-93a9-4d70-95d1-fb08017933bf/   (daniel-brooks)
+│   ├── b88b631e-a6af-449c-a519-e17eac9979c9/   (stuart-myer)
+│   ├── db00176f-b1f4-4972-9845-a6cff8cb4850/   (carlos-moore)
+│   ├── fca28cac-99fc-4548-9367-9c4816aa3c0b/   (stuart-myer)
+│   └── ff4044bd-0222-41b5-94c6-c9b5ab06951c/   (colette-mullins)
+└── Prosumer/     (8 tasks · folders named by task UUID)
+    ├── 09a37374-5fc3-4ac7-b40c-c924803050f5/   (jake-thornton)
+    ├── 24cc3b1d-6ad1-4ebb-9f06-43d58bc53790/   (jake-thornton)
+    ├── 356c2c1c-68c8-4eff-9a34-14dc1c5fd1cf/   (catherine-conway)
+    ├── 37096e58-4906-4611-9a04-973ded5716a8/   (jessica-taylor)
+    ├── 378aba06-8c28-4e00-9ef7-90e449f65039/   (jessica-spencer)
+    ├── 7f13c4dc-5a97-4da5-aa38-a0dff9d3786f/   (stuart-myer)
+    ├── 852a5c80-34c3-4dbd-b7cc-2087ed03ff15/   (jessica-taylor)
+    └── fc83cc97-cfcf-4412-aafb-e21ee11df21b/   (jake-thornton)
 ```
 
 ---

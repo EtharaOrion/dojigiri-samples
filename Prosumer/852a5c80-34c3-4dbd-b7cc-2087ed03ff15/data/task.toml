@@ -1,0 +1,113 @@
+schema_version = "1.1"
+
+[task]
+name = "852a5c80-34c3-4dbd-b7cc-2087ed03ff15"
+description = "I need the Verdant Provisions brand refresh fully trued up before I put anything in front of Aria, because the account has gotten away from me across all the places the work lives and I no longer trust that the version in my head matches the version in the records. What I want out of this is a clean client facing recap I can actually send, the kind of document that walks Aria through where the refresh landed, which creative directions we locked, what has been delivered against the original scope, and where the money stands, written in the polished register I use for her and not my internal shorthand. Before you draft a word of it though I need the ground truth pinned down, because there are decisions scattered across my working files, my sent and received client mail, my quick notes, and my tracker that do not all say the same thing, and some of them are stale from earlier rounds when we were still exploring. The refresh ran across a full year and four working files of revision rounds, and Aria and I went back and forth enough times that the mood board comments, the packaging proofs, and the approvals landed in different places on different days, so the trail is real but it is tangled, and the version I would recite from memory is exactly the version I no longer trust. This is the anchor account of my studio and the recap is the thing Aria will forward to her own people, so if a single locked direction or a single figure is wrong in it the credibility of the whole engagement takes the hit, not just that line. Somewhere in the concept history there is an early lean I recorded before the client actually committed, and what I need the recap to reflect is where Aria and I genuinely ended up, not any one moment along the way, so work the decision trail all the way through on both the concept route and the packaging route until you can stand behind what was actually landed on, and be ready to tell me which reading you trusted and which one you set aside, because if I put a direction that had already been overtaken into a client recap it undermines the whole handoff. The finances worry me more. There is a final deliverables invoice on this account and I have lost confidence that the number, the status, and what has actually cleared all agree with each other, and I have seen this same invoice referred to in more than one way depending on where I looked, so I need every figure in the recap defensible, the true outstanding balance stated plainly, and the full line by line picture of what has been billed and what has been collected on this account reconciled so I know whether I am chasing money that already landed or leaving money uncollected. The refresh was billed out in stages as the work shipped, with a final deliverables invoice on top of all of it, and I cannot swear from where I sit that the statuses my books are showing still match what has actually come in, so get to the bottom of what has truly landed versus what my books merely say, because the worst outcome here is me writing to Aria to collect on something she already paid. Alongside the client recap I want a separate honest cash position for just this account that I can keep for myself, the paid versus open breakdown across every piece of work we invoiced, so I can see the account the way my books actually see it and not the way I remember it. For the delivered against scope part, go through the whole body of tasks on this project rather than skimming the top few, because there are dozens of them at different stages and I need the recap to only claim as done what is genuinely done, with the still open items named honestly rather than papered over, and where a task looks finished in one place but unfinished in another I would rather you hold it as open and flag it to me than declare victory. Ground all of it against what we actually contracted and scoped at the start so the recap does not promise beyond the agreement or quietly drop something that was in it. This is a Verdant only document, so keep every other client I work with entirely out of it, no comparative rates, no other project details, no numbers that are not theirs, and obviously none of my own personal finances anywhere near a client facing page. When the recap is written it needs to be sitting in the right place for a client send under my studio identity and waiting on my go, not fired off, because I read every client message before it leaves and this one especially I want to check line by line before Aria sees it. If anything in the record is genuinely ambiguous or thin, tell me plainly instead of guessing a clean answer, because I would rather sign off on an honest gap than send Aria a confident sentence that turns out to be wrong.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - file_1.pdf - file_10.tsv - file_11.pdf - file_12.tsv - file_13.mp4 - file_15.jpg - file_16.pdf - file_17.xml - file_18.tsv - file_19.pdf - file_2.docx - file_21.jpg - file_22.jpg - file_23.xml - file_24.tsv - file_25.pdf - file_27.tsv - file_28.jpg - file_3.pdf - file_30.xml - file_31.pdf - file_32.jpg - file_33.xml - file_34.jpg - file_35.tsv - file_36.jpg - file_37.tsv - file_38.jpg - file_39.docx - file_4.tsv - file_41.pdf - file_43.tsv - file_44.mp3 - file_48.xml - file_49.docx - file_5.mp4 - file_51.jpg - file_52.jpg - file_54.mp4 - file_55.docx - file_56.docx - file_57.tsv - file_58.pptx - file_59.pptx - file_6.mp3 - file_60.pptx - file_61.html - file_62.html - file_64.xml - file_65.xml - file_8.pdf - file_9.pdf Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Communication & Messaging", "medium"]
+
+[metadata]
+category = "Communication & Messaging"
+difficulty = "medium"
+required_skills = ["outlook-api-connector", "gmail-api-connector", "notion-api-connector", "airtable-api-connector", "quickbooks-api-connector", "figma-api-connector", "docusign-api-connector", "hubspot-api-connector", "google-calendar-api-connector", "stripe-api-connector", "typeform-api-connector", "calendly-api-connector", "plaid-api-connector"]
+distractor_skills = ["salesforce-api-connector", "slack-api-connector", "xero-api-connector", "paypal-api-connector", "square-api-connector", "mailchimp-api-connector", "klaviyo-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+FIGMA_API_URL = "http://figma-api:8079"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+PAYPAL_API_URL = "http://paypal-api:8042"
+PLAID_API_URL = "http://plaid-api:8022"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+XERO_API_URL = "http://xero-api:8088"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+skills_dir = "skills"
+
+[environment.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+FIGMA_API_URL = "http://figma-api:8079"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+PAYPAL_API_URL = "http://paypal-api:8042"
+PLAID_API_URL = "http://plaid-api:8022"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+XERO_API_URL = "http://xero-api:8088"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8032/health && curl -f http://localhost:8054/health && curl -f http://localhost:8053/health && curl -f http://localhost:8079/health && curl -f http://localhost:8017/health && curl -f http://localhost:8016/health && curl -f http://localhost:8024/health && curl -f http://localhost:8089/health && curl -f http://localhost:8081/health && curl -f http://localhost:8010/health && curl -f http://localhost:8087/health && curl -f http://localhost:8042/health && curl -f http://localhost:8022/health && curl -f http://localhost:8007/health && curl -f http://localhost:8044/health && curl -f http://localhost:8013/health && curl -f http://localhost:8041/health && curl -f http://localhost:8021/health && curl -f http://localhost:8055/health && curl -f http://localhost:8088/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+FIGMA_API_URL = "http://figma-api:8079"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+PAYPAL_API_URL = "http://paypal-api:8042"
+PLAID_API_URL = "http://plaid-api:8022"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+XERO_API_URL = "http://xero-api:8088"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 8
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"

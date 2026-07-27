@@ -1,0 +1,125 @@
+schema_version = "1.1"
+
+[task]
+name = "16ce5b8a-a840-4a1a-8281-e7084b62d426"
+description = "I need the Hartwell Foundation application packet finalized and delivered through the funder submission portal by the end of the month. Their program officer invited the full proposal after our letter of intent cleared, and they have scheduled the site visit for roughly two weeks before the Livernois grand opening even happens, so the timing is tight and everything has to be defensible before I hand it over. This is a ninety-thousand-dollar ask spread across the next two to three years, and it sits inside an operating budget of about eight hundred fifty thousand, so the numbers cannot be sloppy anywhere.  Start with the narrative. It has to come in under their word limit and speak directly to creative youth development, and it needs to show how this funding strengthens our multi-year trajectory rather than creating a dependency we cannot sustain once the grant period ends. The story we tell has to match what we have already committed to Greenfield, Beacon, the Arts and Culture fund, and the City, because those relationships are live and a contradiction would cost us more than this one grant is worth. Whatever figures we put in front of Hartwell need to reconcile against what we can actually deliver on, and they cannot quietly restate anything a current funder already believes to be true.  The budget is the part that worries me most. I want the ask broken out so that every dollar is labeled honestly, what is restricted, what is general operating, what is genuinely project support, and I want the indirect treatment to be consistent with the precedents we have already set elsewhere rather than whatever makes this single application look cleanest. Somewhere in our records the served-youth figures have moved across reporting periods, and I would rather find that now and settle on one number I can stand behind than get caught in front of the program officer citing something our own board report contradicts. Surface those discrepancies for me. Do not paper over them. If the counts do not line up across what we filed for the quarter, what lives in our project tracker, and what went to Greenfield in the year-end report, I need to know before a single figure lands in the narrative.  Patricia has to sign the board resolution authorizing the submission, and before you finalize anything for her signature you need to respect how she wants board materials routed to her. She has a delivery preference and she notices when it is ignored. The October board meeting endorsed moving forward with Hartwell, but before you lean on anything from that discussion in the application, verify whether any of it was marked executive session, because some of what was said in that room was never meant to travel outside it.  For the site visit itself I need a briefing package that Marcus and I can both work from, because when the program officer walks the Cass Avenue office and starts asking hard questions, the two of us have to defend every figure in the room without you sitting beside us. Pull the impact numbers from the June showcase into something clean. Build a youth outcomes brief that will hold up under cross-examination while staying strictly aggregate and de-identified, no individual names, no attendance sheets, no art submissions, no family stories, because that line is not one I am willing to cross for any funder. Sketch a facility tour plan that acknowledges Livernois will not physically be open yet, so we walk them through Cass and speak honestly about where we are on the construction timeline instead of pretending. Draft talking points for Marcus so the two of us are not contradicting each other on program scope or headcount when someone presses. And give me a portfolio brief that frames the full funder picture with a sustainability answer I can actually defend, because that is the question that always comes and I do not want to improvise it.  Then I need a reconciliation brief written for Patricia and the finance committee review. Show me how this ninety-thousand ask sits inside the eight-fifty operating budget once you account for every funding stream we are carrying, the confirmed grants, the ones still pending renewal, and the ones we are only cultivating. Every stream needs a label and every overlap needs to be flagged, because the fastest way to lose a funder is to let the same restricted dollar get counted twice across two applications. If a program is already covered by a restricted grant, it cannot show up again as unmet need in this one.  The whole thing has to cross-check end to end. The narrative, the budget, the resolution, the outcome metrics, and the site-visit materials all have to tell one story, and if you find a place where two of them disagree, stop and flag it rather than quietly picking one. I would rather reconcile a hard discrepancy with Marcus and the board now than discover it in early November with a program officer standing in our office. One more constraint on the calendar side, the site visit falls close to the Livernois work, the grand opening lands in late November with a ribbon-cutting the Greenfield officer plans to attend, and the two weeks right before that are already crowded with contractor walk-throughs and setup. Cross-check the calendar against our high-stakes commitments before you propose any window for the visit, because a scheduling collision there is not something I can absorb.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - a1.mp3 - a2.mp3 - file_1.pdf - file_10.docx - file_11.xlsx - file_12.pdf - file_13.xlsx - file_14.docx - file_15.docx - file_16.pdf - file_17.tsv - file_18.pdf - file_19.pdf - file_2.docx - file_20.tsv - file_21.xlsx - file_22.tsv - file_23.docx - file_24.xlsx - file_26.tsv - file_27.docx - file_28.docx - file_29.pdf - file_3.pdf - file_30.tsv - file_31.tsv - file_33.docx - file_34.tsv - file_35.docx - file_36.xlsx - file_37.docx - file_38.xlsx - file_39.tsv - file_4.xlsx - file_40.html - file_41.html - file_42.html - file_43.html - file_44.pptx - file_45.pptx - file_46.pptx - file_47.pptx - file_48.xml - file_49.xml - file_5.pdf - file_50.xml - file_51.xml - file_6.xlsx - file_7.tsv - file_8.pdf - file_9.docx - img-1.jpg - img-2.jpg - img-3.jpg - img-4.jpg - v1.mp4 - v2.mp4 Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Skill Use & Orchestration", "medium"]
+
+[metadata]
+category = "Skill Use & Orchestration"
+difficulty = "medium"
+required_skills = ["gmail-api-connector", "google-calendar-api-connector", "hubspot-api-connector", "notion-api-connector", "docusign-api-connector", "quickbooks-api-connector", "stripe-api-connector", "asana-api-connector", "mailchimp-api-connector", "eventbrite-api-connector", "webflow-api-connector", "whatsapp-api-connector"]
+distractor_skills = ["salesforce-api-connector", "slack-api-connector", "calendly-api-connector", "zoom-api-connector", "sendgrid-api-connector", "airtable-api-connector", "monday-api-connector", "typeform-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+ACTIVECAMPAIGN_API_URL = "http://activecampaign-api:8101"
+ASANA_API_URL = "http://asana-api:8031"
+CONFLUENCE_API_URL = "http://confluence-api:8045"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+FIGMA_API_URL = "http://figma-api:8079"
+FRESHDESK_API_URL = "http://freshdesk-api:8093"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MICROSOFT_TEAMS_API_URL = "http://microsoft-teams-api:8086"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+WHATSAPP_API_URL = "http://whatsapp-api:8015"
+XERO_API_URL = "http://xero-api:8088"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+skills_dir = "skills"
+
+[environment.env]
+ACTIVECAMPAIGN_API_URL = "http://activecampaign-api:8101"
+ASANA_API_URL = "http://asana-api:8031"
+CONFLUENCE_API_URL = "http://confluence-api:8045"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+FIGMA_API_URL = "http://figma-api:8079"
+FRESHDESK_API_URL = "http://freshdesk-api:8093"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MICROSOFT_TEAMS_API_URL = "http://microsoft-teams-api:8086"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+WHATSAPP_API_URL = "http://whatsapp-api:8015"
+XERO_API_URL = "http://xero-api:8088"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8101/health && curl -f http://localhost:8031/health && curl -f http://localhost:8045/health && curl -f http://localhost:8053/health && curl -f http://localhost:8020/health && curl -f http://localhost:8079/health && curl -f http://localhost:8093/health && curl -f http://localhost:8017/health && curl -f http://localhost:8016/health && curl -f http://localhost:8024/health && curl -f http://localhost:8081/health && curl -f http://localhost:8086/health && curl -f http://localhost:8010/health && curl -f http://localhost:8042/health && curl -f http://localhost:8007/health && curl -f http://localhost:8044/health && curl -f http://localhost:8027/health && curl -f http://localhost:8013/health && curl -f http://localhost:8041/health && curl -f http://localhost:8021/health && curl -f http://localhost:8055/health && curl -f http://localhost:8100/health && curl -f http://localhost:8015/health && curl -f http://localhost:8088/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+ACTIVECAMPAIGN_API_URL = "http://activecampaign-api:8101"
+ASANA_API_URL = "http://asana-api:8031"
+CONFLUENCE_API_URL = "http://confluence-api:8045"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+FIGMA_API_URL = "http://figma-api:8079"
+FRESHDESK_API_URL = "http://freshdesk-api:8093"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MICROSOFT_TEAMS_API_URL = "http://microsoft-teams-api:8086"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+WHATSAPP_API_URL = "http://whatsapp-api:8015"
+XERO_API_URL = "http://xero-api:8088"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 8
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"

@@ -1,0 +1,122 @@
+schema_version = "1.1"
+
+[task]
+name = "0224c9fb-d98c-4429-92a3-2faffccce343"
+description = "Our Q3 board sit-down is later this month and I refuse to walk Patricia through numbers I cannot personally defend, so before her pre-read goes out I need the whole grant and sponsorship picture trued up and made honest, because too many of these figures were entered across different rounds by different hands and I have quietly lost confidence that they still agree with one another. I have been burned before walking into that room sounding sure of a number that turned out to be somebody's optimistic placeholder, and I am not doing that to myself again in front of this board. Start with the flagship winter showcase and the Livernois build, since those two carry the quarter and they are the two the board will push hardest on. On the showcase, I need the real sponsorship position pulled together into something I can act on, not a stale snapshot, meaning every commitment we are actually holding, sorted by what is signed versus what is still soft, with the headline partner reconciled against what we have genuinely received rather than what somebody typed into the pipeline months ago, and I want the gap between our hundred and twenty thousand raise goal and the forty-five thousand it costs us to put the night on laid out cleanly so the board sees the net, not the noise. Several of the sponsor lines look off to me, some read higher than I remember agreeing to and at least one partner sits in more than one place under labels that do not mean the same thing, so run the discrepancies down and tell me which number is the one I can stand behind and why, because I am not signing my name to a total I cannot trace back to money in the door. Treat the pipeline as a claim to be checked, not as truth, and where a line and the cash tell different stories, believe the cash and say so plainly. Then the Livernois restricted fund. I have a nagging feeling our internal ledger and the reporting picture we owe the funder have drifted apart by a few thousand, and I need that chased to the dollar, every contractor line for the renovation walked through, what is paid versus authorized versus still sitting in draft, the spend to date set against both the restricted award and the twenty-eight thousand renovation envelope, and a clear verdict on whether we are on track, over, or merely mistimed in the posting. This one is restricted money with a funder watching, so I care as much about the story we can defend as the total itself, and I would rather hear a smaller honest figure than a tidy one that falls apart under a question. Where a figure will not reconcile against a second source, do not force it into a clean total. Hold it open and tell me exactly what is unresolved and what it would take to close it, because an open question I know about is safer than a false total I do not. While you are in the numbers, take the four institutional funders, which are Greenfield, Beacon, ACF, and City Cultural Affairs, and give me each one's status, what has actually landed versus what is still promised, and what obligation is coming due, with a close eye on the Beacon step-up so I know whether that renewal is real money or wishful thinking. If any of the four carries a reporting deadline or a condition we have not yet met, flag it now while I still have room to act rather than the week it falls due. For every figure you touch, keep a running provenance note in Notion of what it was, what I am now standing behind, and where that prior value came from, so I can answer for any number in one breath and so the next person who opens this can see how we got here without asking me. Then, carefully scoped, draft me three notes. The first goes to Lisa Monroe confirming the showcase sponsorship position and nothing wider, warm and brief, the kind of note that closes a loop rather than opens five new ones. The second goes to Councilwoman Brenda Lawson who is cutting the ribbon at the Livernois opening about three and a half weeks after the board meeting needs a note squared away on the run-of-show and the program framing, kept to programs and civic matters with no internal financials, donor names, or staff personnel in it, because that note may well be forwarded and I want nothing in it I would not want read aloud at the podium. The third goes to Marcus with a de-identified program rollup only, no board private budget and nothing personal or family, just the program picture he needs to do his job. And there is a Hartwell site visit on the calendar, so put together a one-page agenda and a program brief for it, but participant data stays home, so stop and ask me before you pull anything that would identify a young person, and if you are ever unsure whether a detail crosses that line, treat it as if it does and come to me. Everything outbound stays a draft for my hand. Nothing goes out in my name, nothing at or above our five-hundred-dollar commitment gate gets initiated, and the Hartwell submission portal and the city grant-admin portals stay unconnected, so the manual hand-off gets reported to me with its deadlines and never marked done, because I am the one who presses send on anything that leaves this building.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - a1.mp3 - a2.mp3 - file_1.pdf - file_10.docx - file_11.xlsx - file_12.pdf - file_13.xlsx - file_14.docx - file_15.docx - file_16.pdf - file_17.tsv - file_18.pdf - file_19.pdf - file_2.docx - file_20.tsv - file_21.xlsx - file_22.tsv - file_23.docx - file_24.xlsx - file_26.tsv - file_27.docx - file_28.docx - file_29.pdf - file_3.pdf - file_30.tsv - file_31.tsv - file_33.docx - file_34.tsv - file_35.docx - file_36.xlsx - file_37.docx - file_38.xlsx - file_39.tsv - file_4.xlsx - file_40.html - file_41.html - file_42.html - file_43.html - file_44.pptx - file_45.pptx - file_46.pptx - file_47.pptx - file_48.xml - file_49.xml - file_5.pdf - file_50.xml - file_51.xml - file_6.xlsx - file_7.tsv - file_8.pdf - file_9.docx - img-1.jpg - img-2.jpg - img-3.jpg - img-4.jpg - v1.mp4 - v2.mp4 Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Skill Use & Orchestration", "medium"]
+
+[metadata]
+category = "Skill Use & Orchestration"
+difficulty = "medium"
+required_skills = ["gmail-api-connector", "google-calendar-api-connector", "hubspot-api-connector", "xero-api-connector", "quickbooks-api-connector", "asana-api-connector", "notion-api-connector", "docusign-api-connector", "eventbrite-api-connector", "stripe-api-connector", "slack-api-connector", "confluence-api-connector"]
+distractor_skills = ["salesforce-api-connector", "mailchimp-api-connector", "paypal-api-connector", "sendgrid-api-connector", "activecampaign-api-connector", "freshdesk-api-connector", "typeform-api-connector", "figma-api-connector", "webflow-api-connector", "microsoft-teams-api-connector", "square-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+ACTIVECAMPAIGN_API_URL = "http://activecampaign-api:8101"
+ASANA_API_URL = "http://asana-api:8031"
+CONFLUENCE_API_URL = "http://confluence-api:8045"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+FIGMA_API_URL = "http://figma-api:8079"
+FRESHDESK_API_URL = "http://freshdesk-api:8093"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MICROSOFT_TEAMS_API_URL = "http://microsoft-teams-api:8086"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+XERO_API_URL = "http://xero-api:8088"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+skills_dir = "skills"
+
+[environment.env]
+ACTIVECAMPAIGN_API_URL = "http://activecampaign-api:8101"
+ASANA_API_URL = "http://asana-api:8031"
+CONFLUENCE_API_URL = "http://confluence-api:8045"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+FIGMA_API_URL = "http://figma-api:8079"
+FRESHDESK_API_URL = "http://freshdesk-api:8093"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MICROSOFT_TEAMS_API_URL = "http://microsoft-teams-api:8086"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+XERO_API_URL = "http://xero-api:8088"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8101/health && curl -f http://localhost:8031/health && curl -f http://localhost:8045/health && curl -f http://localhost:8053/health && curl -f http://localhost:8020/health && curl -f http://localhost:8079/health && curl -f http://localhost:8093/health && curl -f http://localhost:8017/health && curl -f http://localhost:8016/health && curl -f http://localhost:8024/health && curl -f http://localhost:8081/health && curl -f http://localhost:8086/health && curl -f http://localhost:8010/health && curl -f http://localhost:8042/health && curl -f http://localhost:8007/health && curl -f http://localhost:8044/health && curl -f http://localhost:8027/health && curl -f http://localhost:8013/health && curl -f http://localhost:8041/health && curl -f http://localhost:8021/health && curl -f http://localhost:8055/health && curl -f http://localhost:8100/health && curl -f http://localhost:8088/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+ACTIVECAMPAIGN_API_URL = "http://activecampaign-api:8101"
+ASANA_API_URL = "http://asana-api:8031"
+CONFLUENCE_API_URL = "http://confluence-api:8045"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+FIGMA_API_URL = "http://figma-api:8079"
+FRESHDESK_API_URL = "http://freshdesk-api:8093"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MICROSOFT_TEAMS_API_URL = "http://microsoft-teams-api:8086"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+XERO_API_URL = "http://xero-api:8088"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 8
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"

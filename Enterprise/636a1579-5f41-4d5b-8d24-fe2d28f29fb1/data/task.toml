@@ -1,0 +1,128 @@
+schema_version = "1.1"
+
+[task]
+name = "636a1579-5f41-4d5b-8d24-fe2d28f29fb1"
+description = "I have lost the thread on where our money and our readiness actually stand across the four things eating this fall, and I need one picture I can put in front of Patricia and the finance committee without flinching, so before anything else I want the whole showcase fundraising position rebuilt from what is really booked rather than from the numbers I have been carrying in my head, because I know some of those figures are stale from earlier drafting rounds and I have lost confidence they still line up with what has actually come in. Start with the Youth Arts Showcase against the hundred and twenty thousand dollar goal and the forty-five thousand dollar budget, and rebuild the real fundraising total from the ground up, meaning every ticket actually sold at every tier, every sponsorship that is genuinely signed rather than merely talked about, and the donations that have truly landed, and I want the confirmed-versus-committed line drawn honestly so I know how much of that goal is real cash and how much is still hope. The headline sponsor number in particular has been nagging at me, so chase down what we are actually committed to there rather than what I told you months ago, and tell me plainly how many of the three ten-thousand-dollar sponsor slots we still need to fill and which of the prospects in the pipeline are close enough to count on versus the ones that are still just a warm introduction. While that is running, I need the Livernois renovation reconciled against the restricted envelope, because the grand opening is just over a month out now and I cannot walk into a ribbon-cutting with Councilwoman Lawson and the Greenfield program officer standing next to me if that fund is over. Work through every renovation work order, separate what has actually been paid from what is only authorized or still sitting in draft, total the real burn, and tell me whether we are inside the envelope or over it, and if the paid ledger disagrees with the figure I have been quoting internally then I want that gap named out loud, because the number I carry in my head may well be stale. Once the renovation number is settled, turn to whether we can actually open the doors, meaning walk the open Livernois roles and tell me which of them have candidates far enough along to be standing in that building on opening day, and flag anyone we would be counting on who cannot clear the youth-protection certification line, because I will not put an uncertified adult in a room with our kids no matter how short-staffed we are and I do not want that surprise landing on me late. Do not put youth names or family detail into any of this. Keep the roster de-identified and hold anything about specific young people or donors inside the org, because none of that belongs in a board packet or in front of a funder. Then step back to the governance layer, because the Q3 board meeting is only a few weeks away now and Patricia wants a short plain pre-read, so I need the operating side of the house trued up too, the events income, the individual giving, and the restricted grant income squared against what the ledger actually shows, and every one of the active grants stated at its real current status rather than the optimistic shorthand I tend to use, including whether anything is still pending when the award already landed or the reverse. The three-day conference in Chicago the week before that board meeting is the smaller piece but it still has to be handled, so confirm our registration and the panel logistics and surface anything missing, but keep it well away from the money picture and treat it as a footnote rather than a headline. On the two grant portals that we submit through by hand and the banking and college-savings side, remember those are not wired into anything I can see from here, so if something needs to go through one of them tell me plainly that it is a manual step still sitting on me instead of pretending it is done, and never log a submission or a transfer that has not actually happened. When it all comes back, leave me a board-ready brief that Patricia can read in five minutes with the risks up top, the real showcase position and remaining gap to goal, the Livernois renovation standing and opening-day readiness, and the operating-and-grant picture squared for the board with the conference as a footnote, and alongside it a separate reconciliation workpaper for me alone that walks every place two of my sources disagreed, which value you took and why, which one you set aside, and an honest unresolved section naming what is still needed to close each open question. Draft everything for my review and send nothing under my name, because no board or funder communication goes out until I have read it myself.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - a1.mp3 - a2.mp3 - file_1.pdf - file_10.docx - file_11.xlsx - file_12.pdf - file_13.xlsx - file_14.docx - file_15.docx - file_16.pdf - file_17.tsv - file_18.pdf - file_19.pdf - file_2.docx - file_20.tsv - file_21.xlsx - file_22.tsv - file_23.docx - file_24.xlsx - file_26.tsv - file_27.docx - file_28.docx - file_29.pdf - file_3.pdf - file_30.tsv - file_31.tsv - file_33.docx - file_34.tsv - file_35.docx - file_36.xlsx - file_37.docx - file_38.xlsx - file_39.tsv - file_4.xlsx - file_40.html - file_41.html - file_42.html - file_43.html - file_44.pptx - file_45.pptx - file_46.pptx - file_47.pptx - file_48.xml - file_49.xml - file_5.pdf - file_50.xml - file_51.xml - file_6.xlsx - file_7.tsv - file_8.pdf - file_9.docx - img-1.jpg - img-2.jpg - img-3.jpg - img-4.jpg - v1.mp4 - v2.mp4 Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Proactive Assistance", "medium"]
+
+[metadata]
+category = "Proactive Assistance"
+difficulty = "medium"
+required_skills = ["eventbrite-api-connector", "stripe-api-connector", "hubspot-api-connector", "quickbooks-api-connector", "xero-api-connector", "greenhouse-api-connector", "bamboohr-api-connector", "gusto-api-connector", "asana-api-connector", "jira-api-connector", "monday-api-connector", "docusign-api-connector", "notion-api-connector", "gmail-api-connector", "google-calendar-api-connector"]
+distractor_skills = ["mailchimp-api-connector", "slack-api-connector", "airtable-api-connector", "amadeus-api-connector", "airbnb-api-connector", "ring-api-connector", "spotify-api-connector", "strava-api-connector", "coinbase-api-connector", "ticketmaster-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+ASANA_API_URL = "http://asana-api:8031"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+GREENHOUSE_API_URL = "http://greenhouse-api:8073"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+JIRA_API_URL = "http://jira-api:8029"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MONDAY_API_URL = "http://monday-api:8080"
+NOTION_API_URL = "http://notion-api:8010"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+STRIPE_API_URL = "http://stripe-api:8021"
+TRELLO_API_URL = "http://trello-api:8030"
+XERO_API_URL = "http://xero-api:8088"
+ZOOM_API_URL = "http://zoom-api:8028"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = true
+skills_dir = "skills"
+
+[environment.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+ASANA_API_URL = "http://asana-api:8031"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+GREENHOUSE_API_URL = "http://greenhouse-api:8073"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+JIRA_API_URL = "http://jira-api:8029"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MONDAY_API_URL = "http://monday-api:8080"
+NOTION_API_URL = "http://notion-api:8010"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+STRIPE_API_URL = "http://stripe-api:8021"
+TRELLO_API_URL = "http://trello-api:8030"
+XERO_API_URL = "http://xero-api:8088"
+ZOOM_API_URL = "http://zoom-api:8028"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8032/health && curl -f http://localhost:8031/health && curl -f http://localhost:8072/health && curl -f http://localhost:8054/health && curl -f http://localhost:8053/health && curl -f http://localhost:8020/health && curl -f http://localhost:8017/health && curl -f http://localhost:8016/health && curl -f http://localhost:8073/health && curl -f http://localhost:8074/health && curl -f http://localhost:8024/health && curl -f http://localhost:8029/health && curl -f http://localhost:8089/health && curl -f http://localhost:8081/health && curl -f http://localhost:8080/health && curl -f http://localhost:8010/health && curl -f http://localhost:8087/health && curl -f http://localhost:8007/health && curl -f http://localhost:8044/health && curl -f http://localhost:8027/health && curl -f http://localhost:8013/health && curl -f http://localhost:8021/health && curl -f http://localhost:8030/health && curl -f http://localhost:8088/health && curl -f http://localhost:8028/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+ASANA_API_URL = "http://asana-api:8031"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+EVENTBRITE_API_URL = "http://eventbrite-api:8020"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+GREENHOUSE_API_URL = "http://greenhouse-api:8073"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+JIRA_API_URL = "http://jira-api:8029"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+MONDAY_API_URL = "http://monday-api:8080"
+NOTION_API_URL = "http://notion-api:8010"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SLACK_API_URL = "http://slack-api:8013"
+STRIPE_API_URL = "http://stripe-api:8021"
+TRELLO_API_URL = "http://trello-api:8030"
+XERO_API_URL = "http://xero-api:8088"
+ZOOM_API_URL = "http://zoom-api:8028"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 8
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"
