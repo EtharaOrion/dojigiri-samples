@@ -1,0 +1,113 @@
+schema_version = "1.1"
+
+[task]
+name = "jessica_spencer_02"
+description = "I think we are finally ready to bring on our first junior designer, and before I commit to anything I want the whole people and pay picture trued up in one careful pass so I am deciding from something solid rather than a gut feel. Start with the candidate pool for the junior designer opening and actually work it, because there are a lot of applicants sitting in there and most of them are noise from roles that have nothing to do with what we do, so read through the whole pipeline, pull the interview feedback that has come back on the ones worth it, and separate the genuinely design relevant people from everyone else. I want a real shortlist at the end of that, three or four names at most, each with a short honest read on where they are strong and where I would be taking a risk, and one name you would put at the top if the call were yours, with the reasoning that got you there laid out so I can push back on it. While you are already in the hiring world, get the logistics staged so I am not scrambling the moment I land on someone, which means interview times blocked out for the shortlist against my actual availability and the onboarding steps written up as tasks so the opening week runs itself instead of eating my head. Then, and this is the part I care about most, sit down with what Natalie and Sophie are actually paid and walk it against what our payroll carries for them, one person at a time, slowly, because I have lost confidence that the two sides still line up after the raises and the title changes we made and I refuse to build a plan on a pay number I cannot stand behind. Some of what is in there has gone stale and it needs to be run down and settled before I lean on any of it, so wherever the pay or the title does not agree from one place to the next, treat that as a discrepancy to chase and resolve rather than something to average out or paper over, and tell me plainly which way you came down on each one and what made you trust it. Once you are standing on pay you believe, work out what this hire truly costs us with eyes open, not the headline salary but the fully loaded weight of it with the employer side stacked on top, and fold in whatever raise pool the reconciliation says we already owe Natalie and Sophie, then set all of that against the revenue we bring in and what is actually held in the operating account so we know whether we can carry it comfortably or whether I am getting ahead of myself. If the cash reality is thinner than the top line makes it look, I would far rather you tell me to stage the hire and the raises than cheer me into a commitment I have to walk back in a quarter, so hold an honest line there even if it is not the answer I want. I want the whole thing to land as a staffing and compensation plan I can actually act on, the kind that lays out the shortlist and your recommended hire, the trued up pay for the team with every discrepancy named and settled, the true cost of the hire and the raises fully loaded, and the plain read on whether our cash supports it, all in one place so I can make the call in one sitting instead of chasing it across a dozen tabs. On top of that plan, draft the outreach to the shortlisted candidates so it is ready the instant I say go, a short and genuinely warm note to Natalie and Sophie about the pay review that respects how personal this is for them, and an offer letter for whoever I land on that carries the right title and the settled number so I can send it once I approve. Hold every one of those as a draft and nothing more, and this part is not negotiable, do not send a single message, do not put anything on the calendar of a candidate who has never once heard from us, and do not commit a dollar of new pay or a signed offer without my explicit go ahead, because all of this sits well past the line where I want anything acting on my behalf. Keep the pay and the personal details for the team inside the firm where they belong, work from our own systems rather than reaching outside, and if something genuinely does not add up or you cannot verify who a record truly belongs to, leave it open and say so plainly instead of forcing a tidy answer to make the page look finished. I would far rather carry an honest half answer I can trust into the decision than a confident whole one I cannot, so where the evidence is thin, say it is thin and tell me what you would check next.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - file_1.xlsx - file_10.tsv - file_11.docx - file_12.pdf - file_13.tsv - file_14.docx - file_15.mp4 - file_17.docx - file_18.tsv - file_19.pdf - file_2.docx - file_20.xlsx - file_21.tsv - file_22.jpg - file_23.pdf - file_24.xlsx - file_25.tsv - file_26.docx - file_27.pdf - file_28.mp3 - file_29.xlsx - file_3.pdf - file_30.tsv - file_31.pdf - file_32.docx - file_33.pdf - file_34.jpg - file_35.tsv - file_36.xlsx - file_37.docx - file_38.pdf - file_39.tsv - file_4.tsv - file_40.mp4 - file_41.jpg - file_42.docx - file_43.pdf - file_44.xlsx - file_45.mp3 - file_47.xlsx - file_48.pdf - file_49.jpg - file_5.pdf - file_50.jpg - file_51.pptx - file_53.xml - file_54.pptx - file_55.html - file_56.xml - file_57.pptx - file_58.html - file_59.xml - file_6.xlsx - file_7.jpg - file_8.pdf - file_9.xlsx Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Productivity Flow", "hard"]
+
+[metadata]
+category = "Productivity Flow"
+difficulty = "hard"
+required_skills = ["greenhouse-api-connector", "bamboohr-api-connector", "gusto-api-connector", "plaid-api-connector", "airtable-api-connector", "notion-api-connector", "gmail-api-connector", "google-calendar-api-connector", "slack-api-connector", "okta-api-connector", "docusign-api-connector", "asana-api-connector"]
+distractor_skills = ["xero-api-connector", "hubspot-api-connector", "salesforce-api-connector", "zillow-api-connector", "yelp-api-connector", "pinterest-api-connector", "reddit-api-connector", "spotify-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+ASANA_API_URL = "http://asana-api:8031"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+GREENHOUSE_API_URL = "http://greenhouse-api:8073"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+NOTION_API_URL = "http://notion-api:8010"
+OKTA_API_URL = "http://okta-api:8049"
+PINTEREST_API_URL = "http://pinterest-api:8006"
+PLAID_API_URL = "http://plaid-api:8022"
+REDDIT_API_URL = "http://reddit-api:8058"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SLACK_API_URL = "http://slack-api:8013"
+SPOTIFY_API_URL = "http://spotify-api:8039"
+XERO_API_URL = "http://xero-api:8088"
+YELP_API_URL = "http://yelp-api:8034"
+ZILLOW_API_URL = "http://zillow-api:8011"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = false
+skills_dir = "skills"
+
+[environment.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+ASANA_API_URL = "http://asana-api:8031"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+GREENHOUSE_API_URL = "http://greenhouse-api:8073"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+NOTION_API_URL = "http://notion-api:8010"
+OKTA_API_URL = "http://okta-api:8049"
+PINTEREST_API_URL = "http://pinterest-api:8006"
+PLAID_API_URL = "http://plaid-api:8022"
+REDDIT_API_URL = "http://reddit-api:8058"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SLACK_API_URL = "http://slack-api:8013"
+SPOTIFY_API_URL = "http://spotify-api:8039"
+XERO_API_URL = "http://xero-api:8088"
+YELP_API_URL = "http://yelp-api:8034"
+ZILLOW_API_URL = "http://zillow-api:8011"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8032/health && curl -f http://localhost:8031/health && curl -f http://localhost:8072/health && curl -f http://localhost:8053/health && curl -f http://localhost:8017/health && curl -f http://localhost:8016/health && curl -f http://localhost:8073/health && curl -f http://localhost:8074/health && curl -f http://localhost:8024/health && curl -f http://localhost:8010/health && curl -f http://localhost:8049/health && curl -f http://localhost:8006/health && curl -f http://localhost:8022/health && curl -f http://localhost:8058/health && curl -f http://localhost:8044/health && curl -f http://localhost:8013/health && curl -f http://localhost:8039/health && curl -f http://localhost:8088/health && curl -f http://localhost:8034/health && curl -f http://localhost:8011/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+ASANA_API_URL = "http://asana-api:8031"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+GREENHOUSE_API_URL = "http://greenhouse-api:8073"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+NOTION_API_URL = "http://notion-api:8010"
+OKTA_API_URL = "http://okta-api:8049"
+PINTEREST_API_URL = "http://pinterest-api:8006"
+PLAID_API_URL = "http://plaid-api:8022"
+REDDIT_API_URL = "http://reddit-api:8058"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SLACK_API_URL = "http://slack-api:8013"
+SPOTIFY_API_URL = "http://spotify-api:8039"
+XERO_API_URL = "http://xero-api:8088"
+YELP_API_URL = "http://yelp-api:8034"
+ZILLOW_API_URL = "http://zillow-api:8011"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 1
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"

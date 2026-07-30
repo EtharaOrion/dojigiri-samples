@@ -1,0 +1,110 @@
+schema_version = "1.1"
+
+[task]
+name = "37096e58-4906-4611-9a04-973ded5716a8"
+description = "Okay, the Verdant Provisions brand refresh is the thing I actually need off my plate, and I want you to run the whole thing down to the point where all I have to do is glance, approve, and hit send myself. Final deliverables are due in just a couple of weeks and I have completely lost the thread on where each piece actually stands, because I have been heads-down on packaging and the tracker, the design files, and my notes have drifted out of sync with each other and I no longer trust any single one of them on its own. So start by rebuilding the real picture of this engagement from the ground up. Pull together every piece of Verdant work that exists, the brand system, the packaging layouts, the microsite, the icon set, the guidelines, the case study, and figure out for each one whether it is genuinely finished, still mid-round, or not even started, because I have things marked one way in one place and another way somewhere else and I need you to trust the source that actually reflects the live project state rather than whatever checklist I ticked off in a hurry and forgot about. Read through all the direction I have left myself on the files too, the color calls, the kraft-versus-coated stock question, the satin-over-matte decision I flagged and never closed, the foil-stamp weight on the wordmark, the pantone build for the deep forest green, and surface anything still open that would block me from releasing final files, because this refresh carries their whole retail line across every SKU on the shelf, the packaging, the microsite, the guidelines, all of it, and I would rather find out from you now than have the client find out at the press check when the run is already spinning and the reprint bill is mine to eat. There is a real risk that something I think is done is not, so where the evidence is thin or two records fight each other, I want you to hold it as an open question and tell me plainly rather than paper over it. Once you know what is truly done versus outstanding, I need my tracker to actually say that, so bring it back into line with the real state of the work rather than the state I wish it were in, and keep your hands strictly on Verdant while you are in there, because Pinnacle and Nina's line are their own worlds and I do not want their statuses or numbers touched. Then turn to the money, because I cannot hand this off without knowing exactly what to bill. Reconcile what has already gone out against what has actually landed on Verdant, walk the line items so you know what the earlier milestones already covered, and work out the right number for the final handoff so I am not double-charging them for work I already invoiced or leaving money on the table. There are two figures floating around this engagement and they do not mean the same thing, so think about which one is the honest close-out amount and defend the one you pick to me. Get that final invoice built and sitting ready, but do not you dare issue it or send anything to them. It waits on my say-so, same as always. While the books are open I also want the wider picture, since a slow month sneaks up on me, so pull a clean read across all my active clients of what has come in, what is still open, and anything that has been sitting unpaid past a month that I should be chasing, and off my real run-rate give me a sane, conservative number to set aside for the next quarterly tax payment, with your reasoning shown so I can sanity-check the rate you assumed rather than just trusting a figure that fell out of the sky. Then draft the note that goes to Verdant with the final files and the invoice, warm but tight, the kind of handoff that reads like we nailed it, and leave it sitting as a draft in the business account for me to read and send myself. Pull whatever you need off my calendar to know how much real runway I have left before the deadline, because if the honest answer is that some of this cannot land in time I would rather stare at that now than pretend. What I want at the end of all this is work I can actually act on. I need a launch-readiness brief I can read in ten minutes and act on in ten more, priority-ranked, telling me plainly what is ready to ship, what is blocking release, what needs one more pass from me, every open judgment call laid out with your thinking behind it, especially that satin-versus-matte call I never closed, and the final invoice number with your reasoning for it. Alongside that, I want the cash and tax read, collected versus open versus properly overdue across the clients, and the quarterly set-aside with the method shown. Show me the parts where the records disagreed and which one you trusted and why. If something genuinely cannot be known from what is in front of you, tell me that instead of inventing a tidy answer. I would much rather have an honest gap than a confident guess that costs me a reprint.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - file_1.pdf - file_10.tsv - file_11.pdf - file_12.tsv - file_13.mp4 - file_15.jpg - file_16.pdf - file_17.xml - file_18.tsv - file_19.pdf - file_2.docx - file_21.jpg - file_22.jpg - file_23.xml - file_24.tsv - file_25.pdf - file_27.tsv - file_28.jpg - file_3.pdf - file_30.xml - file_31.pdf - file_32.jpg - file_33.xml - file_34.jpg - file_35.tsv - file_36.jpg - file_37.tsv - file_38.jpg - file_39.docx - file_4.tsv - file_41.pdf - file_43.tsv - file_44.mp3 - file_48.xml - file_49.docx - file_5.mp4 - file_51.jpg - file_52.jpg - file_54.mp4 - file_55.docx - file_56.docx - file_57.tsv - file_58.pptx - file_59.pptx - file_6.mp3 - file_60.pptx - file_61.html - file_62.html - file_64.xml - file_65.xml - file_8.pdf - file_9.pdf Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Scheduling & Long-Running", "hard"]
+
+[metadata]
+category = "Scheduling & Long-Running"
+difficulty = "hard"
+required_skills = ["figma-api-connector", "notion-api-connector", "quickbooks-api-connector", "airtable-api-connector", "google-calendar-api-connector", "gmail-api-connector", "outlook-api-connector", "docusign-api-connector", "pinterest-api-connector", "obsidian-api-connector", "typeform-api-connector", "stripe-api-connector"]
+distractor_skills = ["slack-api-connector", "linear-api-connector", "hubspot-api-connector", "mailchimp-api-connector", "webflow-api-connector", "square-api-connector", "xero-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+FIGMA_API_URL = "http://figma-api:8079"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+LINEAR_API_URL = "http://linear-api:8004"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+OBSIDIAN_API_URL = "http://obsidian-api:8014"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+PINTEREST_API_URL = "http://pinterest-api:8006"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+XERO_API_URL = "http://xero-api:8088"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = false
+skills_dir = "skills"
+
+[environment.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+FIGMA_API_URL = "http://figma-api:8079"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+LINEAR_API_URL = "http://linear-api:8004"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+OBSIDIAN_API_URL = "http://obsidian-api:8014"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+PINTEREST_API_URL = "http://pinterest-api:8006"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+XERO_API_URL = "http://xero-api:8088"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8032/health && curl -f http://localhost:8053/health && curl -f http://localhost:8079/health && curl -f http://localhost:8017/health && curl -f http://localhost:8016/health && curl -f http://localhost:8024/health && curl -f http://localhost:8004/health && curl -f http://localhost:8081/health && curl -f http://localhost:8010/health && curl -f http://localhost:8014/health && curl -f http://localhost:8087/health && curl -f http://localhost:8006/health && curl -f http://localhost:8007/health && curl -f http://localhost:8013/health && curl -f http://localhost:8041/health && curl -f http://localhost:8021/health && curl -f http://localhost:8055/health && curl -f http://localhost:8100/health && curl -f http://localhost:8088/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+FIGMA_API_URL = "http://figma-api:8079"
+GMAIL_API_URL = "http://gmail-api:8017"
+GOOGLE_CALENDAR_API_URL = "http://google-calendar-api:8016"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+LINEAR_API_URL = "http://linear-api:8004"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+OBSIDIAN_API_URL = "http://obsidian-api:8014"
+OUTLOOK_API_URL = "http://outlook-api:8087"
+PINTEREST_API_URL = "http://pinterest-api:8006"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SLACK_API_URL = "http://slack-api:8013"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+TYPEFORM_API_URL = "http://typeform-api:8055"
+WEBFLOW_API_URL = "http://webflow-api:8100"
+XERO_API_URL = "http://xero-api:8088"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 1
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"

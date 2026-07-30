@@ -1,0 +1,113 @@
+schema_version = "1.1"
+
+[task]
+name = "356c2c1c-68c8-4eff-9a34-14dc1c5fd1cf"
+description = "Diane has finally handed over the winter batch of staff meal receipts and I need you to run the whole reimbursement audit end to end before I sit down with her for the monthly review, because I have let this slide for two cycles and the pile is now big enough that I do not trust my own eyeballing of it anymore. Take the staff expense ledger for the clinic from QuickBooks and walk every single charge in it, one line at a time, against the reimbursement policy we adopted for continuing education and conference meals, and for each charge decide whether it clears cleanly, whether it has to be turned away outright, or whether it is the kind of thing that has to sit in front of a human before any money moves. I want a proper decision worked out for each person and each meal, not a gut feel, so treat this like the compliance pass it actually is and hold every line to the same standard even when the amount looks trivial. Some of these will be obvious approvals and I would rather you clear those quickly and spend your attention on the handful that are not, but I do not want you skipping the small ones, because the whole point of doing this properly is that Diane can hand it to the accountant at quarter close without anyone reopening it. As you go, keep a running reimbursable figure so I know what the clinic is actually on the hook for once the bad lines are stripped out, and show me your working on how you arrived at it rather than just a number at the bottom, since Diane will ask and I want to be able to answer her in the room. A few of these figures worry me. I have a nagging feeling that at least one meal has been entered more than once, and there is at least one charge where the total that came through does not look like a total a person could actually rely on, and I have lost confidence that every line still lines up with what the bank feed in Plaid shows for the same period. I am not telling you which ones because if I knew I would have fixed them already, so I need you to be the one who notices, names the ones that do not hold together, and tells me plainly which reading you are standing behind and which you are setting aside and why. When a charge falls into the category that clearly cannot be paid as submitted, I want that called out as a rejection with the specific reason tied back to the standard we hold staff to, and when a charge is the sort that needs a person to eyeball it rather than a clean yes or no, flag it that way instead of forcing it into approve or reject. The people on these lines are my own staff, Diane and Lauren and Marcus and the others, so this stays inside the clinic and none of it goes out to anyone beyond the people who already handle our books. Once the per line verdicts are settled and the reimbursable total defended, I need a clean decision table I can open next to Diane that lists every charge with the person, the meal, the amount as read, and the verdict with its reason, sorted so the ones needing a human sit at the top where they will not get lost. Alongside that table I want a short written note to Diane waiting in my Gmail drafts that walks her through only the exceptions, the lines that were rejected or held back, in plain language she can act on without having to reconstruct my reasoning, so she can chase the staff involved and get corrected receipts where corrected receipts are even possible. Write that note as a draft for me to read and release myself, do not send anything to Diane or anyone else under my name, because I want to eyeball the tone before it lands given that some of these are going to sting the person who submitted them. Once the verdicts are locked I want the outcome committed back into our books so the clean approvals are recorded against the right account and the ops base reflects the same decisions, because the last time we did this on paper the numbers and the record drifted apart within a week and I am not living through that reconciliation again. Keep the two records in step with each other so there is one story, not two. If anything you are about to record would commit the clinic to a spend at or past the level where I have told you to stop and check with me first, hold it and bring it to me rather than pushing it through, and the same goes for anything that would touch a contact or a vendor we have not dealt with before, since a reimbursement pass is no place to be opening new relationships on my behalf. Do not delete any of the original receipt lines even the duplicated or unreadable ones, because Diane and the accountant need the full trail of what came in, so mark them for what they are and leave them where they sit. Work the whole ledger, not a sample, and lean on parallel help so the clean lines and the problem lines get chased at the same time rather than one after another, because I would like this ready before I lose the evening to Declan's schedule. When you surface at the end, give me the reimbursable total with the reasoning behind it, the count of lines you cleared, the count you rejected and why in one breath each, and the ones you have parked for a human, and tell me straight whether you think this batch is clean enough to hand to the accountant or whether Diane and I have a conversation coming.  --- Workspace inputs (already staged on disk at `/root/workspace/`): - file_1.xlsx - file_10.jpg - file_11.pdf - file_12.jpg - file_13.pdf - file_14.tsv - file_15.tsv - file_16.xlsx - file_18.docx - file_19.xlsx - file_2.tsv - file_20.docx - file_21.mp4 - file_22.pdf - file_23.tsv - file_24.xlsx - file_25.docx - file_26.pdf - file_27.pdf - file_28.docx - file_29.xlsx - file_3.xlsx - file_30.tsv - file_31.mp3 - file_32.jpg - file_33.pdf - file_34.xlsx - file_35.tsv - file_36.docx - file_37.tsv - file_38.pdf - file_39.xlsx - file_4.docx - file_40.xlsx - file_41.pdf - file_42.tsv - file_44.pdf - file_45.mp4 - file_46.tsv - file_47.pdf - file_48.jpg - file_49.pdf - file_5.jpg - file_50.tsv - file_51.html - file_52.pptx - file_53.xml - file_54.html - file_55.pptx - file_56.xml - file_57.html - file_58.pptx - file_59.xml - file_6.pdf - file_60.html - file_61.pptx - file_62.xml - file_63.jpg - file_65.jpg - file_66.jpg - file_67.jpg - file_7.mp4 - file_8.mp3 - file_9.mp4 Any FILE you produce must be saved under `/root/workspace/` — files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected. This is a file-collection rule only; it does not change where the task's deliverables belong. If the task calls for work in an external system or service (for example creating or updating pages, records, or cards through the available APIs), do that work there as asked — a local file copy does not replace it."
+authors = []
+keywords = ["Productivity Flow", "hard"]
+
+[metadata]
+category = "Productivity Flow"
+difficulty = "hard"
+required_skills = ["quickbooks-api-connector", "xero-api-connector", "stripe-api-connector", "square-api-connector", "paypal-api-connector", "plaid-api-connector", "notion-api-connector", "airtable-api-connector", "gmail-api-connector", "sendgrid-api-connector", "hubspot-api-connector", "docusign-api-connector"]
+distractor_skills = ["gusto-api-connector", "bamboohr-api-connector", "calendly-api-connector", "salesforce-api-connector", "mailchimp-api-connector", "klaviyo-api-connector", "woocommerce-api-connector", "shippo-api-connector"]
+
+[verifier]
+timeout_sec = 600.0
+
+[verifier.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+GMAIL_API_URL = "http://gmail-api:8017"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+PLAID_API_URL = "http://plaid-api:8022"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SHIPPO_API_URL = "http://shippo-api:8052"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+WOOCOMMERCE_API_URL = "http://woocommerce-api:8085"
+XERO_API_URL = "http://xero-api:8088"
+
+[agent]
+timeout_sec = 900.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 4096
+storage_mb = 10240
+allow_internet = false
+skills_dir = "skills"
+
+[environment.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+GMAIL_API_URL = "http://gmail-api:8017"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+PLAID_API_URL = "http://plaid-api:8022"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SHIPPO_API_URL = "http://shippo-api:8052"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+WOOCOMMERCE_API_URL = "http://woocommerce-api:8085"
+XERO_API_URL = "http://xero-api:8088"
+
+[environment.healthcheck]
+command = "curl -f http://localhost:8032/health && curl -f http://localhost:8072/health && curl -f http://localhost:8054/health && curl -f http://localhost:8053/health && curl -f http://localhost:8017/health && curl -f http://localhost:8074/health && curl -f http://localhost:8024/health && curl -f http://localhost:8089/health && curl -f http://localhost:8081/health && curl -f http://localhost:8010/health && curl -f http://localhost:8042/health && curl -f http://localhost:8022/health && curl -f http://localhost:8007/health && curl -f http://localhost:8044/health && curl -f http://localhost:8027/health && curl -f http://localhost:8052/health && curl -f http://localhost:8041/health && curl -f http://localhost:8021/health && curl -f http://localhost:8085/health && curl -f http://localhost:8088/health"
+interval_sec = 5.0
+timeout_sec = 30.0
+retries = 3
+
+[solution.env]
+AIRTABLE_API_URL = "http://airtable-api:8032"
+BAMBOOHR_API_URL = "http://bamboohr-api:8072"
+CALENDLY_API_URL = "http://calendly-api:8054"
+DOCUSIGN_API_URL = "http://docusign-api:8053"
+GMAIL_API_URL = "http://gmail-api:8017"
+GUSTO_API_URL = "http://gusto-api:8074"
+HUBSPOT_API_URL = "http://hubspot-api:8024"
+KLAVIYO_API_URL = "http://klaviyo-api:8089"
+MAILCHIMP_API_URL = "http://mailchimp-api:8081"
+NOTION_API_URL = "http://notion-api:8010"
+PAYPAL_API_URL = "http://paypal-api:8042"
+PLAID_API_URL = "http://plaid-api:8022"
+QUICKBOOKS_API_URL = "http://quickbooks-api:8007"
+SALESFORCE_API_URL = "http://salesforce-api:8044"
+SENDGRID_API_URL = "http://sendgrid-api:8027"
+SHIPPO_API_URL = "http://shippo-api:8052"
+SQUARE_API_URL = "http://square-api:8041"
+STRIPE_API_URL = "http://stripe-api:8021"
+WOOCOMMERCE_API_URL = "http://woocommerce-api:8085"
+XERO_API_URL = "http://xero-api:8088"
+
+[multimodal]
+dependency_tags = []
+
+[evaluation]
+pass_at_k = 1
+
+[dimensions]
+complex = "medium"
+long_horizon = "false"
+objective = "true"
+multimodal = "true"
+cross_modal_cross_api = "false"
+asset_complexity = "low"

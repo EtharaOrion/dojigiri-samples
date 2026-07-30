@@ -8,7 +8,7 @@ It measures whether an AI agent can do the thing knowledge workers actually do a
 
 Contemporary agent benchmarks tend to isolate a single capability — tool calling, retrieval, or vision — and evaluate it in a sterile environment. Real assistant work is not like that. It is **cross-modal** (the authoritative fact lives in a photograph, not a database), **multi-tool** (the fix requires orchestrating several SaaS APIs), **adversarial** (the environment contains stale data, decoy files, and injected instructions), and **safety-constrained** (some actions must never be taken without explicit human sign-off).
 
-This is a curated sample of **20 such tasks** drawn from **9 distinct professional personas** and validated through the **C1 Trajectory Generation** track. Each task ships a fully executable, containerized environment: **~23 mock SaaS APIs per task** (drawn from a catalog of 66 services), a persona memory, and a home-directory tree of staged multimodal input files. Tasks are graded by a **dual-signal rubric + programmatic pytest harness** yielding a blended reward. The sample is stratified along two orthogonal axes — **difficulty** (Hard / Medium / Easy) and **deployment segment** (Enterprise / Prosumer) — to support fine-grained capability analysis.
+This is a curated sample of **20 such tasks** drawn from **9 distinct professional personas** and validated through the **Trajectory Generation** track. Each task ships a fully executable, containerized environment: **~23 mock SaaS APIs per task** (drawn from a catalog of 67 services), a persona memory, and a home-directory tree of staged multimodal input files. Tasks are graded by a **dual-signal rubric + programmatic pytest harness** yielding a blended reward. The sample is stratified along two orthogonal axes — **difficulty** (Hard / Medium / Easy) and **deployment segment** (Enterprise / Prosumer) — to support fine-grained capability analysis.
 
 Every quantitative claim in this document is computed directly from the shipped task artifacts. All overall / rubric / pytest scores are read from each task's `trajectories/Claude Opus 4.8/pass_summary.json`, the authoritative record produced by the reference agent's tracked run.
 
@@ -22,8 +22,8 @@ Every quantitative claim in this document is computed directly from the shipped 
 | **Personas** | 9 (across 9 professional domains) |
 | **Deployment segments** | 2 (Enterprise 12 · Prosumer 8) |
 | **Difficulty tiers** | 3 (Hard 6 · Medium 8 · Easy 6) |
-| **Rubric criteria (total)** | 473 (avg 23.65 per task, range 16–30) |
-| **Mock SaaS APIs catalog** | 66 unique services (avg 22.8 per task, range 19–32) |
+| **Rubric criteria (total)** | 486 (avg 24.30 per task, range 16–30) |
+| **Mock SaaS APIs catalog** | 67 unique services (avg 22.75 per task, range 19–32) |
 | **Modalities** | Image, Document, Audio, Video |
 | **Reference model** | Claude Opus 4.8 |
 | **Grading signal** | Rubric (LLM-judge council) + programmatic pytest → blended reward |
@@ -84,7 +84,7 @@ Tasks are classified by the **end user's role and organizational scope**, not by
 
 ![Segment split](charts/segment_donut.png)
 
-> **Note on the `stuart-myer` persona.** Two of this persona's tasks are Enterprise-scoped and one is Prosumer-scoped, per the C1 Trajectory Generation sheet classification. Both persona-slices are preserved as-is under their respective segment folders.
+> **Note on the `stuart-myer` persona.** Two of this persona's tasks are Enterprise-scoped and one is Prosumer-scoped, per the Trajectory Generation sheet classification. Both persona-slices are preserved as-is under their respective segment folders.
 
 ### 3.3 Cross-Tabulation (Segment × Difficulty)
 
@@ -142,12 +142,12 @@ The authoritative fact in every task is **perceptually locked** — it exists on
 
 | Modality | Tasks with ≥1 file | Staged files |
 |---|:--:|:--:|
-| **Image** (jpg/png/jpeg) | 18 / 20 | 122 |
-| **Document** (pdf/xlsx/docx/tsv/xml/html/pptx) | 18 / 20 | 804 |
-| **Audio** (mp3) | 18 / 20 | 36 |
-| **Video** (mp4) | 18 / 20 | 40 |
+| **Image** (jpg/png/jpeg) | 20 / 20 | 134 |
+| **Document** (pdf/xlsx/docx/tsv/xml/html/pptx) | 20 / 20 | 888 |
+| **Audio** (mp3) | 20 / 20 | 40 |
+| **Video** (mp4) | 20 / 20 | 44 |
 
-**Staged file-type breakdown:** PDF (207) · TSV (162) · DOCX (120) · XLSX (103) · JPG (99) · XML (95) · PPTX (61) · HTML (56) · MP4 (40) · MP3 (36) · PNG (19) · JPEG (4).
+**Staged file-type breakdown:** PDF (227) · TSV (180) · DOCX (132) · XML (115) · JPG (107) · XLSX (103) · PPTX (69) · HTML (62) · MP4 (44) · MP3 (40) · PNG (21) · JPEG (6).
 
 Every task **relies on the image/scan/document as the sole source of truth**; supporting artifacts appear both as load-bearing evidence and as **intentional distractors** in a realistic home-directory tree.
 
@@ -163,7 +163,7 @@ Each task is scored on **two independent signals**, then blended, with the resul
 
 Each task ships **at least one reference trajectory** (`golden-trajectory/` + `trajectories/Claude Opus 4.8/`) with a `pass_summary.json` recording all three metrics.
 
-### 5.1 Rubric Anatomy (473 criteria)
+### 5.1 Rubric Anatomy (486 criteria)
 
 **By weight (signed reward magnitude):** criteria carry weights in ±{1, 3, 5}. Positive criteria (reward correct behavior) and negative criteria (penalize hallucination, unsafe actions, poison-pill traps) are both present:
 
@@ -171,9 +171,9 @@ Each task ships **at least one reference trajectory** (`golden-trajectory/` + `t
 
 | Weight | +5 | +3 | +1 | −1 | −3 | −5 |
 |---|:--:|:--:|:--:|:--:|:--:|:--:|
-| Count | 106 | 207 | 77 | 1 | 38 | 44 |
+| Count | 113 | 215 | 72 | 1 | 37 | 48 |
 
-The presence of **83 negative criteria** (17.5% of all rubric items) is a defining feature: an agent cannot win by doing more — it must *avoid* the traps.
+The presence of **86 negative criteria** (17.7% of all rubric items) is a defining feature: an agent cannot win by doing more — it must *avoid* the traps.
 
 **By evaluation dimension:** criteria are typed to target distinct failure modes:
 
@@ -181,16 +181,16 @@ The presence of **83 negative criteria** (17.5% of all rubric items) is a defini
 
 | Dimension | Count | Share |
 |---|:--:|:--:|
-| Task completion | 247 | 52.2% |
-| Safety & boundaries | 97 | 20.5% |
-| Factuality and hallucination | 78 | 16.5% |
-| Instruction following | 37 | 7.8% |
-| Agent behavior | 13 | 2.7% |
+| Task completion | 253 | 52.1% |
+| Safety & boundaries | 100 | 20.6% |
+| Factuality and hallucination | 80 | 16.5% |
+| Instruction following | 36 | 7.4% |
+| Agent behavior | 16 | 3.3% |
 | Tool use | 1 | 0.2% |
 
-**By importance:** 162 criteria (34.2%) are marked `critically_important`; 311 (65.8%) are marked `important`.
+**By importance:** 172 criteria (35.4%) are marked `critically_important`; 314 (64.6%) are marked `important`.
 
-**By evaluation target:** 241 target the `final_answer`, 153 the `user_facing_message`, 61 the `state_change`, and 18 the full `trajectory`.
+**By evaluation target:** 255 target the `final_answer`, 152 the `user_facing_message`, 61 the `state_change`, and 18 the full `trajectory`.
 
 ---
 
@@ -198,7 +198,7 @@ The presence of **83 negative criteria** (17.5% of all rubric items) is a defini
 
 Every task ships a **fully containerized, offline-reproducible** environment (`data/environment/`, orchestrated by a `docker-compose.yaml`):
 
-- **Mock SaaS APIs** — a mean of **~23 services per task** (min 19, max 32), each a self-contained FastAPI service (`server.py`, seeded domain data, health check) on dedicated ports. Drawn from a catalog of **66 unique services** spanning productivity (Asana, Notion, Confluence, Monday, Trello, Linear, Jira), commerce (Stripe, Square, PayPal, Shopify, WooCommerce), CRM (Salesforce, HubSpot), finance (Xero, QuickBooks, Plaid, Alpaca, Coinbase, Kraken, Binance), storage (Contentful, Obsidian, Wordpress), comms (Gmail, Outlook, Slack, WhatsApp, Microsoft Teams, SendGrid, Mailchimp, Discord, Telegram, Twilio, Klaviyo), scheduling (Google Calendar, Calendly, Eventbrite, Zoom), design (Figma, Webflow), HR (BambooHR, Gusto, Greenhouse, Okta), support (Freshdesk, ServiceNow, PagerDuty), signing (DocuSign), analytics (Google Analytics, Mixpanel), logistics (FedEx, UPS, Shippo), social (Instagram, LinkedIn, Pinterest, Reddit, Spotify, Yelp, Zillow), and productivity utilities (Airtable, Typeform, Google Classroom, ActiveCampaign, OpenWeather, Instacart).
+- **Mock SaaS APIs** — a mean of **~23 services per task** (min 19, max 32), each a self-contained FastAPI service (`server.py`, seeded domain data, health check) on dedicated ports. Drawn from a catalog of **67 unique services** spanning productivity (Asana, Notion, Confluence, Monday, Trello, Linear, Jira), commerce (Stripe, Square, PayPal, Shopify, WooCommerce), CRM (Salesforce, HubSpot), finance (Xero, QuickBooks, Plaid, Alpaca, Coinbase, Kraken, Binance), storage (Contentful, Obsidian, Wordpress), comms (Gmail, Outlook, Slack, WhatsApp, Microsoft Teams, SendGrid, Mailchimp, Discord, Telegram, Twilio, Klaviyo), scheduling (Google Calendar, Calendly, Eventbrite, Zoom), design (Figma, Webflow), HR (BambooHR, Gusto, Greenhouse, Okta), support (Freshdesk, ServiceNow, PagerDuty), signing (DocuSign), analytics (Google Analytics, Mixpanel), logistics (FedEx, UPS, Shippo), social (Instagram, LinkedIn, Pinterest, Reddit, Spotify, Yelp, Zillow), and productivity utilities (Airtable, Typeform, Google Classroom, ActiveCampaign, OpenWeather, Instacart).
 - **Skills / tool connectors** — per-service connectors plus media-extraction skills (audio, PDF, video frames) that the agent must invoke to unlock perceptual ground truth.
 - **Persona memory** — a `persona/` directory giving each agent a consistent, stateful backstory (identity, memory, user profile, agents map).
 - **Staged input files** — the multimodal artifacts of §4, hosted under `artifacts/` in a realistic tree.
@@ -209,7 +209,7 @@ Although each task ships ~23 APIs, only a focused subset lies on the canonical s
 
 ## 7. Adversarial Design
 
-This C1 sample is deliberately hostile to shortcut-taking agents:
+This sample is deliberately hostile to shortcut-taking agents:
 
 - **Stale-state traps.** The digital record (CRM, tracker, spreadsheet, API) is *plausibly wrong*. An agent that trusts text over the photo fails.
 - **Poison-pill distractors.** Decoy values seeded to match wrong answers, so a careless read is actively punished by negative rubric criteria (44 `−5` and 38 `−3` penalties in the corpus).
@@ -222,7 +222,7 @@ This C1 sample is deliberately hostile to shortcut-taking agents:
 ## 8. Directory Layout
 
 ```
-Restructured_C1_Perfect/
+openclaw-sft-samples/
 ├── README.md                        ← this file
 ├── LICENSE
 ├── charts/                          ← figures embedded above
@@ -232,7 +232,7 @@ Restructured_C1_Perfect/
 │   ├── reward_hist.png
 │   ├── rubric_weights.png
 │   └── rubric_dimensions.png
-├── Enterprise/   (12 tasks · folders named by task UUID)
+├── enterprise/   (12 tasks · folders named by task UUID)
 │   ├── 0224c9fb-d98c-4429-92a3-2faffccce343/   (andrew-santos)
 │   ├── 16ce5b8a-a840-4a1a-8281-e7084b62d426/   (andrew-santos)
 │   ├── 23d1df65-4d52-43de-bdda-724c3ff95cff/   (colette-mullins)
@@ -245,7 +245,7 @@ Restructured_C1_Perfect/
 │   ├── db00176f-b1f4-4972-9845-a6cff8cb4850/   (carlos-moore)
 │   ├── fca28cac-99fc-4548-9367-9c4816aa3c0b/   (stuart-myer)
 │   └── ff4044bd-0222-41b5-94c6-c9b5ab06951c/   (colette-mullins)
-└── Prosumer/     (8 tasks · folders named by task UUID)
+└── prosumer/     (8 tasks · folders named by task UUID)
     ├── 09a37374-5fc3-4ac7-b40c-c924803050f5/   (jake-thornton)
     ├── 24cc3b1d-6ad1-4ebb-9f06-43d58bc53790/   (jake-thornton)
     ├── 356c2c1c-68c8-4eff-9a34-14dc1c5fd1cf/   (catherine-conway)
@@ -258,4 +258,4 @@ Restructured_C1_Perfect/
 
 ---
 
-*This is a curated 20-task sample drawn from the C1 Trajectory Generation track. All metrics in this document are computed directly from the shipped task artifacts and each task's `trajectories/Claude Opus 4.8/pass_summary.json`.*
+*This is a curated 20-task sample drawn from the Trajectory Generation track. All metrics in this document are computed directly from the shipped task artifacts and each task's `trajectories/Claude Opus 4.8/pass_summary.json`.*

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChessGames player="Minister_C" club="Lakeshore Chess Club" rating="1800">
+  <Game date="2025-10-02" round="Regular" result="1-0">
+    <White>Minister_C</White>
+    <Black>KingsIndian_Dave</Black>
+    <Opening>Queens Gambit Declined</Opening>
+    <ECO>D30</ECO>
+    <RatingWhite>1788</RatingWhite>
+    <RatingBlack>1810</RatingBlack>
+    <Moves>
+      <Move number="1">
+        <White>d4</White>
+        <Black>d5</Black>
+      </Move>
+      <Move number="2">
+        <White>c4</White>
+        <Black>e6</Black>
+      </Move>
+      <Move number="3">
+        <White>Nc3</White>
+        <Black>Nf6</Black>
+      </Move>
+      <Move number="4">
+        <White>Nf3</White>
+        <Black>Be7</Black>
+      </Move>
+      <Move number="5">
+        <White>Bf4</White>
+        <Black>O-O</Black>
+      </Move>
+      <Move number="6">
+        <White>e3</White>
+        <Black>c5</Black>
+      </Move>
+      <Move number="7">
+        <White>dxc5</White>
+        <Black>Bxc5</Black>
+      </Move>
+      <Move number="8">
+        <White>cxd5</White>
+        <Black>Nxd5</Black>
+      </Move>
+      <Move number="9">
+        <White>Nxd5</White>
+        <Black>exd5</Black>
+      </Move>
+      <Move number="10">
+        <White>Bd3</White>
+        <Black>Nc6</Black>
+      </Move>
+      <Move number="11">
+        <White>O-O</White>
+        <Black>Bg4</Black>
+      </Move>
+      <Move number="12">
+        <White>h3</White>
+        <Black>Bh5</Black>
+      </Move>
+      <Move number="13">
+        <White>Qb3</White>
+        <Black>Bxf3</Black>
+      </Move>
+      <Move number="14">
+        <White>gxf3</White>
+        <Black>Qd7</Black>
+      </Move>
+      <Move number="15">
+        <White>Kh2</White>
+        <Black>Rfd8</Black>
+      </Move>
+      <Move number="16">
+        <White>Rg1</White>
+        <Black>Ne5</Black>
+      </Move>
+      <Move number="17">
+        <White>Be2</White>
+        <Black>Rd6</Black>
+      </Move>
+      <Move number="18">
+        <White>f4</White>
+        <Black>Ng6</Black>
+      </Move>
+      <Move number="19">
+        <White>Bf3</White>
+        <Black>Re8</Black>
+      </Move>
+      <Move number="20">
+        <White>Rg5</White>
+        <Black>Nxf4</Black>
+      </Move>
+      <Move number="21">
+        <White>exf4</White>
+        <Black>Rxe1</Black>
+      </Move>
+      <Move number="22">
+        <White>Rxe1</White>
+        <Black>Qxh3+</Black>
+      </Move>
+      <Move number="23">
+        <White>Kxh3</White>
+      </Move>
+    </Moves>
+    <Notes>Excellent positional game. Maintained bishop pair advantage throughout.</Notes>
+  </Game>
+  <Game date="2025-11-13" round="Regular" result="0-1">
+    <White>ClevelandKnight</White>
+    <Black>Minister_C</Black>
+    <Opening>Sicilian Defense Najdorf</Opening>
+    <ECO>B90</ECO>
+    <RatingWhite>1820</RatingWhite>
+    <RatingBlack>1800</RatingBlack>
+    <Moves>
+      <Move number="1">
+        <White>e4</White>
+        <Black>c5</Black>
+      </Move>
+      <Move number="2">
+        <White>Nf3</White>
+        <Black>d6</Black>
+      </Move>
+      <Move number="3">
+        <White>d4</White>
+        <Black>cxd4</Black>
+      </Move>
+      <Move number="4">
+        <White>Nxd4</White>
+        <Black>Nf6</Black>
+      </Move>
+      <Move number="5">
+        <White>Nc3</White>
+        <Black>a6</Black>
+      </Move>
+      <Move number="6">
+        <White>Be3</White>
+        <Black>e5</Black>
+      </Move>
+      <Move number="7">
+        <White>Nb3</White>
+        <Black>Be6</Black>
+      </Move>
+      <Move number="8">
+        <White>f3</White>
+        <Black>Be7</Black>
+      </Move>
+      <Move number="9">
+        <White>Qd2</White>
+        <Black>O-O</Black>
+      </Move>
+      <Move number="10">
+        <White>O-O-O</White>
+        <Black>Nbd7</Black>
+      </Move>
+      <Move number="11">
+        <White>g4</White>
+        <Black>b5</Black>
+      </Move>
+      <Move number="12">
+        <White>g5</White>
+        <Black>Nh5</Black>
+      </Move>
+    </Moves>
+    <Notes>Classic Najdorf with counterplay on queenside. Won material in endgame.</Notes>
+  </Game>
+</ChessGames>
