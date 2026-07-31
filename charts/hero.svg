@@ -1,0 +1,226 @@
+<svg viewBox="0 0 2000 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dōjigiri — Long-Horizon Agent Benchmark">
+  <defs>
+    <radialGradient id="bgGrad" cx="0.72" cy="0.32" r="1.05">
+      <stop offset="0%" stop-color="#1a2340"/>
+      <stop offset="55%" stop-color="#0a1024"/>
+      <stop offset="100%" stop-color="#04070f"/>
+    </radialGradient>
+
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a8fcc0"/>
+      <stop offset="45%" stop-color="#4be0c1"/>
+      <stop offset="100%" stop-color="#268a76"/>
+    </linearGradient>
+
+    <linearGradient id="bladeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e2a3d"/>
+      <stop offset="35%" stop-color="#b8c7db"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="65%" stop-color="#b8c7db"/>
+      <stop offset="100%" stop-color="#1e2a3d"/>
+    </linearGradient>
+
+    <linearGradient id="hamon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a8fcc0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a8fcc0" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a8fcc0" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="45%" stop-color="#f2c14e"/>
+      <stop offset="100%" stop-color="#9a6a12"/>
+    </linearGradient>
+
+    <linearGradient id="tsukaGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d0505"/>
+      <stop offset="50%" stop-color="#2a1010"/>
+      <stop offset="100%" stop-color="#0d0505"/>
+    </linearGradient>
+
+    <filter id="greenGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#4be0c1" flood-opacity="0.55"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#4be0c1" flood-opacity="0.42"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#4be0c1" flood-opacity="0.4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="2000" height="620" fill="url(#bgGrad)"/>
+
+  <!-- Star field -->
+  <g fill="#ffffff">
+    <circle cx="120" cy="70" r="1" opacity="0.55"/>
+    <circle cx="270" cy="35" r="0.7" opacity="0.4"/>
+    <circle cx="460" cy="90" r="1.1" opacity="0.6"/>
+    <circle cx="640" cy="45" r="0.6" opacity="0.4"/>
+    <circle cx="820" cy="115" r="1.3" opacity="0.65"/>
+    <circle cx="980" cy="55" r="0.8" opacity="0.5"/>
+    <circle cx="1160" cy="90" r="1" opacity="0.55"/>
+    <circle cx="1340" cy="40" r="0.7" opacity="0.4"/>
+    <circle cx="1520" cy="110" r="1.4" opacity="0.7"/>
+    <circle cx="1720" cy="60" r="1" opacity="0.55"/>
+    <circle cx="1890" cy="130" r="0.8" opacity="0.5"/>
+    <circle cx="1950" cy="240" r="0.7" opacity="0.4"/>
+    <circle cx="150" cy="260" r="0.6" opacity="0.45"/>
+    <circle cx="60" cy="180" r="0.8" opacity="0.5"/>
+    <circle cx="1800" cy="320" r="1" opacity="0.55"/>
+    <circle cx="1900" cy="380" r="0.7" opacity="0.4"/>
+    <circle cx="30" cy="360" r="0.6" opacity="0.4"/>
+    <circle cx="580" cy="150" r="0.5" opacity="0.35"/>
+    <circle cx="1250" cy="150" r="0.5" opacity="0.35"/>
+  </g>
+
+  <!-- Katana icon -->
+  <g transform="translate(300, 40) scale(0.92)">
+
+    <!-- Ambient green aura -->
+    <ellipse cx="0" cy="180" rx="95" ry="215" fill="#4be0c1" opacity="0.05"/>
+    <ellipse cx="0" cy="180" rx="60" ry="200" fill="#4be0c1" opacity="0.07"/>
+
+    <!-- Blade: tip up, subtle curve -->
+    <g filter="url(#greenGlow)">
+      <path d="M 0 4
+               C 6 30, 12 60, 14 100
+               L 14 250
+               L 10 262
+               L -10 262
+               L -14 250
+               L -14 100
+               C -12 60, -6 30, 0 4 Z"
+            fill="url(#bladeGrad)"
+            stroke="#8db5c9"
+            stroke-width="0.6"/>
+    </g>
+
+    <!-- Hamon (temper line) -->
+    <path d="M 8 30 C 5 90, 3 170, 6 258 L 4 258 C 1 170, 2 90, 6 30 Z"
+          fill="url(#hamon)" opacity="0.9"/>
+
+    <!-- Blade edge highlight -->
+    <path d="M 12 60 L 12 252 L 9 260 L 8 260 L 11 252 L 11 60 Z"
+          fill="#f2f7ff" opacity="0.6"/>
+
+    <!-- Tip highlight -->
+    <path d="M 0 4 L 6 26 L 0 20 L -6 26 Z" fill="#ffffff" opacity="0.95"/>
+
+    <!-- Habaki (blade collar) -->
+    <rect x="-18" y="260" width="36" height="18" fill="url(#goldGrad)" stroke="#7a5410" stroke-width="0.6"/>
+    <line x1="-18" y1="269" x2="18" y2="269" stroke="#7a5410" stroke-width="0.5"/>
+
+    <!-- Tsuba (guard) -->
+    <ellipse cx="0" cy="286" rx="46" ry="9" fill="url(#goldGrad)" stroke="#7a5410" stroke-width="0.6"/>
+    <ellipse cx="0" cy="286" rx="40" ry="6" fill="none" stroke="#c9992a" stroke-width="0.5" opacity="0.7"/>
+    <circle cx="0" cy="286" r="3.2" fill="#7a5410"/>
+    <circle cx="-32" cy="286" r="1.6" fill="#7a5410"/>
+    <circle cx="32" cy="286" r="1.6" fill="#7a5410"/>
+
+    <!-- Fuchi (collar below tsuba) -->
+    <rect x="-15" y="295" width="30" height="8" fill="url(#goldGrad)" stroke="#7a5410" stroke-width="0.5"/>
+
+    <!-- Tsuka (handle) -->
+    <rect x="-14" y="303" width="28" height="98" fill="url(#tsukaGrad)" rx="1"/>
+
+    <!-- Ito wrap crossings -->
+    <g stroke="#6a1e1e" stroke-width="1.4" fill="none" opacity="0.95">
+      <path d="M -14 308 L 14 322 M 14 308 L -14 322"/>
+      <path d="M -14 330 L 14 344 M 14 330 L -14 344"/>
+      <path d="M -14 352 L 14 366 M 14 352 L -14 366"/>
+      <path d="M -14 374 L 14 388 M 14 374 L -14 388"/>
+    </g>
+
+    <!-- Menuki (ornament) -->
+    <circle cx="0" cy="348" r="4.5" fill="#c53030" stroke="#f6c352" stroke-width="0.8" filter="url(#softGlow)"/>
+
+    <!-- Kashira (pommel cap) -->
+    <rect x="-16" y="399" width="32" height="12" fill="url(#goldGrad)" stroke="#7a5410" stroke-width="0.6" rx="1.5"/>
+  </g>
+
+  <!-- Wordmark: DŌJIGIRI -->
+  <text x="1210" y="240" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="180" font-weight="900" letter-spacing="10"
+        fill="url(#titleGrad)" filter="url(#textGlow)">DŌJIGIRI</text>
+
+  <!-- Chevron divider -->
+  <g>
+    <line x1="920" y1="290" x2="1170" y2="290" stroke="#4be0c1" stroke-width="1" opacity="0.55"/>
+    <line x1="1250" y1="290" x2="1500" y2="290" stroke="#4be0c1" stroke-width="1" opacity="0.55"/>
+    <path d="M 1178 275 L 1210 305 L 1242 275" fill="none" stroke="#f2c14e" stroke-width="2.6" stroke-linejoin="round"/>
+    <path d="M 1178 275 L 1210 305 L 1242 275" fill="none" stroke="#a8fcc0" stroke-width="1" opacity="0.7" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="1210" y="345" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="26" font-weight="500" letter-spacing="16"
+        fill="#a8bdd6">LONG-HORIZON AGENT BENCHMARK</text>
+
+  <!-- Stat cards -->
+  <g transform="translate(60, 430)">
+    <!-- Card 1 -->
+    <g>
+      <rect x="0" y="0" width="600" height="155" rx="14"
+            fill="#0d1524" stroke="#35d0ba" stroke-width="1" opacity="0.95"/>
+      <rect x="1" y="1" width="598" height="153" rx="13"
+            fill="none" stroke="#35d0ba" stroke-width="0.4" opacity="0.35"/>
+      <text x="300" y="82" text-anchor="middle"
+            font-family="Georgia, serif" font-size="66" font-weight="700"
+            fill="#a8fcc0" filter="url(#textGlow)">20</text>
+      <text x="300" y="126" text-anchor="middle"
+            font-family="'Segoe UI', Arial, sans-serif" font-size="24"
+            fill="#a8bdd6" letter-spacing="1">tasks</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(640, 0)">
+      <rect x="0" y="0" width="600" height="155" rx="14"
+            fill="#0d1524" stroke="#35d0ba" stroke-width="1" opacity="0.95"/>
+      <rect x="1" y="1" width="598" height="153" rx="13"
+            fill="none" stroke="#35d0ba" stroke-width="0.4" opacity="0.35"/>
+      <text x="300" y="82" text-anchor="middle"
+            font-family="Georgia, serif" font-size="66" font-weight="700"
+            fill="#a8fcc0" filter="url(#textGlow)">20</text>
+      <text x="300" y="126" text-anchor="middle"
+            font-family="'Segoe UI', Arial, sans-serif" font-size="24"
+            fill="#a8bdd6" letter-spacing="1">graded runs</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(1280, 0)">
+      <rect x="0" y="0" width="600" height="155" rx="14"
+            fill="#0d1524" stroke="#35d0ba" stroke-width="1" opacity="0.95"/>
+      <rect x="1" y="1" width="598" height="153" rx="13"
+            fill="none" stroke="#35d0ba" stroke-width="0.4" opacity="0.35"/>
+      <text x="300" y="82" text-anchor="middle"
+            font-family="Georgia, serif" font-size="66" font-weight="700"
+            fill="#a8fcc0" filter="url(#textGlow)">67</text>
+      <text x="300" y="126" text-anchor="middle"
+            font-family="'Segoe UI', Arial, sans-serif" font-size="24"
+            fill="#a8bdd6" letter-spacing="1">mock SaaS APIs</text>
+    </g>
+  </g>
+</svg>

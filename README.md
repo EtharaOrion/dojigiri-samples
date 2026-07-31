@@ -1,5 +1,9 @@
 <p align="center">
-  <strong>OpenClaw SFT Samples</strong><br>
+  <img src="charts/hero.svg" alt="Dōjigiri — Long-Horizon Agent Benchmark" width="100%">
+</p>
+
+<p align="center">
+  <strong>Dōjigiri SFT Samples</strong><br>
   <sub>A 20-task long-horizon dataset for supervised fine-tuning of AI agents on real, adversarial, cross-modal knowledge work</sub>
 </p>
 
