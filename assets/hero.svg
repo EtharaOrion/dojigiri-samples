@@ -1,4 +1,4 @@
-<svg viewBox="0 0 2000 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dōjigiri — Long-Horizon Agent Benchmark">
+<svg viewBox="0 0 2000 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dōjigiri — Long-Horizon Agent Dataset">
   <defs>
     <radialGradient id="bgGrad" cx="0.72" cy="0.32" r="1.05">
       <stop offset="0%" stop-color="#1a2340"/>
@@ -177,7 +177,7 @@
   <text x="1210" y="345" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
         font-size="26" font-weight="500" letter-spacing="16"
-        fill="#a8bdd6">LONG-HORIZON AGENT BENCHMARK</text>
+        fill="#a8bdd6">LONG-HORIZON AGENT DATASET</text>
 
   <!-- Stat cards -->
   <g transform="translate(60, 430)">

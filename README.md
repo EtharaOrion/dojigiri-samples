@@ -1,52 +1,39 @@
 <p align="center">
-  <img src="charts/hero.svg" alt="Dōjigiri — Long-Horizon Agent Benchmark" width="100%">
+  <img src="assets/hero.svg" alt="Dōjigiri: 20 tasks, 20 graded runs, 67 mock SaaS APIs" width="880">
 </p>
 
 <p align="center">
-  <strong>Dōjigiri SFT Samples</strong><br>
-  <sub>A 20-task long-horizon dataset for supervised fine-tuning of AI agents on real, adversarial, cross-modal knowledge work</sub>
+  <strong>Measuring whether an agent can hold a workstream together across many turns and many systems: long-horizon, multi-tool reconciliation under adversarial conditions.</strong>
 </p>
 
 <p align="center">
-  <img alt="Tasks" src="https://img.shields.io/badge/tasks-20-ee00ee.svg">
-  <img alt="Dataset" src="https://img.shields.io/badge/dataset-long--horizon-7a99d1.svg">
-  <img alt="Grading" src="https://img.shields.io/badge/grading-rubric_+_pytest-35d0ba.svg">
-  <img alt="Adversarial" src="https://img.shields.io/badge/adversarial-stale_state_·_poison_pills-845EF7.svg">
-  <img alt="Guardrails" src="https://img.shields.io/badge/safety-human--in--the--loop-ff6b6b.svg">
+  <a href="#dataset-at-a-glance"><img alt="Built by Ethara.AI" src="https://img.shields.io/badge/built%20by-Ethara.AI-ee00ee.svg"></a>
+  <a href="#grading-methodology"><img alt="Scoring: rubric council + pytest, blended" src="https://img.shields.io/badge/scoring-rubric_council_·_pytest_·_blended-35d0ba.svg"></a>
+  <a href="#environment"><img alt="Environment: 67 mock APIs, containerized" src="https://img.shields.io/badge/environment-67_mock_APIs_·_containerized-845EF7.svg"></a>
+  <a href="#adversarial-design"><img alt="Rubric: 18% negative criteria" src="https://img.shields.io/badge/rubric-18%25_negative_criteria-ff6b6b.svg"></a>
 </p>
 
 <p align="center"><sub>
-  <a href="#overview">Overview</a> ·
-  <a href="#repository-layout">Layout</a> ·
-  <a href="#reference-agent-performance">Performance</a> ·
-  <a href="#dataset-at-a-glance">Dataset</a> ·
-  <a href="#environment">Environment</a> ·
-  <a href="#grading-methodology">Grading</a> ·
-  <a href="#adversarial-design">Adversarial</a> ·
-  <a href="#task-structure">Task structure</a> ·
-  <a href="#trajectory-structure">Trajectories</a> ·
-  <a href="#verification-and-qa">Verification</a>
+  <a href="#repository-layout">Layout</a> · <a href="#reference-agent-performance">Performance</a> · <a href="#dataset-at-a-glance">Dataset</a> · <a href="#environment">Environment</a> · <a href="#grading-methodology">Grading</a> · <a href="#adversarial-design">Adversarial design</a> · <a href="#task-structure">Task structure</a> · <a href="#trajectory-structure">Trajectories</a> · <a href="#verification-and-qa">Verification</a>
 </sub></p>
 
----
+# Dōjigiri: 20-Task Long-Horizon SFT Sample
 
-# Overview
+**Dōjigiri measures real-world assistant competence over a long horizon, not isolated tool calling, retrieval, or single-turn completion.** It evaluates whether an agent can do the thing knowledge workers actually do all week: hold one sprawling workstream together across many turns and many systems; notice that the figures no longer agree with each other; and true the right record up without overstepping the scope it was given. Where narrower evaluations isolate a single capability in a sterile environment, every Dōjigiri task pits *traceable ground truth* (a value the agent can only stand behind by walking a chain across systems of record) against *stale digital state* (an optimistic placeholder, the same partner booked twice under labels that do not mean the same thing, a ledger drifted from the report it must match), surrounded by distractors and poison-pill traps, with scope red-lines and a human-in-the-loop safety guardrail the agent must respect.
 
-**A 20-task long-horizon SFT sample for evaluating and fine-tuning AI agents on the kind of messy, cross-modal, multi-tool work knowledge workers actually do all day.**
+This is a curated **20-task** sample drawn from 9 professional personas. Each task is a self-contained, containerized problem (a focused 19–32-service subset of a **67-API mock SaaS catalog**, a 7-file persona memory, and a staged multi-surface home directory), paired with one fully graded reference run (Claude Opus 4.8) scored by the Dōjigiri dual-signal verifier: an LLM-judge rubric council plus a programmatic `pytest` harness, blended into a single reward.
 
-The dataset targets *multi-turn workstream reconciliation*: several-KB user prompts with `--- TURN 1 ---` markers, dense §Focal-Event / §Solve-Path / §Value-Lock ground truth, a focused per-task SaaS subset (19–32 services), and scope red-lines the agent must honor. Categories span **Productivity Flow**, **Skill Use & Orchestration**, **Safety Alignment**, **Creative Synthesis**, **Scheduling & Long-Running**, **Communication & Messaging**, and **Proactive Assistance**.
-
-Every task ships the same shape, the same 7-file persona memory (`IDENTITY.md`, `HEARTBEAT.md`, `MEMORY.md`, `USER.md`, `SOUL.md`, `AGENTS.md`, `TOOLS.md`), and the same dual-signal grading contract (rubric + pytest → blended reward) so an agent runner can sweep the whole dataset with one harness.
+Observed reward on the reference run spans **21.88 → 69.35** (mean **52.46**), keeping the full selection inside the contested band where models separate most.
 
 ---
 
 # Repository layout
 
 ```
-openclaw-sft-samples/
+dojigiri-samples/
 ├── enterprise/                  # 12 tasks · folders named by task UUID
 ├── prosumer/                    #  8 tasks · folders named by task UUID
-├── charts/                      # all figures embedded in this document
+├── assets/                      # all figures embedded in this document
 ├── LICENSE
 └── README.md                    ← this document
 ```
@@ -60,12 +47,12 @@ Every `<uuid>/` directory has the same shape — see [Task structure](#task-stru
 A strong reference model (**Claude Opus 4.8**) was executed once against every task in the dataset and graded with the shipped rubric + pytest harness. The chart below shows the **blended reward** each task earned (rubric + tests, ×100), sorted ascending, with the three difficulty bands colored in.
 
 <p align="center">
-  <img src="charts/reward_line.png" alt="Reference agent — blended reward per task" width="95%">
+  <img src="assets/reward_line.png" alt="Reference agent — blended reward per task" width="95%">
 </p>
 
 |                    | Tasks | Min reward | Max reward | Mean reward |
 |--------------------|:-----:|:----------:|:----------:|:-----------:|
-| **long-horizon SFT** |  20   |    21.9    |    69.3    |    52.5     |
+| **long-horizon SFT** |  20   |    21.9    |    69.4    |    52.5     |
 
 The dataset is not saturated — it keeps the reference agent inside the contested band where models separate most. Each task ships that reference run under `trajectories/Claude Opus 4.8/run_1/` so every number here is reproducible.
 
@@ -90,10 +77,10 @@ The dataset is not saturated — it keeps the reference agent inside the contest
 ## Reference agent reward distribution
 
 <p align="center">
-  <img src="charts/reward_hist.png" alt="Reference agent — blended reward distribution" width="70%">
+  <img src="assets/reward_hist.png" alt="Reference agent — blended reward distribution" width="70%">
 </p>
 
-Reference-run reward spans **21.9 → 69.3** (mean **52.5**) — keeping the entire selection inside the contested band where models separate most.
+Reference-run reward spans **21.9 → 69.4** (mean **52.5**) — no task bottoms out at zero and none is solved outright, so every task still carries usable gradient.
 
 ## By difficulty
 
@@ -107,7 +94,7 @@ Difficulty is **curator-assigned per task**, reflecting adversarial density, too
 | **Total**  | —              | **20** | **100%** | 21.9 – 69.4 | 52.5 |
 
 <p align="center">
-  <img src="charts/difficulty_donut.png" alt="Difficulty distribution" width="55%">
+  <img src="assets/difficulty_donut.png" alt="Difficulty distribution" width="55%">
 </p>
 
 ## By segment
@@ -123,7 +110,7 @@ Tasks are classified by the **end user's role and organizational scope**, not by
 | **prosumer**   | jake-thornton (3), jessica-taylor (2), stuart-myer (1), jessica-spencer (1), catherine-conway (1) | 8 |
 
 <p align="center">
-  <img src="charts/segment_donut.png" alt="Segment split" width="55%">
+  <img src="assets/segment_donut.png" alt="Segment split" width="55%">
 </p>
 
 > **Note on the `stuart-myer` persona.** Two of this persona's tasks are enterprise-scoped and one is prosumer-scoped, per the source classification sheet — segment is defined by the *user's role in that task*, not a persona-level assignment. Both persona-slices are preserved as-is under their respective segment folders.
@@ -137,7 +124,7 @@ Tasks are classified by the **end user's role and organizational scope**, not by
 | **Total**      | **6** | **8** | **6** | **20** |
 
 <p align="center">
-  <img src="charts/crosstab_bars.png" alt="Segment by difficulty" width="70%">
+  <img src="assets/crosstab_bars.png" alt="Segment by difficulty" width="70%">
 </p>
 
 ## By task category
@@ -232,7 +219,7 @@ Weights ±{1, 3, 5}. Long-horizon rubrics reward broader positive coverage acros
 | Count | 113 | 215 | 72 | 1 | 37 | 48 |
 
 <p align="center">
-  <img src="charts/rubric_weights.png" alt="Rubric weight spectrum" width="75%">
+  <img src="assets/rubric_weights.png" alt="Rubric weight spectrum" width="75%">
 </p>
 
 The presence of **86 negative criteria (18%)** is a defining feature: an agent cannot win by doing more — it must *avoid* the traps. Penalties concentrate on scope-boundary violations, factual hallucinations, and unauthorized outbound actions rather than on pure perceptual traps.
@@ -249,7 +236,7 @@ The presence of **86 negative criteria (18%)** is a defining feature: an agent c
 | Tool use | 1 | 0.2% |
 
 <p align="center">
-  <img src="charts/rubric_dimensions.png" alt="Rubric criteria by dimension" width="75%">
+  <img src="assets/rubric_dimensions.png" alt="Rubric criteria by dimension" width="75%">
 </p>
 
 **By importance:** 172 criteria (35.4%) are marked `critically_important`; 314 (64.6%) are marked `important`.
@@ -407,5 +394,5 @@ This sample passed the following checks before release:
 ---
 
 <p align="center"><sub>
-  Metrics in this document are computed directly from shipped task artifacts and each task's <code>trajectories/Claude Opus 4.8/pass_summary.json</code>. Charts in <a href="charts"><code>charts/</code></a> are regenerated from the same source data.
+  Metrics in this document are computed directly from shipped task artifacts and each task's <code>trajectories/Claude Opus 4.8/pass_summary.json</code>. Charts in <a href="assets"><code>assets/</code></a> are regenerated from the same source data.
 </sub></p>
