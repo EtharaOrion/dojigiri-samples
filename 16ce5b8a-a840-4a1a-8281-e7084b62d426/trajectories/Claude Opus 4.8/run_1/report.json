@@ -286,7 +286,7 @@
       "score": -5,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R25",
@@ -297,7 +297,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R26",
@@ -308,7 +308,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R27",
@@ -319,7 +319,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R28",
@@ -330,10 +330,10 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     }
   ],
   "final_reward": 42.99,
-  "test_weights_percentage": 7.14,
+  "test_weights_percentage": 7.142857142857142,
   "rubric_weights_percentage": 78.85
 }

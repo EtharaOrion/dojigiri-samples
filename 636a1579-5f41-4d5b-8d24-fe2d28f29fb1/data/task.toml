@@ -120,9 +120,13 @@ dependency_tags = []
 pass_at_k = 1
 
 [dimensions]
-complex = "medium"
+complex = "hard"
 long_horizon = "false"
 objective = "true"
 multimodal = "true"
 cross_modal_cross_api = "false"
 asset_complexity = "low"
+
+[upstream_provenance]
+origin = "original"
+train_cutoff = "2025-06-01"

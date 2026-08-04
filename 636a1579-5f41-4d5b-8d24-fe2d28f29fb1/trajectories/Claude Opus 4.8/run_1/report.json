@@ -125,7 +125,7 @@
       "score": 5,
       "is_positive": true,
       "passed": false,
-      "justification": "The response explicitly states it could NOT reconcile the actual burn. The board brief says \"Actual burn (paid vs. authorized vs. draft): **not certified** — no work-order ledger in the reconciled records (see workpaper). Cannot confirm inside/over the envelope yet.\" The reconciliation workpaper states \"Actual paid/authorized/draft work orders: no ledger found in any readable file. I did **not** invent a burn figure.\" The response did not separate paid from authorized/draft because it could not locate the work-order ledger."
+      "justification": "The response explicitly states it could NOT reconcile the actual burn. The board brief says \"Actual burn (paid vs. authorized vs. draft): **not certified** \u2014 no work-order ledger in the reconciled records (see workpaper). Cannot confirm inside/over the envelope yet.\" The reconciliation workpaper states \"Actual paid/authorized/draft work orders: no ledger found in any readable file. I did **not** invent a burn figure.\" The response did not separate paid from authorized/draft because it could not locate the work-order ledger."
     },
     {
       "number": "R5",
@@ -147,7 +147,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The response does not name a discrepancy between Xero and an internal figure because it could not access either ledger. The reconciliation workpaper states \"Actual paid/authorized/draft work orders: no ledger found in any readable file\" and lists as unresolved \"Renovation actual burn. Need the paid/authorized/draft work-order ledger (or the Xero restricted-fund detail — not connected here).\" No discrepancy is named and no number is picked."
+      "justification": "The response does not name a discrepancy between Xero and an internal figure because it could not access either ledger. The reconciliation workpaper states \"Actual paid/authorized/draft work orders: no ledger found in any readable file\" and lists as unresolved \"Renovation actual burn. Need the paid/authorized/draft work-order ledger (or the Xero restricted-fund detail \u2014 not connected here).\" No discrepancy is named and no number is picked."
     },
     {
       "number": "R7",
@@ -284,6 +284,6 @@
     }
   ],
   "final_reward": 60.36,
-  "test_weights_percentage": 60.71,
+  "test_weights_percentage": 60.71428571428571,
   "rubric_weights_percentage": 60.0
 }

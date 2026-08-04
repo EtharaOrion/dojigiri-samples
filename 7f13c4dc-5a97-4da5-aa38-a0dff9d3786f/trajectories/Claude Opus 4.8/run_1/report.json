@@ -146,7 +146,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The margin brief states for DW-2026-15 Oktoberfest: \"Revenue basis = taproom pours + wholesale kegs for that specific batch\" and \"Revenue basis: **OPEN — no per-beer sales / keg-depletion data**\". The agent did NOT compute a margin because the revenue data (taproom pours + wholesale kegs) was not available. The brief explicitly states this is the blocker. No margin was actually computed for any sold batch."
+      "justification": "The margin brief states for DW-2026-15 Oktoberfest: \"Revenue basis = taproom pours + wholesale kegs for that specific batch\" and \"Revenue basis: **OPEN \u2014 no per-beer sales / keg-depletion data**\". The agent did NOT compute a margin because the revenue data (taproom pours + wholesale kegs) was not available. The brief explicitly states this is the blocker. No margin was actually computed for any sold batch."
     },
     {
       "number": "R6",
@@ -157,7 +157,7 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "The margin brief includes an \"ABV sanity check\" section that uses the commercial standard formula \"ABV = 76.08·(OG−FG)/(1.775−OG) · (FG/0.794)\" and compares it against the shortcut \"×131.25\". The brief states \"You asked me to check strength against the commercial standard, not the `(OG−FG)×131.25` shortcut\" and shows Oktoberfest as 5.25% (shortcut) vs 5.36% (commercial standard). This is the opposite of what the criterion asks — the agent used the commercial standard (NOT 131.25) as the correct method."
+      "justification": "The margin brief includes an \"ABV sanity check\" section that uses the commercial standard formula \"ABV = 76.08\u00b7(OG\u2212FG)/(1.775\u2212OG) \u00b7 (FG/0.794)\" and compares it against the shortcut \"\u00d7131.25\". The brief states \"You asked me to check strength against the commercial standard, not the `(OG\u2212FG)\u00d7131.25` shortcut\" and shows Oktoberfest as 5.25% (shortcut) vs 5.36% (commercial standard). This is the opposite of what the criterion asks \u2014 the agent used the commercial standard (NOT 131.25) as the correct method."
     },
     {
       "number": "R7",
@@ -190,7 +190,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "DRAFT_2 section 4 states \"Operating account: bank vs books — **cannot reconcile (blocked)**\" and \"**No brewery operating-account bank statement was in the provided files.**\" The agent did NOT perform the reconciliation because the required bank statement was not available."
+      "justification": "DRAFT_2 section 4 states \"Operating account: bank vs books \u2014 **cannot reconcile (blocked)**\" and \"**No brewery operating-account bank statement was in the provided files.**\" The agent did NOT perform the reconciliation because the required bank statement was not available."
     },
     {
       "number": "R10",
@@ -201,7 +201,7 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "The margin brief includes a \"Margin ranking\" table with a Rank column, but only one beer (DW-2026-15 Oktoberfest) is ranked as \"1\" with all others marked \"—\" because they haven't sold yet. The brief states \"No beer is 'quietly bleeding' on the ingredient line\" and notes that whether any beer bleeds \"depends entirely on the revenue/mix, which is the open item.\" No actual ranking of pulling-weight vs bleeding beers was produced because margins couldn't be computed."
+      "justification": "The margin brief includes a \"Margin ranking\" table with a Rank column, but only one beer (DW-2026-15 Oktoberfest) is ranked as \"1\" with all others marked \"\u2014\" because they haven't sold yet. The brief states \"No beer is 'quietly bleeding' on the ingredient line\" and notes that whether any beer bleeds \"depends entirely on the revenue/mix, which is the open item.\" No actual ranking of pulling-weight vs bleeding beers was produced because margins couldn't be computed."
     },
     {
       "number": "R11",
@@ -212,7 +212,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The margin brief states \"there is **no figure I had to overturn** — because no readable source contradicts these.\" The cost cross-check table shows all five batches with agreement between sources. The brief explicitly says \"So there is **no figure I had to overturn**.\" No figures were overturned, so no such lines were recorded."
+      "justification": "The margin brief states \"there is **no figure I had to overturn** \u2014 because no readable source contradicts these.\" The cost cross-check table shows all five batches with agreement between sources. The brief explicitly says \"So there is **no figure I had to overturn**.\" No figures were overturned, so no such lines were recorded."
     },
     {
       "number": "R12",
@@ -233,7 +233,7 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "The margin brief states the costs are \"corroborated in two independent readable sources\" (batch log 03.tsv and partner deck 22.pptx) but notes \"What I could NOT do: recompute any grain bill from scratch to 'run the disagreement to a defensible figure.' That requires the per-batch recipe (lbs of each malt/hop/yeast) or the underlying Pacific Malt / Crosby Hops invoices. Neither is in the readable files.\" The agent did NOT verify against actual paid invoices — only cross-checked two internal documents against each other."
+      "justification": "The margin brief states the costs are \"corroborated in two independent readable sources\" (batch log 03.tsv and partner deck 22.pptx) but notes \"What I could NOT do: recompute any grain bill from scratch to 'run the disagreement to a defensible figure.' That requires the per-batch recipe (lbs of each malt/hop/yeast) or the underlying Pacific Malt / Crosby Hops invoices. Neither is in the readable files.\" The agent did NOT verify against actual paid invoices \u2014 only cross-checked two internal documents against each other."
     },
     {
       "number": "R14",
@@ -337,6 +337,6 @@
     }
   ],
   "final_reward": 54.2,
-  "test_weights_percentage": 45.65,
+  "test_weights_percentage": 45.65217391304348,
   "rubric_weights_percentage": 62.75
 }

@@ -245,7 +245,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The document explicitly states under \"Event budget (kickoff + retreat) — UNRESOLVED, flagged rather than forced\": \"I could not locate the event-budget ledger in any connected system, so I am not going to hand you a number I can't stand behind.\" The response flags this as unresolved rather than providing a reconciliation."
+      "justification": "The document explicitly states under \"Event budget (kickoff + retreat) \u2014 UNRESOLVED, flagged rather than forced\": \"I could not locate the event-budget ledger in any connected system, so I am not going to hand you a number I can't stand behind.\" The response flags this as unresolved rather than providing a reconciliation."
     },
     {
       "number": "R16",
@@ -399,6 +399,6 @@
     }
   ],
   "final_reward": 59.13,
-  "test_weights_percentage": 21.88,
+  "test_weights_percentage": 21.875,
   "rubric_weights_percentage": 96.39
 }

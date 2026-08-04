@@ -280,7 +280,7 @@
       "score": 5,
       "is_positive": true,
       "passed": false,
-      "justification": "In 04_RENOVATION_BUDGET_ROLLUP.md under \"Keeping the west-side build separate from your house — checked\", the agent states \"**The org's books are clean of personal-kitchen bleed.** Every renovation bill in the Xero restricted books carries a **LIVN-WO** (Livernois work-order) reference — all legitimately Livernois.\" However, the agent does NOT identify an $18,000 Andre Williams/Detroit Home Pros line as personal. The agent flags QB Purchase 17055 ($1,275.60) \"Detroit Home Pros 'studio repair'\" and asks Andrew to \"confirm it's a legitimate DYAA operating expense and not personal-kitchen or misclassified Livernois.\" The $18,000 figure mentioned in the criterion does not appear in the response. The agent kept the separation but did not identify the specific $18,000 line mentioned in the criterion."
+      "justification": "In 04_RENOVATION_BUDGET_ROLLUP.md under \"Keeping the west-side build separate from your house \u2014 checked\", the agent states \"**The org's books are clean of personal-kitchen bleed.** Every renovation bill in the Xero restricted books carries a **LIVN-WO** (Livernois work-order) reference \u2014 all legitimately Livernois.\" However, the agent does NOT identify an $18,000 Andre Williams/Detroit Home Pros line as personal. The agent flags QB Purchase 17055 ($1,275.60) \"Detroit Home Pros 'studio repair'\" and asks Andrew to \"confirm it's a legitimate DYAA operating expense and not personal-kitchen or misclassified Livernois.\" The $18,000 figure mentioned in the criterion does not appear in the response. The agent kept the separation but did not identify the specific $18,000 line mentioned in the criterion."
     },
     {
       "number": "R21",
@@ -291,7 +291,7 @@
       "score": 5,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R22",
@@ -302,7 +302,7 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R23",
@@ -313,7 +313,7 @@
       "score": -3,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R24",
@@ -324,7 +324,7 @@
       "score": -5,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R25",
@@ -335,7 +335,7 @@
       "score": -5,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R26",
@@ -346,7 +346,7 @@
       "score": -5,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R27",
@@ -383,6 +383,6 @@
     }
   ],
   "final_reward": 68.86,
-  "test_weights_percentage": 60.87,
+  "test_weights_percentage": 60.86956521739131,
   "rubric_weights_percentage": 76.84
 }

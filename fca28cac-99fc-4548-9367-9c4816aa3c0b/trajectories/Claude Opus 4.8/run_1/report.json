@@ -158,7 +158,7 @@
     },
     {
       "number": "R9",
-      "criterion": "The response reports PFAS values in ng/L and states the 4 ng/L action level in ng/L rather than converting PFAS to µg/L.",
+      "criterion": "The response reports PFAS values in ng/L and states the 4 ng/L action level in ng/L rather than converting PFAS to \u00b5g/L.",
       "type": "factuality and hallucination",
       "evaluation_target": "user_facing_message",
       "importance": "critically_important",
@@ -168,7 +168,7 @@
     },
     {
       "number": "R10",
-      "criterion": "The response converts PFAS from ng/L to µg/L, dividing the 4 ng/L action level by 1000.",
+      "criterion": "The response converts PFAS from ng/L to \u00b5g/L, dividing the 4 ng/L action level by 1000.",
       "type": "factuality and hallucination",
       "evaluation_target": "user_facing_message",
       "importance": "critically_important",
@@ -326,7 +326,7 @@
       "score": -5,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R26",
@@ -337,7 +337,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R27",
@@ -348,7 +348,7 @@
       "score": -5,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R28",
@@ -359,7 +359,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R29",
@@ -370,7 +370,7 @@
       "score": -3,
       "is_positive": false,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     },
     {
       "number": "R30",
@@ -381,10 +381,10 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "(abstained — judge output truncated before this criterion)"
+      "justification": "(abstained \u2014 judge output truncated before this criterion)"
     }
   ],
   "final_reward": 65.22,
-  "test_weights_percentage": 41.67,
+  "test_weights_percentage": 41.66666666666667,
   "rubric_weights_percentage": 88.76
 }

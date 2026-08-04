@@ -111,7 +111,7 @@
       "score": 5,
       "is_positive": true,
       "passed": false,
-      "justification": "The response does surface the Airtable tracker draft band figures ($68,000 for Operations Lead and $55,000 for Warehouse Supervisor) and labels them as \"PROVISIONAL\" and \"early tracker draft\" that are \"explicitly superseded.\" However, the response does NOT surface the Gusto current comp of record—instead, it shows \"PENDING_PAYROLL_PULL\" for all current comp values. The response states it was unable to pull the payroll register and did not substitute guesses. Therefore, while it surfaces the old bands and states they should be superseded by payroll, it does not actually surface the Gusto current comp figures."
+      "justification": "The response does surface the Airtable tracker draft band figures ($68,000 for Operations Lead and $55,000 for Warehouse Supervisor) and labels them as \"PROVISIONAL\" and \"early tracker draft\" that are \"explicitly superseded.\" However, the response does NOT surface the Gusto current comp of record\u2014instead, it shows \"PENDING_PAYROLL_PULL\" for all current comp values. The response states it was unable to pull the payroll register and did not substitute guesses. Therefore, while it surfaces the old bands and states they should be superseded by payroll, it does not actually surface the Gusto current comp figures."
     },
     {
       "number": "R3",
@@ -143,7 +143,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The response does not state a specific dollar gap because it does not have a final severance total. It states that on the old bands alone, 7 of 22 people model to \"~$112,423\" which is \"roughly 7.5× the $15,000 that has been earmarked\" and notes \"The full 22-person number, on current comp, will be materially higher.\" However, it does not provide a final modeled total or calculate a specific gap in whole dollars. The response explicitly marks the final severance total as \"PENDING.\""
+      "justification": "The response does not state a specific dollar gap because it does not have a final severance total. It states that on the old bands alone, 7 of 22 people model to \"~$112,423\" which is \"roughly 7.5\u00d7 the $15,000 that has been earmarked\" and notes \"The full 22-person number, on current comp, will be materially higher.\" However, it does not provide a final modeled total or calculate a specific gap in whole dollars. The response explicitly marks the final severance total as \"PENDING.\""
     },
     {
       "number": "R6",
@@ -154,7 +154,7 @@
       "score": 1,
       "is_positive": true,
       "passed": false,
-      "justification": "The response explains the formula as \"severance $ = (current annual pay ÷ 52) × (2 weeks × full years of tenure)\" and states \"Full years of tenure = completed years from hire date to the effective/review date (2026-12-15 assumed).\" However, it does NOT specify that the annual rate comes from Gusto (it says \"current comp of record\" but was unable to pull Gusto), and it uses 2026-12-15 as the reference date, not November 13, 2026. The criterion requires specific reference to Gusto start_date and November 13, 2026."
+      "justification": "The response explains the formula as \"severance $ = (current annual pay \u00f7 52) \u00d7 (2 weeks \u00d7 full years of tenure)\" and states \"Full years of tenure = completed years from hire date to the effective/review date (2026-12-15 assumed).\" However, it does NOT specify that the annual rate comes from Gusto (it says \"current comp of record\" but was unable to pull Gusto), and it uses 2026-12-15 as the reference date, not November 13, 2026. The criterion requires specific reference to Gusto start_date and November 13, 2026."
     },
     {
       "number": "R7",
@@ -261,6 +261,6 @@
     }
   ],
   "final_reward": 34.96,
-  "test_weights_percentage": 33.33,
+  "test_weights_percentage": 33.33333333333333,
   "rubric_weights_percentage": 36.59
 }

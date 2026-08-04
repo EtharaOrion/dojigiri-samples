@@ -70,7 +70,7 @@
       "score": 5,
       "is_positive": true,
       "passed": false,
-      "justification": "The response explicitly states it could not access Gusto payroll data due to a missing company_id, and therefore could not settle per-person salaries. The plan document (§6) states: \"the actual salary numbers live in Gusto, and Gusto gates every read behind a company_id I could not obtain\" and \"Therefore the per-person pay reconciliation and the 'discrepancies to settle' cannot be produced on verified numbers.\" No $82,000 figure for Natalie appears anywhere in the response or output files."
+      "justification": "The response explicitly states it could not access Gusto payroll data due to a missing company_id, and therefore could not settle per-person salaries. The plan document (\u00a76) states: \"the actual salary numbers live in Gusto, and Gusto gates every read behind a company_id I could not obtain\" and \"Therefore the per-person pay reconciliation and the 'discrepancies to settle' cannot be produced on verified numbers.\" No $82,000 figure for Natalie appears anywhere in the response or output files."
     },
     {
       "number": "R2",
@@ -92,7 +92,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The response identifies Sophie Chen's BambooHR title as \"Design Assistant\" (§6 table shows \"Sophie Chen | e206 | Design Assistant | Design\"). However, the response never mentions a conflicting payroll title of \"Junior Designer\" for Sophie, as Gusto payroll was inaccessible. The agent could not perform title reconciliation between systems."
+      "justification": "The response identifies Sophie Chen's BambooHR title as \"Design Assistant\" (\u00a76 table shows \"Sophie Chen | e206 | Design Assistant | Design\"). However, the response never mentions a conflicting payroll title of \"Junior Designer\" for Sophie, as Gusto payroll was inaccessible. The agent could not perform title reconciliation between systems."
     },
     {
       "number": "R4",
@@ -155,7 +155,7 @@
       "score": 5,
       "is_positive": true,
       "passed": false,
-      "justification": "The response discusses operating cash, but the figure cited is ~$84,215 (from Chase business checking, Oct 2026 statement per §8), not $4,218.55. Section 8 states: \"operating cash (Chase business checking, 10/1 statement) ≈ $84,215\" and \"the operating account holds only ~$84k\". The $4,218.55 figure does not appear in the response."
+      "justification": "The response discusses operating cash, but the figure cited is ~$84,215 (from Chase business checking, Oct 2026 statement per \u00a78), not $4,218.55. Section 8 states: \"operating cash (Chase business checking, 10/1 statement) \u2248 $84,215\" and \"the operating account holds only ~$84k\". The $4,218.55 figure does not appear in the response."
     },
     {
       "number": "R10",
@@ -166,7 +166,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The response explicitly states it could not settle individual salaries due to Gusto being inaccessible (§6). No $58,000 figure for Sophie Chen appears in the response, and no per-person rates were used in cost calculations. The cost analysis in §7 uses only a hypothetical junior designer salary assumption, not Sophie's rate."
+      "justification": "The response explicitly states it could not settle individual salaries due to Gusto being inaccessible (\u00a76). No $58,000 figure for Sophie Chen appears in the response, and no per-person rates were used in cost calculations. The cost analysis in \u00a77 uses only a hypothetical junior designer salary assumption, not Sophie's rate."
     },
     {
       "number": "R11",
@@ -177,7 +177,7 @@
       "score": 3,
       "is_positive": true,
       "passed": false,
-      "justification": "The response does recommend staging (§8: \"make the hire, but stage the raises a cycle behind it\"), but the cash position cited is ~$84k, not $4,218.55. The staging recommendation is based on the ~$84k figure being \"thinner than the top line makes it look\" with lumpy client deposits."
+      "justification": "The response does recommend staging (\u00a78: \"make the hire, but stage the raises a cycle behind it\"), but the cash position cited is ~$84k, not $4,218.55. The staging recommendation is based on the ~$84k figure being \"thinner than the top line makes it look\" with lumpy client deposits."
     },
     {
       "number": "R12",
@@ -242,6 +242,6 @@
     }
   ],
   "final_reward": 56.84,
-  "test_weights_percentage": 77.78,
+  "test_weights_percentage": 77.77777777777779,
   "rubric_weights_percentage": 35.9
 }
