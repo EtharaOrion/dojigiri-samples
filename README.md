@@ -396,3 +396,9 @@ This sample passed the following checks before release:
 <p align="center"><sub>
   Metrics in this document are computed directly from shipped task artifacts and each task's <code>trajectories/Claude Opus 4.8/pass_summary.json</code>. Charts in <a href="assets"><code>assets/</code></a> are regenerated from the same source data.
 </sub></p>
+
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
